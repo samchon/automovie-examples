@@ -1,0 +1,9 @@
+# docs/research/kickboxing/ring-craft.md
+
+## @evidence shared/principles/research.md#depicted-practice
+
+The study records the spatial strategy and tempo (statement 5) that choose the installed `step` action's steps: angles and the circle away from the power hand, cutting off the ring by mirroring, the ways out along the ropes, the exit toward the side the combination finished on, the stance in words, and the ranges with the footwork volume between exchanges. Chaining across exchanges (statement 4) is the range law: a step brings the attacker from long range into mid range and the exit takes him out or off the line. Level markers (statement 7) are the coaching contrasts it quotes, such as not chasing, not backing straight up and not walking into the corner. Its targets (statements 9 and 10) are the footwork share, translated from Dunn's measured stepping and bouncing time in amateur boxing with its standard deviations to a kickboxing floor of half the fighting time (statement 12), the lateral share, the revolution of the fighters' line and the time on the ropes, the last three marked as choices; the absence of any measured footwork cadence is recorded rather than filled with the walking-cadence band, which the study names as a walking, not a fighting, value (statement 12). Statement 1 does not apply: the step itself is the installed action's. Statements 2, 3, 6 and 8 belong to the rules, exchanges, referee and coverage studies. Statement 11 does not apply: nothing here is invented.
+
+## @evidence shared/principles/research.md#traceable-sources
+
+Every observation is marked by kind and names its retained source with its section or page (`EVOLVE-GENERALSHIP` §2–4, `EVOLVE-CUTOFF` §2–3, `EXPERTBOXING-CUTOFF` §2–3, `IBA` pp. 34, 36–39, 71, 123, `DUNN-2017` Table 3, pp. 4–6, `TUDOR-LOCKE-2018` p. 776). Dunn's ranges keep their standard deviations, and the missing cadence measurement is recorded as unavailable in the study and the index.

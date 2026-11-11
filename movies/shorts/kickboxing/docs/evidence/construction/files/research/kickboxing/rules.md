@@ -1,0 +1,9 @@
+# docs/research/kickboxing/rules.md
+
+## @evidence shared/principles/research.md#depicted-practice
+
+The study gives the screenplay and code authors the contest's rules as law rather than names: the format (Middleweight, 10-ounce gloves in the corner's colour, the 7.00 m ring with four ropes at 40, 80, 120 and 150 cm, three rounds of three minutes), the legal and illegal actions of §5.07 restated as one law of what may strike where, the clinch's single knee and the "Break" procedure, the commands, and the knockdown count from B.2 to B.6 with the production's one-number-a-second cadence drawn from the Florida and WMC codes. Legal and illegal actions are recorded (statement 2), the conduct of the referee and timekeeper is recorded as far as the rules state it (statement 6), and what the rules leave open is listed. Statements 1, 3, 4, 5, 7, 8, 9, 10, 11 and 15 do not apply: the study holds no technique, outcome, sequence, strategy, level marker, camera practice or target, which the exchanges, ring craft, referee and coverage studies own. Statements 12 to 14 hold: no value is an adjective, every value has its rule or code, and the study covers what the production must decide itself (the ring size, the cadence of the count and the knockout signal), marking each as a choice.
+
+## @evidence shared/principles/research.md#traceable-sources
+
+Every observation is marked [reported], [inference] or [choice] under the index's observation kinds, and every reported one names its retained source by id with a section, page and PDF page (`GLORY` §2.01.D, p. 2, PDF p. 4; §5.05.B, pp. 12–13; Appendix 3.D, PDF p. 27; `FAC` (2)(a)1.b–c; `WMC` §16.9; `ABC-2025` p. 6; `WAC` 36-12-140(4)). What the rules leave unstated, the apron width and the knockdown gesture, is recorded as unavailable in "What the rules leave open".

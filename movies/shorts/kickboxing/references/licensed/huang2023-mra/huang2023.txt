@@ -1,0 +1,553 @@
+                                      RESEARCH ARTICLE
+
+                                      Knockouts are Accompanied by an Immediate Loss of
+                                      Muscle Tone
+                                      Huang C1,4, Mulkey C1, Garnett K2, Moncure M3, Dyer K3, Young
+                                      S1,4, Huang R5
+
+                                      School of Science and Engineering, University of Missouri at Kansas
+                                      City1
+                                      Department of Athletics, University of Missouri at Kansas City2
+                                      Department of Surgery, School of Medicine, University of Missouri at
+                                      Kansas City3
+                                      Missouri Institute of Defense and Energy, University of Missouri at
+                                      Kansas City4
+                                      Department of Biomedical Sciences, School of Medicine, University
+                                      of Missouri at Kansas City5
+      OPEN ACCESS
+                                      Corresponding Author
+Published: June 30, 2023              Chiming Huang, School of Science and Engineering, University of
+                                      Missouri at Kansas City, 5100 Rockhill Road, Kansas City, Missouri
+Citation: C Huang, C Mulkey, et       6410-2499 USA
+al., 2023. Knockouts are              Email: huangc@umkc.edu
+Accompanied by an Immediate
+Loss of Muscle Tone, Medical          ABSTRACT
+Research Archives, [online] 11(6).    We analyzed videos of boxing matches and mixed-martial-arts
+https://doi.org/10.18103/mra.v        fights. We observed an immediate and severe loss of muscle tone
+11i6.4007                             following a knockout. This impact-induced loss of muscle tone was
+                                      typically transient, lasting seconds or less. This phenomenon involved
+Copyright: © 2023 European            muscles in the upper and lower limbs, and possibly axial muscles as
+Society of Medicine. This is an       well as the facial musculature. The observation is best described as
+open-access article distributed       an active person instantaneously transformed into an inanimate
+under the terms of the Creative       object, followed by a free fall in gravity accompanied by flaccidity
+Commons Attribution License,          or paralysis. Analyzing double-knockouts, we concluded that the
+which permits unrestricted use,       observed impact-induced loss of muscle tone occurred within tens of
+distribution, and reproduction in     milliseconds of a head hit. The speed, scope, and severity of the
+any medium, provided the original     muscle tone loss are not consistent with a local loss-of-function
+author and source are credited.       mechanism. Because such loss of muscle tone closely resembles
+DOI                                   sudden attacks in cataplexy patients, we hypothesized that severe
+https://doi.org/10.18103/mra.v        head impacts may directly involve brain centers that regulate rapid
+11i6.4007                             eye movement sleep. These brain centers may be part of an active
+                                      mechanism to shut down the muscle tone quickly and globally. When
+ISSN: 2375-1924                       muscle tone is low or absent, athletes are at elevated risk for further
+                                      injuries in combat or contact sports. Athletes, athletic trainers, and
+                                      referees in combat as well as contact sports should be vigilant and
+                                      recognize signs of impact-induced loss of muscle tone in order to
+                                      improve player safety and better protect these athletes.
+
+
+
+
+Medical Research Archives |https://esmed.org/MRA/index.php/mra/article/view/4007                         1
+                                                  Knockouts are Accompanied by an Immediate Loss of Muscle Tone
+
+Introduction                                               and sideline diagnosis of concussions.2-5 Neither is
+                                                           muscle tone explicitly mentioned in the guidelines
+Concussions, or mild traumatic brain injuries (mTBI),      for referees in boxing or MMA fights.8-11 The
+carry significant risks in participants of contact         objective of this study is to systematically describe
+sports such as American football, soccer, and              a characteristic loss of muscle tone immediately
+hockey.1,2 In team contact sports, clinicians and          following KOs. We analyzed videos of boxing
+athletic trainers routinely make sideline diagnoses        matches and MMA fights. Our data indicated that
+based on established signs and symptoms of                 the muscle tone immediately after an KO hit can be
+concussions.2-5 The list of symptoms includes              absent, can affect the entire skeletomuscular system,
+dizziness, nausea, vomiting, cognitive confusion,          and can appear quickly, and disappear just as
+blurred or double vision, slurred speech, and              quickly (e.g., in seconds or sometimes less than a
+balance deficits with or without loss of                   second). When muscle tone is low or absent, an
+consciousness.3,5 For American football players or         athlete is at elevated risk for further injuries in
+soccer players as well as many other contact team          combat or contact sports. Knowledge on the
+sports, concussion protocols lasting a week or more        properties of impact-induced loss of muscle tone
+are becoming mandatory before return-to-play               (ILoMT) is relevant as it may help drive the
+decisions.                                                 development of technology to better protect the
+                                                           athletes in contact and combat sports and to
+Combat sports such as boxing, wrestling, and               prevent severe injuries. In addition, such information
+mixed-martial-arts (MMA) competitions also carry a         may also provide clues to potential neurobiological
+significant risk of concussion.6,7 Referees in combat      mechanisms for the manifestation of ILoMT and of
+sports are trained to stop the competition to prevent      concussions in general.
+severe and life-threatening injuries to the
+combatants. The most critical component of the rules       Methods
+for stopping the fight on a knockout (KO) or
+technical knockout (TKO) decision is the ability of a      Source of Videos
+fighter to defend himself or herself.8-11 Indeed, on
+the Type of Decisions from the Unified rules of            We analyzed videos of boxing matches and MMA
+mixed martial arts approved by the Association of          fights. The videos were identified after searching
+Boxing Commissions and Combative Sports, the               with keywords including knockout, KO, boxing, and
+language is that the referee should stop the contest       MMA (Table 1). Many of the videos chosen for
+“because the combatant is not intelligently                analysis were filmed in the last two to three years.
+defending himself/herself.”                                The graphic quality of the videos is generally
+                                                           excellent for our purpose, and many of the videos
+Muscle tone, or the lack of it, has not occupied a         include views from several different angles.
+prominent position on the list of symptoms for clinical
+
+ Name of Video                                             Link
+ Top 60 UFC Knockouts of All Time                          https://www.youtube.com/watch?v=Pc2el7kijVg
+ Best UFC Knockouts                                        https://www.youtube.com/watch?v=Bkd2-QcBl_o
+ Best UFC KOs 2021                                         https://www.youtube.com/watch?v=x7QUEUT4CXg
+ Boxing's Top 25 Knockouts Of 2020                         https://www.youtube.com/watch?v=A8z56Myzuyo
+ Body Shot Knockouts That Destroyed Fighters               https://www.youtube.com/watch?v=HT1wBOdIYos
+Table 1. Sources of YouTube Videos.
+
+Video Analysis Protocols                                   spanning a period of several seconds immediately
+                                                           before and after the hit. For example, Figure 1
+We focused on the manifestation of ILoMT in the            contains four frames of a YouTube video (33 msec
+final, decisive KO hit of a given match. Examinations      in-between frames) showing a typical KO head hit
+were made by playing the video back at 25% of              causing a transient loss of muscle tone in the lower
+the original film rate and frame-by-frame if               limbs. As the muscle tone in the lower limbs
+necessary. In this manner and for each KO case, we         disappeared, the entire body mass of the fighter
+collected the relevant data inferring the muscle tone      sank in the presence of gravity. In Figure 1, using
+of the stricken fighter over the critical video frames     the stationary spectators in the audience and the
+
+Medical Research Archives |https://esmed.org/MRA/index.php/mra/article/view/4007                             2
+                                                Knockouts are Accompanied by an Immediate Loss of Muscle Tone
+
+rope of the ring as references, one can readily          In our analysis, we focused on whether there was a
+conclude that the top of the head of the stricken        near-absence of muscle tone in the lower limbs by
+fighter sank significantly from frame 1 to frame 4       looking for signs of a free fall of the body to the
+within a time span of 100 msec. Considering that         ground. We also documented whether the stricken
+the average length of an eye blink is 300-400            fighter still had the use or motor control of his lower
+msec, the speed of ILoMT is fast, suggesting that        limbs as evidence of the fighter reflexively taking
+ILoMT occurs with a speed rivaling or faster than the    steps in order to avoid falls. On the muscle tone and
+speed of a typical voluntary movement.12                 reflexes of the upper limbs, we documented signs
+                                                         of purposeful movements, such as attempting to
+Figure 1. Four frames of a YouTube video (33 msec        move and mobilize the upper limbs to break a fall.
+in-between frames) showing a typical KO head hit         The video analysis was conducted by CH and RH.
+causing a transient loss of muscle tone in the lower     Results were compared, discussed, reconciled,
+limbs. Spline markers placed on the face of the          compiled, and tabulated.
+boxer by a video processing software facilitate the
+tracking of the position of the face and the head.
+Using the stationary spectators in the audience and      Results
+the rope of the ring as references, one can readily
+conclude that the top of the head of the stricken        General features of impact-induced loss of muscle
+fighter sank significantly from frame 1 to frame 4       tone
+within a time span of 100 msec. Considering that
+the average length of an eye blink is 300-400            Athletes in combat sports are trained to efficiently
+msec, this observation suggests that impact-induced      deliver hits to the opponent’s head by the fist, the
+loss of muscle tone (ILoMT) occurs with a speed          elbow, the feet, and the knee, all of which occurred
+rivaling or faster than the speed of a typical           in our data sample. During a typical fight, the
+voluntary movement.                                      athletes fight on under the referee’s watchful eyes
+                                                         while delivering and receiving hundreds of such hits.
+                                                         Most of these head hits do not appear to degrade
+                                                         immediately and significantly the ability of the
+                                                         fighters to continue. However, that is not the case
+                                                         for the one final KO blow. A KO hit is always
+                                                         accompanied by a clear manifestation of ILoMT,
+                                                         which is transient. Nonetheless, the muscle tone in
+                                                         those fleeting moments right after the hit can be
+                                                         absent altogether. This ILoMT can seemingly affect
+                                                         the entire skeletomuscular system from head to toe.
+
+                                                         While the main functions of the motor system are
+                                                         broadly divided into postural balance and
+                                                         movement, ILoMT affects both. First, the stricken
+                                                         fighter immediately becomes unable to maintain an
+                                                         upright posture under normal gravity and is often
+                                                         seen to execute a free fall toward the ground.
+                                                         Second, there is no evidence of any movement
+                                                         execution in the immediate moments after ILoMT.
+                                                         Afterwards, while still on the ground as the transient
+                                                         ILoMT subsides, the stricken fighter typically
+                                                         appears to be dazed, unfocused mentally, and
+                                                         weak or unable to move physically. At this time, the
+                                                         referee often stops the fight as the stricken fighter
+                                                         is clearly in no position to defend himself or herself
+                                                         while facing an aggressive opponent who is eager
+                                                         to further take advantage of a defenseless
+                                                         opponent.
+
+                                                         In Figure 1, the positions of the top of the head of
+                                                         the stricken fighter became lower from frame 1 to
+                                                         frame 4 within a time span of 100 msec. Continuing
+
+Medical Research Archives |https://esmed.org/MRA/index.php/mra/article/view/4007                            3
+                                                    Knockouts are Accompanied by an Immediate Loss of Muscle Tone
+
+the fall, the stricken fighters in all of the cases in the   boxing matches. There were 134 cases (out of 153
+present study were on the ground, typically within           cases, 87.6%) in which the stricken fighter
+one second or less. We abandoned an attempt to               experienced a single head blow, after which the
+derive more precise information on the timing of the         resultant ILoMT transiently caused a near-absence
+falls as the falls took all forms (front, back, or           of muscle tone. This was accompanied by a free fall
+sideways). In addition, the film rate (frames per            to the ground. In 19 cases (out of 153 cases, 12.4%)
+second) of YouTube video is typically too slow and           in which the stricken fighter was first taken down by
+not ideal for the extraction of precise timing data.         various techniques in wrestling or means other than
+                                                             a clear-cut single hit and subsequently
+Under normal gravity, the splat time in free fall can        overpowered and rendered defenseless. We also
+be calculated from Newtonian mechanics to be                 included in these 19 cases in which the free fall of
+~450 msec for the buttocks (at 1 meter) and ~640             the fighter was impeded by any object, including
+msec for the head (at two meters). The observed              the referee or the fence of the cage. The
+time course of the falls in our videos is therefore          delineation of these 19 cases from a total of 153
+consistent with that calculated for an object                cases were necessary, in our view, because we
+executing free fall in gravity. This observation             could not clearly discern that the TKO or KO were
+therefore suggests a near-total loss of muscle tone          attributable to a single head hit or because we
+in the lower limbs.                                          could not clearly establish the free fall in gravity
+                                                             due to the stricken fighter was braced and thus
+Table 2 shows a total of 153 cases (147 male and             interfered by the fence. It is clear, however, that the
+6 female) taken from three compilations of videos            percentage of the free fall after a KO head hit
+on MMA fights and one compilation of videos on               would be higher than 87.6%.
+
+                            Number           Free Fall         No Free Fall            Upper Limb Use
+ Top 60 UFC KO All Time     61               54                7                       8 of 54
+ Best UFC Knockouts         18               16                2                       4 of 16
+ Best UFC KOs 2021          45               38                7                       12 of 38
+ Boxing's Top 25 KO 2020    29               26                3                       2 of 26
+ Total                      153              134               19                      26 of 134
+ Percentage                 100              0.876             0.124
+Table 2. Summary of MMA and Boxing Data on the presence or absence of free falls and on the use of
+upper limbs.
+
+Muscle tone of the limbs                                     These 153 cases included 29 cases of KOs in boxing
+                                                             matches (not MMA fights). In 26 out of these 29
+In 134 out of 153 cases (87.6%) of Table 2, the              cases, we observed a near-absence of muscle tone
+immediate, transient ILoMT involved both lower               in the lower limbs (89.7%) and in 2 of 26 cases
+limbs. As the muscle tone in the lower limbs                 (7.7%) we observed the use of upper limbs to brace
+disappeared, the entire body mass of the fighter             the falls. In addition, in 3 of the 29 cases, the KOs
+fell. Among these 134 cases, there was one case in           were due to a punch to the rib cage and did not
+which the stricken fighter was observed to                   result in a free fall to the ground. The data on the
+reflexively make a step with one of the lower limbs          percentage of absence of muscle tone in both upper
+but was ultimately unsuccessful in preventing the            and lower limbs was therefore largely consistent in
+fall. In the other 133 cases, no lower limb movement         the boxing data and in the MMA data.
+was evident after the hit and during the free fall.
+However, in 26 of the 134 cases (19.4%), the                 Beyond these 153 cases, we examined 10 KO cases
+stricken fighters were observed to apparently                in boxing matches in which the KO punch was
+brace the free fall with one or both of the upper            delivered to the body rather than the head. In these
+limbs. In these 26 cases, the muscle tone in the upper       10 cases, the fighters also fell to the ground, but the
+limbs may have made a partial recovery before the            falls typically took 2-3 seconds and were never
+end of splat time, suggesting that the recovery from         free falls in gravity. Moreover, all the falls after a
+ILoMT is also quite fast, probably and typically             KO hit the body were executed without loss of
+within one second.                                           balance. The stricken fighter almost always made
+                                                             steps to keep their postural balance and sometimes
+                                                             braced with upper limbs as the body lowered to the
+
+Medical Research Archives |https://esmed.org/MRA/index.php/mra/article/view/4007                                4
+                                                  Knockouts are Accompanied by an Immediate Loss of Muscle Tone
+
+ground. A second finding is that the stricken fighter      span of each video frame is 33.3 msec. Assuming
+all made clear facial expressions signaling the pain       that the two punches occur randomly in time during
+from the body hit. By contrast, no facial expressions      these fleeting moments, then in 13 cases in which the
+were observed in any of the KO hits.                       average time interval between the two punches is
+                                                           estimated as [(1/4) x 33.3 = 8.3 msec].
+Other muscles
+
+We suspected that there was ILoMT in the torso             Figure 2. Double knockout hits (DKO). Two boxers
+muscles as well. No systematic examinations were           can knock out each other if the two KO hits are
+made on trunk musculatures in the present study as         landed almost at the same time. In truth, one hit
+signs of torso muscle tone loss are more subtle than       lands slightly before the second one. The delay
+those signs on limb muscles and therefore more             between two KO hits in DKO cannot be longer than
+difficult to detect, document, and measure in these        the time it takes for a KO punch to produce the loss
+videos within the time span of a second. Impact-           of muscle tone.
+induced loss of muscle tones in axial musculature can
+be seen more clearly when an airborne athlete hits
+the ground as in football players.13 For example, a
+falling football player can often be seen to fall
+“limp” as if superficial, deep, and intrinsic back
+muscles are all without tone.
+
+In our observations, a boxer almost always
+grimaced as he fell after a painful blow to the
+body, particularly when the hit involved the lower
+part of the rib cage. By contrast, grimacing or any
+form of facial expression was never observed after
+a hit to the head in all the cases examined in the
+present study. A hit to the head may not be as
+painful as a hit to the ribcage, but it is more likely
+that the KO occurred too quickly for the fighter to
+make any facial expression or that the facial
+musculature may have also lost its muscle tone.
+
+The speed of the onset of impact-induced loss of
+muscle tone
+
+We also obtained information on how quickly ILoMT
+can occur after a head hit. As mentioned above, the
+speed of ILoMT is fast. This introduces difficulties in
+precisely and directly determining the speed or
+timing of ILoMT since the videos are filmed at a
+speed not ideally suited for this purpose. We,             In the 7 cases in which the two punches occur in
+therefore, resorted to double KO incidents (DKO) in        adjacent frames, the average time interval
+which the two fighters knocked out each other              between the two punches is estimated as [33 msec].
+(Figure 2). DKO events are rare but occur with             We derive the time constant according to [(8.3 x
+regularity.14 The rationale for studying DKO is that       (13/20)] + [(33 x (7/20)] = 16.95 msec. Our
+once a fighter is knocked out, the loss of muscle tone     interpretation is that if a fighter is hit and a KO is
+will make it impossible to knock out his opponent.         in progress, the ILoMT will take over the motor
+Therefore, the two critical punches in DKO must            system of the fighter within ~17 msec, a period
+occur nearly simultaneously with the slight delay          during which the stricken fighter will have no muscle
+between the two final punches giving us a measure          tone and therefore zero chance to knock out his
+of how fast the loss of muscle tone in KOs could take      opponent. However, if the two hits land on two
+effect. Table 3 shows that the two punches occurred        heads within 17 msec and before the muscle tone
+in the same video frame (13 out of 20 cases) or            can disappear, a DKO is possible.
+adjacent frames (7 out of 20 cases). Given that the
+videos are filmed at 30 frames per second, the time
+
+
+Medical Research Archives |https://esmed.org/MRA/index.php/mra/article/view/4007                             5
+                                                 Knockouts are Accompanied by an Immediate Loss of Muscle Tone
+
+  Videos                                             Frame
+  Thomas Hearns vs Jay Snyder                        a
+  Schiller Hypolite vs Darnell Boone                 s
+  Darrell Provo vs Raphael Butler                    s
+  Sechew Powell vs Cornelius Brundage                s
+  Kerwin Sherrill vs Derek Thompson                  s
+  Rob Emerson vs Gray Maynard                        s
+  Diogo Nieves vs Eder Lopes                         s
+  Matt Mitrione vs Fedor Emelianenko                 s
+  Tyler Stinson vs Rob Kimmons                       s
+  Jay Jackson vs Owen Martin                         a
+  Shawn Parker vs Tyler Bryan                        s
+  Alan Vasquez vs Axel Cazares                       s
+  Irosvani Duvergel vs Jerhed Fenderson              a
+  Corey Champion vs Peter Cortez                     a
+  Brandon Alexander vs Aaron Britt                   s
+  Marcin Mencel vs Mateusz Zawad                     a
+  Dorian Price vs Jonathan Lecat                     s
+  Lee Roy Murphy vs Chisanda Mutti                   s
+  Cello Renda vs Paul Samuels                        a
+  Billy ‘Bang Bang’ Hawthorn vs Nathen Jdogg         a
+Table 3. Double KO hits in the same or adjacent video frames. s: KO hits in same video frame; a: KO hits
+in adjacent video frames.
+
+As an alternative way to identify the speed of            have observed a partial recovery of the use of
+ILoMT, we also engaged in frame-by-frame video            upper limbs before the end of the splat time in a
+analysis in which we attempted to create manually         fraction of the stricken fighters. Thus, by the time the
+sketched “in-between” pictures of the hitting fists as    buttock of the fighter is on the ground (~450 msec),
+well as the heads as targets. By this interpolation       7.7 (from boxing) to 19.4% (from MMA fights) of
+process, Figure 3 shows the histogram of the time         the fighters were able to move their upper limbs to
+interval between the two punches in DKO. The data         brace the fall effectively. Our interpretation is that
+indicated that the range of time lag between the          the average duration of severe muscle tone loss and
+DKO punches was 0-50 msec with the mean time lag          the loss of use of upper limbs should be sufficiently
+between the two DKO punches being 18.6±14.6               brief that between 7.7 to 19.4% of the fighters
+msec. While our manual interpolation process              were able to regain at least partial function of the
+undoubtedly introduced human errors, we took              upper limbs within ~450 msec of the hit. At present,
+comfort in the fact that not only the two alternative     there is no information on whether the recovery
+estimates are consistent with each other but also that    process is linear with respect to time, which
+Figure 3 takes the form of a Poisson distribution, in     prevented a more detailed estimation of the
+which the standard deviation of the data equals the       recovery from ILoMT. In addition, the duration of
+mean of the data. A Poisson distribution is also          ILoMT may be highly dependent upon the
+entirely consistent with the mathematical description     magnitude of the force involved in the hit, a
+of the two punches in DKO as discrete and random          parameter that is not controlled in the present study.
+events.                                                   For these reasons, we do not have more definitive
+                                                          information on how long it takes for muscle tone to
+The duration of impact-induced loss of muscle tone        return to control level from ILoMT. Given that the
+                                                          splat time for the buttock and the head are ~450
+We also estimated the duration of the ILoMT based         and 640 msec respectively, the duration of ILoMT is
+on the observations in the present study. First, we       at least in that time range.
+
+
+
+Medical Research Archives |https://esmed.org/MRA/index.php/mra/article/view/4007                              6
+                                                 Knockouts are Accompanied by an Immediate Loss of Muscle Tone
+
+Figure 3. Histogram of Double Knockout (DKO) intervals. Y axis on the left is frequency. X axis is msec. The
+line refers to the cumulative count (Y axis on the right). The histogram takes the form of a Poisson distribution,
+in which the standard deviation of the data equals the mean of the data. A Poisson distribution is also
+consistent with the mathematical description of the two punches in DKO as discrete and random events.
+
+
+
+
+Discussion                                                 resolution   videos,     EMG       (electromyogram)
+Summary and the limitation of the study                    recordings from athletes, clinical studies, as well as
+                                                           better analysis tools. Nevertheless, results of the
+A transient ILoMT occurs in KOs. The loss of muscle        present study should be sufficient to bring the
+tone can be nearly complete. The duration of ILoMT         subject matter of ILoMT to the foreground of sports
+is, however, brief and typically lasts only seconds        safety. In particular, ILoMT may be a worthy
+or less. The phenomenon can best be described as           biomarker linking KOs to concussions.
+an active person transformed into an inanimate
+object, followed by a free fall in gravity                 The role of muscle tone in contact sport and
+accompanied by flaccidity or near-paralysis in all         implications for sports safety
+skeletal musculatures. The upper and lower limbs of
+the fallen fighter may assume “unnatural” positions,       At present, many States in the US have established
+reinforcing the immediate cessation of all motor           concussion protocols for athletes at the high school,
+activities following the head-impact. Although the         college, and professional levels. For example, if a
+duration of ILoMT is brief, fighters without muscle        football player is suspected of experiencing a
+tone will not be able to defend themselves and can         concussive event, he must not return to play before
+sustain serious and yet avoidable injuries in a            completing a mandatory concussion protocol,
+combat sport.                                              typically a five-step procedure that takes a
+                                                           week.5,15 Similar protocols also govern the return-
+We had no control over many parameters in the              to-fight decisions for athletes of combat sports.8,9
+present preliminary study, including the magnitude
+and the direction of the impact force of the impact        A boxer that experienced a head hit during a fight
+force as well as the precise contact point on the          and exhibited signs of ILoMT prior to the KO or TKO
+head being struck. We also had no control over the         declaration by the referee is technically a
+distance between the camera and the fighter or the         knockdown. The current set of rules and conventions
+camera’s angle. The film rate in YouTube videos is         on knockdowns allow fighters to return to fight as
+too slow to determine the precise timing information.      long as they can beat the “long count” (typically in
+Although the sample of cases may appear to be              about ten seconds) and consent to continue. At
+random, the size of the dataset may be too small to        present, a knockout is not universally considered as
+be truly representative. At another level, we also         a concussive event and a knockdown is not
+cannot equate KOs with concussions or mTBI.                automatically acknowledged as a potential
+Therefore, the complex relationship between ILoMT,         concussive event. For example, according to the
+KOs, and concussions awaits further studies with           website and the most recent consensus statement
+better source data, e.g., high-speed and high-             from the Association of Ringside Physicians,
+
+Medical Research Archives |https://esmed.org/MRA/index.php/mra/article/view/4007                              7
+                                                  Knockouts are Accompanied by an Immediate Loss of Muscle Tone
+
+“concussion can certainly accompany a TKO, but a           impact sensors with the capability to monitor head
+TKO does not always have to be associated with a           kinematics and shed light on the severity of the
+concussion ….., concussion can still occur even if         impact.29-30 The goal of such accelerometer- or
+there is no KO or TKO.”10,16 We believe that, in           IMU-based (Inertia measurement unit) technology
+contact sports such as football or hockey and in           was to provide objective and quantitative
+combat sports such as boxing or MMA fights, signs          information of clinical utility to aid the diagnosis of
+such as transient muscle tone loss during a game or        concussions. However, many investigators concluded
+a competition should be universally recognized as a        that modern MEMS technology categorically failed
+potential concussion, particularly in considering          to detect concussions and had limited clinical utility
+whether an athlete can continue to compete or fight        due to low sensitivity and specificity.30 An EMG-
+in that game or competition. It may be time to             based sensor for ILoMT should be feasible. In
+reconsider the long count in combat sports.                addition to machine learning algorithms to spot
+                                                           injuries in video analysis for the protection of
+                                                           athletes in combat sports31, it should be beneficial
+Neural mechanisms of impact-induced loss of muscle         to introduce a wearable EMG-based TBI sensor to
+tone                                                       aid objective concussion assessment in real-time.
+
+The loss of muscle tone in KO events can be severe         Conclusion
+or nearly complete. The scope, severity of the
+muscle tone loss, and the under-twenty-millisecond         We observed an immediate and severe loss of
+speed in ILoMT are inconsistent with a local loss-of-      muscle tone following a KO. This impact-induced
+function mechanism. However, they are congruent            loss of muscle tone was typically transient, lasting
+with an active mechanism mediated by the central           seconds or less. The loss of muscle tone involved
+nervous system to shut down the muscle tone                muscles in the upper and lower limbs, and possibly
+globally and quickly. Remarkably, similar scope            axial muscles as well as the facial musculature.
+and speed in the loss of muscle tone can be seen           There are two takeaway messages. First, when
+during REM sleep (rapid eye movement).17 REM               muscle tone is low or absent, an athlete is at
+sleep, however, does not always involve a complete         elevated risk for further injuries in combat or contact
+loss of muscle tone as many mammal species sleep           sports. Athletes, athletic trainers, and referees in
+while standing and must continue to retain sufficient      combat as well as contact sports should therefore
+postural control against gravity. From an evolution        be vigilant and recognize signs of impact-induced
+perspective, loss of muscle tone after an impact           loss of muscle tone in order to improve player
+event can be observed in the fly animal model,18           safety and better protect these athletes. Second,
+which is also a popular animal model in sleep              monitoring EMG to detect ILoMT may be a
+studies.19 Despite the long evolutionary history in the    promising technological approach for the
+animal kingdom, it is not clear how ILoMT enhances         identification of potential concussive events.
+the fitness of a species. The relationship between
+ILoMT and sleep mechanisms is still poorly
+understood at present.                                     Acknowledgement
+
+Implications for concussion diagnosis                      This project was supported by the Leonard Wood
+                                                           Institute and the United States Army Research
+At present, clinicians and athletic trainers routinely     Laboratory (W911NF-07-2-0062) and funds from
+make sideline diagnoses based on established signs         the Missouri Institute of Defense and Energy (MIDE)
+and symptoms of concussions.1-5 The list of symptoms       at the University of Missouri-Kansas City (UMKC).
+includes dizziness, nausea, vomiting, cognitive            The authors express their gratitude for the Acute
+confusion, blurred or double vision, slurred speech,       Effects of Neurotrauma Consortium. This study was
+and balance deficits with or without loss of               also supported by the Helen S. Boylan Foundation
+consciousness. The list of symptoms has been               and the UMKC Institute of Data Education, Analytics
+increasingly exploited in commercial apps, including       and Science. We would like to thank our students in
+SCAT5, IMPACT, VOMS, and others.20-22 However,             the 498WI Class of 2020 Spring and our lab
+the goal of definitive identification of sports-           student assistants, Juliana Joseph, and Zanaya
+related concussions remains elusive.23-28                  Blair, as well as Jesse Lowe for their help in some of
+                                                           the data analysis tasks.
+In addition, the high-tech industry has developed
+MEMS (Microelectromechanical Systems) head-
+
+
+Medical Research Archives |https://esmed.org/MRA/index.php/mra/article/view/4007                              8
+                                                 Knockouts are Accompanied by an Immediate Loss of Muscle Tone
+
+References Cited
+
+1. Ianof JN, Freire FR, Calado VTG, et al. Sport-             https://doi.org/10.1136/bjsports-2017-
+    related       concussions.      Dementia        &         098799
+    Neuropsychologia. 2014;8(1):14-19.                    11. Sports-Related Concussions in Youth. National
+    doi:https://doi.org/10.1590/s1980-                        Academies Press; 2014. doi:
+    57642014dn81000003                                        https://doi.org/10.17226/18377
+2. Broglio SP, Cantu RC, Gioia GA et al. National         12. Adler FH. Adler’s Physiology of the Eye: Clinical
+    Athletic Trainers’ Association Position Statement:        Application. C. V. Mosby Company; 1975. (pp
+    Management of Sport Concussion. Journal of                1-15) Accessed May 2, 2023.
+    Athletic     Training.     2014;49(2):245-265.            https://books.google.com/books/about/Adler
+    doi:https://doi.org/10.4085/1062-6050-                    _s_Physiology_of_the_Eye.html?id=T4ZsAAAA
+    49.1.07                                                   MAAJ
+3. Mayo Clinic. Concussion - Symptoms and                 13. NFL Biggest Knockout Hits Ever (Brutal Hits).
+    causes. Mayo Clinic. Published 2017.                      YouTube. Published online October 29, 2017.
+    https://www.mayoclinic.org/diseases-                      Accessed January 14, 2020.
+    conditions/concussion/symptoms-causes/syc-                https://www.youtube.com/watch?v=LJSNhG7
+    20355594                                                  xoyk
+4. Putukian M. Clinical Evaluation of the Concussed       14. Vladisavljevic V. Boxing VS MMA: Difference
+    Athlete: A View From the Sideline. Journal of             Between KO And TKO And How To Win.
+    Athletic Training. 2017;52(3):236-244. doi:               Accessed May 2, 2023.
+    https://doi.org/10.4085/1062-6050-                        https://wayofmartialarts.com/difference-
+    52.1.08                                                   between-ko-and-tko-in-boxing-and-mma/
+5. Centers for Disease Control and Prevention.            15. NFL Return-To-Participation Protocol. NFL.com.
+    Sports Concussion Policies and Laws. Published            https://www.nfl.com/playerhealthandsafety/r
+    2019.                                                     esources/fact-sheets/nfl-return-to-
+    https://www.cdc.gov/headsup/policy/index.h                participation-protocol
+    tml                                                   16. Association of Ringside Physicians, Published
+6. Curran-Sills G, Abedin T. Risk factors                     2023,          https://ringsidearp.org/consensus-
+    associated with injury and concussion in                  statements/
+    sanctioned amateur and professional mixed             17. Arrigoni E, Chen MC, Fuller PM. The anatomical,
+    martial arts bouts in Calgary, Alberta. BMJ               cellular and synaptic basis of motor atonia
+    Open       Sport     &     Exercise      Medicine.        during rapid eye movement sleep. The Journal
+    2018;4(1):e000348. doi:                                   of Physiology. 2016;594(19):5391-5414. doi:
+    https://doi.org/10.1136/bmjsem-2018-                      https://doi.org/10.1113/jp271324
+    000348                                                18. Li D, Li F, Guttipatti P, Song Y. A Drosophila In
+7. Hutchison MG, Lawrence DW, Cusimano MD,                    Vivo       Injury      Model     for    Studying
+    Schweizer TA. Head Trauma in Mixed Martial                Neuroregeneration in the Peripheral and
+    Arts. The American Journal of Sports Medicine.            Central Nervous System. Journal of Visualized
+    2014;42(6):1352-1358. doi:                                Experiments. 2018;(135). doi:
+    https://doi.org/10.1177/03635465145261                    https://doi.org/10.3791/57557
+    51                                                    19. Cirelli C, Bushey D. Sleep and wakefulness in
+8. Association of Boxing Commissions and                      Drosophila melanogaster. Annals of the New
+    Combative Sports Unified Rules of Mixed                   York Academy of Sciences. 2008;1129:323-
+    Martial Arts.                                             329. doi:
+    https://www.dli.mn.gov/sites/default/files/pd             https://doi.org/10.1196/annals.1417.017
+    f/official_unified_rules_MMA.pdf                      20. Sport concussion assessment tool - 5th edition.
+9. Rulebook. Team USA. Published 2022.                        British Journal of Sports Medicine. Published
+    https://www.teamusa.org/usa-                              online      April     26,    2017:bjsports-2017-
+    boxing/rulebook/                                          097506SCAT5. doi:
+10. Neidecker J, Sethi NK, Taylor R, et al.                   https://doi.org/10.1136/bjsports-2017-
+    Concussion management in combat sports:                   097506scat5
+    consensus statement from the Association of           21. ImPACT Concussion Test | ImPACT Applications.
+    Ringside Physicians. British Journal of Sports            impactconcussion.com. Published 2017.
+    Medicine. Published online July 26,                       https://impactconcussion.com/
+    2018:bjsports-2017-098799. doi:                       22. Assessment and Management of Concussion.
+                                                              Physiopedia. Accessed May 2, 2023.
+
+Medical Research Archives |https://esmed.org/MRA/index.php/mra/article/view/4007                           9
+                                                 Knockouts are Accompanied by an Immediate Loss of Muscle Tone
+
+    https://www.physio-                                       National Hockey League (NHL) concussions,
+    pedia.com/Assessment_and_Management_of_                   part I: who, when, where and what? British
+    Concussion                                                Journal of Sports Medicine. 2013;49(8):547-
+23. Davis GA, Makdissi M, Bloomfield P, et al.                551. doi: https://doi.org/10.1136/bjsports-
+    International study of video review of                    2013-092234
+    concussion in professional sports. British Journal    28. Echemendia RJ, Bruce JM, Meeuwisse W,
+    of Sports Medicine. 2018;53(20):1299-1304.                Hutchison MG, Comper P, Aubry M. Can visible
+    doi: https://doi.org/10.1136/bjsports-2018-               signs predict concussion diagnosis in the
+    099727                                                    National Hockey League? British Journal of
+24. Gardner AJ, Kohler R, McDonald W, Fuller                  Sports Medicine. 2017;52(17):1149-1154.
+    GW, Tucker R, Makdissi M. The Use of Sideline             doi: https://doi.org/10.1136/bjsports-2016-
+    Video Review to Facilitate Management                     097090
+    Decisions Following Head Trauma in Super              29. Duma SM, Rowson S. Every newton hertz: A
+    Rugby. Sports Medicine - Open. 2018;4(1).                 macro to micro approach to investigating brain
+    doi: https://doi.org/10.1186/s40798-018-                  injury. International Conference of the IEEE
+    0133-4                                                    Engineering in Medicine and Biology Society.
+25. Gardner AJ, Howell DR, Levi CR, Iverson GL.               Published online November 13, 2009. doi:
+    Evidence of Concussion Signs in National Rugby            https://doi.org/10.1109/iembs.2009.53334
+    League Match Play: a Video Review and                     23
+    Validation Study. Sports Medicine - Open.             30. O’Connor KL, Rowson S, Duma SM, Broglio SP.
+    2017;3(1). doi:                                           Head-Impact–Measurement         Devices:      A
+    https://doi.org/10.1186/s40798-017-0097-                  Systematic Review. Journal of Athletic Training.
+    9                                                         2017;52(3):206-227. doi:
+26. Makdissi M, Davis G. The reliability and                  https://doi.org/10.4085/1062-6050.52.2.05
+    validity of video analysis for the assessment of      31. Yengo-Kahn A, Zuckerman SL. Letter:
+    the clinical signs of concussion in Australian            Preventable Deaths, Video Analysis, Artificial
+    football. Journal of Science and Medicine in              Intelligence, and the Future of Sport.
+    Sport. 2016;19(10):859-863. doi:                          Neurosurgery. 2019;86(3):E349-E350. doi:
+    https://doi.org/10.1016/j.jsams.2016.02.01                https://doi.org/10.1093/neuros/nyz452
+    5
+27. Hutchison MG, Comper P, Meeuwisse WH,
+    Echemendia RJ. A systematic video analysis of
+
+
+
+
+Medical Research Archives |https://esmed.org/MRA/index.php/mra/article/view/4007                           10
+

@@ -1,0 +1,9 @@
+# docs/research/officiating/referee.md
+
+## @evidence shared/principles/research.md#depicted-practice
+
+The study records the referee's practice, which no installed action carries (statement 6): his positioning law across the fighters' line, closing in, the clinch break, the commands including the glove touch, the knockdown procedure and the count's hand mechanics, and what he does after the knockout. Its targets (statements 9 and 10) are the side-view share, never standing between the fighters, the walking-speed ceiling from Bohannon's measured maximum, continuous movement and his distance from the fallen man, each marked as the production's reading. Where a boxing practice is carried into this kickboxing bout, the text says so, and the polygon man's missing fingers are stated as a limit of the count's signal. Statements 1, 3, 4, 5 and 8 belong to the fighters' and the camera's studies; statement 7 does not apply to an official; statement 11 does not apply because nothing is invented beyond the marked choices.
+
+## @evidence shared/principles/research.md#traceable-sources
+
+Each observation is marked by kind and names its retained source with page or section (`ABC-2022` pp. 1–8, 15; `ABC-2025` pp. 4–7; `ABC-2011` PDF pp. 6, 16; `WBA` Movement and Positioning; `GLORY` §5.05; `FAC`; `WAKO-REFEREE` Art. 3.4; `WAKO-RULES` Ch. 7 Art. 9.1; `BOHANNON` abstract). The 2022-only passages are attributed to that edition, and the comfortable walking speed that could not be read is recorded as unavailable.
