@@ -32,6 +32,12 @@ The two remaining corners have grey posts. After a knockdown the standing fighte
 
 The strip of canvas outside the ropes, where the [apron camera](../cinematography/coverage.md#apron-camera) works. Nobody else stands on it during the round.
 
+## Orientation {#orientation}
+
+### Where the corners lie {#corner-layout}
+
+As the [hard camera](../cinematography/coverage.md#hard-camera) sees the ring, the black corner stands at the left end of its side and the near neutral corner, which holds the [corner camera](../cinematography/coverage.md#corner-camera), at the right end. Across the ring, the far neutral corner stands opposite the black corner and the white corner diagonally across from it, at the far right. The fighters walk out from these corners at the opening bell in the screenplay's [first scene](../../screenplay/kickboxing.md#s01-b01), and every later scene keeps them.
+
 ## Use {#use}
 
 ### Everyone stays inside the ropes {#inside}

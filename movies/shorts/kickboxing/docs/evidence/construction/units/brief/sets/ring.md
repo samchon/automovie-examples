@@ -38,6 +38,24 @@ The corner colours agree with the gloves and the contest's corner rule.
 
 The centre, the open ring where the fighters "circle, angle off and trade", the ropes and the corners give the screenplay the whole ring.
 
+# docs/body/brief/sets/ring.md#orientation
+
+## @evidence shared/principles/common.md#scope-preservation
+
+It states where the four corners lie relative to the hard camera, which the zones name but did not place.
+
+## @evidence shared/principles/common.md#specificity
+
+The black corner and the near neutral corner on the hard camera's side, the black corner at its left end; the far neutral corner opposite the black corner and the white corner diagonally across from it.
+
+## @evidence shared/principles/brief.md#needed-decisions
+
+It settles the layout every scene's space relies on, including which neutral corner is farther from a man who falls near the near side, and so which fixed camera the coverage study's count choice uses.
+
+## @evidence shared/principles/brief.md#record-and-currency
+
+It records a decision the screenplay's opening scene establishes and every later scene keeps, citing that scene, as statement 5 asks; it was added under the closed-pass rule as a new H2, leaving the reviewed facets unchanged.
+
 # docs/body/brief/sets/ring.md#use
 
 ## @evidence shared/principles/common.md#scope-preservation

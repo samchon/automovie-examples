@@ -38,7 +38,7 @@ Besides the shoulder feint, he owns the body-kick feint: his right knee rises in
 
 ### Defence {#defence}
 
-He parries jabs with his right glove, covers hooks and uppercuts, rolls under hooks, slips outside the cross, blocks body shots and body kicks with his elbow and forearm, blocks high kicks with his forearm beside his head, and checks low kicks with his left shin. He counters from each answer at once, under [defence that attacks](../../../research/kickboxing/exchanges.md#defence).
+He parries jabs with his right glove or leans back away from them, covers punches to his head, the cross, hooks and uppercuts alike, rolls under hooks, slips outside the cross, blocks body shots and body kicks with his elbow and forearm, blocks high kicks with his forearm beside his head, and checks low kicks with his left shin. He counters from each answer at once, under [defence that attacks](../../../research/kickboxing/exchanges.md#defence).
 
 ### The Brazilian kick {#brazilian-kick}
 
