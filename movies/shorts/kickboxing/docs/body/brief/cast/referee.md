@@ -22,11 +22,11 @@ He walks, never bounces, runs or waves his arms, and his steps are short and pla
 
 ### Positioning {#positioning}
 
-He works the perimeter of the action, across the fighters' line from the point between them, so he sees both men side-on and never stands between them or behind either one, as the [referee mechanics](../../../research/officiating/referee.md#positioning) describe. When they circle he walks the other way around them; when his side runs out of room he goes around behind the action to the other side.
+He works the perimeter of the action, across the fighters' line from the point between them, so he sees both men side-on and never stands between them or behind either one, except that he steps between them for the moment of a clinch break and passes behind the action in transit while no exchange is live, as the [referee mechanics](../../../research/officiating/referee.md#positioning) describe. He works the side of their line away from the hard camera, off the line of the camera in use. As they come toward his side he gives ground, keeping his distance, and as they travel along the ring he moves with them; when their line turns, as when one fighter circles the other, he walks round the same way as the line turns, staying across it. When that turn, the ropes or a corner would carry him onto the other side, he passes round behind the action to his own side while no exchange is live.
 
 ### Closing in {#closing-in}
 
-He comes closer when a fighter is on the ropes, when the pair clinch and when a man is hurt, approaching from the side at an angle.
+He comes closer when a fighter is on the ropes, when the pair clinch and when a man is hurt, approaching from the side at an angle, as the [referee mechanics](../../../research/officiating/referee.md#positioning) close in.
 
 ### The clinch break {#clinch-break}
 

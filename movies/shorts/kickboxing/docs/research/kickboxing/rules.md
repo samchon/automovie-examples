@@ -49,7 +49,7 @@ Rule text from `GLORY` §5.05.B, pp. 12–13 (PDF pp. 14–15) and Appendix 3.D 
 - §5.06.E.2 (p. 14, PDF p. 16) records both a ten-count and a knockout declared before ten for medical assistance as a knockout.
 - The referee counts; no rule relays a count from the timekeeper's table.
 
-The rules give no cadence for the count. Other codes do:
+[reported] The rules give no cadence for the count (`GLORY` §5.05.B). Other codes do:
 
 - [reported] Florida: the referee "shall announce the passing of the seconds, accompanying the count with a downward motion of his arm", with a timekeeper giving "the correct one second interval" (`FAC` 61K1-3.033(2)(a)1.b).
 - [reported] World Muaythai Council: "the referee must wait for one (1) second before he begins counting loudly from one to ten with one-second interval", showing "a hand signal for each second" (`WMC` §16.9).
@@ -64,7 +64,7 @@ Law [choice, from the codes above]: the count starts when the standing fighter s
 
 ## What the rules leave open {#open}
 
-- [reported] The apron's width (no provision in §4.06).
-- [reported] The referee's dress and the knockdown gesture itself ("the Down call and gesture" is not described).
+- [reported] The apron's width (`GLORY` §4.06: no provision).
+- [reported] The referee's dress and the knockdown gesture itself (`GLORY` §5.05.B: "the Down call and gesture" is not described).
 
 Both are decided by the production in its brief.

@@ -21,7 +21,7 @@ Each observation in a study is marked with its kind:
 
 | Mark | Meaning |
 | --- | --- |
-| [reported] | The retained source states it: rule text, a coaching statement, a production account, a fight report or a published measurement, quoted or closely paraphrased and cited by the source's id, or, in a bullet that continues the source named just before it, by that source's section, page or author. A [reported] record that a source was searched for and not found names no source, and the study records it as unavailable |
+| [reported] | The retained source states it, or the line records what that source leaves unstated: rule text, a coaching statement, a production account, a fight report or a published measurement, quoted or closely paraphrased. The line cites the source by its id; a line that continues a source cited earlier in its section, or the ruleset its study declares, may give only that source's section, page or author's name, and a line may instead point to another study that cites the source. A [reported] record that a source was searched for and not found names no source, and the study records it as unavailable |
 | [inference] | The study's reading of the reported observations it follows, with its reasoning in the text |
 | [choice] | The production's own decision, made within the reported practice and named as a decision |
 
@@ -29,7 +29,7 @@ No study claims a direct observation of footage: no video was acquired or watche
 
 ## Sources {#sources}
 
-Many uses in the studies add a locator to the id, a page, section, table, rule or numbered item; others give the id alone with the quoted words and point to the retained copy as a whole. "Private" means no open licence was found and the copy is for this production's private study only.
+Many uses in the studies add a locator to the id: a page, section, table, figure, rule or numbered item. The others give the id alone and point to the retained copy as a whole, some with the words they quote and some with only a figure or a paraphrase. A line that continues a source cited earlier in its section, or the ruleset its study declares, may give only that source's section, page or author's name, and an inference, choice or target may name by its author a source its study cites. "Private" means no open licence was found and the copy is for this production's private study only.
 
 ### Rules and officiating
 

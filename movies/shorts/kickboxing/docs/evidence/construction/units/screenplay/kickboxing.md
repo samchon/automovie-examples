@@ -38,7 +38,7 @@ Each beat records participants by brief address, intents, an outcome from the ou
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
-Writing this scene exposed one gap in the closed brief: no record said which fighter's corner lies on the hard camera's side. It was repaired upstream under the closed-pass rule as a new H2, `sets/ring.md#orientation`, citing this scene's first beat; after review it gained an H3, `#sides`, naming the four sides the screenplay's directions use. The circling in s01-b03 follows the research circling law as corrected after review (`ring-craft.md#movements`: away from the other man's right hand is toward one's own right). The rules, commands and repertoires were tested unchanged.
+Writing this scene exposed one gap in the closed brief: no record said which fighter's corner lies on the hard camera's side. It was repaired upstream under the closed-pass rule as a new H2, `sets/ring.md#orientation`, citing this scene's first beat; after review it gained an H3, `#sides`, naming the four sides the screenplay's directions use. The circling in s01-b03 follows the research circling law as corrected after review (`ring-craft.md#movements`: away from the other man's right hand is toward one's own right). The referee's walk round the circling men follows his positioning rule as corrected after the fifth review at `research/officiating/referee.md#positioning` and `cast/referee.md#positioning`: he walks round the same way as the turning line, staying across it. The rules, commands and repertoires were tested unchanged.
 
 ## @evidence brief/world/work.md#conditions
 
@@ -596,7 +596,7 @@ Each beat decides the outcomes by table and law, the clinch's release, the refer
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
-The feints law, as repaired at the study (see s03), lets the drag's cross be covered in time here.
+The feints law, as repaired at the study (see s03), lets the drag's cross be covered in time here. The referee's walk round Arjan's half circle follows his positioning rule as corrected at its owners (see s01): the same way as the turning line, then round behind Bastien in transit while no exchange is live.
 
 ## @evidence brief/world/contest.md#rules
 

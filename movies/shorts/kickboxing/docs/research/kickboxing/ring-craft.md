@@ -14,7 +14,7 @@ Law [inference]: fighters move off the line between them rather than straight fo
 ## Cutting off the ring {#cut-off}
 
 - [reported] "The first rule of ring cutting is not to follow the guy" (`DS-ATLAS-CUTOFF`); "do not follow the fighter moving outside on the same tracks"; "you move sideways like the linebacker and little by little you shrink the ring"; "you close the distance a little bit but be alert because they might stop and punch. You can't just walk in there" (`DS-ATLAS-LATERAL`).
-- [reported] "If your opponent takes a step to their left, you mirror their lateral movement by taking a step to your right … This eventually leads to them being trapped along the ropes"; "herd your opponent into a corner" (`EVOLVE-CUTOFF`, §2–3); "If he goes left, you go left" (`EXPERTBOXING-CUTOFF`, §2), the same movement in the cutter's own frame.
+- [reported] "If your opponent takes a step to their left, you mirror their lateral movement by taking a step to your right … This eventually leads to them being trapped along the ropes"; "herd your opponent into a corner" (`EVOLVE-CUTOFF`, §2–3); "If he goes left, you go left" (`EXPERTBOXING-CUTOFF`, §2). [inference] The two are the same movement, the second in the cutter's own frame.
 - [reported] The ring shrinks "from its full size, to a half of its size, to a quarter"; "if the ring cutter steps too deeply to obstruct his opponent's path, the opponent will be free to escape out the other side" (`FP-CUTTING`).
 - [reported] "Don't jump into the corner with your opponent, maintain some space to keep him in the corner" (`EXPERTBOXING-CUTOFF`, §3).
 
@@ -49,7 +49,7 @@ Law [inference]: both fighters stand orthodox, knees bent, feet about shoulder w
 
 - [reported] Long range needs a step to land: "these techniques require the attacker to take a step forward"; mid range is where punches, knees and kicks "exchange attacks"; close range is hooks, uppercuts and the clinch (`EVOLVEU-RANGE`). "Long distance is the range that the distance from the opponent is far enough that the boxer cannot deliver the punches without stepping forward" and "long range boxing usually occurs at the center of the ring" (`IBA` p. 71).
 - [reported] In elite amateur boxing a fighter spent 64.0 ± 22.3 s stepping and 57.3 ± 27.3 s bouncing in a first round of 180 s; "winners bounce more and step less than losers" (`DUNN-2017`, Table 3, pp. 4–6).
-- [reported] No source located measures footwork steps per minute in kickboxing, boxing or Muay Thai competition. Walking at 100 to 119 steps a minute is "brisk" and 120 or more covers "all faster forms of locomotion" (`TUDOR-LOCKE-2018`, p. 776), a walking band, not a fighting one.
+- [reported] No source located measures footwork steps per minute in kickboxing, boxing or Muay Thai competition. Walking at 100 to 119 steps a minute is "brisk" and 120 or more covers "all faster forms of locomotion" (`TUDOR-LOCKE-2018`, p. 776). [inference] That is a walking band, not a fighting one.
 
 Law [inference]: between exchanges the fighters stand at long range, a step outside each other's reach, and their feet keep moving for most of the round; an exchange begins with the step that brings the attacker into mid range, and ends with one fighter stepping back out or off the line.
 

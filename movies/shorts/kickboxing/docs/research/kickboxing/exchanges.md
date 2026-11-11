@@ -4,8 +4,8 @@ This study records how championship kickboxers build a round out of exchanges: h
 
 ## Activity structure {#activity}
 
-- [reported] In 17 GLORY World Series middleweight bouts (85 kg, 2019), fighters spent on average 234.6 s in high- and low-intensity activity against 36.0 s of pauses, an effort-to-pause ratio of about 1.8:1; winners performed "more attacks, effective attacks, and attacks in sequence" (`CALABRESE-2024`, abstract; the full text, with per-action durations, was not accessible).
-- [reported] In 45 amateur WAKO full-contact bouts of three two-minute rounds, a high-intensity action lasted 2.2 ± 1.2 s, the low-intensity activity between them 2.2 ± 0.7 s (the abstract prints 2.3 ± 0.8), and consecutive high-intensity actions were 3.4 ± 1.2 s apart; rounds held 27.1 ± 7.1, 25.1 ± 6.6 and 24.9 ± 6.1 high-intensity actions (`OUERGUI-2014`, Table 2, Table 4, pp. 3539–3540). The authors state a 1:1 fighting ratio, but their own figures give about 40% fighting and 60% not (p. 3541).
+- [reported] In 17 GLORY World Series middleweight bouts (85 kg, 2019), "The mean times expended in high- and low-intensity activity and pauses were 234.6 (133.9) seconds, 97.4 (60.1) seconds, and 36.0 (19.9) seconds, respectively, resulting in an effort-to-pause ratio of ∼1.8:1"; winners performed "more attacks, effective attacks, and attacks in sequence" (`CALABRESE-2024`, abstract; the full text, with per-action durations, was not accessible). The abstract does not show how the ratio follows from these means. [inference] It matches high-intensity time against low-intensity time and pauses together (234.6 s against 133.4 s, about 1.76:1), not high-intensity time against pauses alone (about 6.5:1).
+- [reported] In 45 amateur WAKO full-contact bouts of three two-minute rounds, a high-intensity action lasted 2.2 ± 1.2 s, the low-intensity activity between them 2.2 ± 0.7 s (the abstract prints 2.3 ± 0.8), and consecutive high-intensity actions were 3.4 ± 1.2 s apart; rounds held 27.1 ± 7.1, 25.1 ± 6.6 and 24.9 ± 6.1 high-intensity actions (`OUERGUI-2014`, Table 2, Table 4, pp. 3539–3540). The authors state a 1:1 fighting ratio (p. 3541). [inference] Their own figures give about 40% fighting and 60% not.
 - [reported] Ouergui codes steps, slides, bounces, turns and feints as low-intensity activity and blocks, parries, slips and rolls as high-intensity (Table 1, p. 3539); a high-intensity action starts "when 1 foot or hand moved to initiate the attack" (p. 3538).
 - [reported] The authors read round one as observation-heavy, fighters studying "the opponent's movements before initiating attacks" (p. 3542).
 
@@ -32,7 +32,7 @@ Law [inference from the passages above]: an exchange is one fighter's single str
 
 - [reported] The check: "lift your lead leg while keeping your guard high … angle the shin outward slightly"; "a late check is still a failed check. The shin must meet the incoming kick before it reaches its target"; "the rebound from a well-timed check creates a natural window for an immediate right cross, low kick, or teep", fired "while the opponent is still recovering their kicking leg"; "the key is not to pause after the check" (`EVOLVE-CHECK`, How To Check, Key Takeaways, FAQ).
 - [reported] "You must counter immediately after checking the kick, failure to do so will just allow your opponent time to attack with another kick or combination" (`DIESEL-LOW-KICKS`, archived copy, a class by GLORY veteran Daniel Sam).
-- [reported] "By coming forward and throwing strikes at his opponent's guard, Petrosyan knows that he can counter their return strikes" (`MMASUCKA-PETROSYAN`); the article describes a southpaw, so for two orthodox men the pattern is mirrored.
+- [reported] "By coming forward and throwing strikes at his opponent's guard, Petrosyan knows that he can counter their return strikes" (`MMASUCKA-PETROSYAN`). [inference] The article describes a southpaw, so for two orthodox men the pattern is mirrored.
 - [reported] Elite defence: checking "virtually every kick without conscious thought" and a "seamless and automatic" transition from defence to offence (`EVOLVE-CHECK`).
 
 Law [inference]: a defender meets each strike of a combination with the answer its line calls for, changing answers through the combination instead of holding one cover, and counters from the answer's end: from the replanted foot after a check, from the outside position after a slip, from the rising body after a roll. The installed `defend` action performs each answer and decides its timing as in time, late or failed.
@@ -107,7 +107,7 @@ Each target is measured on the composed film's schedule; the kind of each is mar
 
 - [inference] Exchanges start on average every 2.2 to 4.6 s of fighting time, Ouergui's 3.4 ± 1.2 s, and each lasts about one to three seconds.
 - [inference] Each fighter throws 10 to 19 strikes per minute of fighting time, feints excluded, from the [output](#output) band.
-- [inference] At least half of each fighter's strikes are thrown in combinations of two or more, at or above Romanenko's 48 to 53%; most combinations are two or three strikes.
+- [inference] At least half of each fighter's strikes are thrown in combinations of two or more, at or above half, which Romanenko's 52.7 ± 14.9% supports; most combinations are two or three strikes.
 - [choice] Every kick other than a check, the teep and the clinch knee prepares or finishes a combination or is a single kick; no combination ends in a punch after a kick of the same fighter more than twice in the round.
 - [choice] Each fighter leads at least a third of the exchanges, and initiative changes hands within every minute.
 - [choice] A clinch lasts one knee and its release, under the [rules](rules.md#legal-actions).

@@ -72,7 +72,7 @@ It gives every duty the commission names: positioning, closing in, the clinch br
 
 ## @evidence shared/principles/common.md#specificity
 
-Each duty is concrete: walking the opposite way round circling fighters, reaching an open arm between them at "Break!", pointing to the farther neutral corner, the counting hand dropping toward the fallen man's eyes.
+Each duty is concrete: walking round with the fighters' line as it turns and giving ground as they come toward him, reaching an open arm between them at "Break!", pointing to the farther neutral corner, the counting hand dropping toward the fallen man's eyes.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 

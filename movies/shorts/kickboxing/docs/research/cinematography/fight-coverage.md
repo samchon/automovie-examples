@@ -31,7 +31,7 @@ Broadcast practice keeps both fighters' feet, targets and heads readable: wide a
 
 ## The knockdown {#knockdown}
 
-[reported] Broadcasts put dedicated cameras at the neutral corners and at canvas level for knockdowns (above); no original describes how a broadcast frames the count itself.
+[reported] Broadcasts put dedicated cameras at the neutral corners (`SVG-SHOWTIME-2014`, `SVG-HBO-2017`, `SVGEU-FROCH-GROVES`) and, for knockdowns, at canvas level (`SVG-WILDER-FURY`, `SVG-NBC-2015`), as quoted above; no original describes how a broadcast frames the count itself.
 
 [choice]: the finishing kick and the fall are one shot, from the side where the kicking leg comes down, so neither man's body hides the leg, the struck place or the fall. The count is covered from the fixed camera that holds the fallen man, the referee standing a step from him, as the [referee mechanics](../officiating/referee.md#knockdown) place him, and the standing fighter in his neutral corner in one frame, the rule being kept in the background: the corner camera when the standing fighter is sent to the other neutral corner, the hard camera when he is sent to the corner camera's own. The ending returns to the hard camera's wide view.
 
