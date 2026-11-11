@@ -166,7 +166,7 @@ The hard camera and the apron camera cover the scene.
 
 ## @evidence brief/cinematography/coverage.md#framing
 
-Every exchange is framed full length, side-on, so feet, targets and heads read together.
+Every exchange is framed full length and side-on from the side the decisive contact faces, so feet, targets and heads read together: the check in s01-b05 is taken from the far-neutral-corner end of the far apron, which faces Bastien's kicking leg and Arjan's checking leg.
 
 ## @evidence brief/cinematography/coverage.md#look
 
@@ -352,7 +352,7 @@ The referee's "Break!" is his command for a clinch that holds after its knee.
 
 ## @evidence shared/principles/screenplay.md#audiovisual-realization
 
-The calf touching the bottom rope, the operator giving way on the apron, the knee's thump and the forced breath, and the referee's arm entering the frame carry the scene.
+The calf touching the bottom rope, the operator giving way on the apron, the knee's thump and the forced breath, and the referee's arm entering the frame carry the scene. The ropes exchange is shot from the far end of the right-side apron, which faces Bastien's right side, where Arjan's hook lands, and sees the calf on the rope side-on.
 
 ## @evidence shared/principles/screenplay.md#attention-and-duration
 
@@ -360,7 +360,7 @@ The cut-off, the exchange on the ropes, the clinch and the escape each get their
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
-Each beat decides the referee's place (one stride away, on the white-corner side of the line), the operator's place, outcomes, costs, camera and sound.
+Each beat decides the referee's place (one stride away, on the far-neutral-corner side of the line, opposite the operator's end), the operator's place, outcomes, costs, camera and sound.
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
@@ -372,7 +372,7 @@ He closes in on the ropes and breaks the clinch at arm's length.
 
 ## @evidence brief/cast/camera-operator.md#movement
 
-He gives way along the apron as a fighter reaches the ropes in front of him, and works from the far end of the left-side apron for the ropes exchange, within his working stretch.
+He gives way along the apron as a fighter reaches the ropes in front of him, and works from the far end of the right-side apron for the ropes exchange, within his working stretch, returning to the middle of the far apron after the escape.
 
 ## @evidence brief/sets/ring.md#use
 
@@ -418,7 +418,7 @@ There is no line; the action order is the recorded order.
 
 ## @evidence shared/principles/screenplay.md#audiovisual-realization
 
-The landed kick's hollow whack and grunt against the blocked kick's duller double knock let the audience hear the habit form; the apron camera keeps Arjan's kicking side to the lens.
+The landed kick's hollow whack and grunt against the blocked kick's duller double knock let the audience hear the habit form. Their line runs across the ring with Arjan at its right-side end, so the apron camera on the far apron sees Arjan's right side and Bastien's left ribs and elbow, where the kick lands and the arm drops; the high kick on Arjan's left forearm is taken from the hard camera, which faces that side.
 
 ## @evidence shared/principles/screenplay.md#attention-and-duration
 
@@ -588,7 +588,7 @@ The knee's blunt knock on the elbow and the low kick's smack while the arm drops
 
 ## @evidence shared/principles/screenplay.md#attention-and-duration
 
-Four beats; the low kick landing gets the push in.
+Four beats; the low kick landing gets the zoom in.
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
@@ -642,7 +642,7 @@ The measuring beat is held still so both touches read; the feint gets the push i
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
-Each beat decides the touches, the feint's read and the cross's outcome, Bastien's answers, the referee's side as the line points at the near corner, and the camera nearest square.
+Each beat decides the touches, the feint's read and the cross's outcome, Bastien's answers, the referee's side as the line turns toward the near corner, and the camera whose side faces each beat's decisive contact.
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
@@ -668,7 +668,7 @@ The tenth phase delivers the last exchanges, Bastien's best moment, the setting 
 
 ## @evidence shared/principles/common.md#specificity
 
-Bastien nearly wins it with the glancing high kick; Arjan answers by walking him to the place where the hard camera sees the kick's open side, then throws the finish from the chamber Bastien has learned to read.
+Bastien nearly wins it with the glancing high kick; Arjan answers by walking him to a place in front of the hard camera, a little to its right and two strides in from the near ropes, where their line is square to it and the kick's open side faces it, then throws the finish from the chamber Bastien has learned to read.
 
 ## @evidence shared/principles/narratives.md#unit-progression
 
@@ -696,7 +696,7 @@ The two exchanges keep the pace high; the walk and the jab slow it; the kick tak
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
-The finish beat states the anchor 150.000 as the end of the phase, the outcome by the kick's row, the consequence by the fall law, and the camera side; the high kick's beat decides the referee's closing in on the hurt man and his dropping back; the inserted beat keeps the new address s10-b01a.
+The finish beat states the anchor 150.000 as the end of the phase, the outcome by the kick's row, the consequence by the fall law, and the camera's position square to the line, with the kicking leg and the struck place facing it; the high kick's beat decides the referee's closing in on the hurt man and his dropping back; the inserted beat keeps the new address s10-b01a.
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
@@ -750,7 +750,7 @@ The beats write the commission's anchors (157, 158 to 164), the referee's place 
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
-The referee study places him "a step from the fallen man on the side that keeps the corner in front of him"; with the corner camera's line, the screenplay places him to one side of the line from the near neutral corner across Bastien to the far neutral corner. This is a staging choice within the study, not a change to it.
+The referee study places him "a step from the fallen man on the side that keeps the corner in front of him"; with the corner camera's line, the screenplay places him on the side Bastien's back faces, level with his shoulders and off the line from the near neutral corner across Bastien to the far neutral corner, so that the wave-off's walk round Bastien's feet to his chest follows from it. This is a staging choice within the study, not a change to it.
 
 ## @evidence brief/world/contest.md#knockdown
 

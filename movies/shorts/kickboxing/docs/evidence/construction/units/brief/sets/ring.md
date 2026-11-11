@@ -54,7 +54,7 @@ It settles the layout every scene's space relies on, including which neutral cor
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-It records a decision the screenplay's opening scene establishes and every later scene keeps, citing that scene, as statement 5 asks; it was added under the closed-pass rule as a new H2, leaving the reviewed facets unchanged.
+It records a decision the screenplay's opening beat establishes and every later scene keeps: both H3s cite `s01-b01`, where the corners are placed and the side names are first used, as statement 5 asks. Its example placement, the operator at the far end of the right-side apron, is the one s04 now uses. It was added under the closed-pass rule as a new H2, leaving the reviewed facets unchanged.
 
 # docs/body/brief/sets/ring.md#use
 

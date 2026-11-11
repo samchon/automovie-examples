@@ -40,7 +40,7 @@ As the [hard camera](../cinematography/coverage.md#hard-camera) sees the ring, t
 
 ### The four sides {#sides}
 
-The ring's sides are named as the hard camera sees them: the near side, between the black corner and the near neutral corner; the far side, between the far neutral corner and the white corner; the left side, between the black corner and the far neutral corner; and the right side, between the near neutral corner and the white corner. Each side has its ropes and its apron, so a scene places a fighter on the right-side ropes, or the operator at the far end of the left-side apron, without naming a corner, as the screenplay first needs at [the ropes in s07](../../screenplay/kickboxing.md#s07-b03).
+The ring's sides are named as the hard camera sees them: the near side, between the black corner and the near neutral corner; the far side, between the far neutral corner and the white corner; the left side, between the black corner and the far neutral corner; and the right side, between the near neutral corner and the white corner. Each side has its ropes and its apron, so a scene places a fighter on the right-side ropes, or the operator at the far end of the right-side apron, without naming a corner. The screenplay first uses the names in its [opening beat](../../screenplay/kickboxing.md#s01-b01), which places the black corner on the left of the near side, and every later scene keeps them.
 
 ## Use {#use}
 
