@@ -484,7 +484,7 @@ Four beats, each a different shape of exchange.
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
-Each beat decides outcomes from the table and laws, the check's cost to the kicker, the referee's side as the line turns toward the near side, and the camera nearest square to the line.
+Each beat decides outcomes from the table and laws, the check's cost to the kicker, the referee's side as the line turns toward the near side and back, and a camera near square to the line on which each exchange is played: the hard camera holds s06-b04's teep, parry and jabs on the line toward the near neutral corner, and the line turns only after them.
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
