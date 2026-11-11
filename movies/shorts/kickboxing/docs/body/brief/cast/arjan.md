@@ -24,13 +24,13 @@ Orthodox: left foot and left hand forward, knees bent so either leg can lift at 
 
 ### Rhythm {#rhythm}
 
-Measured. He moves only as much as the distance needs, stepping rather than bouncing, and his lead glove keeps reaching out toward Bastien's gloves to read the range. After his own combinations he steps off the line toward the side his last strike came from, sliding out to his right after a right-hand or right-leg finish and pivoting on his lead foot to his left after a left-hand finish, never backing straight out, under the [exit](../../../research/kickboxing/ring-craft.md#exit).
+Measured. He moves only as much as the distance needs, stepping rather than bouncing, and his lead glove keeps reaching out toward Bastien's gloves to read the range and coming straight back, never held out. After his own combinations he steps off the line toward the side his last strike came from, sliding out to his right after a right-hand or right-leg finish and pivoting on his lead foot to his left after a left-hand finish, never backing straight out, under the [exit](../../../research/kickboxing/ring-craft.md#exit).
 
 ## Repertoire and proficiency {#repertoire}
 
 ### Weapons {#weapons}
 
-A championship-level kicker in the Dutch manner: punch combinations that end in a kick, as [combinations](../../../research/kickboxing/exchanges.md#combinations) records. His right body kick, thrown off a jab or a jab and cross, is his main tool; he also throws the right low kick, the teep to the stomach, the right cross to the body, the clinch knee, and the shoulder feint that shows the first part of his jab.
+A championship-level kicker in the Dutch manner: punch combinations that end in a kick, as [combinations](../../../research/kickboxing/exchanges.md#combinations) records. His right body kick, thrown off a jab or a jab and cross, is his main tool; he also throws the right low kick, the teep to the stomach with his lead (left) leg, the right cross to the body, the clinch knee, and the shoulder feint that shows the first part of his jab.
 
 ### Feints {#feints}
 
@@ -72,7 +72,7 @@ He touches gloves with Bastien before the first exchange and treats him as an eq
 
 ### Reading the tell {#reads-the-tell}
 
-From the moment Bastien first blocks his body kick with a dropping left arm, Arjan watches for that arm. He knows the drop comes at the rising knee, before the kick is readable. Before he risks the finish he proves it with the body-kick feint: the knee rises, the arm drops, and his right cross lands over it. Once the habit is set he varies what follows the rising knee, so Bastien cannot tell the feint from the kick.
+From the moment Bastien first blocks his body kick with a dropping left arm, Arjan watches for that arm. He knows the drop comes at the rising knee, before the kick is readable, and that it costs Bastien nothing low: his right low kicks are still checked and his clinch knee still meets the elbow. Only the head above the lowered arm is open, so he spends nothing on the drop until he can reach that head. Before he risks the finish he proves it with the body-kick feint: the knee rises, the arm drops, and his right cross lands over it. Once the habit is set he varies what follows the rising knee, so Bastien cannot tell the feint from the kick.
 
 ## State changes {#state}
 

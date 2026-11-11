@@ -1,4 +1,4 @@
-# The work
+﻿# The work
 
 ## Fixed conditions {#conditions}
 
@@ -8,7 +8,7 @@ The work is one film, `kickboxing`, running exactly 180 seconds in a landscape 1
 
 ### Polygon men in a coarse ring {#representation}
 
-Every person is a faceless polygon man and the ring a coarse form. The film can show where each body is, how it moves, what it touches and where each head and trunk turn; sound carries breath, voice and contact. It cannot show a face or its expression, fingers, sweat, blood, swelling, reddened skin or a mouthguard, so the films carry fatigue, pain and joy in posture, timing and breath, and the count in the referee's voice and arm.
+Every person is a faceless polygon man and the ring a coarse form. The film can show where each body is, how it moves, what it touches and where each head and trunk turn; sound carries breath, voice and contact. It cannot show a face or its expression, fingers, sweat, blood, swelling, reddened skin or a mouthguard, so the film carries fatigue, pain and joy in posture, timing and breath, and the count in the referee's voice and arm.
 
 ### The film in one line {#one-line}
 
@@ -24,7 +24,7 @@ Adult viewers who know combat sport from broadcasts and want to watch a fight th
 
 They watch a level fight in which the lead keeps changing hands, feel the round's pressure in breath, footwork and the ropes, and slowly see what one fighter is building before the other does. The finish lands as a payoff they watched being prepared, and the count holds them in real time on a man who does not get up while the winner waits in a corner, before his release breaks out.
 
-## What the films leave out {#scope}
+## What the film leaves out {#scope}
 
 ### Outside the round {#left-out}
 

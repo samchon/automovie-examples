@@ -10,7 +10,7 @@ The bout is a fictional professional kickboxing match, three rounds of three min
 
 Punches to the head and body, round kicks to the legs, body and head, the Brazilian kick among them, the teep to the body and one knee from a clinch are legal, under [legal actions](../../../research/kickboxing/rules.md#legal-actions). Elbows, throws, sweeps, pushes to unbalance, straight kicks at the legs, strikes to the back of the head, the back or the groin, and any blow after "Break" or "Stop" or at a man with more than his feet on the canvas are fouls, and neither fighter commits one.
 
-Pulling up the front leg without throwing a technique is stalling, so neither fighter holds his lead leg up: he lifts it to throw a technique with it, such as the teep or a knee, or to check a low kick or what he reads as one, and puts it down again. Body kicks are blocked with the arm, and high kicks with the forearm beside the head. The rules would allow a caught leg to be held for one strike, but neither fighter catches a kick in this bout.
+Pulling up the front leg or stretching out the front arm without carrying out a technique is stalling, so neither fighter holds his lead leg up or his lead arm out. A lead leg that rises carries out something, such as the teep, a knee or a check, and comes down again; a lead arm that reaches out carries out something, such as a jab, a hook, a parry, the tie-up for a clinch knee or a touch for the range, and comes back. Body kicks are blocked with the arm, and high kicks with the forearm beside the head. The rules would allow a caught leg to be held for one strike, but neither fighter catches a kick in this bout.
 
 ### The clinch {#clinch}
 
@@ -26,7 +26,7 @@ The bell opens round one. The referee stands beside the two fighters at the cent
 
 ### Nobody down before the finish {#no-early-knockdown}
 
-Every blow before the Brazilian kick, landed or glancing, costs breath, guard or balance and never puts a man on the canvas, as the [commission](../../../instructions/commission.md#contacts-before-finish) rules and the [consequences](../../../research/kickboxing/exchanges.md#outcomes) of the outcome table give it. The Brazilian kick is the bout's only knockdown.
+Every blow before the Brazilian kick, landed or glancing, costs breath, guard or balance and never puts a man on the canvas, as the [commission](../../../instructions/commission.md#contacts-before-finish) rules and the [consequences](../../../research/kickboxing/exchanges.md#outcomes) of the outcome table give it. No kick reaches a head clean before the finish: a high kick is blocked on the forearm beside the head or glances off the cover. The Brazilian kick is the bout's only knockdown.
 
 ### The count {#count}
 

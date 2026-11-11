@@ -98,11 +98,11 @@ It gives his two tells, with their triggers, responses and, for the arm drop, th
 
 ## @evidence shared/principles/common.md#specificity
 
-The arm drop has a trigger (Arjan's rising right knee), a timing (by the time the knee is folded) and an origin in this bout (the first landed right body kick).
+The arm drop has a trigger (Arjan's rising right knee), a timing (by the time the knee is folded), an origin in this bout (the first landed right body kick) and a decided reach: it comes on top of the check and the elbow block, so it opens only the left side of his head.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles the habit as a baseline absence and a change condition, citing the habits law (statements 4 and 6), and leaves the establishing scene to the screenplay, which it names.
+It settles the habit as a baseline absence and a change condition with its exceptions for Arjan's low kicks and clinch knee (statement 1), citing the habits law (statements 4 and 6), and leaves the establishing scene to the screenplay, which it names.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 

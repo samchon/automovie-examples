@@ -44,7 +44,7 @@ When his low kick is checked, he is slow to bring the checked leg back down: he 
 
 ### Drops the left arm {#drops-the-left-arm}
 
-He does not have this habit when the round begins: at first he answers each of Arjan's kicks by its line. Once Arjan's right body kick has landed on his left ribs, he answers the next right kicks with his left elbow brought down over those ribs, and from then on he drops that arm whenever Arjan's right knee rises, by the time the knee is folded and before the kick can be read, every time, as [habits](../../../research/kickboxing/exchanges.md#habits) describes. The screenplay's scene where the first body kick lands establishes it.
+He does not have this habit when the round begins: at first he answers each of Arjan's kicks by its line. Once Arjan's right body kick has landed on his left ribs, he answers the next right kicks with his left elbow brought down over those ribs, and from then on he drops that arm whenever Arjan's right knee rises, by the time the knee is folded and before the kick can be read, every time, as [habits](../../../research/kickboxing/exchanges.md#habits) describes. The drop comes on top of his other answers, not in their place: when the rising knee turns into a right low kick he still checks it with his left shin, his dropped elbow closing down toward that knee, and a right knee in the clinch meets the dropped elbow. So the habit costs him nothing against Arjan's kicks to the leg and body or his knees; it leaves open only the left side of his head above the lowered arm. The screenplay's scene where the first body kick lands establishes it.
 
 ## Speech and voice {#voice}
 

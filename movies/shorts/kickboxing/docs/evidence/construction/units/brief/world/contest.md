@@ -6,7 +6,7 @@ The facet delivers the ruleset, what the fighters may and may not do, and the cl
 
 ## @evidence shared/principles/common.md#specificity
 
-The rules are this bout's GLORY rules as they bear on these two men: 80 kg at Middleweight, 10-ounce gloves in the corner's colour, no kick caught, a lead leg never held up without a technique or a check, and the clinch's one knee with the referee's "Break".
+The rules are this bout's GLORY rules as they bear on these two men: 80 kg at Middleweight, 10-ounce gloves in the corner's colour, no kick caught, a lead leg never held up and a lead arm never held out without a technique, a check or a range touch, and the clinch's one knee with the referee's "Break".
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
@@ -58,7 +58,7 @@ The count is this contest's: started only when the standing man faces the centre
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles the baseline condition the commission fixes (no early knockdown) and the procedure the anchors at 157, 158 to 167 and 167.6 hang on, leaving those seconds to the screenplay.
+It settles the baseline condition the commission fixes (no early knockdown), with its consequence for head kicks (blocked or glancing, never clean, as the outcome table's consequences give), and the procedure the anchors at 157, 158 to 167 and 167.6 hang on, leaving those seconds to the screenplay.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 

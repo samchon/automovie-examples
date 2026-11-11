@@ -18,17 +18,25 @@ The [referee](../cast/referee.md#english) is heard close and clear above everyth
 
 Each kind of contact has its own sound, heard closer than ringside and louder in close framings:
 
-- glove on glove or forearm, a parry or a cover: a flat slap;
+- glove on glove, a parry: a light, flat slap;
+- glove on forearm, a cover against a head punch: a heavier slap with the thud of the arm behind it;
+- glove on elbow, a blocked body punch: a hard, short knock;
 - glove landing on the head: a sharp snap, softer when it glances;
 - glove landing on the body: a deep thud with an emptying breath behind it;
 - shin landing on the ribs, the body kick that teaches the habit: a heavy, hollow whack with a grunt behind it;
 - shin blocked on the forearm and elbow: a hard double knock, arm then ribs, duller than the landed kick, so the audience hears the arm take it;
+- shin blocked on the forearm beside the head, a blocked high kick: a sharp, high knock right beside the ear, shorter than the body block;
+- shin glancing off the cover and the head, a late-blocked high kick: a skidding slap that ends in the receiver's breath snapping out;
 - shin on shin, a check: a hard knock of bone through skin;
 - shin on thigh, a landed low kick: a heavy smack;
 - knee driven into the stomach: a short, deep thump and a forced breath;
-- sole on forearm or stomach, the teep: a flat push of sound;
+- knee stopped on the dropped elbow in the clinch: a blunt knock of bone on bone, with no breath behind it;
+- sole landing on the stomach, the teep: a flat push of sound and an emptied breath;
+- sole met by a parrying forearm, a parried teep: a dry brush and slap as the foot is turned aside;
 - the finishing kick: a single heavy crack, unlike anything before it;
 - a body on the canvas: a dull thump.
+
+A glancing contact, one that lands late through or past its answer or skids off a moving target, sounds like its landed kind cut short and softened, with the slap of the answer it slipped past in front of it, so a glancing body kick is a brief whack behind an arm's knock and the unanswered high kick a short skid over the head.
 
 ### Feet and breath {#feet-and-breath}
 

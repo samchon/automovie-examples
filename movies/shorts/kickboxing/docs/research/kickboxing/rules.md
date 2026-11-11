@@ -19,11 +19,13 @@ Rule text from `GLORY` §5.07, pp. 16–17 (PDF pp. 18–19), all [reported]:
 - A.10 bans "throws, leg sweeps, foot sweeps or pushing of any kind as an effort to off-balance or down a opponent".
 - A.11 bans clinching or holding "for any reason ... other than to immediately attack with a single legal knee strike; after the legal knee strike the Athlete must disengage the clinch immediately".
 - A.12 allows grabbing a leg only "to immediately execute a single legal strike that may be accompanied by a single step in any direction".
-- A.2 and A.3 ban techniques "targeting the back of the head or back" and "the groin". The rules do not name the throat.
+- A.2 bans "All techniques targeting the back of the head or back or the torso"; A.3 bans "Techniques targeting the groin". The rules do not name the throat.
 - B.1 bans "continuing to fight if someone has any other part of his body other than his feet on the ground"; B.2 bans techniques after "Break" or "Stop".
 - C.1 counts as stalling "continuously pulling up the front leg or stretching out the front arm without carrying out a particular technique".
 
-Law, derived from the rule text [inference]: the legal weapons are punches to the head and body; round kicks to the legs, body and head; straight kicks such as the teep to the body or head, never the legs; and one knee from a clinch, after which the clinch opens. A leg may be caught only for one immediate strike; this film blocks and checks kicks instead. A raised lead leg must answer a kick or a feint, so a check is never held. Once any part of a fighter other than his feet touches the canvas, nobody strikes him.
+Reading of A.2 [inference]: read literally, "or the torso" would ban every strike to the body, the target of the clinch's "single legal knee strike" (A.11) in practice and of every body punch and body kick in kickboxing; the study reads the clause as "the back of the head or back of the torso", the rear of the body, and records that this is its reading of the text, not the text.
+
+Law, derived from the rule text [inference]: the legal weapons are punches to the head and body; round kicks to the legs, body and head; straight kicks such as the teep to the body or head, never the legs; and one knee from a clinch, after which the clinch opens. A leg may be caught only for one immediate strike; this film blocks and checks kicks instead. Holding the front leg up or the front arm out without carrying out a technique is stalling, so a lead leg rises to kick, knee or check and comes down, and a lead arm reaches out to strike, defend, tie up for the knee or measure and comes back; neither is held. Once any part of a fighter other than his feet touches the canvas, nobody strikes him.
 
 The Brazilian kick is an arcing kick to the head, which A.4 does not touch. Its target in this film, the side of the neck below and behind the ear, is not "the back of the head" of A.2 [inference]: the struck surface faces sideways, toward the kicker.
 

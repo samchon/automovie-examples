@@ -6,7 +6,7 @@ It gives the whole palette: the mix, the bell, the referee's voice, every kind o
 
 ## @evidence shared/principles/common.md#specificity
 
-Each contact has its own sound, and the two sounds of the central pattern differ on purpose: the landed body kick a hollow whack with a grunt, the blocked one a duller double knock, arm then ribs.
+Each contact the outcome table allows has its own sound, the blocked and glancing high kick included, and the two sounds of the central pattern differ on purpose: the landed body kick a hollow whack with a grunt, the blocked one a duller double knock, arm then ribs.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 

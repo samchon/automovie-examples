@@ -50,7 +50,7 @@ It gives his stance and his rhythm, including how he leaves after his combinatio
 
 ## @evidence shared/principles/common.md#specificity
 
-His exit follows his own combinations: a slide to his right after a right-hand or right-leg finish, a pivot to his left after a left-hand finish, and his lead glove reaching out to read the range.
+His exit follows his own combinations: a slide to his right after a right-hand or right-leg finish, a pivot to his left after a left-hand finish, and his lead glove reaching out to read the range and coming straight back, as the contest's stalling rule requires.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
@@ -190,7 +190,7 @@ It states what he knows about Bastien's tell and when he comes to know it.
 
 ## @evidence shared/principles/common.md#specificity
 
-He learns it at a defined moment, the first time Bastien blocks his body kick with a dropping arm, and proves it with the body-kick feint and a landed cross.
+He learns it at a defined moment, the first time Bastien blocks his body kick with a dropping arm, knows it opens only the head above that arm, and proves it with the body-kick feint and a landed cross.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 

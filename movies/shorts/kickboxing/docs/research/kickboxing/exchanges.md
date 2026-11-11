@@ -54,7 +54,7 @@ Law [inference]: a feint shows the first part of a real technique, about its fir
 - [reported] The counter-warning: "never throw the same combination repeatedly … because the opponent will see what is happening and easily counter us" (`DS-HOOST`).
 - [reported] No retained source states that repeated body kicks teach an opponent to lower the near arm specifically; this was searched for and not found.
 
-Law [choice, built on the passages above]: a habit is a trigger-to-response rule a fighter acquires in the fight. Once a receiver has felt a repeated attack land, he starts that attack's answer at its earliest visible sign, before he can tell what follows. For this bout: after a right body kick lands on his left ribs, the receiver brings his left elbow down over those ribs at every rising right knee of that kicker. The attacker who sees the habit can exploit it, as the Superbon finish and the fake-body-kick set-up show, with a feint that draws the answer and a strike over it. Repeating the pattern also tells a receiver what is coming, which is why the attacker varies what follows the knee.
+Law [choice, built on the passages above]: a habit is a trigger-to-response rule a fighter acquires in the fight. Once a receiver has felt a repeated attack land, he starts that attack's answer at its earliest visible sign, before he can tell what follows. For this bout: after a right body kick lands on his left ribs, the receiver brings his left elbow down over those ribs at every rising right knee of that kicker. The drop answers every rising right knee of that kicker, whatever technique the knee leads, and it is added to the answer the technique's line calls for, under [defence that attacks](#defence), not put in its place: when the knee turns over into a low kick the receiver still checks it, his dropped elbow closing down toward his raised knee; a knee driven in the clinch meets the dropped elbow; a body kick meets the same elbow block it taught. What the habit opens is therefore only the receiver's head on the side of the dropped arm. The attacker who sees the habit can exploit it, as the Superbon finish and the fake-body-kick set-up show, with a feint that draws the answer and a strike over it. Repeating the pattern also tells a receiver what is coming, which is why the attacker varies what follows the knee.
 
 ## Outcome table {#outcomes}
 
@@ -73,8 +73,10 @@ An outcome follows from the attack, the answer and the answer's timing, decided 
 | Low kick | Check | In time | Checked | Shin on shin |
 | Teep | Parry | In time | Parried | Sole on forearm |
 | Any strike | Its answer | Late | Glancing | The strike lands through or past the answer with part of its force |
-| Any strike | None | — | Landed | The weapon on the target |
-| Clinch knee | None or late cover | — | Landed or glancing | Knee on stomach or ribs |
+| High kick | None | — | Glancing | The shin skids off the moving head and shoulder; no high kick lands clean before the finish |
+| Any other strike | None | — | Landed | The weapon on the target |
+| Clinch knee | Elbow block | In time | Blocked | Knee on elbow and forearm |
+| Clinch knee | None or late elbow block | — | Landed or glancing | Knee on stomach or ribs |
 | Feint | The answer its shown technique draws | — | Read | None; the answer opens its region |
 | Feint | None | — | Ignored | None |
 | Brazilian kick | Elbow block started at the body-kick chamber | — | Landed | Instep and lower shin coming down over the lowered arm onto the side of the neck behind the ear, as in the [Brazilian kick](brazilian-kick.md#law) |
@@ -84,7 +86,7 @@ Consequences [choice, within the commission's ruling that contacts before the fi
 - A landed or glancing body punch, body kick or knee empties the receiver's breath with an audible grunt, folds his near elbow toward the struck ribs and costs him a step of ground or the next beat of attack.
 - A landed or glancing low kick moves the receiver's weight off the struck leg; repeated, it leaves the leg slow to bear weight for a moment after each one.
 - A landed or glancing punch to the head turns the head with it and opens the guard for a moment; the receiver resets his guard and gives ground.
-- A glancing high kick, the only kind this bout allows before the finish, knocks the receiver's head and covering arm aside and breaks his balance for a step; he covers up and gives ground.
+- A high kick before the finish never lands clean: it is blocked on the forearm beside the head, or, when the block is late, it glances off the cover, knocking the receiver's head and covering arm aside and breaking his balance for a step; he covers up and gives ground.
 - A landed teep stops the receiver's forward movement and pushes him back a step or two with an emptied breath; a parried teep turns him slightly off his line.
 - A blocked, checked or parried strike stops at the defending limb and costs the defender nothing but position; a check costs the kicker his balance on the checked leg.
 - Only the Brazilian kick drops a fighter in this bout, under the [knockout study](knockout.md#fall).
