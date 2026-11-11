@@ -38,7 +38,7 @@ Each beat records participants by brief address, intents, an outcome from the ou
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
-Writing this scene exposed one gap in the closed brief: no record said which fighter's corner lies on the hard camera's side. It was repaired upstream under the closed-pass rule as a new H2, `sets/ring.md#orientation`, citing this scene's first beat. The rules, commands and repertoires were tested unchanged.
+Writing this scene exposed one gap in the closed brief: no record said which fighter's corner lies on the hard camera's side. It was repaired upstream under the closed-pass rule as a new H2, `sets/ring.md#orientation`, citing this scene's first beat; after review it gained an H3, `#sides`, naming the four sides the screenplay's directions use. The circling in s01-b03 follows the research circling law as corrected after review (`ring-craft.md#movements`: away from the other man's right hand is toward one's own right). The rules, commands and repertoires were tested unchanged.
 
 ## @evidence brief/world/work.md#conditions
 
@@ -90,7 +90,7 @@ His black gloves and trunks tell him apart in every view.
 
 ## @evidence brief/cast/arjan.md#movement
 
-He walks out measured, circles to his left away from the right hand, and his lead glove touches out and comes back.
+He walks out measured, circles to his right, away from Bastien's right hand as the corrected circling law gives, and his lead glove touches out and comes back.
 
 ## @evidence brief/cast/arjan.md#relationships
 
@@ -244,7 +244,7 @@ The combinations law and Bastien's repertoire were tested unchanged; Arjan's lis
 
 ## @evidence brief/cast/bastien.md#repertoire
 
-His four-strike combination, the switch kick and the cross over the returning kick are his weapons and counters.
+His four-strike combination, the switch kick and the right low kick he counters with after a blocked body kick are his weapons and counters, as his defence facet maps them.
 
 ## @evidence brief/cast/bastien.md#values
 
@@ -252,7 +252,7 @@ He works to break Arjan's lead leg.
 
 ## @evidence brief/cast/arjan.md#repertoire
 
-He parries, covers, slips and counters with the body hook and his main tool, the right body kick.
+He parries, covers, slips and counters with the body hook and his main tool, the right body kick; he checks Bastien's counter low kick and punishes the hanging leg with the cross.
 
 ## @evidence brief/cast/arjan.md#state
 
@@ -264,7 +264,7 @@ The cut to the hard camera at the circle off reorients without skipping time.
 
 ## @evidence instructions/commission.md#exchange-vocabulary
 
-Combinations, slips, parries, blocks and a counter from the slip appear, performed by both men.
+Combinations, slips, parries, blocks, a counter from the slip, and Bastien's counter low kick checked and answered by Arjan's cross appear, performed by both men.
 
 # docs/body/screenplay/kickboxing.md#s03
 
@@ -352,7 +352,7 @@ The referee's "Break!" is his command for a clinch that holds after its knee.
 
 ## @evidence shared/principles/screenplay.md#audiovisual-realization
 
-The heel touching the bottom rope, the operator giving way on the apron, the knee's thump and the forced breath, and the referee's arm entering the frame carry the scene.
+The calf touching the bottom rope, the operator giving way on the apron, the knee's thump and the forced breath, and the referee's arm entering the frame carry the scene.
 
 ## @evidence shared/principles/screenplay.md#attention-and-duration
 
@@ -372,7 +372,7 @@ He closes in on the ropes and breaks the clinch at arm's length.
 
 ## @evidence brief/cast/camera-operator.md#movement
 
-He gives way along the apron as a fighter reaches the ropes in front of him, and works from the far end of the black-corner side's apron for the ropes exchange, within his working stretch.
+He gives way along the apron as a fighter reaches the ropes in front of him, and works from the far end of the left-side apron for the ropes exchange, within his working stretch.
 
 ## @evidence brief/sets/ring.md#use
 
@@ -446,7 +446,7 @@ He sees the drop and watches for that arm from here.
 
 ## @evidence instructions/commission.md#exchange-vocabulary
 
-Bastien's roll and his uppercut from it, Arjan's slip, cover and high block, and the teep against Bastien's entry.
+Bastien's roll and his uppercut from it, Arjan's slip, cover and high block, and Arjan's check of Bastien's counter low kick answered by the teep while the leg hangs.
 
 # docs/body/screenplay/kickboxing.md#s06
 
@@ -534,7 +534,7 @@ The low kick's smack and the leg buckling, then the hook's sharp snap, are the p
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
-Each beat decides the state change with its condition, the counter's result, the rope escape and the feint ignored, with camera and sound.
+Each beat decides the state change with its condition, the referee's closing in on the hurt man and his dropping back, the counter's result, the rope escape onto the right-side ropes with the operator giving way, and the feint ignored, with camera and sound.
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
@@ -696,7 +696,7 @@ The two exchanges keep the pace high; the walk and the jab slow it; the kick tak
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
-The finish beat states the anchor 150.000 as the end of the phase, the outcome by the kick's row, the consequence by the fall law, and the camera side; the inserted beat keeps the new address s10-b01a.
+The finish beat states the anchor 150.000 as the end of the phase, the outcome by the kick's row, the consequence by the fall law, and the camera side; the high kick's beat decides the referee's closing in on the hurt man and his dropping back; the inserted beat keeps the new address s10-b01a.
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
@@ -750,7 +750,7 @@ The beats write the commission's anchors (157, 158 to 164), the referee's place 
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
-The referee study places him "a step from the fallen man on the side that keeps the corner in front of him"; with the corner camera's line, the screenplay places him to one side of that line. This is a staging choice within the study, not a change to it.
+The referee study places him "a step from the fallen man on the side that keeps the corner in front of him"; with the corner camera's line, the screenplay places him to one side of the line from the near neutral corner across Bastien to the far neutral corner. This is a staging choice within the study, not a change to it.
 
 ## @evidence brief/world/contest.md#knockdown
 
@@ -816,7 +816,7 @@ The roar at the wave-off, Arjan's shout and breath, the bell, and the wide frame
 
 ## @evidence shared/principles/screenplay.md#attention-and-duration
 
-The count's last seconds are in real time; the final wide is held, static, for the last twelve seconds.
+The count's last seconds are in real time; the final wide is held, static, for the last twelve seconds, and inside it the doctor's crossing toward Bastien leads the eye while Arjan's release goes on behind.
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 

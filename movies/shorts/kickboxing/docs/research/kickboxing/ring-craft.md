@@ -9,7 +9,7 @@ This study records how championship fighters use the ring between and during exc
 - [reported] "Your lead foot must constantly be on the opposite side of your opponent's lead foot, with the ability to pivot away from an opponent's power hand … you can easily circle away from danger when needed" (`EVOLVE-GENERALSHIP`, §3).
 - [reported] "One common mistake that aggressive offensive fighters make is that they try to chase their opponents around the ring" (`EVOLVE-GENERALSHIP`, §4).
 
-Law [inference]: fighters move off the line between them rather than straight forward or back. Between two orthodox men the power hand is the right, so a fighter who wants out of danger circles toward his own left, away from the other man's right. A pivot on the lead foot turns a fighter a quarter circle around his opponent and puts him on a new line.
+Law [inference]: fighters move off the line between them rather than straight forward or back. Between two orthodox men the power hand is the right. Facing each other, the other man's right hand is on a fighter's left and his lead hand on the fighter's right, so a fighter who wants out of danger circles toward his own right, round the other man's lead side and away from his right hand. A pivot on the lead foot turns a fighter a quarter circle around his opponent and puts him on a new line.
 
 ## Cutting off the ring {#cut-off}
 

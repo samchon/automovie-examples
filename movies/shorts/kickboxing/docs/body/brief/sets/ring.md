@@ -38,6 +38,10 @@ The strip of canvas outside the ropes, where the [apron camera](../cinematograph
 
 As the [hard camera](../cinematography/coverage.md#hard-camera) sees the ring, the black corner stands at the left end of its side and the near neutral corner, which holds the [corner camera](../cinematography/coverage.md#corner-camera), at the right end. Across the ring, the far neutral corner stands opposite the black corner and the white corner diagonally across from it, at the far right. The fighters walk out from these corners at the opening bell in the screenplay's [first scene](../../screenplay/kickboxing.md#s01-b01), and every later scene keeps them.
 
+### The four sides {#sides}
+
+The ring's sides are named as the hard camera sees them: the near side, between the black corner and the near neutral corner; the far side, between the far neutral corner and the white corner; the left side, between the black corner and the far neutral corner; and the right side, between the near neutral corner and the white corner. Each side has its ropes and its apron, so a scene places a fighter on the right-side ropes, or the operator at the far end of the left-side apron, without naming a corner, as the screenplay first needs at [the ropes in s07](../../screenplay/kickboxing.md#s07-b03).
+
 ## Use {#use}
 
 ### Everyone stays inside the ropes {#inside}

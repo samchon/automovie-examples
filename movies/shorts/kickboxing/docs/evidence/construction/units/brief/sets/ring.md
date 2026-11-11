@@ -46,7 +46,7 @@ It states where the four corners lie relative to the hard camera, which the zone
 
 ## @evidence shared/principles/common.md#specificity
 
-The black corner and the near neutral corner on the hard camera's side, the black corner at its left end; the far neutral corner opposite the black corner and the white corner diagonally across from it.
+The black corner and the near neutral corner on the hard camera's side, the black corner at its left end; the far neutral corner opposite the black corner and the white corner diagonally across from it; and the four sides named near, far, left and right as the hard camera sees them, each with its ropes and apron.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
