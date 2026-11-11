@@ -14,7 +14,7 @@ It settles the world's rules with their limits (statement 3) and cites the rules
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-One record owns the rules for the film; the cast records cite it rather than restating it, and it describes no code.
+One record owns the rules for the film, and the referee's record cites it for what he knows; it describes no code.
 
 ## @evidence instructions/commission.md#ruleset
 

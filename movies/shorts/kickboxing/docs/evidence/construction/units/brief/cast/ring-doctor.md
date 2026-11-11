@@ -136,7 +136,7 @@ Only after the bell has ended the match.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles her presence before and after the bell, so the count frame holds only the three men.
+It settles her presence before and after the bell, so only the fighters and the referee are inside the ropes during the count.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 

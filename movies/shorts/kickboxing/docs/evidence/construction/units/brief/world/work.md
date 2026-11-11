@@ -66,7 +66,7 @@ It settles the scope boundary the screenplay needs so it never shows the exclude
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-This is the one owner of the exclusions; the contest's tone, the ring sound and the coverage records point to it instead of restating it.
+This is the one owner of the exclusions; the contest's tone and the ring sound records cite it instead of restating it.
 
 ## @evidence instructions/commission.md#no-injury-mechanism
 

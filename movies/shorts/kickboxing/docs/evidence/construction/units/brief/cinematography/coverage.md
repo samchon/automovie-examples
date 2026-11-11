@@ -54,7 +54,7 @@ Cuts like a live director's that never skip time; the finish uncut from a side w
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles the cutting style and the commission's conditions, and leaves the choice of camera and shot for each event to the screenplay, as it says.
+It settles the cutting style and the commission's conditions. It says that the camera holding the finish is the screenplay's decision; for the count and the ending it states only what the frame must hold, naming no camera, which leaves the screenplay to choose within the fight coverage study's choices.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
