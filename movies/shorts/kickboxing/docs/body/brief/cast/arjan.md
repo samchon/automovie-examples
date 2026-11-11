@@ -72,7 +72,7 @@ He touches gloves with Bastien before the first exchange and treats him as an eq
 
 ### Reading the tell {#reads-the-tell}
 
-From the moment Bastien first blocks his body kick with a dropping left arm, Arjan watches for that arm. He knows the drop comes at the rising knee, before the kick is readable, and that it costs Bastien nothing low: a right low kick meets the check it would have met without the drop, landing only when his hook has loaded Bastien's lead leg first, and his clinch knee still meets the elbow. Only the head above the lowered arm is open, so he spends nothing on the drop until he can reach that head. Before he risks the finish he proves it with the body-kick feint: the knee rises, the arm drops, and his right cross lands over it. Once the habit is set he varies what follows the rising knee, so Bastien cannot tell the feint from the kick.
+From the moment Bastien first blocks his body kick with a dropping left arm, Arjan watches for that arm. He knows the drop comes at the rising knee, before the kick is readable, and that it costs Bastien nothing low: a right low kick fares exactly as it would without the drop, checked when Bastien can check it and landing when he cannot, as when a hook has loaded his lead leg or he is slow to replant a checked leg, and his clinch knee still meets the elbow. Only the head above the lowered arm is open, so he spends nothing on the drop until he can reach that head. Before he risks the finish he proves it with the body-kick feint: the knee rises, the arm drops, and his right cross lands over it. Once the habit is set he varies what follows the rising knee, so Bastien cannot tell the feint from the kick.
 
 ## State changes {#state}
 

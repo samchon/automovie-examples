@@ -190,7 +190,7 @@ It states what he knows about Bastien's tell and when he comes to know it.
 
 ## @evidence shared/principles/common.md#specificity
 
-He learns it at a defined moment, the first time Bastien blocks his body kick with a dropping arm, knows it opens only the head above that arm, and proves it with the body-kick feint and a landed cross.
+He learns it at a defined moment, the first time Bastien blocks his body kick with a dropping arm, knows it opens only the head above that arm, while his right low kick fares exactly as it would without the drop (checked when Bastien can check it, landing when a hook has loaded his lead leg or he is slow to replant a checked leg), and proves it with the body-kick feint and a landed cross.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
