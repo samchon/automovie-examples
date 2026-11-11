@@ -58,7 +58,7 @@ It states once everything the commission leaves out of the film: what lies outsi
 
 ## @evidence shared/principles/common.md#specificity
 
-Each exclusion is concrete (walkout, interval, announcement, raised hand, replay, slow motion, music, a named injury) rather than a tone word.
+Each exclusion is concrete (walkout, interval, announcement, raised hand, replay, slow motion, music, a named injury) rather than a tone word, and it names the one crew member who is inside the light, the apron camera's operator.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 

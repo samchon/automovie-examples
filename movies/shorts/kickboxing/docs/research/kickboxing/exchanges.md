@@ -86,7 +86,7 @@ Consequences [choice, within the commission's ruling that contacts before the fi
 - A landed or glancing body punch, body kick or knee empties the receiver's breath with an audible grunt, folds his near elbow toward the struck ribs and costs him a step of ground or the next beat of attack.
 - A landed or glancing low kick moves the receiver's weight off the struck leg; repeated, it leaves the leg slow to bear weight for a moment after each one.
 - A landed or glancing punch to the head turns the head with it and opens the guard for a moment; the receiver resets his guard and gives ground.
-- A high kick before the finish never lands clean: it is blocked on the forearm beside the head, or, when the block is late, it glances off the cover, knocking the receiver's head and covering arm aside and breaking his balance for a step; he covers up and gives ground.
+- A high kick before the finish never lands clean. It is blocked on the forearm beside the head; or, when the block is late, it glances off the cover; or, when nothing answers it, it skids off the receiver's moving head and shoulder. Either glance knocks his head aside, with his covering arm when there is one, and breaks his balance for a step; he covers up and gives ground, and he does not go down.
 - A landed teep stops the receiver's forward movement and pushes him back a step or two with an emptied breath; a parried teep turns him slightly off his line.
 - A blocked, checked or parried strike stops at the defending limb and costs the defender nothing but position; a check costs the kicker his balance on the checked leg.
 - Only the Brazilian kick drops a fighter in this bout, under the [knockout study](knockout.md#fall).

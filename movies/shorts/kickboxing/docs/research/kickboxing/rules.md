@@ -54,7 +54,7 @@ The rules give no cadence for the count. Other codes do:
 - [reported] Florida: the referee "shall announce the passing of the seconds, accompanying the count with a downward motion of his arm", with a timekeeper giving "the correct one second interval" (`FAC` 61K1-3.033(2)(a)1.b).
 - [reported] World Muaythai Council: "the referee must wait for one (1) second before he begins counting loudly from one to ten with one-second interval", showing "a hand signal for each second" (`WMC` §16.9).
 
-Law [choice, from the codes above]: the count starts when the standing fighter stands in the farthest neutral corner facing the centre; one second later the referee calls "One", and each following number lands one second after the last, so "Ten" closes the tenth second after "One". A fighter who has not stood up with a ready guard by eight is not checked: the referee counts straight on to ten, which is a knockout, and the timekeeper's bell then ends the match.
+Law [choice, from the codes above]: the count starts when the standing fighter stands in the farthest neutral corner facing the centre; one second later the referee calls "One", and each following number lands one second after the last, so "Ten" lands nine seconds after "One", ten seconds after the count began. A fighter who has not stood up with a ready guard by eight is not checked: the referee counts straight on to ten, which is a knockout, and the timekeeper's bell then ends the match.
 
 ## The result {#result}
 

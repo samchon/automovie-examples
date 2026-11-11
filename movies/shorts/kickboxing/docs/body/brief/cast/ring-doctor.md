@@ -40,7 +40,7 @@ Her only concern is the fallen fighter; she ignores the winner and the crowd.
 
 ### With the referee {#with-referee}
 
-The referee makes room for her at once and stays at the fallen man's side while she works.
+The referee, already kneeling at the fallen man's side by his chest, leaves his head free for her and stays where he is while she works.
 
 ## State changes {#state}
 

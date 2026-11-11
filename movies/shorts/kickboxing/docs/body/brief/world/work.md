@@ -1,4 +1,4 @@
-﻿# The work
+# The work
 
 ## Fixed conditions {#conditions}
 
@@ -28,4 +28,4 @@ They watch a level fight in which the lead keeps changing hands, feel the round'
 
 ### Outside the round {#left-out}
 
-The film shows no walkout, introductions, interval, later round, announcement of the result, raising of the winner's hand or post-fight interview, and no replay, slow motion, time compression, commentary or music. Nobody is shown attacking the fallen man, and nothing in picture or sound states a medical cause for the knockout or names an injury. Cornermen, judges, the timekeeper and the audience stay outside the light; only their sound reaches the film, as the [arena crowd](../crowds/arena-crowd.md#unseen) and the [ring sound](../sound/ring-sound.md#palette) record.
+The film shows no walkout, introductions, interval, later round, announcement of the result, raising of the winner's hand or post-fight interview, and no replay, slow motion, time compression, commentary or music. Nobody is shown attacking the fallen man, and nothing in picture or sound states a medical cause for the knockout or names an injury. Cornermen, judges, the timekeeper and the audience stay outside the light, the [apron camera's operator](../cast/camera-operator.md#who) being the one member of the crew inside it; only their sound reaches the film, as the [arena crowd](../crowds/arena-crowd.md#unseen) and the [ring sound](../sound/ring-sound.md#palette) record.

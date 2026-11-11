@@ -18,7 +18,7 @@ The apron and neutral corners it uses are owned by the ring record and cited.
 
 ## @evidence instructions/commission.md#camera
 
-The apron camera "walks the apron to stay side-on to the line between the fighters as that line turns", the camera reacting to the action.
+The apron camera "walks the apron to stay side-on to the line between the fighters as that line turns", the camera reacting to the action; its operator is seen whenever another camera's view takes in his stretch of apron, which the camera operator record owns.
 
 # docs/body/brief/cinematography/coverage.md#framing
 

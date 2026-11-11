@@ -14,7 +14,7 @@ No work-specific contract is adopted at these checkpoints, because every require
 - The fall onto the right side departs from the installed `knockdown` action, which lies supine; the knockout study owns the fall's law, and Bastien's state facet the outcome.
 - The polygon man's facelessness conflicts with the commission's "expression" for the referee; `#referee` records the reading, and the work record's representation facet states what cannot be shown.
 - Language: English for the screenplay and the referee's words is owned by `#language`; the fighters have no speech, so no register, dialect or honorific choice arises; number wording is limited to the count, owned by the contest record.
-- Production coverage at these checkpoints: the officials and crowd the films show (referee, ring doctor, unseen crowd and corners) each have a brief owner and a study; no element kind lacks a future source folder that this commission could judge, and that inspection stays open for checkpoint 3.
+- Production coverage at these checkpoints: the officials, crew and crowd the film shows (referee, ring doctor, the apron camera's operator, unseen crowd and corners) each have a brief owner and a study; no element kind lacks a future source folder that this commission could judge, and that inspection stays open for checkpoint 3.
 
 Risks examined and found covered by shared owners: a downstream screenplay inventing a rule (the contest record and the rules study), an official left idle on screen (brief obligation `#coherent-brief` statement 4 and the referee record), an outcome no table covers (screenplay beat decisions and the exchanges outcome table), and a camera choice with no practice behind it (the coverage record and the fight coverage study).
 

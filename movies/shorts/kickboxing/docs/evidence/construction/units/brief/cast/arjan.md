@@ -124,7 +124,7 @@ It states what is heard from him.
 
 ## @evidence shared/principles/common.md#specificity
 
-Breath tied to action: an exhale on each strike, a held breath when hit in the body, deepening breathing, a wordless shout at the win.
+Breath tied to action: an exhale on each strike, a grunt and an emptied breath when hit in the body, as the ring sound and the outcome table give it, deepening breathing, a wordless shout at the win.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 

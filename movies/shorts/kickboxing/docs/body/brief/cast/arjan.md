@@ -54,7 +54,7 @@ When Bastien drags his rear foot and turns his hip as if to kick low, Arjan lift
 
 ### Silent {#silent}
 
-He says nothing in the ring. His voice is his breathing: a short exhale with each strike, a held breath when he is hit in the body, breathing that deepens as the round goes on, and a wordless shout when he wins.
+He says nothing in the ring. His voice is his breathing: a short exhale with each strike, a grunt and an emptied breath when he is hit in the body, breathing that deepens as the round goes on, and a wordless shout when he wins.
 
 ## Values and motives {#values}
 

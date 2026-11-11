@@ -8,7 +8,7 @@ A tripod camera at ringside, raised so it looks over the ropes, that holds both 
 
 ### The apron camera {#apron-camera}
 
-A handheld camera on the [apron](../sets/ring.md#apron), outside the ropes, that follows the exchanges. It works at sizes from both fighters full length down to one man from the knees up, and its operator walks the apron to stay side-on to the line between the fighters as that line turns.
+A handheld camera on the [apron](../sets/ring.md#apron), outside the ropes, that follows the exchanges. It works at sizes from both fighters full length down to one man from the knees up, and its operator walks the apron to stay side-on to the line between the fighters as that line turns. He is part of the event and is seen: whenever the hard or corner camera's view takes in his stretch of apron, he is in the picture, as the [camera operator](../cast/camera-operator.md#who) record describes him, and the film does not frame around him; his [placement](../cast/camera-operator.md#placement) keeps him beyond the fighters in those views.
 
 ### The corner camera {#corner-camera}
 

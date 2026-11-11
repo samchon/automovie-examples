@@ -26,7 +26,7 @@ The bell opens round one. The referee stands beside the two fighters at the cent
 
 ### Nobody down before the finish {#no-early-knockdown}
 
-Every blow before the Brazilian kick, landed or glancing, costs breath, guard or balance and never puts a man on the canvas, as the [commission](../../../instructions/commission.md#contacts-before-finish) rules and the [consequences](../../../research/kickboxing/exchanges.md#outcomes) of the outcome table give it. No kick reaches a head clean before the finish: a high kick is blocked on the forearm beside the head or glances off the cover. The Brazilian kick is the bout's only knockdown.
+Every blow before the Brazilian kick, landed or glancing, costs breath, guard or balance and never puts a man on the canvas, as the [commission](../../../instructions/commission.md#contacts-before-finish) rules and the [consequences](../../../research/kickboxing/exchanges.md#outcomes) of the outcome table give it. No kick reaches a head clean before the finish: a high kick is blocked on the forearm beside the head, glances off the cover when the block is late, or, when nothing answers it, skids off the moving head and shoulder. A glancing high kick knocks the receiver's head aside and breaks his balance for a step; he covers up and gives ground, and stays on his feet. The Brazilian kick is the bout's only knockdown.
 
 ### The count {#count}
 

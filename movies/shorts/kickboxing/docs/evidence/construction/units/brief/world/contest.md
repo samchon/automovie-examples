@@ -58,7 +58,7 @@ The count is this contest's: started only when the standing man faces the centre
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles the baseline condition the commission fixes (no early knockdown), with its consequence for head kicks (blocked or glancing, never clean, as the outcome table's consequences give), and the procedure the anchors at 157, 158 to 167 and 167.6 hang on, leaving those seconds to the screenplay.
+It settles the baseline condition the commission fixes (no early knockdown), with its consequence for head kicks (blocked, glancing off a late cover, or skidding off the head when unanswered, never clean, and never a knockdown, as the outcome table and its consequences give), and the procedure the anchors at 157, 158 to 167 and 167.6 hang on, leaving those seconds to the screenplay.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
