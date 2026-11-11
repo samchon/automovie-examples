@@ -422,7 +422,7 @@ The landed kick's hollow whack and grunt against the blocked kick's duller doubl
 
 ## @evidence shared/principles/screenplay.md#attention-and-duration
 
-The landing gets a push in and two steps of ground; the drop gets a still frame; Bastien's answers keep the phase his as much as Arjan's.
+The landing gets a push in that keeps both men head to toe and a step of ground, as the consequences give a landed body kick; the drop gets a still frame; Bastien's answers keep the phase his as much as Arjan's.
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
@@ -588,7 +588,7 @@ The knee's blunt knock on the elbow and the low kick's smack while the arm drops
 
 ## @evidence shared/principles/screenplay.md#attention-and-duration
 
-Four beats; the low kick landing gets the zoom in.
+Four beats; the low kick landing is held in the hard camera's static medium wide, both men head to toe, so the loaded leg and the dropped elbow read together.
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 

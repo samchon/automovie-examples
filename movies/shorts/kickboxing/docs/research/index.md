@@ -21,7 +21,7 @@ Each observation in a study is marked with its kind:
 
 | Mark | Meaning |
 | --- | --- |
-| [reported] | The retained source states it: rule text, a coaching statement, a production account, a fight report or a published measurement, quoted or closely paraphrased with its locator |
+| [reported] | The retained source states it: rule text, a coaching statement, a production account, a fight report or a published measurement, quoted or closely paraphrased and cited by the source's id, or, in a bullet that continues the source named just before it, by that source's section, page or author. A [reported] record that a source was searched for and not found names no source, and the study records it as unavailable |
 | [inference] | The study's reading of the reported observations it follows, with its reasoning in the text |
 | [choice] | The production's own decision, made within the reported practice and named as a decision |
 
@@ -29,7 +29,7 @@ No study claims a direct observation of footage: no video was acquired or watche
 
 ## Sources {#sources}
 
-Locators are given at each use in the studies. "Private" means no open licence was found and the copy is for this production's private study only.
+Many uses in the studies add a locator to the id, a page, section, table, rule or numbered item; others give the id alone with the quoted words and point to the retained copy as a whole. "Private" means no open licence was found and the copy is for this production's private study only.
 
 ### Rules and officiating
 

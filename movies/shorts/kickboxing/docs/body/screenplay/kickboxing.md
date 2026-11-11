@@ -71,8 +71,8 @@ Bastien steps in again to close the range. As his front foot lands, Arjan lifts 
 - Intent: Bastien steps in to close the range; Arjan stops the entry with the teep before Bastien can set his feet; the referee keeps his side view of both men from across their line.
 - Outcome: the teep lands on Bastien's stomach as his foot plants, with no answer, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: Bastien's forward movement stops and he gives a step with an emptied breath, as the [consequences](../../research/kickboxing/exchanges.md#outcomes) give a landed teep; no mark.
-- Space: Bastien pushed back off the centre toward the white corner; Arjan steps onto the centre; the referee keeps across their line.
-- Camera: the apron camera, medium two-shot full length, eye level, a small push in to both men from the knees up as the sole lands, easing back to full length as Bastien steps back.
+- Space: Bastien pushed back off the centre toward the white corner; Arjan steps onto the centre; the referee keeps across their line, a little toward one end of it, off the apron camera's line of sight.
+- Camera: the apron camera, medium two-shot full length, eye level, a small push in to a tighter two-shot that still holds both men head to toe as the sole lands, easing back to medium two-shot full length as Bastien steps back.
 - Sound: dialogue none; foley the sole on the stomach, a flat push, and Bastien's emptied breath; ambience the crowd's first murmur of approval; effects none; music none.
 - Continuity: Arjan stands on the centre.
 
@@ -86,7 +86,7 @@ Arjan slides out to his right, off the line.
 - Intent: Bastien kicks the lead leg he means to break; Arjan checks and counters at once; the referee keeps his side view of both men from across their line.
 - Outcome: the low kick checked, the counter cross blocked by Bastien's cover, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes) and [defence that attacks](../../research/kickboxing/exchanges.md#defence).
 - Consequence: the check costs Bastien his balance on the checked leg for a beat, as the [consequences](../../research/kickboxing/exchanges.md#outcomes) give; nothing else to either body.
-- Space: the exchange on the centre, Arjan at the black-corner end of their line and Bastien at the white-corner end; Arjan exits a step to his right, as the [exit](../../research/kickboxing/ring-craft.md#exit) gives a right-hand finish; the referee shifts to keep across the line.
+- Space: the exchange on the centre, Arjan at the black-corner end of their line and Bastien at the white-corner end; Arjan exits a step to his right, as the [exit](../../research/kickboxing/ring-craft.md#exit) gives a right-hand finish; the referee shifts to keep across the line, a little toward one end of it, off the apron camera's line of sight.
 - Camera: the apron camera, from the far-neutral-corner end of the far apron, medium two-shot full length, eye level, side-on with Bastien's kicking leg and Arjan's checking leg to the lens, holding side-on as Arjan slides out.
 - Sound: dialogue none; foley shin on shin, a hard knock, and the cross on Bastien's gloves, a heavier slap; ambience the crowd; effects none; music none.
 - Continuity: the end of the first phase; Arjan holds the centre, just off it to its right.
@@ -105,7 +105,7 @@ Arjan slides out to his right, off the line.
 
 ### Bastien's four {#s02-b01}
 
-Bastien comes forward behind a combination: jab, cross, left hook to the body, right low kick. Arjan's right glove turns the jab and his gloves take the cross. His right elbow comes down in time over the body hook, but the blow pushes his weight onto his lead leg, and the low kick lands across the outside of his left thigh with a heavy smack before he can lift it. His leg gives under him for a moment before he sets it again.
+Bastien comes forward behind a combination: jab, cross, left hook to the body, right low kick. Arjan's right glove turns the jab and his gloves take the cross. His right elbow comes down in time over the body hook, but the blow pushes his weight onto his lead leg, and the low kick lands across the outside of his left thigh with a heavy smack before he can lift it. His weight comes off the leg for a moment before he sets it again.
 
 - Cast: [Bastien](../brief/cast/bastien.md#weapons), [Arjan](../brief/cast/arjan.md#defence), [the referee](../brief/cast/referee.md#positioning)
 - Intent: Bastien loads Arjan's lead leg with the hook and kicks it, his aim of breaking it down from [his objective](../brief/cast/bastien.md#objective); Arjan defends each strike by its line; the referee keeps his side view of both men from across their line.
@@ -139,7 +139,7 @@ Arjan pivots on his lead foot to his left, out of range.
 - Intent: Bastien keeps pressing; Arjan slips and counters to the body from the outside position; the referee keeps his side view of both men from across their line.
 - Outcome: jab parried, cross evaded by the slip, the hook to the body landed, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: Bastien's breath empties with an audible grunt, his near elbow folds toward the struck ribs, and he gives a step, losing the next beat of attack, as the [consequences](../../research/kickboxing/exchanges.md#outcomes) give; no mark.
-- Space: the exchange in the open ring toward the black corner, on the same line, Arjan at its black-corner end; Arjan pivots out to his left after a left-hand finish, as the [exit](../../research/kickboxing/ring-craft.md#exit) gives; Bastien gives a step toward the centre; the referee keeps across their line.
+- Space: the exchange in the open ring toward the black corner, on the same line, Arjan at its black-corner end; Arjan pivots out to his left after a left-hand finish, as the [exit](../../research/kickboxing/ring-craft.md#exit) gives; Bastien gives a step toward the centre; the referee keeps across their line, a little toward one end of it, off the apron camera's line of sight.
 - Camera: cut to the apron camera, from the far half of the left-side apron, near its middle, medium two-shot full length, eye level, side-on with Bastien's right side, where the hook lands, to the lens, still.
 - Sound: dialogue none; foley the parry, the hook's deep thud on the body, Bastien's grunt; ambience the crowd's roar; effects none; music none.
 - Continuity: Bastien's right ribs have taken a hook.
@@ -181,7 +181,7 @@ Bastien drags his rear foot and turns his hip as if to kick low. Arjan's left le
 - Intent: Bastien sells the low kick to lift Arjan's check, then punches while he is on one leg; Arjan answers the drag with his check before he can tell it is a feint, then covers too late; the referee keeps his side view of both men from across their line.
 - Outcome: the feint read; the cross glancing through a late cover, under the [feints law](../../research/kickboxing/exchanges.md#feints) and the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: Arjan's head turns and his guard opens for a moment; he gives ground, as the [consequences](../../research/kickboxing/exchanges.md#outcomes) give a glancing head punch; no mark.
-- Space: their line runs from Arjan, at its black-corner end, to Bastien; Arjan gives a step back toward the black corner; Bastien follows a step; the referee keeps across their line.
+- Space: their line runs from Arjan, at its black-corner end, to Bastien; Arjan gives a step back toward the black corner; Bastien follows a step; the referee keeps across their line, a little toward one end of it, off the apron camera's line of sight.
 - Camera: cut to the apron camera, from beside the far neutral corner post, medium two-shot full length, eye level, side-on with Arjan's left side and Bastien's right side to the lens, still, so the dragged foot, the lifted check, the cross skidding into the side of Arjan's head and the hop are in frame.
 - Sound: dialogue none; foley the drag of Bastien's foot, the cross's softened snap through Arjan's gloves, Arjan's hop on the canvas; ambience the crowd's roar; effects none; music none.
 - Continuity: Bastien knows Arjan checks the drag; Arjan's habit is exposed.
@@ -209,8 +209,8 @@ Bastien gives ground. Arjan pivots out to his left.
 - Intent: Bastien goes back to the leg; Arjan checks and makes him pay for the slow replant; the referee keeps his side view of both men from across their line.
 - Outcome: the low kick checked; the cross blocked, the hook glancing through a late cover, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: the check costs Bastien his balance for a beat; the hook turns his head and opens his guard for a moment; he gives ground; no mark.
-- Space: the exchange in the open ring toward the left side, where Arjan's step has taken them, their line across the ring with Arjan at its left-side end; Arjan pivots to his left after the hook, turning their line a little; the referee keeps across their line.
-- Camera: cut to the apron camera, from the far apron toward its far-neutral-corner end, medium two-shot full length, eye level, side-on with Arjan's checking leg and Bastien's right side, where the hook glances, to the lens, a small push in to both men from the knees up as the hook glances, easing back to full length as Bastien gives ground.
+- Space: the exchange in the open ring toward the left side, where Arjan's step has taken them, their line across the ring with Arjan at its left-side end; Arjan pivots to his left after the hook, turning their line a little; the referee keeps across their line, a little toward one end of it, off the apron camera's line of sight.
+- Camera: cut to the apron camera, from the far apron toward its far-neutral-corner end, medium two-shot full length, eye level, side-on with Arjan's checking leg and Bastien's right side, where the hook glances, to the lens, a small push in to a tighter two-shot that still holds both men head to toe as the hook glances, easing back to medium two-shot full length as Bastien gives ground.
 - Sound: dialogue none; foley shin on shin, the cross on the gloves, the late cover's slap and the hook's softened snap, Bastien's exhale; ambience the crowd's roar; effects none; music none.
 - Continuity: the round is level.
 
@@ -291,7 +291,7 @@ Both men step back, and as they do the referee steps into the gap, then straight
 
 ### Out to the centre {#s04-b04}
 
-Bastien steps in to put Arjan back on the ropes. Arjan steps to his right as if to go along them, and when Bastien steps across to close it, he drives back the other way off his lead foot, past Bastien's right shoulder, and pivots out into the open ring. He walks to the centre and takes it back.
+Bastien steps in to put Arjan back on the ropes. Arjan steps to his right as if to go along them, and when Bastien steps across to close it, he drives back the other way off his right foot, past Bastien's right shoulder, and pivots out into the open ring. He walks to the centre and takes it back.
 
 - Cast: [Arjan](../brief/cast/arjan.md#rhythm), [Bastien](../brief/cast/bastien.md#rhythm), [the referee](../brief/cast/referee.md#positioning), [the camera operator](../brief/cast/camera-operator.md#placement)
 - Intent: Arjan gets off the far ropes before Bastien can pin him there and takes the centre back; Bastien tries to pin him and misreads the change of direction; the referee keeps his side view of both men from across their line; the operator keeps to his working stretch on the far apron.
@@ -318,14 +318,14 @@ Bastien steps in to put Arjan back on the ropes. Arjan steps to his right as if 
 
 From the centre Arjan jabs; Bastien turns it aside. Arjan throws the cross; Bastien's gloves close high around his face to take it. Arjan's right knee is already rising behind the cross, and his shin whips into Bastien's left ribs under the raised arm with a heavy, hollow whack.
 
-Bastien folds round it with a grunt and gives two steps.
+Bastien folds round it with a grunt and gives a step.
 
 - Cast: [Arjan](../brief/cast/arjan.md#weapons), [Bastien](../brief/cast/bastien.md#drops-the-left-arm), [the referee](../brief/cast/referee.md#positioning)
 - Intent: Arjan hides his main tool behind the cross; Bastien covers the punch he can see; the referee keeps his side view of both men from across their line.
 - Outcome: jab parried, cross blocked, the body kick landed with no answer, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: Bastien's breath empties in a grunt, his left elbow folds onto his ribs and he gives ground, as the [consequences](../../research/kickboxing/exchanges.md#outcomes) give a landed body kick; no mark. This is the third body kick Bastien has seen and the first to land, and it teaches him his habit, under [the habits law](../../research/kickboxing/exchanges.md#habits).
-- Space: their line runs across the ring, Arjan at its right-side end facing the left side; from the centre Bastien gives two steps back toward the left side, along the line the apron camera sees side-on; Arjan follows one; the referee keeps across their line on its far side, a little toward Arjan's end, off the apron camera's line of sight.
-- Camera: cut to the apron camera, from the middle of the far apron, medium two-shot full length, eye level, side-on with Arjan's right side and Bastien's left side, where the kick lands, to the lens, a short push in to both men from the knees up as the kick lands, easing back to full length as Bastien gives ground.
+- Space: their line runs across the ring, Arjan at its right-side end facing the left side; from the centre Bastien gives a step back toward the left side, along the line the apron camera sees side-on; Arjan follows it; the referee keeps across their line on its far side, a little toward Arjan's end, off the apron camera's line of sight.
+- Camera: cut to the apron camera, from the middle of the far apron, medium two-shot full length, eye level, side-on with Arjan's right side and Bastien's left side, where the kick lands, to the lens, a short push in to a tighter two-shot that still holds both men head to toe as the kick lands, easing back to medium two-shot full length as Bastien gives ground.
 - Sound: dialogue none; foley the parry, the cover's slap, the body kick's hollow whack, Bastien's grunt; ambience the crowd's roar; effects none; music none.
 - Continuity: Bastien's left ribs have taken the body kick; from here his left arm drops at Arjan's rising right knee.
 
@@ -337,7 +337,7 @@ Bastien comes straight back with jab and cross. Arjan turns the jab, slips the c
 - Intent: Bastien answers the body kick at once; Arjan counters off the slip; Bastien counters the counter from his roll; the referee keeps his side view of both men from across their line.
 - Outcome: jab parried, cross evaded by the slip; Arjan's hook evaded by Bastien's roll; Bastien's uppercut blocked by Arjan's cover, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: none to either body.
-- Space: the exchange just off the centre toward the left side, on the same line, Arjan at its right-side end; the referee keeps across their line on its far side.
+- Space: the exchange just off the centre toward the left side, on the same line, Arjan at its right-side end; the referee keeps across their line on its far side, a little toward one end of it, off the apron camera's line of sight.
 - Camera: the apron camera, medium two-shot full length, eye level, side-on, still.
 - Sound: dialogue none; foley the parry, the cross's whoosh, the hook's whoosh over Bastien's head, the uppercut's slap on Arjan's gloves; ambience the crowd's rising noise; effects none; music none.
 - Continuity: no change.
@@ -352,7 +352,7 @@ Bastien kicks back at once with his right low kick. Arjan checks it, shin on shi
 - Intent: Arjan throws his main tool again; Bastien, stung by the last one, meets it early and counters with the low kick he favours after a blocked body kick; Arjan checks it and punishes the hanging leg with the teep; the referee keeps his side view of both men from across their line.
 - Outcome: the jab parried; the body kick blocked by an elbow block started at the rising knee, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes) and [the habits law](../../research/kickboxing/exchanges.md#habits); Bastien's low kick checked; Arjan's teep landed.
 - Consequence: the check costs Bastien his balance for a beat; the teep empties his breath and pushes him back a step; no mark. Arjan sees the drop: from this moment he watches for that arm, as [his knowledge](../brief/cast/arjan.md#reads-the-tell) records.
-- Space: the exchange on the same line toward the left side, Arjan at its right-side end; Bastien pushed back a step toward the left side; Arjan pivots out to his left after the lead-leg finish, turning their line only a little; the referee keeps across their line on its far side.
+- Space: the exchange on the same line toward the left side, Arjan at its right-side end; Bastien pushed back a step toward the left side; Arjan pivots out to his left after the lead-leg finish, turning their line only a little; the referee keeps across their line on its far side, a little toward one end of it, off the apron camera's line of sight.
 - Camera: the apron camera, medium two-shot full length, eye level, side-on with Arjan's right side and Bastien's left side, where the knee rises and the elbow comes down, to the lens, still.
 - Sound: dialogue none; foley the parry, the blocked kick's double knock, shin on shin, the teep's flat push and Bastien's emptied breath; ambience the crowd, quieter than for the landed kick; effects none; music none.
 - Continuity: Bastien's habit is set: his left arm drops at every rising right knee of Arjan's from now on.
@@ -392,7 +392,7 @@ Arjan slides out to his right.
 - Intent: Arjan kicks low; Bastien's arm drops by habit, his leg checks by sight, and he counters from the check; the referee keeps his side view of both men from across their line.
 - Outcome: jab parried, cross blocked, the low kick checked with the arm dropped as well, under the [habits law](../../research/kickboxing/exchanges.md#habits); Bastien's counter cross blocked, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: the check costs Arjan his balance on the kicking leg for a beat; the drop costs Bastien nothing low.
-- Space: the exchange in the open ring toward the right side, on the same line, Arjan at its right-side end; Arjan slides out to his right after the right-leg finish; the referee keeps across their line.
+- Space: the exchange in the open ring toward the right side, on the same line, Arjan at its right-side end; Arjan slides out to his right after the right-leg finish; the referee keeps across their line, a little toward one end of it, off the apron camera's line of sight.
 - Camera: cut to the apron camera, from the middle of the far apron, medium two-shot full length, eye level, side-on with Arjan's right side and Bastien's left side, where the dropped elbow and the checking shin meet the kick, to the lens, still.
 - Sound: dialogue none; foley the parry, the cover, shin on shin, the counter cross on Arjan's gloves; ambience the crowd; effects none; music none.
 - Continuity: the drop happens at every rising right knee.
@@ -406,7 +406,7 @@ Bastien drags his rear foot and turns his hip. Arjan's left leg lifts to check a
 - Outcome: the feint read; the low kick landed on the leg as it takes his weight, under the [feints law](../../research/kickboxing/exchanges.md#feints) and the [combinations law](../../research/kickboxing/exchanges.md#combinations).
 - Consequence: Arjan's weight comes off his left leg for a moment; the second low kick to land on him; no mark.
 - Space: their line still across the ring, Arjan at its right-side end; Bastien steps in from the open ring toward the centre; Arjan gives a step toward the right side; the referee keeps across their line on its far side; the operator on the far apron beyond them.
-- Camera: cut to the hard camera, medium wide, both full length, eye level, their line close to square to it, so Arjan's left thigh, where the kick lands, and Bastien's kicking side face the lens, a slow zoom in to both men from the knees up as the kick lands, easing back out to medium wide, both full length, as Arjan gives his step.
+- Camera: cut to the hard camera, medium wide, both full length, eye level, their line close to square to it, so Arjan's left thigh, where the kick lands, and Bastien's kicking side face the lens, static through the contact, both men held head to toe with the referee and the canvas around them.
 - Sound: dialogue none; foley the drag of Bastien's foot, Arjan's foot coming down, the low kick's heavy smack; ambience the crowd's roar; effects none; music none.
 - Continuity: Arjan's left thigh has taken two landed low kicks.
 
@@ -461,7 +461,7 @@ Arjan's left leg buckles for an instant. He steps back onto his rear foot and ho
 - Outcome: jab parried, cross evaded, body hook blocked by the elbow, low kick landed on the loaded leg, under the [combinations law](../../research/kickboxing/exchanges.md#combinations) and the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: Arjan's weight leaves his left leg; this is the third low kick to land on him, so the leg is slow to take his weight for a moment after this landing and after any later one, as [his state](../brief/cast/arjan.md#through-the-round) records; no mark.
 - Space: Bastien drives Arjan from the centre most of the way toward the black corner; the referee walks with them across their line and, as the leg buckles, comes a stride closer from the side, toward Bastien's end of the line and wide of the apron camera's line to the pair.
-- Camera: cut to the apron camera, from the far-neutral-corner end of the far apron, wide two-shot full length, eye level, panning along the far apron toward the far neutral corner with the drive, side-on with Arjan's left side, where the low kick lands, to the lens.
+- Camera: cut to the apron camera, from the far-neutral-corner end of the far apron, wide two-shot full length, eye level, handheld, travelling along the far apron toward the far neutral corner with the drive, side-on with Arjan's left side, where the low kick lands, to the lens.
 - Sound: dialogue none; foley the parry, the cross's whoosh, the glove on the elbow's short knock, the low kick's heavy smack, Bastien's exhales; ambience the crowd's long roar; effects none; music none.
 - Continuity: Arjan's left thigh has taken three landed low kicks.
 
@@ -474,7 +474,7 @@ Bastien sees the weight on Arjan's rear foot and comes in with jab and cross. Ar
 - Outcome: jab parried, cross evaded, the counter hook landed, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: Bastien's head turns with the hook and his guard opens for a moment; he gives ground and resets his guard, as the [consequences](../../research/kickboxing/exchanges.md#outcomes) give a landed head punch; he stays on his feet, under [nobody down before the finish](../brief/world/contest.md#no-early-knockdown); no mark.
 - Space: the exchange between the centre and the black corner; Bastien gives two steps back toward the centre; Arjan pivots out to his left; the referee, a stride closer than his working distance since the low kick, toward Bastien's end and wide of the apron camera's line to the pair, drops back to it as Arjan moves out.
-- Camera: the apron camera, medium two-shot full length, eye level, side-on with Bastien's right side, where the hook lands, to the lens, a short push in to both men from the knees up as the hook lands, easing back to full length as Bastien gives his two steps.
+- Camera: the apron camera, medium two-shot full length, eye level, side-on with Bastien's right side, where the hook lands, to the lens, a short push in to a tighter two-shot that still holds both men head to toe as the hook lands, easing back to medium two-shot full length as Bastien gives his two steps.
 - Sound: dialogue none; foley the parry, the cross's whoosh, the hook's sharp snap on the head; ambience the crowd erupts; effects none; music none.
 - Continuity: initiative changes hands.
 
@@ -499,7 +499,7 @@ At long range Arjan rolls his shoulder and shows his jab. This time Bastien's gl
 - Intent: Arjan tests Bastien's hands again; Bastien does not bite; the referee keeps his side view of both men from across their line.
 - Outcome: the feint ignored, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: none.
-- Space: long range in the open ring, their line across it with Arjan at its left-side end; the referee keeps across their line on its far side.
+- Space: long range in the open ring, their line across it with Arjan at its left-side end; the referee keeps across their line on its far side, a little toward one end of it, off the apron camera's line of sight.
 - Camera: cut to the apron camera, from the far apron toward its white-corner end, wide two-shot full length, eye level, side-on, still.
 - Sound: dialogue none; foley feet, both men breathing heavily; ambience the crowd; effects none; music none.
 - Continuity: the end of the seventh phase; both men tiring.
@@ -524,7 +524,7 @@ Bastien drags his rear foot and turns his hip. Arjan's left leg comes up to chec
 - Intent: Bastien uses Arjan's habit again; Arjan still checks the drag but covers the punch he now expects; the referee keeps his side view of both men from across their line.
 - Outcome: the feint read; the cross blocked by a cover in time, under the [feints law](../../research/kickboxing/exchanges.md#feints) and the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: none to either body.
-- Space: the exchange in the open ring, their line across it with Arjan at its left-side end; Arjan puts his foot down where he stands; the referee keeps across their line on its far side.
+- Space: the exchange in the open ring, their line across it with Arjan at its left-side end; Arjan puts his foot down where he stands; the referee keeps across their line on its far side, a little toward one end of it, off the apron camera's line of sight.
 - Camera: the apron camera, medium two-shot full length, eye level, side-on with Arjan's lifted left leg and Bastien's right side to the lens, still.
 - Sound: dialogue none; foley the drag of Bastien's foot, the cross on the cover; ambience the crowd; effects none; music none.
 - Continuity: Arjan's habit is unchanged.
@@ -553,7 +553,7 @@ Bastien throws his right low kick. Arjan checks it, shin on shin, and Bastien's 
 - Outcome: Bastien's low kick checked; Arjan's cross blocked, hook blocked, low kick landed on the loaded leg, under the [combinations law](../../research/kickboxing/exchanges.md#combinations) and the [outcome table](../../research/kickboxing/exchanges.md#outcomes); the arm drop changes nothing low, under the [habits law](../../research/kickboxing/exchanges.md#habits).
 - Consequence: the check costs Bastien his balance for a beat; the low kick takes his weight off his left leg for a moment; no mark.
 - Space: the exchange near the centre, their line across the ring with Arjan at its left-side end; Arjan slides out to his right after the right-leg finish; Bastien gives a step; the referee keeps across their line on its far side; the operator on the far apron beyond them.
-- Camera: the hard camera, the same set-up, medium wide, eye level, so Bastien's left thigh, where the low kick lands, and his dropping left elbow face the lens, a slow zoom in to both men from the knees up as the low kick lands, easing back out to medium wide, both full length, as Bastien gives his step.
+- Camera: the hard camera, the same set-up, medium wide, both full length, eye level, so Bastien's left thigh, where the low kick lands, and his dropping left elbow face the lens, static through the contact, both men held head to toe with the referee and the canvas around them.
 - Sound: dialogue none; foley shin on shin, the cross on the cover, the hook on the forearm, the low kick's heavy smack; ambience the crowd's roar; effects none; music none.
 - Continuity: Bastien's left thigh has taken a landed low kick.
 
@@ -592,7 +592,7 @@ At long range Arjan's lead glove reaches out and taps Bastien's left glove, high
 - Intent: Arjan measures the distance to the arm he means to open; Bastien keeps his guard and pushes him off; the referee keeps his side view of both men from across their line.
 - Outcome: two range touches; Bastien's jab parried, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: none.
-- Space: long range in the open ring, Arjan at the right-side end of their line, reaching and drawing back; the referee keeps across their line on its far side.
+- Space: long range in the open ring, Arjan at the right-side end of their line, reaching and drawing back; the referee keeps across their line on its far side, a little toward one end of it, off the apron camera's line of sight.
 - Camera: cut to the apron camera, medium two-shot full length, eye level, side-on with Arjan's right side and Bastien's left glove to the lens, still, so both touches on the same glove read.
 - Sound: dialogue none; foley two light taps of glove on glove, the parry, feet; ambience the crowd quietens between exchanges; effects none; music none.
 - Continuity: no change.
@@ -607,8 +607,8 @@ Bastien's head snaps round. His guard comes apart for a moment and he backs off 
 - Intent: Arjan proves the habit before he risks the finish; Bastien's arm answers the knee before his eyes can; the referee keeps his side view of both men from across their line.
 - Outcome: the feint read, the cross landed over the dropped arm with no answer, under the [feints law](../../research/kickboxing/exchanges.md#feints), the [habits law](../../research/kickboxing/exchanges.md#habits) and the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: Bastien's head turns with the cross and his guard opens; he gives two steps and resets; he stays on his feet, under [nobody down before the finish](../brief/world/contest.md#no-early-knockdown); no mark. Arjan has proved the habit, as [his knowledge](../brief/cast/arjan.md#reads-the-tell) records.
-- Space: the exchange in the open ring; Bastien gives two steps back toward the left side of the ring, along the line the apron camera sees side-on; Arjan slides out to his right after the cross; the referee keeps across their line.
-- Camera: the apron camera, medium two-shot full length, eye level, side-on with Arjan's right side to the lens, a short push in to both men from the knees up as the cross lands, easing back to full length as Bastien backs off.
+- Space: the exchange in the open ring; Bastien gives two steps back toward the left side of the ring, along the line the apron camera sees side-on; Arjan slides out to his right after the cross; the referee keeps across their line, a little toward one end of it, off the apron camera's line of sight.
+- Camera: the apron camera, medium two-shot full length, eye level, side-on with Arjan's right side to the lens, a short push in to a tighter two-shot that still holds both men head to toe as the cross lands, easing back to medium two-shot full length as Bastien backs off.
 - Sound: dialogue none; foley the knee's rise and the foot set back down on the canvas, the cross's sharp snap on the head; ambience the crowd roars at the punch, not at the trick; effects none; music none.
 - Continuity: Arjan knows the drop holds; Bastien does not know why the punch landed.
 
@@ -635,7 +635,7 @@ Three strides out from the corner, Arjan jabs and throws his cross. Bastien turn
 - Intent: Arjan punches his way out of the corner; Bastien slips and counters; Arjan takes himself back to open space; the referee keeps his side view of both men from across their line; the operator shoots the exchange side-on from the right-side apron, then works back along the far apron.
 - Outcome: jab parried, cross evaded by Bastien's slip, Bastien's hook blocked by Arjan's cover, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: none to either body.
-- Space: from three strides out from the near neutral corner back to the open ring near the centre; the referee goes round again to stay across their line, on its far side; the operator on the far half of the right-side apron, then back along the far apron.
+- Space: from three strides out from the near neutral corner back to the open ring near the centre; the referee goes round again to stay across their line, on its far side, a little toward one end of it, off the apron camera's line of sight; the operator on the far half of the right-side apron, then back along the far apron.
 - Camera: the apron camera, from the far half of the right-side apron, near its middle, medium two-shot full length, eye level, handheld, side-on with Arjan's right side and Bastien's left side, where the slip and the hook come, to the lens; cut to the hard camera, medium wide, both full length, eye level, panning as the pair come out of the corner into the ring.
 - Sound: dialogue none; foley the parry, the cross's whoosh, the hook on Arjan's gloves, feet, both men breathing hard; ambience the crowd; effects none; music none.
 - Continuity: the end of the ninth phase.
@@ -660,7 +660,7 @@ Bastien leads with his double jab. Arjan leans away from the first, turns the se
 - Intent: Bastien leads; Arjan counters body then head; Bastien rolls and counters from the roll; the referee keeps his side view of both men from across their line.
 - Outcome: first jab evaded by a sway, second parried; Arjan's body cross blocked by the elbow and his hook evaded by the roll; Bastien's hook blocked by Arjan's cover, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: none to either body.
-- Space: the exchange in the open ring near the centre, Arjan, out of the corner, at the right-side end of their line; the referee keeps across their line on its far side.
+- Space: the exchange in the open ring near the centre, Arjan, out of the corner, at the right-side end of their line; the referee keeps across their line on its far side, a little toward one end of it, off the apron camera's line of sight.
 - Camera: cut to the apron camera, from the middle of the far apron, medium two-shot full length, eye level, side-on with Arjan's right side and Bastien's left elbow, where the body cross lands, to the lens, still.
 - Sound: dialogue none; foley the jab's whoosh, the parry, the glove on the elbow's short knock, the hook's whoosh, Bastien's hook on Arjan's gloves; ambience the crowd; effects none; music none.
 - Continuity: no change.
@@ -676,7 +676,7 @@ The crowd roars.
 - Outcome: jab parried, cross blocked, hook evaded, the high kick glancing through a late high block, under the [outcome table](../../research/kickboxing/exchanges.md#outcomes).
 - Consequence: Arjan's head is knocked aside and his balance broken for a step; he covers up and gives ground, and stays on his feet, as [nobody down before the finish](../brief/world/contest.md#no-early-knockdown) and the [consequences](../../research/kickboxing/exchanges.md#outcomes) give; no mark.
 - Space: the same line, Arjan at its right-side end; Arjan stumbles a step to his right, away from the kick; Bastien comes after him; the referee closes in from the far side at an angle while Arjan is hurt and drops back to his working distance as Arjan sets his feet; the operator on the far apron beyond them.
-- Camera: cut to the hard camera, medium wide, both full length, eye level, their line close to square to it, so Bastien's kicking side and the left side of Arjan's head, where the kick glances, face the lens, a short zoom in to both men from the knees up as the kick glances, easing back out to medium wide, both full length, as Arjan stumbles and covers up.
+- Camera: cut to the hard camera, medium wide, both full length, eye level, their line close to square to it, so Bastien's kicking side and the left side of Arjan's head, where the kick glances, face the lens, static through the contact, both men held head to toe with the referee and the canvas around them.
 - Sound: dialogue none; foley the parry, the cover's slap, the hook's whoosh, the glancing high kick's skidding slap and Arjan's breath snapping out; ambience the crowd's roar; effects none; music none.
 - Continuity: Bastien's best moment of the round.
 
@@ -747,7 +747,7 @@ Arjan's foot is back on the canvas. He stands in his stance, gloves up, and take
 - Intent: Bastien has no intent left in the fall; Arjan stops attacking the moment Bastien goes down; the referee comes in to begin the knockdown procedure; the operator keeps to his working stretch on the far apron.
 - Outcome: Bastien falls onto his right side, as the [commission](../../instructions/commission.md#fall) rules and [the fall](../../research/kickboxing/knockout.md#fall) describes; nobody strikes him, under [what the fighters may do](../brief/world/contest.md#legal-actions).
 - Consequence: Bastien lies on the canvas on his right side, still but for his breathing, until his one attempt to rise before eight ([s11-b04](#s11-b04)), and on his side again from then to the end of the film; no mark, and nothing names a cause, under [outside the round](../brief/world/work.md#left-out).
-- Space: Bastien lies in the near half of the ring toward the near neutral corner; Arjan a step back from him toward the centre; the referee coming in from the far side; the operator on the far apron.
+- Space: Bastien lies in the near half of the ring toward the near neutral corner; Arjan a step back from him along their line, toward the left side; the referee coming in from the far side; the operator on the far apron.
 - Camera: the hard camera, the same shot, uncut from before the kick until Bastien lies still.
 - Sound: dialogue none; foley Bastien's body meeting the canvas, a dull thump, then his loud breathing; ambience the crowd's roar building out of the shock, both corners falling silent; effects none; music none.
 - Continuity: Bastien is down; the finish shot ends here.
@@ -798,7 +798,7 @@ Bastien lies on his right side, breathing hard. In the far neutral corner Arjan 
 - Outcome: the count begins at 157; "One" lands at 158, "Two" at 159, "Three" at 160 and "Four" at 161, under [the count](../brief/world/contest.md#count).
 - Consequence: none.
 - Space: unchanged; Bastien in the near half toward the near neutral corner, the referee a step from him, Arjan in the far neutral corner, the operator on the far apron.
-- Camera: cut at 157 to the corner camera, wide, fighter-head height, static, looking across Bastien, with the referee beside him, to Arjan in the far neutral corner.
+- Camera: cut at 157 to the corner camera, wide, fighter-head height, static, looking across Bastien, with the referee beside him, to Arjan in the far neutral corner, the operator crouched on the far apron beyond them, clear of Arjan's corner.
 - Sound: dialogue the referee's count, each number on its second; foley Bastien's breathing; ambience the crowd holding in a tense, rising noise, the corners silent; effects none; music none.
 - Continuity: the count stands at four.
 
