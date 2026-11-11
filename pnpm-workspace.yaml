@@ -1,0 +1,65 @@
+packages:
+  - movies/shorts/*
+  - movies/series/*
+  - packages/*
+
+# Productions depend on these through `catalog:<name>`, so every production in the workspace resolves the same AutoMovie release; packages released together share one anchor.
+catalogs:
+  automovie:
+    automovie: &automovie "^0.1.0"
+    "@automovie/engine": *automovie
+    "@automovie/evidence": *automovie
+    "@automovie/human": *automovie
+    "@automovie/ingest": *automovie
+    "@automovie/interface": *automovie
+    "@automovie/motions": *automovie
+    "@automovie/recovery": *automovie
+    "@automovie/render": *automovie
+    "@automovie/viewer": *automovie
+  samchon:
+    "@nestia/e2e": "^12.1.0"
+    "@wrtnlabs/evidence": "^0.8.2"
+    ttsc: &ttsc "^0.36.3"
+    "@ttsc/lint": *ttsc
+  typescript:
+    typescript: "^7.0.2"
+  three:
+    three: &three "^0.186.0"
+    "@types/three": *three
+  gltf:
+    "@gltf-transform/core": "^4.5.0"
+  vite:
+    vite: "^5.4.10"
+  media:
+    ffmpeg-static: "^5.2.0"
+    h264-mp4-encoder: "^1.0.12"
+    mp4box: "^2.4.1"
+    playwright: "^1.60.0"
+    playwright-core: "^1.60.0"
+    pngjs: "^7.0.0"
+    "@types/pngjs": "^6.0.5"
+  utils:
+    "@types/node": "^22.19.17"
+
+# This workspace is cloned at `examples/` inside an automovie checkout. Every
+# AutoMovie package resolves to that checkout's source instead of a release,
+# and three.js to the checkout's own copy, so the examples run one instance of
+# three.js shared with the packages. Install the checkout first.
+overrides:
+  automovie: link:../packages/cli
+  "@automovie/engine": link:../packages/engine
+  "@automovie/evidence": link:../packages/evidence
+  "@automovie/human": link:../packages/human
+  "@automovie/ingest": link:../packages/ingest
+  "@automovie/interface": link:../packages/interface
+  "@automovie/motions": link:../packages/motions
+  "@automovie/recovery": link:../packages/recovery
+  "@automovie/render": link:../packages/render
+  "@automovie/template": link:../packages/template
+  "@automovie/viewer": link:../packages/viewer
+  three: link:../node_modules/three
+  "@types/three": link:../node_modules/@types/three
+
+allowBuilds:
+  esbuild: true
+  ffmpeg-static: true
