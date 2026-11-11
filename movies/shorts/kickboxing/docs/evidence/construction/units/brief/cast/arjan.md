@@ -76,7 +76,7 @@ It gives his weapons, his feints, his defence and his finishing kick.
 
 ## @evidence shared/principles/common.md#specificity
 
-A Dutch-style kicker whose main tool is the right body kick off a jab or a jab and cross, with the body-kick feint and the Brazilian kick both leaving from that kick's chamber, so his repertoire is built for the plan the film follows.
+A Dutch-style kicker whose main tool is the right body kick off a jab or a jab and cross, with a left hook that loads the lead leg for the right low kick behind it, with the body-kick feint and the Brazilian kick both leaving from that kick's chamber, so his repertoire is built for the plan the film follows.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
@@ -88,7 +88,7 @@ Weapons, feints, defence and the finish each have their own H3 in this file and 
 
 ## @evidence instructions/commission.md#exchange-vocabulary
 
-Combinations, the shoulder and body-kick feints, the check with its counter, slips, parries, rolls and blocks are all his.
+Combinations, the shoulder and body-kick feints, the check with its counter, slips, parries, rolls and blocks are all his, and each meets an attack of Bastien's that calls for it: he parries the jab, slips the cross, covers and rolls the hook, covers the uppercut, blocks the body hook, switch kick and high kick, and checks the low kick. His jab, cross, left hook, body cross, body kick, low kick and teep in turn give each of Bastien's answers its attack.
 
 ## @evidence instructions/commission.md#finish
 

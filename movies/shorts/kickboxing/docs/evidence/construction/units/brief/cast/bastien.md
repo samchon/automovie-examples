@@ -88,7 +88,7 @@ His repertoire is owned here; Arjan's habit his feint exploits is in Arjan's rec
 
 ## @evidence instructions/commission.md#exchange-vocabulary
 
-"A right cross from the replanted foot after a check, a left hook from outside after a slip, a hook or uppercut as he rises from a roll."
+"A right cross from the replanted foot after a check, a left hook from outside after a slip, a hook or uppercut as he rises from a roll." Each of his answers meets an attack Arjan throws: the parry his jab, the cover his cross and hook, the slip his cross, the roll his left hook, the elbow block his body cross, body kick and clinch knee, the forearm his teep, the check his low kick; no answer is listed that Arjan's repertoire never calls for.
 
 # docs/body/brief/cast/bastien.md#habits
 

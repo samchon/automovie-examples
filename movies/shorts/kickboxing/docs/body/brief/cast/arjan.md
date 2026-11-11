@@ -30,7 +30,7 @@ Measured. He moves only as much as the distance needs, stepping rather than boun
 
 ### Weapons {#weapons}
 
-A championship-level kicker in the Dutch manner: punch combinations that end in a kick, as [combinations](../../../research/kickboxing/exchanges.md#combinations) records. His right body kick, thrown off a jab or a jab and cross, is his main tool; he also throws the right low kick, the teep to the stomach with his lead (left) leg, the right cross to the body, the clinch knee, and the shoulder feint that shows the first part of his jab.
+A championship-level kicker in the Dutch manner: punch combinations that end in a kick, as [combinations](../../../research/kickboxing/exchanges.md#combinations) records. His right body kick, thrown off a jab or a jab and cross, is his main tool. His left hook, to the head or the body, follows the cross and loads Bastien's lead leg for the right low kick behind it, the cross, hook and low kick of Kaman's pattern in that study; he also throws the right low kick on its own, the teep to the stomach with his lead (left) leg, the right cross to the body, the clinch knee, and the shoulder feint that shows the first part of his jab.
 
 ### Feints {#feints}
 
@@ -38,7 +38,7 @@ Besides the shoulder feint, he owns the body-kick feint: his right knee rises in
 
 ### Defence {#defence}
 
-He parries jabs with his right glove, covers hooks, rolls under them, slips outside the cross, blocks body shots and body kicks with his elbow and forearm, blocks high kicks with his forearm beside his head, and checks low kicks with his left shin. He counters from each answer at once, under [defence that attacks](../../../research/kickboxing/exchanges.md#defence).
+He parries jabs with his right glove, covers hooks and uppercuts, rolls under hooks, slips outside the cross, blocks body shots and body kicks with his elbow and forearm, blocks high kicks with his forearm beside his head, and checks low kicks with his left shin. He counters from each answer at once, under [defence that attacks](../../../research/kickboxing/exchanges.md#defence).
 
 ### The Brazilian kick {#brazilian-kick}
 
@@ -72,7 +72,7 @@ He touches gloves with Bastien before the first exchange and treats him as an eq
 
 ### Reading the tell {#reads-the-tell}
 
-From the moment Bastien first blocks his body kick with a dropping left arm, Arjan watches for that arm. He knows the drop comes at the rising knee, before the kick is readable, and that it costs Bastien nothing low: his right low kicks are still checked and his clinch knee still meets the elbow. Only the head above the lowered arm is open, so he spends nothing on the drop until he can reach that head. Before he risks the finish he proves it with the body-kick feint: the knee rises, the arm drops, and his right cross lands over it. Once the habit is set he varies what follows the rising knee, so Bastien cannot tell the feint from the kick.
+From the moment Bastien first blocks his body kick with a dropping left arm, Arjan watches for that arm. He knows the drop comes at the rising knee, before the kick is readable, and that it costs Bastien nothing low: a right low kick meets the check it would have met without the drop, landing only when his hook has loaded Bastien's lead leg first, and his clinch knee still meets the elbow. Only the head above the lowered arm is open, so he spends nothing on the drop until he can reach that head. Before he risks the finish he proves it with the body-kick feint: the knee rises, the arm drops, and his right cross lands over it. Once the habit is set he varies what follows the rising knee, so Bastien cannot tell the feint from the kick.
 
 ## State changes {#state}
 
