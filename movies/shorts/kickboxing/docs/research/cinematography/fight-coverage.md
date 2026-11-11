@@ -22,18 +22,18 @@ This study records how live fights are shot for television and how fiction films
 [choice, from the practice above]: the film is shot like a live broadcast, as *Southpaw* and *Creed* chose realism over stylization, with three cameras whose roles are the broadcast's:
 
 - The hard camera: a tripod at ringside, raised so its view clears the ropes, framing both fighters head to toe with the referee; it is the reference view that orients the audience.
-- The apron camera: a handheld on the apron, outside the ropes, that follows the action at the sizes from both men's full bodies to one man from the knees up, moving round the ring to stay side-on to the fighters' line.
-- The corner camera: a fixed camera at fighter height in a neutral corner, the far-corner angle of broadcast practice.
+- The apron camera: a handheld on the apron, outside the ropes, that follows the action at the sizes from both men's full bodies to one man from the knees up, working the apron across the ring from the hard camera and moving within it to stay as near side-on to the fighters' line as that stretch allows.
+- The corner camera: a fixed camera at fighter height in the neutral corner on the hard camera's side. Broadcasts put such a camera in the far neutral corner; the film departs from that so that both fixed cameras look toward the apron the handheld works, which keeps a seen operator beyond the fighters in both their pictures.
 
 The film cuts between them as a live director does, without replay or slow motion and without time compression, so every cut joins two views of continuous time. A cut changes camera, never time. Within a shot the camera moves only for a reason the action gives: to keep both fighters, to follow a man along the ropes, or to stay side-on as their line turns.
 
-Broadcast practice keeps both fighters' feet, targets and heads readable: wide and medium framings hold both full bodies, and a closer framing is used only when one man's action is the point and the other is out of it. The two main viewpoints stand roughly perpendicular, so a fighter who blocks one view is seen from the other.
+Broadcast practice keeps both fighters' feet, targets and heads readable: wide and medium framings hold both full bodies, and a closer framing is used only when one man's action is the point and the other is out of it. The practitioner's plan stands the two main viewpoints roughly perpendicular, so a fighter who blocks one view is seen from the other. This film's layout gives that up as part of its departure: the hard and corner cameras stand on one side, about 45° apart, and the apron camera works across from them, so a fighter who blocks one view is seen from the camera on the other side of the ring, and an exchange whose line points at the hard camera is taken from the corner camera.
 
 ## The knockdown {#knockdown}
 
 [reported] Broadcasts put dedicated cameras at the neutral corners and at canvas level for knockdowns (above); no original describes how a broadcast frames the count itself.
 
-[choice]: the finishing kick and the fall are one shot, from the side where the kicking leg comes down, so neither man's body hides the leg, the struck place or the fall. The count is covered from the corner camera, which looks across the fallen man and the referee standing a step from him, as the [referee mechanics](../officiating/referee.md#knockdown) place him, at the standing fighter in the far neutral corner, the rule being kept in the background of the same frame. The ending returns to the hard camera's wide view.
+[choice]: the finishing kick and the fall are one shot, from the side where the kicking leg comes down, so neither man's body hides the leg, the struck place or the fall. The count is covered from the fixed camera that holds the fallen man, the referee standing a step from him, as the [referee mechanics](../officiating/referee.md#knockdown) place him, and the standing fighter in his neutral corner in one frame, the rule being kept in the background: the corner camera when the standing fighter is sent to the other neutral corner, the hard camera when he is sent to the corner camera's own. The ending returns to the hard camera's wide view.
 
 ## Measurable targets {#targets}
 

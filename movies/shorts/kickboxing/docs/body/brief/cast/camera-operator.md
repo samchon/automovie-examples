@@ -16,11 +16,11 @@ An adult man of ordinary build in a black long-sleeved shirt, black trousers and
 
 ### Low and outside the ropes {#outside-the-ropes}
 
-He moves along the apron in a half crouch, the camera at the height of the fighters' chests, his free hand never on the ropes, and he never leans through them or steps inside. He keeps pace with the fighters' turning line and changes sides by walking round the corner posts on the apron.
+He moves along the apron in a half crouch, the camera at the height of the fighters' chests, his free hand never on the ropes, and he never leans through them or steps inside. When a fighter is driven onto the ropes in front of him, he gives way along the apron, out of the man's reach.
 
-### Never between a camera and the fight {#placement}
+### His working stretch {#placement}
 
-He never works the stretch of apron between the [hard camera](../cinematography/coverage.md#hard-camera) and the fighters, nor the apron beside the [corner camera's](../cinematography/coverage.md#corner-camera) corner. Of the two places side-on to the fighters' line, he takes the one beyond the fighters as those cameras see it, and when the line turns so that his place would come between a fixed camera and the fight, he walks round the posts to the other side first. In the hard and corner cameras' pictures he is therefore always beyond the fighters, at the far edge of the ring, and never hides a fighter's feet, the place being struck or a head. When a fighter is driven onto the ropes in front of him, he gives way along the apron, out of the man's reach.
+He works the far apron: the whole side of the ring opposite the [hard camera](../cinematography/coverage.md#hard-camera), and the far halves of the two sides beside it, turning the two far corner posts on the apron to pass between them. Both fixed cameras stand on the hard camera's side, the [corner camera](../cinematography/coverage.md#corner-camera) in that side's neutral corner, so wherever the fight is, his stretch lies beyond the fighters in both their pictures, at the far edge of the ring, and he never hides a fighter's feet, the place being struck or a head. Within that stretch he moves to the point nearest to side-on to the fighters' line. When the line turns so that side-on falls outside his stretch, as when the fighters' line points toward the hard camera while the fight is in the half of the ring nearer it, he holds the nearest end of his stretch and keeps shooting at an angle across the line; which camera the film uses for that exchange is the [coverage](../cinematography/coverage.md#readable-axis) record's rule. He never steps onto the hard camera's side of the apron.
 
 ## Speech and voice {#voice}
 
@@ -38,4 +38,4 @@ The fighters, the referee and the ring doctor take no notice of him, and he neve
 
 ### Through the film {#through-the-film}
 
-He works the apron from the opening bell to the last frame and stays outside the ropes when the ring doctor climbs in.
+He works the apron from the opening bell to the last frame. When the ring doctor climbs in at the neutral corner inside his stretch, he steps back along the apron from that corner before she reaches the top of the steps, and stays outside the ropes.

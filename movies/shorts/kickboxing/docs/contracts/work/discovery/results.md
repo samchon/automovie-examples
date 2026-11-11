@@ -2,7 +2,7 @@
 
 This file records what discovery found for the kickboxing short, at the checkpoints reached so far: after research (checkpoint 1) and after the brief (checkpoint 2). Checkpoint 3, before composition, and checkpoint 4, after delivery review, are open: no source, composition or delivery exists yet in this commission.
 
-The inspected scope is the [commission](../../../instructions/commission.md), [PROJECT.md](../../../../PROJECT.md), the eight research studies under `docs/research/`, the ten brief files under `docs/body/brief/`, the earlier production's commission used as intake, the shared story contracts and the installed motion vocabulary's action list.
+The inspected scope is the [commission](../../../instructions/commission.md), [PROJECT.md](../../../../PROJECT.md), the eight research studies under `docs/research/`, the eleven brief files under `docs/body/brief/`, the earlier production's commission used as intake, the shared story contracts and the installed motion vocabulary's action list.
 
 ## @evidenceExclude shared/discovery/common.md#requirement-ownership
 

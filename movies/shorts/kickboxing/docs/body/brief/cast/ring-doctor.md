@@ -16,7 +16,7 @@ Of medium build, in a dark navy jacket and trousers and pale blue medical gloves
 
 ### Quick and careful {#quick}
 
-She moves fast but never runs on the canvas: up the [steps](../sets/ring.md#large-ring) to the apron, through the ropes between the second and third rope at the neutral corner nearest the fallen man, and straight to him.
+She moves fast but never runs on the canvas: up the [steps](../sets/ring.md#large-ring) to the apron, through the ropes between the second and third rope beside the post at the neutral corner nearest the fallen man, below the corner camera when she enters at its corner, and straight to him.
 
 ## Repertoire {#repertoire}
 

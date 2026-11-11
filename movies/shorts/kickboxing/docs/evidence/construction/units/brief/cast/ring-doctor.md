@@ -42,7 +42,7 @@ It states how she moves and her route in.
 
 ## @evidence shared/principles/common.md#specificity
 
-Fast without running, up the steps at the neutral corner nearest the fallen man and through the ropes.
+Fast without running, up the steps at the neutral corner nearest the fallen man and through the ropes beside the post, below the corner camera when she enters at its corner.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 

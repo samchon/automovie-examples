@@ -46,7 +46,7 @@ A half crouch along the apron, camera at chest height, hands off the ropes, roun
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles his behaviour while on screen, which the coherent-brief obligation asks of every person a scene shows, and his placement relative to the fixed cameras: never between either of them and the fight, always beyond the fighters in their pictures, so the coverage record's rule that feet, targets and heads stay readable holds with him in view.
+It settles his behaviour while on screen, which the coherent-brief obligation asks of every person a scene shows, and his working stretch, decided positively: the far apron opposite the hard camera and the far halves of the sides beside it, with both fixed cameras on the hard camera's side, so he is beyond the fighters in both their pictures wherever the fight is; within it he takes the point nearest to side-on, and when side-on falls outside it he holds the nearest end, leaving the choice of camera for that exchange to the coverage record. The coverage rule that feet, targets and heads stay readable holds with him in view in every case.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
@@ -96,7 +96,7 @@ It states his presence across the film.
 
 ## @evidence shared/principles/common.md#specificity
 
-From the opening bell to the last frame, outside the ropes even when the ring doctor climbs in.
+From the opening bell to the last frame, stepping back along the apron from the far neutral corner when the ring doctor climbs in there, and outside the ropes throughout.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 

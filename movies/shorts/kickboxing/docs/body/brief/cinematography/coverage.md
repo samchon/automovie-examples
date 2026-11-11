@@ -4,21 +4,21 @@
 
 ### The hard camera {#hard-camera}
 
-A tripod camera at ringside, raised so it looks over the ropes, that holds both fighters head to toe with the referee and the canvas around them. It is the view that tells the audience where everyone stands in the ring, as the [fight coverage](../../../research/cinematography/fight-coverage.md#law) law sets it. It pans and zooms to keep the three men, but never leaves its tripod.
+A tripod camera at ringside, at the middle of one side of the ring, the hard camera's side, raised so it looks over the ropes, that holds both fighters head to toe with the referee and the canvas around them. It is the view that tells the audience where everyone stands in the ring, as the [fight coverage](../../../research/cinematography/fight-coverage.md#law) law sets it. It pans and zooms to keep the three men, but never leaves its tripod.
 
 ### The apron camera {#apron-camera}
 
-A handheld camera on the [apron](../sets/ring.md#apron), outside the ropes, that follows the exchanges. It works at sizes from both fighters full length down to one man from the knees up, and its operator walks the apron to stay side-on to the line between the fighters as that line turns. He is part of the event and is seen: whenever the hard or corner camera's view takes in his stretch of apron, he is in the picture, as the [camera operator](../cast/camera-operator.md#who) record describes him, and the film does not frame around him; his [placement](../cast/camera-operator.md#placement) keeps him beyond the fighters in those views.
+A handheld camera on the [apron](../sets/ring.md#apron), outside the ropes, that follows the exchanges. It works at sizes from both fighters full length down to one man from the knees up, and its operator works the far apron, across the ring from the hard camera, moving to the point nearest to side-on to the line between the fighters as that line turns. He is part of the event and is seen: whenever the hard or corner camera's view takes in his stretch of apron, he is in the picture, as the [camera operator](../cast/camera-operator.md#who) record describes him, and the film does not frame around him; his [working stretch](../cast/camera-operator.md#placement) keeps him beyond the fighters in those views.
 
 ### The corner camera {#corner-camera}
 
-A fixed camera at fighter height in one of the [neutral corners](../sets/ring.md#neutral-corners), looking out across the ring. It is used when the action comes toward it and for the count.
+A fixed camera on the outer face of the post in the [neutral corner](../sets/ring.md#neutral-corners) on the hard camera's side, just above the top rope at the height of the fighters' heads, looking out across the ring toward the far apron. It stands clear of the steps and of the gap between the ropes below it. It is used when the action comes toward it, and it can hold the count from fighter height.
 
 ## Framing {#framing}
 
 ### Feet, targets and heads together {#readable-axis}
 
-Whenever an exchange is live the frame holds both men's feet, the place being struck and both heads, with the line between the fighters close to square to the camera, so the audience reads range, footwork and contact at once. A closer framing on one man is used only when the other is out of the action for that moment.
+Whenever an exchange is live the frame holds both men's feet, the place being struck and both heads, with the line between the fighters close to square to the camera, so the audience reads range, footwork and contact at once. A closer framing on one man is used only when the other is out of the action for that moment. When the apron camera cannot get near side-on, because the fighters' line points toward the hard camera's side of the ring, the film takes the exchange from whichever fixed camera sees the line nearest square, usually the corner camera.
 
 ### The referee in the frame {#referee-in-frame}
 

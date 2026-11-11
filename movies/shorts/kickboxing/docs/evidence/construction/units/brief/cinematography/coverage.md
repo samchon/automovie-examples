@@ -6,7 +6,7 @@ It gives the film's three cameras and what each is for.
 
 ## @evidence shared/principles/common.md#specificity
 
-A ringside hard camera for orientation, an apron handheld for the exchanges, and a fixed fighter-height camera in a neutral corner, the broadcast roles the study records.
+A ringside hard camera at the middle of one side for orientation, an apron handheld on the far apron for the exchanges, and a fixed fighter-height camera in the neutral corner on the hard camera's side, the broadcast roles the study records, with the corner camera's stated departure from the broadcast far corner.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
@@ -14,11 +14,11 @@ It settles the cameras every beat record will choose from, citing the fight cove
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-The apron and neutral corners it uses are owned by the ring record and cited.
+The apron and neutral corners it uses are owned by the ring record and cited, and the corner camera's mount on the post above the top rope stays clear of the steps and the ring doctor's way in; the operator's working stretch is owned by his record and cited, so the two fixed cameras and the far apron agree.
 
 ## @evidence instructions/commission.md#camera
 
-The apron camera "walks the apron to stay side-on to the line between the fighters as that line turns", the camera reacting to the action; its operator is seen whenever another camera's view takes in his stretch of apron, which the camera operator record owns.
+The apron camera's operator moves "to the point nearest to side-on to the line between the fighters as that line turns", the camera reacting to the action; its operator is seen whenever another camera's view takes in his stretch of apron, which the camera operator record owns.
 
 # docs/body/brief/cinematography/coverage.md#framing
 
@@ -32,7 +32,7 @@ Both men's feet, the struck place and both heads in frame, with the fighters' li
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles the framing grammar the commission asks for, as a rule each beat's camera keeps.
+It settles the framing grammar the commission asks for, as a rule each beat's camera keeps, and which camera takes an exchange the apron camera cannot see near side-on: the fixed camera that sees the line nearest square, usually the corner camera.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
