@@ -4,17 +4,50 @@
   "type": "module",
   "version": "0.1.0",
   "license": "MIT",
-  "description": "A kickboxing short's story: research, brief and screenplay, with no source.",
+  "description": "An AutoMovie coding-agent production repository.",
   "engines": {
     "node": ">=22.23.2"
   },
   "scripts": {
-    "evidence": "evidence"
+    "lint": "ttsc --cache-dir node_modules/.cache/ttsc --noEmit -p tsconfig.json",
+    "format": "ttsc format --cache-dir node_modules/.cache/ttsc -p tsconfig.json",
+    "evidence": "evidence",
+    "test": "ttsx --cache-dir node_modules/.cache/ttsc -P tsconfig.test.json test/index.ts",
+    "dev": "vite",
+    "build": "vite build",
+    "render": "automovie render --module src/subjects.ts",
+    "capture": "automovie capture --module src/subjects.ts",
+    "review": "automovie review",
+    "review:setup": "playwright-core install ffmpeg chromium-headless-shell",
+    "physics": "ttsx --cache-dir node_modules/.cache/ttsc -P tsconfig.json src/executable/physics.ts"
+  },
+  "dependencies": {
+    "@automovie/engine": "catalog:automovie",
+    "@automovie/human": "catalog:automovie",
+    "@automovie/ingest": "catalog:automovie",
+    "@automovie/interface": "catalog:automovie",
+    "@automovie/motions": "catalog:automovie",
+    "@automovie/recovery": "catalog:automovie",
+    "@automovie/render": "catalog:automovie",
+    "@automovie/viewer": "catalog:automovie",
+    "three": "catalog:three",
+    "react": "catalog:react",
+    "react-dom": "catalog:react",
+    "playwright-core": "catalog:media"
   },
   "devDependencies": {
+    "automovie": "catalog:automovie",
+    "playwright": "catalog:media",
+    "@nestia/e2e": "catalog:samchon",
     "@automovie/evidence": "catalog:automovie",
+    "@ttsc/lint": "catalog:samchon",
     "@types/node": "catalog:utils",
+    "ttsc": "catalog:samchon",
+    "typescript": "catalog:typescript",
     "@wrtnlabs/evidence": "catalog:samchon",
-    "typescript": "catalog:typescript"
+    "@types/three": "catalog:three",
+    "@types/react": "catalog:react",
+    "vite": "catalog:vite",
+    "ffmpeg-static": "catalog:media"
   }
 }
