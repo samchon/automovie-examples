@@ -33,6 +33,7 @@ He fights in the Dutch style that runs through K-1 and GLORY ([styles study](../
 - He punches in long, varied combinations, sometimes to the body, and finishes them with a low kick. He never throws the same combination twice running.
 - He answers a kick with a check or a step, then his own low kick to the landing leg.
 - He slips, rolls and parries inside the other man's punches to get close.
+- When he has driven the other man onto the ropes and is inside, he may take a two-handed hold behind the head for one knee to the body, and lets go at once. This is the round's lawful clinch ([bout](../world/bout.md#clinch), [styles study](../../../research/kickboxing/styles.md#pressure-ring-and-tempo)).
 - He feints to load his attacks: a jab feint or a dip of the shoulders to draw a reaction before he steps in, and a hip-snap feint of the low kick to make the other man lift his lead leg, then a kick to the leg as it lands. Feints serve his pressure rather than replace it ([styles study](../../../research/kickboxing/styles.md#pressure-ring-and-tempo), [Kaman's feint](../../../research/kickboxing/styles.md#tell-test)).
 
 He sets a high pace from the first bell and works to win the round, and the bout, early ([styles study](../../../research/kickboxing/styles.md#pressure-ring-and-tempo)).
@@ -123,6 +124,8 @@ Through the round his state changes only as landed blows and work change it, and
 
 - **After each landed right body kick:** a sharp, audible exhale; a brief fold toward his left side; his left elbow clamped to the ribs; and a step or two in which he does not press.
 - **After kicks Benlloch checks:** his kicking shin is stung, he settles that leg a moment, and he throws fewer low kicks afterwards.
+- **After a landed low kick:** his lead foot settles lighter and he shifts his weight off it a moment, which slows his next step in ([styles study](../../../research/kickboxing/styles.md#low-kick-cost)).
+- **After the strike behind the feint:** a glancing blow to the left side of his head turns his head and sends him back a step. What he changes afterwards is in his [tell](#tell).
 - **Breath:** it grows across the round. Because he has taken body kicks he breathes harder and shorter than Benlloch by the finish ([styles study](../../../research/kickboxing/styles.md#round-one-cost)).
 - **Guard:** high and correct at first. Then it is pulled low on the left at each rising right knee ([tell](#tell)).
 

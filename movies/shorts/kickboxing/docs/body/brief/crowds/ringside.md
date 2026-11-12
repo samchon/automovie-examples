@@ -1,6 +1,6 @@
 # Ringside
 
-The people at the ring's edge, outside the ropes: the officials who sit there and the two corner teams. Each is on screen only at the edge of the frame or behind the fighters, and each behaves as the [rules study's officials](../../../research/kickboxing/rules.md#officials) do. All are adults, drawn as the simplest seated or standing forms ([work](../world/work.md#what-it-cannot-show)).
+The people at the ring's edge, outside the ropes: the officials who sit there and the two corner teams. Each behaves as the [rules study's officials](../../../research/kickboxing/rules.md#officials) do. All are adults and polygon men ([work](../world/work.md#what-it-cannot-show)). Until the knockout each is on screen only at the edge of the frame or behind the fighters. After it, the ring doctor alone enters the ring and joins the group at Visser ([doctor](#doctor)).
 
 ## Officials {#officials}
 
@@ -30,7 +30,7 @@ Three judges, the number GLORY allows with its approval, sit just outside the ri
 
 ### The ring doctor {#doctor}
 
-The ring doctor sits by the [steps](../sets/ring.md#corners) at a neutral corner, with a paramedic beside him ([rules study](../../../research/kickboxing/rules.md#officials)). He watches the whole round. The paramedic stays at the steps throughout, with the medical bag, and comes in only if the doctor calls him, which does not happen before 180.
+The ring doctor sits by the [steps](../sets/ring.md#corners) at a neutral corner, with a paramedic beside him ([rules study](../../../research/kickboxing/rules.md#officials)). The doctor is a man in his forties in a dark blue medical tunic and trousers, with pale medical gloves, so he reads apart from the cornermen in white or black and from the referee's white shirt. The doctor watches the whole round. The paramedic, in a green paramedic's uniform, stays at the steps throughout, with the medical bag, and comes in only if the doctor calls him, which does not happen before 180.
 
 At the knockdown he rises and waits at the steps. He enters only when the referee calls him. He then climbs in by those steps and kneels at Visser with the referee. Only he may enter during his examination.
 

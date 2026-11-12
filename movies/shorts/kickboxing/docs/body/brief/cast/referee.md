@@ -77,7 +77,7 @@ He has no face, so his attention reads from the turn of his head and trunk ([wor
 - in exchanges, toward the space between the men;
 - at a clinch, toward the hold;
 - during the count, toward Visser, with turns of the head up to Benlloch in the corner;
-- after the result, down toward Visser.
+- after the result, between Visser, Benlloch and the doctor's steps: down to Visser, up to Benlloch with his raised palm, and across to the doctor as he beckons.
 
 His posture tells his reading of the moment. It is upright and easy at range, crouched and close on the ropes, and bent or kneeling at the fallen man. It is never theatrical ([referee study](../../../research/officiating/referee.md#level)).
 
@@ -93,14 +93,14 @@ From the fall to the bell he works in the [study's order](../../../research/offi
 4. At 157 he places himself at Visser's head, bent or kneeling, where Visser can see and hear him. He stands on the side away from Benlloch's corner, so that Benlloch stays beyond Visser in his view.
 5. He counts from "One" at 158 to "Ten" at 167, aloud and with the [count stroke](#signals) of his arm, with his head turned to Visser and turning up to Benlloch. He does not touch or help Visser during the count. He does not stop at "Eight", because Visser is still down.
 6. At 167.6 he gives the knockout signal.
-7. At once he calls "Doctor!" with a beckoning arm.
+7. At once he calls "Doctor!" with a beckoning arm, and moves round Visser's head to kneel on Benlloch's side of him. Through the count Visser lay between him and Benlloch; now his own body is between them as Benlloch is released ([referee study](../../../research/officiating/referee.md#knockdown-procedure)).
 
 ### His care {#care}
 
 After the result he gives Visser the care the rules let a referee give, and that is the commission's "support" ([referee study](../../../research/officiating/referee.md#care)):
 
-- He kneels at Visser's head, in his line of sight.
+- He kneels close at Visser's head, on Benlloch's side of him ([knockdown](#knockdown), step 7).
 - He rests a hand lightly on Visser's upper arm or shoulder to keep him lying still, and says "Stay down."
 - He does not turn him, sit him up or take out his mouthguard, which is the doctor's work.
-- With a raised palm and his own body he keeps Benlloch's celebration away from Visser.
-- He stays kneeling until the doctor is with them. Who enters the ring is in the [bout's result](../world/bout.md#result).
+- With his body between them and a raised palm toward Benlloch, he keeps Benlloch's celebration away from Visser.
+- He stays kneeling until the doctor is with them. The doctor's entry is in [ringside](../crowds/ringside.md#doctor).

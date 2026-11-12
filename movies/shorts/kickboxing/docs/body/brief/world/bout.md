@@ -52,7 +52,7 @@ No deliberate foul is committed in the round, so no official warning or penalty 
 
 Two kinds of close contact happen in the round, and the referee answers each differently ([commission](../../../instructions/commission.md#ruleset), [rules study](../../../research/kickboxing/rules.md#clinch)):
 
-- **The lawful clinch.** A man takes a hold only to throw one immediate knee, and releases it himself at once. The referee closes in but gives no command.
+- **The lawful clinch.** A man takes a hold only to throw one immediate knee, and releases it himself at once. In this round only Visser does ([Visser](../cast/visser.md#repertoire)). The referee closes in but gives no command.
 - **The tie-up.** In close exchanges the men's arms tangle, or one man smothers a punch, and neither means it as a hold. Under GLORY even an accidental hold is a minor foul, which may draw a caution without stopping the action. This referee, at his discretion, gives no caution beyond the command ([rules study](../../../research/kickboxing/rules.md#foul-consequences)). He parts them with "Break!", the commission's clinch break.
 
 How the referee breaks them is his record's ([referee](../cast/referee.md#clinch-break)).

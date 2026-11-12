@@ -10,6 +10,7 @@ Each observation carries its kind in brackets:
 - **[measurement]**: a value with its unit that the original reports.
 - **[inference]**: this study's reasoning from sourced facts. The facts it rests on are cited.
 - **[choice]**: a decision this production makes where the sources leave room, offered to the brief.
+- **[commission]**: a value or ruling the commission fixes, such as an anchor second, set against the rule.
 
 Sources are cited by key with a locator. GLORY rule numbers are given with the page number printed on the page. The PDF page is that number plus two for the main rules. The appendices restart their own page numbers. The research index lists every original, with its creator, URL, retrieval date, saved path, rights and the locators used, in its [rules and referee section](../index.md#originals-rules-referee).
 
@@ -47,7 +48,7 @@ The timekeeper times rounds and intervals by clock or stopwatch. "By sounding th
 
 GLORY names no warning ten seconds before the end of a round. Ontario's timekeeper sounds a wooden clapper ten seconds before the end of each round (ONT 7, timekeeper). BIBA's timekeeper bangs a gavel twice and raises his left arm at 2 min 50 s (BIBA p. 2) [observation]. If round one starts at film second 0, its ten-second mark would fall at 170 s, after the knockout at 167.6 s, so no warning sounds [inference]. The brief fixes where the opening bell falls.
 
-When a knockout ends the bout, "the Timekeeper will sound the gong/bell indicating the end of the Match" (GLORY 5.05.B.5, p. 12) [observation]. The rule gives no delay. The commission's bell at 170.1 s comes 2.5 s after the signal at 167.6 s [measurement from the commission]. That fits a timekeeper reacting to the referee's signal [inference]. BIBA has the timekeeper note the time of the stoppage and report it to the supervisor (BIBA p. 2) [observation].
+When a knockout ends the bout, "the Timekeeper will sound the gong/bell indicating the end of the Match" (GLORY 5.05.B.5, p. 12) [observation]. The rule gives no delay. The commission's bell at 170.1 s comes 2.5 s after the signal at 167.6 s [commission]. That fits a timekeeper reacting to the referee's signal [inference]. BIBA has the timekeeper note the time of the stoppage and report it to the supervisor (BIBA p. 2) [observation].
 
 ## Start of the first round {#round-start}
 
@@ -67,7 +68,7 @@ The commission wants a real glove touch that both men step into, followed by the
 ### Gloves {#gloves}
 
 - "Boxing gloves of equal weight provided exclusively by GLORY" (GLORY 4.03.A, p. 6) [observation].
-- Weight: "8 ounces (for weight classes under 65 kg) or 10 ounces for all other weight classes" (GLORY 4.03.B, p. 6). Both men wear 10 oz [measurement]. ABC-KB names 8 oz and 10 oz as the professional standard (ABC-KB 17) [observation].
+- Weight: "8 ounces (for weight classes under 65 kg) or 10 ounces for all other weight classes" (GLORY 4.03.B, p. 6). Both men wear 10 oz [inference from GLORY 4.03.B and the 80 kg division]. ABC-KB names 8 oz and 10 oz as the professional standard (ABC-KB 17) [observation].
 - "In single-Match Matches, the color of the gloves should be the same as the color of the Athlete's corner" (GLORY 4.03.A, p. 6) [observation].
 - The gloves are taped so that no laces or loose ends show, and stamped by GLORY or the regulator (GLORY 4.03.A, p. 6). They are put on before an inspector, who tapes and initials them (GLORY 4.03.C, p. 6) [observation].
 - Hand wraps are soft bandages. Tape over the knuckles is at most 1 mm thick (3 strips), and the bandages are taped up to 2 cm under the knuckles (GLORY 4.02.A–B, p. 6) [measurement].
@@ -219,13 +220,13 @@ In a single match or a tournament final, an athlete "knocked down three times in
 | 157.0 | Count starts | 5.05.B.2; PKG `KnockdownCount` start | Fits [inference] |
 | 158.0 to 167.0 | "One" to "Ten", one word per second | ONT 17; WAKO ch. 7 art. 9; PKG `KnockdownCount.number` | Fits [inference] |
 | 165.0 | "Eight": the readiness assessment | 5.05.B.3 | B still down, so the count continues [inference] |
-| 167.6 | Knockout signalled | 5.05.B.5; 5.06.E.2 | 0.6 s after "Ten" [measurement from the commission] |
+| 167.6 | Knockout signalled | 5.05.B.5; 5.06.E.2 | 0.6 s after "Ten" [commission] |
 | 168.1 | A celebrates | 5.05.B.2: A leaves the corner only with the referee's permission | The knockout signal ends the count and releases him [inference] |
 | 170.1 | Match-ending bell | 5.05.B.5 | No delay is set; 2.5 s fits [inference] |
 
 Tensions:
 
-1. **The delay before the count (about 5–6 s).** Under GLORY it is required. The count begins only once the opponent stands in the far neutral corner facing the centre (5.05.B.2; App. 3 D). The time is set by the walk. The ring is 6.40 m or 7.00 m inside the ropes, so a neutral corner lies 4.5–5.0 m from the centre along the half-diagonal [measurement from GLORY 4.06.B, arithmetic]. If the fighters stand near the centre, A walks about 4–5 m; if they are off-centre towards the near neutral corner, about 6 m. Allowing about 1 s for the referee's call and gesture, A must cover that ground in roughly 4.5–5.5 s: an average of 0.8–1.3 m/s, an unhurried walk plus a turn [inference]. ABC tells the referee to send the standing man and "DO NOT RUSH!" (ABC-REF22 p. 6) [observation]. Other bodies would count differently:
+1. **The delay before the count (about 5–6 s).** Under GLORY it is required. The count begins only once the opponent stands in the far neutral corner facing the centre (5.05.B.2; App. 3 D). The time is set by the walk. The ring is 6.40 m or 7.00 m inside the ropes, so a neutral corner lies 4.5–5.0 m from the centre along the half-diagonal [inference: arithmetic on GLORY 4.06.B]. If the fighters stand near the centre, A walks about 4–5 m; if they are off-centre towards the near neutral corner, about 6 m. Allowing about 1 s for the referee's call and gesture, A must cover that ground in roughly 4.5–5.5 s: an average of 0.8–1.3 m/s, an unhurried walk plus a turn [inference]. ABC tells the referee to send the standing man and "DO NOT RUSH!" (ABC-REF22 p. 6) [observation]. Other bodies would count differently:
     - Boxing commissions run a knockdown timekeeper who starts counting the moment the man is down. The referee "picks up" that running count after sending the opponent away (ONT 17; ABC-REF25 p. 5; ABC-REF22 p. 6; BIBA p. 2). Under that practice the referee's first spoken number would be about "Five" or "Six", and "Ten" would land about 10 s after the fall, near 161 s rather than 167 s [inference].
     - WAKO's referee "must immediately start counting out the seconds", suspending the count only if the opponent refuses the corner (WAKO-RULES ch. 7 art. 9, p. 135) [observation]. That too would end the count near 161 s [inference].
 
@@ -251,7 +252,7 @@ Tensions:
 
 ### The match-ending bell {#match-bell}
 
-The timekeeper sounds the gong or bell when the knockout ends the match (GLORY 5.05.B.5, p. 12) [observation]. At 170.1 s, 2.5 s after the signal [measurement from the commission].
+The timekeeper sounds the gong or bell when the knockout ends the match (GLORY 5.05.B.5, p. 12) [observation]. At 170.1 s, 2.5 s after the signal [commission].
 
 ### After the bout {#post-bout-medical}
 
@@ -270,7 +271,7 @@ GLORY lists the officials "non-exhaustively" (GLORY 5.01, p. 8). Where GLORY giv
 | Judge supervisor | Appoints and oversees the referee and judges, authenticates the scores, informs the announcer and may consult the referee (5.01.D, p. 8) | Officials' table (BIBA p. 1, for its supervisor) | Watches. Reviews a call if needed (5.05.C, p. 13) |
 | Ring inspectors | Ensure compliance "in, around and outside the Ring", accompany the athletes and "stay with the Athletes and respective Cornermen throughout the Match" (5.01.C, p. 8) | At each corner [inference]. Ontario seats an equipment supervisor near each set of seconds (ONT 3) | Keep the corners seated and in order |
 | Scorekeeper | Keeps the score sheets and totals (5.01.G, p. 9) | Near the timekeeper (ONT 3) | Records |
-| Ring announcer | Announces the match, warnings and scores (5.01.H, p. 9) | Ringside | Silent during the round |
+| Ring announcer | Announces the match, warnings and scores (5.01.H, p. 9) | Ringside | Silent during the round [choice: GLORY 5.01.H gives him no duty during a round, and the commission admits no announcer's voice] |
 
 Ontario also names a separate knockdown timekeeper (ONT 3). GLORY does not, so the film has none ([anchors](#anchors), tension 1) [choice].
 
@@ -280,7 +281,7 @@ The outcome classes the brief uses, with the conditions that produce each under 
 
 | Outcome class | Conditions | Rule | What follows |
 | --- | --- | --- | --- |
-| Legal landed strike | A punch with the padded glove, a kick with the foot or lower leg, or a knee. It reaches a target not in PKG `FOUL_REGIONS` (a push kick only the body), "with full power, from the correct distance and body position", and the defender's guard, check or evasion does not intercept it | GLORY 5.06.A, p. 13; PKG | Play continues with no stop. It counts towards damage and clean strikes (5.06.C.2–3). Before 150 s it costs breath, guard and balance but no knockdown (commission) |
+| Legal landed strike | A punch with the padded glove, a kick with the foot or lower leg, or a knee. It reaches a target not in PKG `FOUL_REGIONS` (a push kick, being a linear kick, not to the legs: GLORY 5.07.A.4), "with full power, from the correct distance and body position", and the defender's guard, check or evasion does not intercept it | GLORY 5.06.A, p. 13; PKG | Play continues with no stop. It counts towards damage and clean strikes (5.06.C.2–3). Before 150 s it costs breath, guard and balance but no knockdown (commission) |
 | Blocked strike | A legal strike that meets the defender's glove, forearm, shoulder or raised shin instead of the target, or is slipped or parried | GLORY 5.06.A requires landing on a legal target. WAKO: a technique "partially deviated or blocked, or that simply touches, brushes or pushes ... will not be scored" (WAKO-RULES ch. 10 art. 4, p. 151) | Play continues. Not scored [inference] |
 | Foul | Any prohibited technique, target or conduct (GLORY 5.07; PKG), whether intended or accidental | GLORY 5.07, 5.08, pp. 16–18 | A caution without stopping, or "Stop", the opponent to the farthest neutral corner, and a warning or penalty gesture ([consequences](#foul-consequences)) |
 | Clinch with one knee, then break | One man grabs the head or neck to throw one immediate knee, then releases | GLORY 5.07.A.11; PKG | If he releases at once, play continues with no command. If either holds on, "Break": both step back, the referee steps between, and they resume as he steps back (5.05.A.2) |
@@ -295,10 +296,10 @@ Statements of the research contract this study does not cover, and why:
 
 - **1. Technique laws** (key poses, phases and timing, reach and contact surfaces, support, travel). This includes the question-mark kick and the single clinch knee. *The screenplay's later study owns them.*
 - **3. Outcome table rows for exchanges** (which combinations of intent between strikes, checks, slips, parries, rolls and blocks yield which result). This study covers only the brief's six rule classes. *The screenplay's later study owns the exchange rows.*
-- **4. Chains, setups and transitions**, including the body-kick-to-head-kick set-up and the feint. *The screenplay's later study owns them.*
-- **5. Spatial strategy and tempo** across the round. *The screenplay's later study owns them.*
-- **6. Conduct of everyone present.** The officials' conduct is covered here and in the [referee study](../officiating/referee.md). The fighters' conduct beyond the rules belongs to *the screenplay's later study*. The crowd has no rules in this ruleset beyond the athletes' ban on approaching it (5.02.D), so *the subject has none* here.
-- **7. Markers of the depicted level** for fighters. *The screenplay's later study owns them.* The referee's markers are in the [referee study](../officiating/referee.md#level).
+- **4. Chains, setups and transitions.** The body-kick-to-head-kick set-up, the feint and the style-level chains are in the [styles study](styles.md#tell) ([high kick behind a body-kick look](styles.md#high-behind-body), [testing the reaction](styles.md#tell-test)). Exchange-by-exchange chains: *the screenplay's later study owns them.*
+- **5. Spatial strategy and tempo** across the round. At the level of style (cutting off, circling, the ropes, round-one intensity) they are in the [styles study](styles.md#pressure-ring-and-tempo) ([the kicker's ring use](styles.md#kicker-ring-use)). Measured rates and distances, and the path of each exchange: *the screenplay's later study owns them.*
+- **6. Conduct of everyone present.** The officials' conduct is covered here and in the [referee study](../officiating/referee.md). The fighters' conduct beyond the rules is in the [styles study](styles.md#conduct). The crowd has no rules in this ruleset beyond the athletes' ban on approaching it (5.02.D), so *the subject has none* here.
+- **7. Markers of the depicted level** for fighters are in the [styles study](styles.md#level-markers). The referee's markers are in the [referee study](../officiating/referee.md#level).
 - **8. How the genre is shot.** A ruleset has none (*the subject has none*).
 - **9 and 10. Measurable targets.** The rule values here (ring, ropes, glove weight, count cadence, timings) are covered with their ranges. Activity rates, distances by phase and idle time: *the screenplay's later study owns them.*
 - **11. An invented action and its analogue.** The bout is fictional, but it follows the real GLORY rules, and every action named is a real technique. *The subject has none.*

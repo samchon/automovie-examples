@@ -34,7 +34,7 @@ A frame that drops either man's feet, the struck target or either head during an
 **Wider.** The camera widens to the whole ring in three places:
 
 - for the count, which holds the neutral corner and the fallen man together ([commission](../../../instructions/commission.md#count));
-- for the last image, which holds the winner, the fallen man and the referee together ([commission](../../../instructions/commission.md#ending));
+- for the last image, which holds the winner, the fallen man and the referee together, with the [ring doctor](../crowds/ringside.md#doctor) at the fallen man once he has arrived ([commission](../../../instructions/commission.md#ending));
 - when the men cross the ring.
 
 ## Movement {#movement-facet}

@@ -4,7 +4,7 @@ This study records how a championship kickboxing referee works a round: where he
 
 ## How to read this study {#reading}
 
-Each observation carries its kind in brackets: **[observation]** for what the original's text or photograph states; **[measurement]** for a value with its unit that the original reports; **[inference]** for this study's reasoning from cited facts; **[choice]** for a decision this production makes where the sources leave room.
+Each observation carries its kind in brackets: **[observation]** for what the original's text or photograph states; **[measurement]** for a value with its unit that the original reports; **[inference]** for this study's reasoning from cited facts; **[choice]** for a decision this production makes where the sources leave room; **[commission]** for a value the commission fixes, such as an anchor second.
 
 | Key | Original |
 | --- | --- |
@@ -81,7 +81,7 @@ The procedure, combining GLORY with ABC's mechanics:
 
 1. **Close in.** Clinching is one of the cases where he shortens his distance (ABC-REF25 p. 5) [observation].
 2. **Command.** "Break!" is the GLORY command (5.05.A.2). ABC recommends "Stop" as the first word, followed by "Break", when breaking physically (ABC-REF25 p. 5). GLORY reserves "Stop" for stopping the fight, at the end of a round or before a caution or warning (5.05.A.3), so this referee says "Break!" alone [observation; choice].
-3. **Physical separation, if they do not part at the word.** He breaks "at an angle (between the boxers) NOT from behind". He breaks "at a full arm's length", and he breaks "both boxers, not just one" (ABC-REF22 p. 8; ABC-REF25 p. 5) [observation]. Neither manual says where his hands go. This study puts one open hand on each man's chest or near shoulder and the forearms between them, pressing them apart as he steps in on the angle [inference].
+3. **Physical separation, if they do not part at the word.** He breaks "at an angle (between the boxers) NOT from behind". He breaks "at a full arm's length", and he breaks "both boxers, not just one" (ABC-REF22 p. 8; ABC-REF25 p. 5) [observation]. Neither manual says where his hands go. This study puts one open hand on each man's chest or near shoulder and the forearms between them, pressing them apart as he steps in on the angle [choice].
 4. **Step out.** "The referee should never walk through the boxers after a break, simply take a full step straight back and assume your normal distance" (ABC-REF22 p. 8). "Never walk between boxers after breaking a clinch" (ABC-REF25 p. 15) [observation]. As he steps back the men resume without "Fight" (GLORY 5.05.A.2) [observation].
 5. **Repeat holding.** It draws a caution without stopping the action, or "Stop", the opponent to the farthest neutral corner and an official warning (GLORY 5.08.A.1–2). The "No holding" signal is shown in the photographs (WAKO-REF App. 11.4, p. 48) [observation].
 
@@ -136,8 +136,8 @@ Step by step, under GLORY with ABC's, Ontario's and WAKO's mechanics, placed aga
 4. **Position for the count (157 s).** He places himself so that "the fallen boxer can clearly see and hear their count" (ABC-REF25 p. 6; ABC-REF22 p. 6). Where necessary he kneels to the fallen man "so he can hear and see the referee" (ABC-REF25 p. 6), or bends down (ABC-REF22 p. 7) [observation]. He must also "keep an eye on the standing boxer" in the corner (ABC-REF25 p. 5; ABC-REF22 p. 6) [observation]. Both can be in his view at once if he stands at B's head on the side away from A's corner and faces B with the corner beyond him. With B lying on his right side, he faces B's face from the front [inference]. Under PKG `KnockdownCount.corner` the corner lies across the ring from B, so this position faces the length of the ring [inference].
 5. **The count (158–167 s).** One word a second, "One" to "Ten", "in a loud clear voice", each shown "with a motion of their arm and upraised fingers" (ONT 17; WAKO-RULES ch. 7 art. 9) [observation]. "The referee should always count in a clear and straightforward manner" and "should not just rely on their voice" (ABC-REF25 p. 6) [observation]. His gaze rests on B's eyes, with glances up to A's corner. If A left the corner he would stop counting and send him back (GLORY 5.05.B.2; ABC-REF22 p. 6) [observation]. He "should not assist the downed fighter in any way" during the count (ABC-REF25 p. 6) [observation]. PKG `KnockdownCount.number` already places the words.
 6. **Readiness at eight (165 s).** GLORY obliges him to count to eight, then assess (5.05.B.3). At eight he may check "the Athlete's eyes and balance" (5.05.B.6) [observation]. WAKO's proof of readiness is a man "on his feet, in fighting stand with his arms raised in fighting position", "stable and balanced, with clear vision" (WAKO-RULES ch. 7 art. 9, p. 135) [observation]. B is still down, so he counts on [inference].
-7. **Ten and the wave-off (167.0–167.6 s).** At an uninterrupted ten the man loses by knockout (GLORY 5.05.B.5) [observation]. The knockout signal follows the word "Ten" by 0.6 s (commission) [measurement]. It is the [knockout signal](#signals) above [choice].
-8. **Calling the doctor (from about 167.6 s).** "The referee shall rule the bout over and immediately signal for the doctor" (ABC-REF25 p. 6) [observation]. The doctor is the only person who may enter during an examination (GLORY 5.01.E.4) [observation].
+7. **Ten and the wave-off (167.0–167.6 s).** At an uninterrupted ten the man loses by knockout (GLORY 5.05.B.5) [observation]. The knockout signal follows the word "Ten" by 0.6 s [commission]. It is the [knockout signal](#signals) above [choice].
+8. **Calling the doctor, and between the men (from about 167.6 s).** "The referee shall rule the bout over and immediately signal for the doctor" (ABC-REF25 p. 6) [observation]. The signal releases A from the corner. Through the count the referee knelt with A beyond B (step 4), which leaves B between them. So as he waves the bout off he moves round B's head to kneel on A's side of B, close at his head, so that his own body is between B and A as A's celebration begins ("always protect the injured boxer", ABC-REF25 p. 7) [choice built on the observation]. The doctor is the only person who may enter during an examination (GLORY 5.01.E.4) [observation].
 9. **The bell (170.1 s).** The timekeeper sounds it for the knockout (GLORY 5.05.B.5) [observation]. The referee does not signal for it [inference].
 
 The early stop is a tension. A referee who sees a man "go down hard" with closed eyes or twitching may stop the count at once (ABC-REF25 p. 7; GLORY 5.06.E.2). The full count therefore needs B to read as conscious and failing to rise (rules study, [anchors](../kickboxing/rules.md#anchors), tension 2) [inference].
@@ -159,7 +159,7 @@ What the sources tell the referee not to do:
 - **Do not help him up** (ABC-REF25 p. 6, during the count; WAKO-RULES ch. 7 art. 9.1, after it) [observation].
 - **Do not let the corners in** (GLORY 5.03.B; 5.08.A.4) [observation].
 
-As staged: once he has waved off the bout he kneels at B's head, in B's line of sight. He beckons the doctor with one arm and rests the other hand lightly on B's upper arm or shoulder to keep him lying still, without turning him. He speaks a few short words to him ("Stay down"). With his body and a raised palm he keeps A away from B as A's celebration begins. He stays kneeling as the doctor arrives by the neutral steps (ONT 3) [choice built on the observations above]. This is the commission's "support": physical care within what the rules let a referee do.
+As staged: once he has waved off the bout he moves round B's head and kneels close at it on A's side, so that his body is between B and A (step 8). He beckons the doctor with one arm and rests the other hand lightly on B's upper arm or shoulder to keep him lying still, without turning him. He speaks a few short words to him ("Stay down"). His head turns between B, A and the doctor's steps, and a raised palm toward A keeps A's celebration away from B. He stays kneeling as the doctor arrives by the neutral steps (ONT 3) [choice built on the observations above]. This is the commission's "support": physical care within what the rules let a referee do.
 
 ## Experienced against novice {#level}
 
@@ -169,11 +169,11 @@ As staged: once he has waved off the bout he kneels at B's head, in B's line of 
 | Movement | Smooth, keeps pace with circling, does not bounce or look as if he were boxing | Bouncing, mirroring the fighters, over-playing his part | ABC-REF22 pp. 1–2 [observation; novice side inference] |
 | Position | Side view, a window between the men, uses the perimeter, never behind them, never trapped on the ropes | Stands on the fighters' line or behind one man, blocks the view, gets caught at the ropes | ABC-REF22 pp. 1, 5; ABC-REF25 p. 4 [observation; novice side inference] |
 | Distance | Changes distance by situation: closes in on ropes, clinches, doubt and noise | One fixed distance whatever happens | ABC-REF25 pp. 4–5; ABC-REF22 pp. 5–6 [observation; novice side inference] |
-| Intervention | Does not step in too early or stand in the way of a close fight | Breaks too early, interrupts lawful exchanges | WAKO-REF 3.4.4 p. 9 [observation] |
-| Breaks | At an angle, a full arm's length, both men, then a full step straight back; never walks through | Breaks from behind or pulls one man; walks through after the break | ABC-REF22 p. 8; ABC-REF25 pp. 5, 15 [observation] |
-| Knockdown | Sends the standing man without rushing, watches him, counts clearly with fingers and voice; has practised counting | Counts before the corner is reached, counts by voice alone, loses sight of the standing man | ABC-REF22 p. 6; ABC-REF25 pp. 5–6; GLORY App. 3 D [observation] |
-| Warnings | Clear, direct and impartial; discreet with minor cautions; not swayed by the crowd | Makes a scene of warnings, reacts to spectators | ABC-REF22 p. 1; ABC-REF25 p. 4 [observation] |
-| Care | Calls the doctor at once, stays with the hurt man, does not move him | Lets the winner or corners crowd in; moves or sits up the fallen man | ABC-REF25 pp. 6–7; WAKO-RULES ch. 7 art. 9.1 [observation] |
+| Intervention | Does not step in too early or stand in the way of a close fight | Breaks too early, interrupts lawful exchanges | WAKO-REF 3.4.4 p. 9 [observation; novice side inference] |
+| Breaks | At an angle, a full arm's length, both men, then a full step straight back; never walks through | Breaks from behind or pulls one man; walks through after the break | ABC-REF22 p. 8; ABC-REF25 pp. 5, 15 [observation; novice side inference] |
+| Knockdown | Sends the standing man without rushing, watches him, counts clearly with fingers and voice; has practised counting | Counts before the corner is reached, counts by voice alone, loses sight of the standing man | ABC-REF22 p. 6; ABC-REF25 pp. 5–6; GLORY App. 3 D [observation; novice side inference] |
+| Warnings | Clear, direct and impartial; discreet with minor cautions; not swayed by the crowd | Makes a scene of warnings, reacts to spectators | ABC-REF22 p. 1; ABC-REF25 p. 4 [observation; novice side inference] |
+| Care | Calls the doctor at once, stays with the hurt man, does not move him | Lets the winner or corners crowd in; moves or sits up the fallen man | ABC-REF25 pp. 6–7; WAKO-RULES ch. 7 art. 9.1 [observation; novice side inference] |
 | Standing | International grade, seminar attendance, at least 21 for title events | — | WAKO-REF arts. 1, 4.1 [measurement] |
 
 ## Measurable targets {#targets}
@@ -182,11 +182,11 @@ As staged: once he has waved off the bout he kneels at B's head, in B's line of 
 | --- | --- | --- |
 | Count cadence | 1 word per 1.0 s, "One" to "Ten" | measurement: WAKO-RULES ch. 7 art. 9 p. 135; ONT 17 ("one-second intervals"); placed by PKG `KnockdownCount.number` |
 | Count start after the standing man reaches the corner facing the centre | 0 s after he is in place; not before | observation: GLORY 5.05.B.2; App. 3 D |
-| Fall to count start | about 5–6 s (fall about 151 s, start 157 s) | measurement from the commission; fits GLORY by inference (rules study, [anchors](../kickboxing/rules.md#anchors)) |
+| Fall to count start | about 5–6 s (fall about 151 s, start 157 s) | commission; fits GLORY by inference (rules study, [anchors](../kickboxing/rules.md#anchors)) |
 | Standing man's walk to the far neutral corner | about 4–6 m in about 4.5–5.5 s (0.8–1.3 m/s average) | inference from GLORY 4.06.B ring sizes and the commission's anchors |
 | Mandatory count before any restart | to "Eight" (8 s from the start) | observation: GLORY 5.05.B.3 |
-| "Ten" to knockout signal | 0.6 s | measurement from the commission |
-| Knockout signal to match-ending bell | 2.5 s | measurement from the commission; GLORY 5.05.B.5 sets no delay |
+| "Ten" to knockout signal | 0.6 s | commission |
+| Knockout signal to match-ending bell | 2.5 s | commission; GLORY 5.05.B.5 sets no delay |
 | Distance to the fighters | "no set rule"; as far as a clear view and quick movement allow | observation: ABC-REF22 p. 5; ABC-REF25 p. 4 |
 | Distance in open exchanges | 2.0–3.0 m from the nearer fighter, outside a round kick's reach and inside the ropes | choice. Bounded by the ring's half-width of 3.20–3.50 m (inference from GLORY 4.06.B, 6.40–7.00 m) |
 | Distance on the ropes, in a clinch, or when a stoppage is near | 1.0–1.5 m, within a step of reaching both men | choice, from ABC's five cases for closing in (ABC-REF25 pp. 4–5) |

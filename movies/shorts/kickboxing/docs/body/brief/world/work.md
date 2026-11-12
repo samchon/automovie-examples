@@ -53,7 +53,7 @@ Beyond faces, it cannot show the ear, the outline of the jaw or the muscles of t
 
 It cannot show a mouthguard, hand wraps, tape or any text, so no story point rests on them. It shows a glove and its colour, trunks and their colour, the shin and the bare foot.
 
-The crowd and the officials at ringside are the simplest forms that read as seated and standing people ([crowd](../crowds/arena-crowd.md#makeup), [ringside](../crowds/ringside.md)).
+Every person in the film is a polygon man, the officials, corner teams and crowd included, because each of them may stand, kneel or rise ([project context](../../../../PROJECT.md#representation)). What the frame limits is how much of them reads, not what they are. The ringside people and the first, lit rows of the crowd read as whole polygon men. The tiers behind fall into silhouette and then darkness, where no single figure reads, so no reduced form of a person is needed ([crowd](../crowds/arena-crowd.md#makeup), [arena](../sets/arena.md#lighting)).
 
 ## Scope {#scope}
 

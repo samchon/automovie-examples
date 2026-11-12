@@ -33,6 +33,8 @@ Going round the ring, the corners run: white, the steps' neutral corner, black, 
 
 After the knockdown, Benlloch waits in whichever neutral corner is farther from where Visser falls ([bout](../world/bout.md#wait)). Visser falls on the steps' side of the diagonal between the white and black corners, so that Benlloch's corner is the far neutral corner and the doctor's way in never passes the winner. Left to the screenplay: where on that half he falls.
 
+The other half, on the far neutral corner's side of that diagonal, is the **far half**. From 168.1 Benlloch celebrates there, in the far half: he may come up to the diagonal, beside Visser in the wide frame, but not across it, where the referee's palm stops him ([Benlloch](../cast/benlloch.md#state), [referee](../cast/referee.md#care)).
+
 ### How the fight uses it {#use}
 
 The whole ring is used ([commission](../../../instructions/commission.md#whole-ring), [styles study](../../../research/kickboxing/styles.md#pressure-ring-and-tempo)):
@@ -47,4 +49,4 @@ Left to the screenplay: where each phase stands in the ring and how it moves on.
 
 ### Unchanged through the round {#unchanged}
 
-Nothing in the ring changes during the film: no spill, no blood, nothing thrown in. At the end the canvas holds Visser, and the referee and doctor kneel at him. Benlloch celebrates on his own side of the ring.
+Nothing in the ring changes during the film: no spill, no blood, nothing thrown in. At the end the canvas holds Visser, and the referee and doctor kneel at him. Benlloch celebrates in the far half.

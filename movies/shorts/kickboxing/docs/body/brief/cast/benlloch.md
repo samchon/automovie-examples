@@ -29,8 +29,9 @@ His wardrobe does not change during the round.
 He is a precision fighter who wins by reading the other man and setting traps ([styles study](../../../research/kickboxing/styles.md#counter-kicker)):
 
 - **Kicks:** right body kicks to Visser's left side; low kicks to the legs Visser plants to punch.
-- **Range-finding:** a lead hand that touches out to find the range and screens his kicks.
+- **Range-finding:** a right cross that touches Visser as it returns, finding the range for his right kick and hiding it as the kick follows. It is a real strike, not an arm held out, which GLORY would count as stalling ([styles study](../../../research/kickboxing/styles.md#kicker-repertoire), [the GLORY limit](../../../research/kickboxing/styles.md#kicker-profile)).
 - **Check and counter:** he checks a kick with a raised shin, keeps his guard high through the check, and fires back at once while the kicker is still recovering, as one drilled unit.
+- **No clinch:** he never takes a hold; at close range he angles out instead.
 - **Pressure:** he answers it with a kick at range, lands balanced, keeps his guard high, and leaves on an angle. He gives ground by pivots, 45-degree steps and circling, never straight back ([styles study](../../../research/kickboxing/styles.md#kicker-answers-pressure), [angles](../../../research/kickboxing/styles.md#kicker-angles-feints), [ring use](../../../research/kickboxing/styles.md#kicker-ring-use)).
 - **Defence and punches:** he slips, parries, rolls and blocks the punches that reach him, and throws short combinations of his own when Visser's pressure stalls.
 
@@ -48,7 +49,7 @@ Left to the screenplay: which strike follows the feint, and when.
 
 His finish is the right Brazilian, or question-mark, kick. It starts as his right body kick, from the same chamber Visser has learned to answer. Then the knee rises higher, the support foot turns further and the hips turn over, so the shin and instep come down over the lowered left arm onto the side of the head and neck ([commission](../../../instructions/commission.md#finish), [styles study](../../../research/kickboxing/styles.md#brazilian-why)).
 
-He hides the difference from the body kick as far as he can. A trained eye, and the camera, can catch the support foot turning further, but Visser has committed to his body cover before that shows ([styles study](../../../research/kickboxing/styles.md#brazilian-chamber)).
+He hides the difference from the body kick as far as he can. A trained eye, and the camera, can catch the knee travelling in a slightly different direction from the body kick's, but Visser has committed to his body cover before that shows ([styles study](../../../research/kickboxing/styles.md#brazilian-chamber)).
 
 He throws it once, at 150 seconds, at the legal target the [bout](../world/bout.md#finish-target) sets. Its law belongs to the screenplay's own study ([styles study](../../../research/kickboxing/styles.md#scope)).
 
@@ -94,7 +95,7 @@ He respects Visser. He touches gloves openly, obeys every break and does not tau
 
 This is their first fight. He has studied the champion's pressure on footage and respects it. He expects to spend the round under it, and he does.
 
-After the knockout, his celebration keeps to his own side of the ring, and he does not stand over Visser. Visser's view of him is in [Visser's record](visser.md#with-benlloch).
+After the knockout, his celebration keeps to the [far half](../sets/ring.md#corners) of the ring, and he does not stand over Visser. Visser's view of him is in [Visser's record](visser.md#with-benlloch).
 
 ## Knowledge {#knowledge-facet}
 
@@ -120,6 +121,9 @@ Through the round his state changes only as landed blows and work change it, and
 
 - **After a landed low kick:** his lead foot settles lighter, his stance narrows or shortens, and he shifts his weight off the kicked leg a moment before he moves again.
 - **After a punch to the head:** glancing or taken on his guard. He resets his stance and his range.
+- **After a punch to the body:** a forced breath, his elbow clamped to that side, and a step out on an angle before he kicks again ([styles study](../../../research/kickboxing/styles.md#body-kick-cost)).
+- **After the clinch knee:** held on the ropes, he takes it with a forced breath and a fold of the trunk into the hold. Once released, he pivots off the ropes before he does anything else ([styles study](../../../research/kickboxing/styles.md#body-kick-cost), [ring use](../../../research/kickboxing/styles.md#kicker-ring-use)).
+- **After a kick Visser checks:** his shin is stung, and he settles that leg a moment before he moves again ([styles study](../../../research/kickboxing/styles.md#low-kick-cost)).
 - **Breath:** it grows across the round. He shows his cost more in his narrowing stance than in breath ([styles study](../../../research/kickboxing/styles.md#round-one-cost)).
 
-After the knockdown he goes to the [neutral corner](../sets/ring.md#corners) and waits there, facing the centre, through the whole count. From 168.1 he celebrates: gloves raised, quick steps on his own planted feet, each step landing and bearing him, and loud, excited breath. He stays visible beside the downed man in the wide ending ([commission](../../../instructions/commission.md#ending)).
+After the knockdown he goes to the [neutral corner](../sets/ring.md#corners) and waits there, facing the centre, through the whole count. From 168.1 he celebrates in the [far half](../sets/ring.md#corners) of the ring: gloves raised, quick steps on his own planted feet, each step landing and bearing him, and loud, excited breath. He stays visible beside the downed man in the wide ending ([commission](../../../instructions/commission.md#ending)).

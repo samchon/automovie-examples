@@ -4,7 +4,7 @@ This study records how live broadcasts and fiction films shoot a ring bout, how 
 
 ## How to read this study {#reading}
 
-Each observation carries its kind in brackets: **[measurement]** for a value with its unit that the original reports; **[observation]** for what the original's text states or its photograph shows; **[inference]** for this study's reasoning from cited facts; **[choice]** for a decision this production offers the brief where the sources leave room. Imperial values are converted to metric, with the original value kept in brackets. Every original was retrieved on 2026-11-13 and is listed, with its creator, URL, saved path, rights and the locators used, in the research index's [fight-coverage section](../index.md#originals-coverage). No footage could be decoded on this machine, so nothing here is read from moving pictures; any value footage alone would give is marked unavailable, inferred or chosen.
+Each observation carries its kind in brackets: **[commission]** for a value or ruling the commission fixes; **[measurement]** for a value with its unit that the original reports; **[observation]** for what the original's text states or its photograph shows; **[inference]** for this study's reasoning from cited facts; **[choice]** for a decision this production offers the brief where the sources leave room. Imperial values are converted to metric, with the original value kept in brackets. Every original was retrieved on 2026-11-13 and is listed, with its creator, URL, saved path, rights and the locators used, in the research index's [fight-coverage section](../index.md#originals-coverage). No footage could be decoded on this machine, so nothing here is read from moving pictures; any value footage alone would give is marked unavailable, inferred or chosen.
 
 | Key | Original |
 | --- | --- |
@@ -56,7 +56,7 @@ Almost every source here covers boxing, with one UFC sound piece and one Muay Th
 - **DAZN, Milan.** "Cameras one and two were positioned along one side of the ring to film the long shot and the narrow shot of the match, respectively." A further camera sat at 90° with a long lens; an UltraEmotion camera sat "at 45°, between the main and 90° cameras"; two Jimmy-Jibs stood at ring corners, and "an elevated 'beauty camera' returned a wide shot of the whole ring" (DAZN-MIL paras. 7–9) [observation]. Main camera one carried a 17×6.2 zoom (para. 12) [measurement]. The ring was "isolated thanks to the presence of black sheets, creating a dark box" (para. 9) [observation].
 - **Scale.** Sky covered Joshua–Klitschko with 16 ring cameras (SKY-AJ "Biggest ever fight for Sky Sports" para. 4); ESPN covered Wilder–Fury II with 38 (ESPN-WF para. 4); NBC used 24 for its biggest fights and 17–18 for lesser ones (NBC-LOOK para. 3); DAZN covered Benavidez–Yarde with 16 (DAZN-RIY "London to Riyadh") [measurement]. Yet "you'd be amazed at how much of the production comes from just three cameras and about as many microphones" (DAZN-AUD last para.) [observation].
 
-The plan is consistent across broadcasters: the main cameras sit together on one side of the ring at a fixed height, a 45° and a 90° camera widen the angle from that side, and handhelds work the apron [inference].
+The plan is broadly consistent: the main cameras sit together on one side of the ring at a fixed height, handhelds work the apron, and further cameras cover what the main side cannot see. HBO puts its 90-degree camera "on the opposite side" (HBO-OP para. 6), and DAZN placed a 45° camera between its main and 90° cameras (DAZN-MIL paras. 7–9) [observation; the summary is inference].
 
 ### Main camera height and distance {#main-cameras}
 
@@ -103,18 +103,18 @@ A camera that moves sideways around the referee, rather than a cut, is the broad
 - "The thing that's so distracting if you watch coverage of boxing the first time people do it [is that] they just keep cutting the cameras because they're moving so fast. What we're trying to do is slow it all down and go to cameras at the right time" (SKY-AJ last para.) [observation]. Over-cutting marks an inexperienced director; cutting at resets marks an experienced one [inference].
 - "The fight dictates the coverage." Lighter men "move around the ring very fast, so we'll cut the cameras a lot less", while heavier men "stay in pockets for a bit longer, so perhaps we cut round it a little bit more" (SKY-AJ "Camera positions through the ropes" para. 1) [observation].
 - Southpaw: "It doesn't matter if you see the other camera because that adds to the accuracy; [that is what] you see in a live event" (SOUTHPAW, para. beginning "Todd and Rick") [observation].
-- Between rounds, broadcasters show replays, often in super slow motion (DAZN-MIL last para.; SKY-AJ "Biggest ever fight" para. 6) [observation]. The commission excludes replay ([sound](../../instructions/commission.md#sound)), so this film has no such insert [observation of the commission].
+- Between rounds, broadcasters show replays, often in super slow motion (DAZN-MIL last para.; SKY-AJ "Biggest ever fight" para. 6) [observation]. The commission excludes replay ([sound](../../instructions/commission.md#sound)), so this film has no such insert [commission].
 
 ### Screen direction and the 180-degree line {#screen-direction}
 
-No retrieved source states a line rule for ring coverage [observation]. The camera plans imply one: the main cameras sit together "along one side of the ring" (DAZN-MIL para. 7), the 45° and 90° cameras sit between them and a side, and the apron handhelds take the corners (HBO-OP; SOUTHPAW) [observation]. Coverage therefore comes from one half of the ring's surround, and the main camera's side is the reference [inference]. Fighters circle, so their line keeps turning and they swap screen sides within one uncut shot. Viewers keep track by corner colour and trunks, not by fixed screen position [inference]. Wilder–Fury's corner cameras sat in "two corners" (ESPN-WF para. 13) and a robotic camera sat in "the far neutral corner" (ESPN-SND para. 10), so broadcasts do use reverse angles [observation].
+No retrieved source states a line rule for ring coverage [observation]. The camera plans imply a reference side: the main cameras sit together "along one side of the ring" (DAZN-MIL para. 7), and the apron handhelds take the corners (HBO-OP; SOUTHPAW) [observation]. HBO's 90-degree camera works from "the opposite side" for the corners the main cameras cannot see (HBO-OP para. 6) [observation]. Most coverage therefore comes from the main side, which is the reference, with reverse angles from the opposite side for what it cannot see [inference]. Fighters circle, so their line keeps turning and they swap screen sides within one uncut shot. Viewers keep track by corner colour and trunks, not by fixed screen position [inference]. Wilder–Fury's corner cameras sat in "two corners" (ESPN-WF para. 13) and a robotic camera sat in "the far neutral corner" (ESPN-SND para. 10), so broadcasts do use reverse angles [observation].
 
 ### Shot length {#shot-length}
 
 No retrieved source measures shot length or cut rate in boxing or kickboxing broadcasts. A search for a measured study found none, and the footage could not be decoded here [unavailable]. What the sources give instead:
 
 - Cutting slows for faster, lighter men and quickens for slower, heavier ones (SKY-AJ, as above) [observation].
-- Cuts fall at the referee's "break", not mid-exchange (SKY-AJ last para.) [observation].
+- At the referee's "break" Sky comes out to the head-to-toe size, "not when a boxer is in the middle of a really big exchange" (SKY-AJ last para.) [observation]. For heavier men who "stay in pockets", "perhaps we cut round it a little bit more" (SKY-AJ "Camera positions through the ropes" para. 1) [observation]. That a sober film keeps its cuts to such resets is this production's choice [choice].
 - Fiction long takes: Creed's first fight is one Steadicam shot covering two 90 s "movie rounds" and the 60 s break between them. Each of its 12 takes ran 4 min (CREED, para. beginning "Alberti describes") [measurement: one shot of about 240 s]. Southpaw's HBO operators rolled "two to four rounds of boxing, with each round being three minutes long without a cut, covering it like a live televised fight" (SOUTHPAW, para. beginning "The filmmakers turned to HBO") [measurement]. Those are camera takes, not shots in the edit.
 
 ## Fiction films in the ring {#fiction}
@@ -144,7 +144,7 @@ No retrieved source measures shot length or cut rate in boxing or kickboxing bro
 
 ### When fiction cuts {#fiction-cutting}
 
-Creed holds two rounds and the break between them in one shot (CREED) [observation]. Southpaw shot every round continuously from several cameras and cut in the edit among broadcast-style angles, POV and slow-motion knockouts (SOUTHPAW) [observation]. Raging Bull cut to a designed rhythm per fight (CHAPMAN-46; RB-SND) [observation]. A long take in these films tends to cover a whole round or a whole sustained action, and the cut comes at a reset, a corner or a change of viewpoint [inference]. This production's uncut kick and fall and its real-time count follow the Creed model ([finish](../../instructions/commission.md#fall), [count](../../instructions/commission.md#count)) [observation of the commission].
+Creed holds two rounds and the break between them in one shot (CREED) [observation]. Southpaw shot every round continuously from several cameras and cut in the edit among broadcast-style angles, POV and slow-motion knockouts (SOUTHPAW) [observation]. Raging Bull cut to a designed rhythm per fight (CHAPMAN-46; RB-SND) [observation]. A long take in these films tends to cover a whole round or a whole sustained action, and the cut comes at a reset, a corner or a change of viewpoint [inference]. This production's uncut kick and fall and its real-time count follow the Creed model ([finish](../../instructions/commission.md#fall), [count](../../instructions/commission.md#count)) [commission].
 
 ## Sober, close coverage against highlight style {#sober-coverage}
 
@@ -271,13 +271,13 @@ The layout is a ring on the arena floor, ringside tables for officials, press an
 
 ### How a fight crowd sounds {#crowd-sound}
 
-- The crowd is "vocally supporting" a favourite, and its noise follows the action. One hypothesis is that judges hear "greater crowd noise equating to more effective strikes" (MYERS "Discussion: why an impact of crowd noise" para. 1; "Limitations of the study") [observation]. The study found a live crowd's noise moved judges by about half a point a bout (MYERS "Discussion: summary of findings") [measurement], evidence that the crowd responds audibly to each landed blow [inference].
+- The crowd is "vocally supporting" a favourite, and its noise follows the action. One hypothesis is that judges hear "greater crowd noise equating to more effective strikes" (MYERS "Discussion: why an impact of crowd noise" para. 1; "Limitations of the study") [observation]. The study found a live crowd's noise moved judges by about half a point a bout (MYERS "Discussion: summary of findings") [measurement]. Its own limitations note that its design "reduced the possibility of determining whether crowd noise is used as a cue", so it does not show how a live crowd answers each blow (MYERS "Limitations of the study") [observation]. No retrieved source measures that [unavailable].
 - Crowd as call and response: "you're playing off the crowd because you're signaling that call and response ... that's the real time facet that the spectator feeds off of that's the dashboard, the hits as they progress" (TONE, Aaron Glasscock 24:08) [observation]. A crowd designer builds "little apexes and events" on the reactions (TONE, Aaron Glasscock 40:40) [observation].
 - Sound editors use hockey crowds for clean reactions because the NHL bars PA music during play: "anyone takes a really nice check, you get ... these big reacts" (TONE, René Coronado 44:57) [observation].
 - Crowd size changes the sound: Creed II's fights ranged from clubs of "a couple 100 people" to "this massive Russian arena" (TONE, René Coronado 41:50) [observation].
 - Constant crowd tires the ear; a mix must "come back down so you can go back up" (TONE, Aaron Glasscock 44:07) [observation].
 
-The crowd stays present as a low bed, swells on each landed exchange, peaks on a big kick and falls back when the men reset [inference]. It does not track every feint [inference].
+As a choice built on the film crowd designers' call-and-response practice above (TONE), not on a live measurement: the crowd stays present as a low bed, swells on each landed exchange, peaks on a big kick and falls back when the men reset. It does not track every feint [choice].
 
 ### The knockout reaction {#knockout-reaction}
 
@@ -356,9 +356,9 @@ Against the [research statements](../../../../../../.agents/skills/contracts/sto
 - **2. Legal and illegal actions:** *the subject has none of its own.* The bout's rules are in RULES. The one conduct rule for coverage found here, no extra lights raised during the boxing, is recorded under [ring light](#ring-light).
 - **3. Outcome table:** *the subject has none.* A camera style has no outcomes. The bout's outcome table is in RULES ([outcomes](../kickboxing/rules.md#outcomes)).
 - **4. How actions chain:** covered for coverage as [cutting](#cutting) at resets and [long takes](#fiction-cutting). *The chain of shots across the round belongs to the screenplay's later study.*
-- **5. Spatial strategy and tempo across the duration:** the camera's tempo is covered qualitatively under [cutting](#cutting). *The fighters' use of the ring and the round's tempo belong to the screenplay's later study.*
+- **5. Spatial strategy and tempo across the duration:** the camera's tempo is covered qualitatively under [cutting](#cutting). The fighters' use of the ring and the round's tempo, at the level of style, are in the [styles study](../kickboxing/styles.md#pressure-ring-and-tempo). *Their measured rates and the path of each exchange belong to the screenplay's later study.*
 - **6. Conduct of everyone present:** covered for camera operators, the crowd, corners as heard and the timekeeper. The referee's conduct is in the [referee study](../officiating/referee.md). The corner teams' rules are in RULES.
-- **7. Markers of the depicted level:** covered for coverage: over-cutting marks an inexperienced director ([cutting](#cutting)). *The fighters' markers belong to the screenplay's later study.*
+- **7. Markers of the depicted level:** covered for coverage: over-cutting marks an inexperienced director ([cutting](#cutting)). The fighters' markers are in the [styles study](../kickboxing/styles.md#level-markers).
 - **8. How the genre is shot:** covered ([broadcast](#broadcast), [fiction](#fiction), [sober coverage](#sober-coverage)).
 - **9–10. Measurable targets as ranges:** covered where a source gives them ([targets](#targets)). Shot-change cadence and sound levels are unavailable. *Distance by phase, action rate and idle time per presence belong to the screenplay's later study.*
 - **11. An invented action's analogue:** the bout is fictional and its coverage borrows boxing's. The translation is in [translation](#translation).

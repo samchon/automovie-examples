@@ -6,7 +6,7 @@ The paying audience of the championship night, present and heard, and in the dar
 
 ### Who they are {#makeup}
 
-The crowd is a full house of several thousand adults ([coverage study](../../../research/cinematography/fight-coverage.md#crowd-arrangement)). They are drawn as the simplest forms that read as seated and standing people: heads and shoulders in rows ([work](../world/work.md#what-it-cannot-show)). No one in the crowd is told apart from the rest, and no story point rests on who any of them is.
+The crowd is a full house of several thousand adults ([coverage study](../../../research/cinematography/fight-coverage.md#crowd-arrangement)). Each is a polygon man ([work](../world/work.md#what-it-cannot-show)). Only the first, lit rows read as people, mostly as heads and shoulders above the seat backs; behind them the tiers fall into silhouette and then darkness, where no single figure reads. No one in the crowd is told apart from the rest, and no story point rests on who any of them is.
 
 ### Where they sit {#arrangement}
 
@@ -20,7 +20,7 @@ They stay in their seats, rising in the front rows at big moments: the finish, t
 
 ### In sound {#in-sound}
 
-They are heard only as wordless noise: a low bed under the ring's own sounds, with swells, vowel calls, whistles and claps ([commission](../../../instructions/commission.md#venue), [coverage study](../../../research/cinematography/fight-coverage.md#crowd-sound)). Over the round:
+They are heard only as wordless noise: a low bed under the ring's own sounds, with swells, vowel calls, whistles and claps ([commission](../../../instructions/commission.md#venue)). How a live crowd answers each blow is not measured in any source, so the course below is this film's choice, built on how film crowds are designed ([coverage study](../../../research/cinematography/fight-coverage.md#crowd-sound)). Over the round:
 
 - **Exchanges:** the noise swells when an exchange lands and peaks on a big kick. It falls back when the men reset, and it does not follow every feint.
 - **The finish:** a sharp roar starts as the kick lands and holds through the fall.

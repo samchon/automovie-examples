@@ -107,14 +107,14 @@ A is the challenger: a patient kicker with a check-and-counter game and right bo
 ### What he is {#kicker-profile}
 
 - "The precision fighting style ... involves patiently waiting for openings that can be exploited with an accurate style. Precision fighters focus more on winning the cerebral aspects of a fight, using tools like feints, fakes, and traps to create openings" (EV-PP, section "Pressure Vs. Precision Fighting", para. 2) [observation]. He "thrive[s] under pressure (ironically). Countering aggressive opponents is your thing" (EV-PP, section "Traits Of A Precision Fighter") [observation].
-- Translation: EV-PP writes for striking in general and names boxers and MMA fighters. The temperament and its trade-offs transfer to the kickboxer [inference].
+- Translation: EV-PP writes for striking in general and names boxers and MMA fighters. The temperament and its trade-offs transfer to the kickboxer [inference], within one GLORY limit. GLORY counts as stalling both "Passivity; this includes but is not limited to fighting only when the opponent attacks" and "continuously pulling up the front leg or stretching out the front arm without carrying out a particular technique" (GLORY 5.07.C.1–2, p. 17) [observation]. A pure counter-fighter who waits for every attack, or a range-finding arm held out with no strike behind it, risks a caution (GLORY 5.08.A.1) [inference]. So the GLORY version of this temperament keeps its own initiative: it leads with kicks of its own between counters, and the touch that finds the range is a real strike ([range-finding](#kicker-repertoire)) [inference].
 
 ### Repertoire {#kicker-repertoire}
 
-- The right body kick. A hard body kick "stings", so "it doesn't take much before your opponent starts dropping their hands to protect their body" (EV-QM, section 3 "Question Mark Kick Thrown Off Body Kicks") [observation]. The same body kick is the look from which the Brazilian kick is thrown (see [the Brazilian kick](#brazilian-kick)).
+- The right body kick. Of hard body kicks, "Those things sting", so "it doesn't take much before your opponent starts dropping their hands to protect their body" (EV-QM, section 3 "Question Mark Kick Thrown Off Body Kicks") [observation]. The same body kick is the look from which the Brazilian kick is thrown (see [the Brazilian kick](#brazilian-kick)).
 - The check and its counter (next section).
 - Low kicks against the puncher, thrown "every time he tries to attack you with punches" from kicking distance (GLK, para. beginning "An inside low kick") [observation].
-- Range-finding with the lead hand. Peter Aerts "would often use his right hand as a range-finder: if the right hand was near his opponents face, this was and indication that his right shin could reach the neck", and the touching hand also hid the incoming kick (BE, "Peter Aerts", Technique #3) [observation]. Hoost "often semi-connects with punches in order to feint or check the distance" (BE, "Ernesto Hoost", Technique #3) [observation].
+- Range-finding with the rear hand. Peter Aerts "would often use his right hand as a range-finder: if the right hand was near his opponents face, this was and indication that his right shin could reach the neck". In the technique shown, "Peter checks the distance by touching his opponent with his right cross as he pulls back and this hides his incoming right high kick" (BE, "Peter Aerts", Technique #3) [observation]. For an orthodox kicker this is the rear-hand cross, touching as it returns, not the lead hand [inference]. Hoost "often semi-connects with punches in order to feint or check the distance" (BE, "Ernesto Hoost", Technique #3) [observation].
 - Timing the opponent's output. Brestovac's 36-second knockout of Hesdy Gerges at GLORY: "Gerges went to work with low kicks early on. Brestovac timed Gerges' output and then fired back a head kick" (GLORY-KKY, Brestovac vs Gerges) [observation].
 
 ### The check and counter {#check-and-counter}
@@ -148,7 +148,7 @@ A is the challenger: a patient kicker with a check-and-counter game and right bo
 - "You need excellent distance management, speed, and reflexes"; the style "Works best for fighters who can strike while backpaddling"; "Close rounds could end up going to busier opponents" (EV-PP, section "Some Drawbacks Associated With The Out-Fighting Style") [observation].
 - "Teeps and body kicks can leave you open to catches and grabs" (EV-BODY, section "The Risks When Targeting the Body in MMA") [observation]. Translation: in MMA a catch leads to a takedown. In GLORY it leads to a brief hold and a counter, so the risk is the counter as the kicker stands on one leg [inference].
 - He gives ground and so concedes the look of control. Pressure is often misread as winning ("the fighter moving forward is the one that is winning", ATLAS, opening para.) [observation].
-- For the brief: A's cost before 150 s is ground, breath and the low kicks he eats when he cannot check because B's punches arrive first [choice].
+- For the brief: A's cost before 150 s is ground and the low kicks he eats when he cannot check because B's punches arrive first. His breath grows too, but less than B's ([round one's cost](#round-one-cost)) [choice].
 
 ## Championship level against club level {#level-markers}
 
@@ -168,12 +168,12 @@ Both men are championship level. Each marker below separates them from a club fi
 ### Economy and variety {#economy}
 
 - A beginner learns each strike separately and later "stopping after each strike whats next"; a trained fighter's punches and kicks "complement each other" so he goes "smoothly through the moves" (HOOST, paras. beginning "Most practitioners don't practice" and "Once the practitioners work") [observation].
-- The championship fighter never repeats a combination (HOOST, section "Connecting Our strikes", para. 3) [observation]. The precision fighter asks "Why throw ten punches when one well-placed strike does the job?" (EV-PP, section "Traits Of A Precision Fighter") [observation].
+- The championship fighter does not throw the same combination repeatedly: "never throw the same combination repeatedly" (HOOST, section "Connecting Our strikes", para. 3) [observation]. The precision fighter asks "Why throw ten punches when one well-placed strike does the job?" (EV-PP, section "Traits Of A Precision Fighter") [observation].
 
 ### Defence while attacking {#defence-while-attacking}
 
 - Each block is drilled together with its counter, "as a single sequence rather than two separate actions" (EV-BLOCK, FAQ "Why Does The Elbow Block Create A Counter Opportunity") [observation]. The check-and-counter is drilled "as a single unit" (EV-CHECK, FAQ "What Should I Do Immediately After Checking A Kick?") [observation].
-- The guard stays high through the check (EV-CHECK, "How To Check", "Timing And Lift") [observation]. The touching lead hand that finds the range also screens the kick (BE, "Peter Aerts", Technique #3) [observation].
+- The guard stays high through the check (EV-CHECK, "How To Check", "Timing And Lift") [observation]. The right cross that touches to find the range also hides the right high kick that follows (BE, "Peter Aerts", Technique #3) [observation].
 - The jaw stays shut on the mouthguard while exhaling, because with an open jaw "you are much more susceptible to being hurt from a counter strike" (MTG-GRUNT, para. beginning "First and foremost") [observation].
 
 ### Feints {#level-feints}
@@ -261,8 +261,8 @@ The Brazilian or question-mark kick starts as a lower roundhouse or front-kick l
 - The thrower sells the lower kick. "Bring your knee up and pivot your front foot to open up your hips" (EV-QM, section 1). The knee comes up "high", the front foot turns "quickly to the side. This opens up your hips and enables you to rotate your kick over" (LK-QM, section "The back leg question mark kick") [observation].
 - Coaches teach a pause with the knee up: "Take a slight pause and leave your knee up for half a second to sell the fake" (LK-QM, "Tips", item "Pause"). Evolve says "pause for a second" (EV-QM, section 3) [observation]. Translation: these are coaching cues for selling the fake in training. The elite kick's timing is left to the screenplay's study [inference].
 - The difference is there for a trained eye: "there's a slight difference in the low kick's chamber and the question mark kick's. The knee from the kicking leg is clearly moving in a different direction. Your opponent may not catch onto this ... However, if they have a good enough eye, it can be seen" (MTG-QM, section "Deceiving your opponent with the teep") [observation].
-- So the readable signs before the turnover are a knee raised higher than the body kick's, a support-foot pivot turned further than the body kick needs, and the hips turning over. A defender who commits when the knee rises has already acted before these appear (MQB19, p. 332) [inference].
-- For the brief: at championship level A hides the difference as far as he can. The camera, not B, may catch the support foot turning further. B has committed to his body cover before it does [choice].
+- The one readable sign a source names is the knee's direction: "The knee from the kicking leg is clearly moving in a different direction" (MTG-QM, as above) [observation]. The thrower's own cues, a knee brought up high, a front foot pivoted to open the hips and the hips turning over (EV-QM; LK-QM), are what make that direction differ; that they are visible in their own right is not sourced [inference]. A defender who commits when the knee rises has already acted before the difference shows (MQB19, p. 332) [inference].
+- For the brief: at championship level A hides the difference as far as he can. The camera, not B, may catch the knee travelling in a different direction from the body kick's. B has committed to his body cover before it does [choice].
 
 ### Knockouts it has produced {#brazilian-knockouts}
 
@@ -275,7 +275,7 @@ The Brazilian or question-mark kick starts as a lower roundhouse or front-kick l
 ### Where the coaching sources and the commission's landing differ {#brazilian-contact}
 
 - Coaching texts land the question-mark kick on the chin with the ball of the foot and warn against the top of the foot: "Hit With The Ball Of Your Foot ... avoid hitting with the top of your foot to avoid an injury" (LK-QM, "Tips"; EV-QM, sections 1 and 3) [observation].
-- The commission lands "instep and lower shin" on the side of the head and neck below and just behind the left ear. Feitosa's downward "slingshot" kick landed "behind Williams' right ear" (SH-USA05), which supports that landing site and the downward path [observation].
+- The commission lands "instep and lower shin" on the side of the head and neck below and just behind the left ear. Feitosa's downward "slingshot" kick landed "behind Williams' right ear" (SH-USA05) [observation]. That a real elite kick landed there on a downward path supports the commission's landing site [inference].
 - For the brief: keep the commission's landing. It is a downward roundhouse to the side of the head, as in the Feitosa case, not the karate snap to the chin. The contact surface and its law go to the screenplay's study [choice].
 
 ## What landed kicks cost during a round {#kick-costs}
