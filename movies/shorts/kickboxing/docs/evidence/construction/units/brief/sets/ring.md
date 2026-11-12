@@ -1,0 +1,49 @@
+# docs/body/brief/sets/ring.md#shape
+
+## @evidence shared/principles/common.md#scope-preservation
+
+The facet promises the ring's shape and surfaces, and settles them: "GLORY's larger size, a square raised above the floor and closed by four ropes", with a narrow apron (`#square`); "plain mid-grey" canvas with no logo or text, and ropes "wrapped in dark grey" that "give and creak" (`#surface`).
+
+## @evidence shared/principles/brief.md#needed-decisions
+
+The record settles the size choice and why, "The larger ring gives the round room for kicking distance, circling and cutting off", and keeps the measurements where they belong: "The measurements live in the study." It settles what reads against the canvas: "Both fighters' colours, white and black, read against it, and so does a man lying on it." It cites the rules study's `#ring`.
+
+## @evidence instructions/commission.md#whole-ring
+
+The square subsection chooses the ring size for the commission's ring use: "room for kicking distance, circling and cutting off".
+
+# docs/body/brief/sets/ring.md#zones
+
+## @evidence shared/principles/common.md#scope-preservation
+
+The facet promises the corners and zones and how the fight uses them, and settles both: the four corners in their colours, their order round the ring, the officials' table and the steps (`#corners`), and the centre, the ropes and corners, and the open diagonals as the fight's zones (`#use`). Where on the steps' half Visser falls, and where each phase stands, are named as left to the screenplay.
+
+## @evidence shared/principles/brief.md#needed-decisions
+
+The record settles the condition that keeps the aftermath coherent: "Visser falls on the steps' side of the diagonal between the white and black corners, so that Benlloch's corner is the far neutral corner and the doctor's way in never passes the winner." It settles the neutral pads, "red pads. Red makes them the corners that read as neither man's", and cites the rules study's `#corner-colours`.
+
+## @evidence instructions/commission.md#whole-ring
+
+The use subsection realizes "Use the whole ring": the centre, "The ropes and corners: where Visser's cut-offs drive Benlloch, and where Benlloch must pivot or angle out", and the open diagonals.
+
+## @evidence instructions/commission.md#progression
+
+The use subsection hands the progression a changed place per phase: "Each phase hands the next a changed position".
+
+## @evidence instructions/commission.md#count
+
+The corners subsection fixes which neutral corner holds A during the count: "Benlloch waits in whichever neutral corner is farther from where Visser falls".
+
+# docs/body/brief/sets/ring.md#state
+
+## @evidence shared/principles/common.md#scope-preservation
+
+The facet promises the ring's state, and `#unchanged` settles it: "Nothing in the ring changes during the film: no spill, no blood, nothing thrown in", and at the end "the canvas holds Visser, and the referee and doctor kneel at him. Benlloch celebrates on his own side of the ring."
+
+## @evidence shared/principles/brief.md#needed-decisions
+
+The record settles the ring's baseline as unchanged for the whole film, the condition a screenplay must keep in every phase, and the positions it holds at the end.
+
+## @evidence instructions/commission.md#ending
+
+The unchanged subsection holds the ending's positions in the ring: the fallen man on the canvas attended by the referee, and the winner on his own side.
