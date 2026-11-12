@@ -16,7 +16,7 @@ The timekeeper sits with the bell at the officials' table, outside the ropes bes
 
 ### The ring doctor {#doctor}
 
-The ring doctor, an adult man in a dark blue short-sleeved shirt, grey trousers and blue medical gloves, sits in the dark below the steps of the [doctor's corner](../sets/ring.md#zones) for the whole round and enters the ring only when the referee calls him. Called after the knockout signal, he climbs through the ropes at once and reaches Vermeer within seconds, well before the film ends; the screenplay decides the beat. He kneels at Vermeer's head and checks him without moving him, and from then on Vermeer's care is his, with the referee still at Vermeer's side. Nothing he does or says names a cause.
+The ring doctor, an adult man in a dark blue short-sleeved shirt, grey trousers and blue medical gloves, sits in the dark below the steps of the [doctor's corner](../sets/ring.md#zones) for the whole round and enters the ring only when the referee calls him. Called after the knockout signal, he climbs through the ropes at once and reaches Vermeer within seconds, well before the film ends; the screenplay decides the beat. He kneels at Vermeer's head and checks him without moving him, and from then on Vermeer's care is his, with the referee still at Vermeer's side. He works in silence, as only the referee speaks, and nothing he does names a cause.
 
 ### Judges and the announcer {#judges}
 

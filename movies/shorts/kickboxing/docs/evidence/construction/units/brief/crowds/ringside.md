@@ -32,7 +32,7 @@ Their conduct follows the referee study's rules for this contest: the doctor "en
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles who is present and where, whether each is seen or heard, how the bell is struck at the start and the end, the doctor's dress, that he reaches Vermeer within seconds of the call and before the film ends and what he does there, and why the announcer is silent, so every presence has behaviour.
+It settles who is present and where, whether each is seen or heard, how the bell is struck at the start and the end, the doctor's dress, that he reaches Vermeer within seconds of the call and before the film ends, what he does there and that he works in silence, and why the announcer is silent, so every presence has behaviour.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 

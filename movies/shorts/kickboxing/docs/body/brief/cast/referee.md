@@ -1,6 +1,6 @@
 # The referee
 
-The one official inside the ropes. His conduct follows the [referee study](../../../research/officiating/referee.md) and the [contest's rules](../world/contest.md#rules).
+The one official inside the ropes until the doctor joins him after the knockout. His conduct follows the [referee study](../../../research/officiating/referee.md) and the [contest's rules](../world/contest.md#rules).
 
 ## Identity {#identity}
 
