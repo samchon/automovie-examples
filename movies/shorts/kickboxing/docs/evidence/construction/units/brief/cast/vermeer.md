@@ -24,7 +24,7 @@ Adopts fighter B as an adult man of 180 cm and 80 kg at championship level, name
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet settles his whole fight kit: white trunks above the knee, white gloves, bare torso and feet, wraps and an unseen mouthguard.
+The facet settles the fight kit the film uses: white trunks above the knee, white gloves, bare torso and feet, wraps and an unseen mouthguard. The compulsory groin protection, never seen, is not recorded.
 
 ## @evidence shared/principles/common.md#specificity
 
@@ -36,7 +36,7 @@ It settles everything the representation can show of his appearance and names wh
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-Recorded once here; the corner rule stays with the contest record.
+His kit is owned here. His glove colour is also stated in `world/contest.md#corners`, which owns the corner rule; the two agree.
 
 # docs/body/brief/cast/vermeer.md#style
 
@@ -98,7 +98,7 @@ The facet settles his relationship with Kessler, equals without grudge, with his
 
 ## @evidence shared/principles/common.md#specificity
 
-His reading is this bout's: he "takes Kessler's lateral movement as a sign he is winning the centre", the misreading the plan uses.
+His reading is this bout's: he "takes Kessler's lateral movement as a sign he is winning the centre".
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
@@ -128,7 +128,7 @@ It settles what he sounds like in effort, in pain and when down.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-Owned here; the mix is owned by the sound record.
+His voice is owned here. `sound/ring-sound.md#breath-and-feet` also restates "a breath caught when a body blow lands" in general terms, in agreement with this record, and it owns the mix.
 
 ## @evidence instructions/commission.md#language
 
@@ -154,7 +154,7 @@ It settles what each kind of blow costs him, that none drops him before the fini
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-The fall law stays in the study and the finish target in the contest record, both linked; this record keeps his state alone.
+The fall law stays in the study and the finish target in the contest record, both linked. This record keeps his state; its closing sentence, "Nothing in the film says why.", restates the work record's exclusion where it binds his state, in agreement with it.
 
 ## @evidence instructions/commission.md#contacts-before-finish
 

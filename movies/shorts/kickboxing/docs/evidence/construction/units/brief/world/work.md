@@ -40,7 +40,7 @@ It settles the film's boundary, the condition that "No knockdown before the fini
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-Exclusions are stated once here, and other records link to "what the film leaves out" and to the anchors instead of restating them; the definition, the settled content and the conditions come in that order.
+The exclusions and the anchors are owned here; the sound record links to "what the film leaves out", and the cast, ringside and referee records link to the anchors. Two exclusions are also restated where they bind a single record: "Nothing in the film says why." closes `cast/vermeer.md#down`, and the no-knockdown condition is the last sentence of `world/contest.md#downs`. Both agree with this record. The definition, the settled content and the conditions come in that order.
 
 ## @evidence instructions/commission.md#one-round
 
@@ -90,7 +90,7 @@ The representation is recorded once, here, linked from PROJECT.md's representati
 
 ## @evidence instructions/commission.md#referee
 
-Adopts the commission's reading that the faceless referee's expression is read from the turn of his head and trunk, his posture and his voice.
+Adopts the commission's representation reading for the faceless referee: attention reads from where his head and trunk turn, effort from posture and breath, and care from what his hands and body do. The reading of his expression through his voice is held by `cast/referee.md#words`.
 
 # docs/body/brief/world/work.md#form
 

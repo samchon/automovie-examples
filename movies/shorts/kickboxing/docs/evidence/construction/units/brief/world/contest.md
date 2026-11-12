@@ -6,7 +6,7 @@ The facet promises the bout and the corners and settles both: a fictional GLORY 
 
 ## @evidence shared/principles/common.md#specificity
 
-The corners and colours come from GLORY's own ring and glove rules, black-post and white-post corners with gloves matching, rather than the red and blue of other rulesets, and the first-round condition follows from the commission's glove touch and opening exchanges.
+The corners and colours come from GLORY's own ring and glove rules, black-post and white-post corners with gloves matching, and the first-round condition follows from the commission's glove touch and opening exchanges.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
@@ -14,7 +14,7 @@ It settles that the contest is fictional and claims no event, that both men are 
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-The bout and corners are owned here and cited by the fighters' kit records; the rule text stays in the linked rules study.
+The bout and the corners are owned here; the fighters' kit records repeat each man's colour without linking this record, and the two agree. The rule text stays in the linked rules study.
 
 ## @evidence instructions/commission.md#ruleset
 
@@ -40,7 +40,7 @@ It settles legal and illegal actions, the landing point as a legal side target, 
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-Rules are stated here once and cite the rules study for their text; the referee's performance of them belongs to his record, linked from "Downs and the result". The user's confirmation of the landing point is recorded here and in PROJECT.md, which no longer lists it as open.
+The contest's rules are owned here and cite the rules study for their text. The no-knockdown condition is also stated in `world/work.md#what-the-film-leaves-out` and, as each man's costs, in `cast/kessler.md#costs` and `cast/vermeer.md#costs`; all agree with this record. the referee's performance of them belongs to his record, linked from "Downs and the result". The user's confirmation of the landing point is recorded here and in PROJECT.md, which no longer lists it as open.
 
 ## @evidence instructions/commission.md#ruleset
 

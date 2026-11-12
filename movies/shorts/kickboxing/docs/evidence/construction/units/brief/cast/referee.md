@@ -96,7 +96,7 @@ The words are owned here; their place in the mix is owned by the sound record.
 
 ## @evidence instructions/commission.md#language
 
-Adopts that the referee speaks English and is the only speaker.
+Adopts that the referee speaks English, in "only these words". The rule that his is the film's only speech is owned by `world/work.md#what-the-film-leaves-out`.
 
 ## @evidence instructions/commission.md#sound
 

@@ -58,7 +58,7 @@ Adopts the wide ending holding the winner, the fallen man and the referee attend
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet settles the light and grade the film is recorded with.
+The facet settles the grade with which the film records the ring's light. The light itself is owned by `sets/ring.md#light`.
 
 ## @evidence shared/principles/common.md#specificity
 
@@ -74,4 +74,4 @@ The ring's light is owned by the ring record; this record keeps how it is record
 
 ## @evidence instructions/commission.md#camera
 
-Keeps the fighters, their feet and the struck targets readable.
+Supports the readability of the fighters, their feet and the struck targets with a neutral grade. The single screen axis is realized in `#ringside-view`.

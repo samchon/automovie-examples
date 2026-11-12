@@ -2,7 +2,7 @@
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet settles the film's sound sources, every sound the other records decide among them, each kind of contact, breath and feet.
+The facet settles the film's sound sources, every sound the other records decide among them, breath, feet, and the rule that "Each kind of contact has its own sound", with the contacts of the round's main exchanges named. The teep, in Kessler's repertoire, has no named contact; its sole pushing into the trunk falls under that rule, not under a listed class.
 
 ## @evidence shared/principles/common.md#specificity
 
@@ -10,11 +10,11 @@ The contacts are this bout's techniques from the technique study, from "shin on 
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles what may be heard, Kessler's wordless sound, the ropes and the officials' own movement included, and how each contact differs, so every beat's foley and effects can be named without invention.
+It settles what may be heard, Kessler's wordless sound, the ropes and the officials' own movement included, and how the named contacts differ, so the foley of those exchanges can be named without invention. The teep's contact is left to the screenplay under the rule that every contact has its own sound.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-What is excluded is linked to the work record, and each man's breath to his own voice record.
+What is excluded is linked to the work record. Breath is described here in general terms without linking `cast/kessler.md#breath` or `cast/vermeer.md#breath`, which own each man's voice and agree with it.
 
 ## @evidence instructions/commission.md#sound
 
@@ -32,7 +32,7 @@ The balance follows this film's needs: the referee's words "always clear above t
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles the order of priority among contacts, breath, crowd, words and bell.
+It settles the listening position and three rankings: contacts and breath in front of the crowd in exchanges, the referee's words above the crowd, and the bell above everything. The referee's words are not ranked against contacts or breath.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 

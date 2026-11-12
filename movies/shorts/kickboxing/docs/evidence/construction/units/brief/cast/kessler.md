@@ -14,7 +14,7 @@ It settles his identity, how the audience knows him without a spoken name, the s
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-His identity is owned here once; his colours belong to his kit record and the contest's corners, linked rather than repeated.
+His identity is owned here once. "the man in black" names him by the colour that his kit record and the contest's corners own; it is stated without a link, and it agrees with both.
 
 ## @evidence instructions/commission.md#fighters
 
@@ -24,7 +24,7 @@ Adopts fighter A as an adult man of 180 cm and 80 kg at championship level, give
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet promises his appearance and settles his whole fight kit: black trunks above the knee, black gloves, bare torso and feet, wraps, and a mouthguard the representation does not show.
+The facet promises his appearance and settles the fight kit the film uses: black trunks above the knee, black gloves, bare torso and feet, wraps, and a mouthguard the representation does not show. The groin protection GLORY makes compulsory, worn under the trunks and never seen, is not recorded.
 
 ## @evidence shared/principles/common.md#specificity
 
@@ -36,7 +36,7 @@ It settles everything a polygon man can carry of his appearance and names the on
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-His appearance is recorded once, here; the corner rule that fixes the colour is owned by the contest record.
+His kit is owned here. His glove colour is also stated in `world/contest.md#corners`, which owns the corner rule that fixes it; the two agree.
 
 # docs/body/brief/cast/kessler.md#style
 
@@ -54,7 +54,7 @@ It settles stance, range preference, how he escapes the ropes, each technique he
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-Technique laws stay in the study; this record keeps only his choices among them, and the finish's target is linked to the contest record rather than restated.
+Technique laws stay in the study; this record keeps only his choices among them, and the finish's target is not restated: this record says only "onto the side of the head", and the landing point is owned by `world/contest.md#finish-target`, which this record does not link.
 
 ## @evidence instructions/commission.md#exchange-vocabulary
 
@@ -110,7 +110,7 @@ It settles that he has no speech, what his breath does across the round, and wha
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-His voice is owned here; how breath sits in the mix is owned by the sound record.
+His voice is owned here. `sound/ring-sound.md#breath-and-feet` also restates breath in general, exhales with strikes and breathing that grows heavier, in agreement with this record, and it owns the mix.
 
 ## @evidence instructions/commission.md#language
 

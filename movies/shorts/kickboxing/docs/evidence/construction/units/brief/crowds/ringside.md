@@ -14,17 +14,17 @@ It settles whether the audience is seen, what it sounds like and when it rises, 
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-Owned here once; the blackout cites the fight-coverage study, and the mix is owned by the sound record.
+The audience's behaviour is owned here; the blackout cites the fight-coverage study. That the audience is never seen is also stated in `world/work.md#coarse-forms`, which owns the representation, in agreement with this record. The mix is owned by the sound record.
 
 ## @evidence instructions/commission.md#sound
 
-Keeps the crowd under the bells, the referee's words, breaths and contacts that carry the film.
+Keeps the crowd's roar "beneath the referee's voice" and its voice free of words. The ranking of the crowd behind the bell, contacts and breath is owned by `sound/ring-sound.md#priorities`.
 
 # docs/body/brief/crowds/ringside.md#officials
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet settles every official and corner outside the ropes: the timekeeper and bell, the ring doctor, the judges and announcer, and both corner teams, with what each does while present.
+The facet settles every official and corner the film places outside the ropes: the timekeeper and bell, the ring doctor, the judges and announcer, and both corner teams, with what each does while present. The rules study's ring inspectors, judge supervisor and scorekeeper are neither placed nor excluded: they are never seen or heard, and the film uses none of them.
 
 ## @evidence shared/principles/common.md#specificity
 

@@ -40,7 +40,7 @@ The ring's light is owned here; the grade it is recorded with is owned by the co
 
 ## @evidence instructions/commission.md#camera
 
-Supports feet, targets and heads readable on screen by the canvas colour and even top light.
+Supports the readability of feet, targets and heads with the canvas colour and the even top light. The single screen axis is realized in `cinematography/coverage.md#ringside-view`.
 
 # docs/body/brief/sets/ring.md#use
 
