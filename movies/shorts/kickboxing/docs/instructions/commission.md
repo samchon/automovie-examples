@@ -34,6 +34,8 @@ User requirement. "B has learned to drop his left arm whenever A's right knee ri
 
 User requirement. "At 150.000 A's right Brazilian kick lands: his instep and lower shin come down over B's lowered left arm onto the area behind B's left ear at the junction of jaw and neck." The second is an anchor the edit lands on. The kick starts as the body kick B has learned to expect.
 
+User clarification, given on 2026-11-13. The landing point "behind B's left ear at the junction of jaw and neck" is the side of the head and neck below and just behind the ear lobe, struck by a kick aimed at the side of the head, which kickboxing rules treat as a legal target. It is not the back of the head.
+
 ## B's fall {#fall}
 
 User requirement. "B falls on his right side." Also: "Show the decisive kick and articulated fall without a cut." The fall is articulated: it shows its phases, from the loss of support to the body at rest on the canvas.
@@ -72,11 +74,11 @@ User requirement. "Start and match-ending bells, English referee words, breaths,
 
 ## The winner beside the fallen man {#ending}
 
-User requirement. "The winner's raised gloves, supported victory steps and excited breath remain visible beside the downed opponent in the wide ending." The last image holds A's celebration and B on the canvas in one wide frame, with the referee attending B.
+User requirement. "The winner's raised gloves, supported victory steps and excited breath remain visible beside the downed opponent in the wide ending." The last image holds A's celebration and B on the canvas in one wide frame, with the referee attending B. This production reads "supported victory steps" as steps that carry A's weight on his own planted feet, each one landing and bearing him, not as steps in which anyone holds him up: no corner man enters the ring before 180, and the ruling describes the winner's own movement.
 
 ## Language {#language}
 
-Delegated choice, decided by this production. The screenplay is written in English, and the referee speaks English, as the sound requirement names. The fighters do not speak; their voices are breath and effort, which keeps the referee's words the only speech and makes each one count.
+Delegated choice, decided by this production. The screenplay is written in English, and the referee speaks English, as the sound requirement names. The fighters do not speak; their voices are breath and effort, which keeps the referee's words the only speech and makes each one count. The screenplay's text uses British spelling, as this commission does; the referee's count is spoken as the words "One" to "Ten", and film seconds are written as numerals at the precision the anchors above give.
 
 ## Direction {#direction}
 
