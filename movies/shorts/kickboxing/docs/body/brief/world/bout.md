@@ -46,18 +46,18 @@ The fight's whole vocabulary is the commission's: combinations, feints, checks w
 
 Neither man throws an elbow, a throw or a sweep. Neither strikes the back of the head, the back or the groin, strikes a man who is down, holds the ropes, pushes, or takes a hold for any purpose but one knee. Neither speaks, taunts or turns to the crowd ([commission](../../../instructions/commission.md#ruleset), [rules study](../../../research/kickboxing/rules.md#technique-additions)).
 
-No deliberate foul is committed in the round, so no official warning or penalty occurs. The one foul the round allows is an accidental tie-up at close range. It is a minor foul, which the referee breaks without a caution, at his discretion ([clinch](#clinch)).
+No deliberate foul is committed in the round, so no official warning or penalty occurs. The one foul the round allows is an accidental tie-up at close range: a minor foul, for which the referee gives a caution, as the [clinch](#clinch) sets out.
 
 ### The clinch {#clinch}
 
 Two kinds of close contact happen in the round, and the referee answers each differently ([commission](../../../instructions/commission.md#ruleset), [rules study](../../../research/kickboxing/rules.md#clinch)):
 
 - **The lawful clinch.** A man takes a hold only to throw one immediate knee, and releases it himself at once. In this round only Visser does ([Visser](../cast/visser.md#repertoire)). The referee closes in but gives no command.
-- **The tie-up.** In close exchanges the men's arms tangle, or one man smothers a punch, and neither means it as a hold. Under GLORY even an accidental hold is a minor foul, which may draw a caution without stopping the action. This referee, at his discretion, gives no caution beyond the command ([rules study](../../../research/kickboxing/rules.md#foul-consequences)). He parts them with "Break!", the commission's clinch break.
+- **The tie-up.** In close exchanges the men's arms tangle, or one man smothers a punch, and neither means it as a hold. Under GLORY even an accidental hold is a minor foul. GLORY gives a caution for a minor, accidental foul and lets it be given without stopping the action (5.08.A.1), and the referee chooses how (5.08.B) ([rules study](../../../research/kickboxing/rules.md#foul-consequences)). This referee's caution is his "Break!" itself, given without stopping the round and without a gesture; that is this production's choice. It parts the men, and it is the commission's clinch break.
 
 How the referee breaks them is his record's ([referee](../cast/referee.md#clinch-break)).
 
-Left to the screenplay: when each happens. The round has at least one tie-up, so that the commission's clinch break is seen ([commission](../../../instructions/commission.md#referee)). No more than two are charged to either man, because GLORY deducts a point automatically after three fouls of any kind ([rules study](../../../research/kickboxing/rules.md#foul-consequences)).
+Left to the screenplay: when each happens. The round has at least one tie-up, so that the commission's clinch break is seen ([commission](../../../instructions/commission.md#referee)). Each tie-up is a cautioned foul, and GLORY deducts a point automatically after three fouls of any kind, so no more than two are charged to either man ([rules study](../../../research/kickboxing/rules.md#foul-consequences)).
 
 ### The finish is legal {#finish-target}
 

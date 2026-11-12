@@ -129,4 +129,6 @@ Through the round his state changes only as landed blows and work change it, and
 - **Breath:** it grows across the round. Because he has taken body kicks he breathes harder and shorter than Benlloch by the finish ([styles study](../../../research/kickboxing/styles.md#round-one-cost)).
 - **Guard:** high and correct at first. Then it is pulled low on the left at each rising right knee ([tell](#tell)).
 
-After 150 seconds he is down on his right side and cannot rise by ten ([bout](../world/bout.md#unable-to-rise)). The film ends with him still on the canvas, attended by the [referee](referee.md#care) and by the [ring doctor](../crowds/ringside.md#doctor) once the doctor has been called.
+After 150 seconds he is down on his right side and cannot rise by ten ([bout](../world/bout.md#unable-to-rise)).
+
+From the knockout signal to 180 he stays conscious and stays on his right side. When the referee says "Stay down." he stops trying to rise. His head turns toward the men kneeling at him, one glove moves on the canvas, and his breath stays ragged and loud ([voice](#voice)). He does not try to rise again, and he does not go limp. The film ends with him still on the canvas, attended by the [referee](referee.md#care) and by the [ring doctor](../crowds/ringside.md#doctor) once the doctor has been called. Nothing in his state says why he cannot rise ([commission](../../../instructions/commission.md#no-injury-mechanism)).

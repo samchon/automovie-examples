@@ -88,9 +88,9 @@ His posture tells his reading of the moment. It is upright and easy at range, cr
 From the fall to the bell he works in the [study's order](../../../research/officiating/referee.md#knockdown-procedure), which the commission's anchors fix ([bout](../world/bout.md#knockdown-and-result)):
 
 1. He calls "Down!" and points to the canvas as Visser falls.
-2. He steps between the two men, with his body shielding the fallen man, and sends Benlloch to the far neutral corner with "Neutral corner!" and a pointing arm. He does not rush him.
+2. He steps between the two men, with his body shielding the fallen man, and sends Benlloch to the far neutral corner with "Neutral corner!" and a pointing arm. Benlloch goes round Visser's feet, never past his head, on the route the [ring record](../sets/ring.md#corners) sets. The referee does not rush him.
 3. He watches Benlloch go, moving to Visser as he does. He does not count until Benlloch stands in the corner facing the centre.
-4. At 157 he places himself at Visser's head, bent or kneeling, where Visser can see and hear him. He stands on the side away from Benlloch's corner, so that Benlloch stays beyond Visser in his view.
+4. At 157 he places himself at Visser's head, bent or kneeling, where Visser can see and hear him. He stands on the side away from Benlloch's corner, so that Benlloch stays beyond Visser in his view. That place faces Visser's face because Visser lies with his back toward that corner, as the [ring record](../sets/ring.md#corners) sets.
 5. He counts from "One" at 158 to "Ten" at 167, aloud and with the [count stroke](#signals) of his arm, with his head turned to Visser and turning up to Benlloch. He does not touch or help Visser during the count. He does not stop at "Eight", because Visser is still down.
 6. At 167.6 he gives the knockout signal.
 7. At once he calls "Doctor!" with a beckoning arm, and moves round Visser's head to kneel on Benlloch's side of him. Through the count Visser lay between him and Benlloch; now his own body is between them as Benlloch is released ([referee study](../../../research/officiating/referee.md#knockdown-procedure)).

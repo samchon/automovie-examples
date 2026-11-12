@@ -29,7 +29,7 @@ His wardrobe does not change during the round.
 He is a precision fighter who wins by reading the other man and setting traps ([styles study](../../../research/kickboxing/styles.md#counter-kicker)):
 
 - **Kicks:** right body kicks to Visser's left side; low kicks to the legs Visser plants to punch.
-- **Range-finding:** a right cross that touches Visser as it returns, finding the range for his right kick and hiding it as the kick follows. It is a real strike, not an arm held out, which GLORY would count as stalling ([styles study](../../../research/kickboxing/styles.md#kicker-repertoire), [the GLORY limit](../../../research/kickboxing/styles.md#kicker-profile)).
+- **Range-finding:** a right cross that touches Visser as it returns, finding the range for his right kick and hiding it as the kick follows. It is a real strike, not an arm held out: GLORY names an outstretched arm without a technique as stalling, and it risks a caution ([styles study](../../../research/kickboxing/styles.md#kicker-repertoire), [the GLORY limit](../../../research/kickboxing/styles.md#kicker-profile)).
 - **Check and counter:** he checks a kick with a raised shin, keeps his guard high through the check, and fires back at once while the kicker is still recovering, as one drilled unit.
 - **No clinch:** he never takes a hold; at close range he angles out instead.
 - **Pressure:** he answers it with a kick at range, lands balanced, keeps his guard high, and leaves on an angle. He gives ground by pivots, 45-degree steps and circling, never straight back ([styles study](../../../research/kickboxing/styles.md#kicker-answers-pressure), [angles](../../../research/kickboxing/styles.md#kicker-angles-feints), [ring use](../../../research/kickboxing/styles.md#kicker-ring-use)).
@@ -51,7 +51,7 @@ His finish is the right Brazilian, or question-mark, kick. It starts as his righ
 
 He hides the difference from the body kick as far as he can. A trained eye, and the camera, can catch the knee travelling in a slightly different direction from the body kick's, but Visser has committed to his body cover before that shows ([styles study](../../../research/kickboxing/styles.md#brazilian-chamber)).
 
-He throws it once, at 150 seconds, at the legal target the [bout](../world/bout.md#finish-target) sets. Its law belongs to the screenplay's own study ([styles study](../../../research/kickboxing/styles.md#scope)).
+He throws it once, and it lands at 150.000 seconds, at the legal target the [bout](../world/bout.md#finish-target) sets. Its law belongs to the screenplay's own study ([styles study](../../../research/kickboxing/styles.md#scope)).
 
 ### His level {#level}
 

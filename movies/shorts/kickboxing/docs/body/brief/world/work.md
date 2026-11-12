@@ -20,7 +20,7 @@ The experience fails if the audience never sees the habit form, if the finish re
 
 ### Kickboxing, one round {#film-kickboxing}
 
-`kickboxing`: a challenger and a defending champion, equal in size and level, fight round one of a title bout under GLORY rules. A habit the champion learns during that round lets the challenger knock him out at 150 seconds. The film holds the count, the result and the winner beside the fallen man until 180.
+`kickboxing`: a challenger and a defending champion, equal in size and level, fight round one of a title bout under GLORY rules. A habit the champion learns during that round lets the challenger land the finishing kick at 150 seconds, and the knockout is signalled at 167.6. The film holds the count, the result and the winner beside the fallen man until 180.
 
 ### Running time {#running-time}
 

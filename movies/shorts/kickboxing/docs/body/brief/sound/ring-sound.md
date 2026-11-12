@@ -16,9 +16,11 @@ The film's sounds are the commission's, as ring microphones hear them ([coverage
   - a forced breath when a body kick lands ([Benlloch](../cast/benlloch.md#voice), [Visser](../cast/visser.md#voice)).
 - **Mat friction:**
   - the bare feet's scuff and squeak on the canvas, and the scrape of a support foot as it pivots;
+  - the officials' shoes, the referee's and the doctor's, on the canvas and on the steps, quieter and harder than the bare feet;
   - the thud of a body on the canvas at the fall;
   - the slide of a glove on the canvas after it.
-- **The ropes:** their creak and give when a man leans or is driven onto them.
+- **The ropes:** their creak and give when a man leans or is driven onto them, and when the doctor climbs through them from the steps.
+- **The contacts:** each its own sound, as the [contacts](#contacts) below set out.
 - **The crowd:** wordless, underneath everything ([crowd](../crowds/arena-crowd.md#in-sound)).
 
 Nothing outside this palette is heard; what is left out is listed once in the [work record](../world/work.md#left-out).
@@ -37,7 +39,8 @@ Every contact sounds of what it is, so the ear can tell what landed and on what 
 | A punch glancing on the head | A short, glancing slap |
 | Shin meeting shin in a check | A hard, bony knock |
 | A low kick on the thigh | A deep, heavy slap |
-| A body kick on the ribs or on a covering arm | A loud, cracking slap |
+| A body kick landing on the ribs | A loud, cracking slap, with the breath forced out |
+| A body kick taken on a covering arm or elbow | A heavy, flatter smack, duller than the landed kick, with no forced breath |
 | A knee to the body | A short, deep thud |
 | The finishing kick on the side of the head and neck | The loudest single contact of the film, sharp and heavy |
 

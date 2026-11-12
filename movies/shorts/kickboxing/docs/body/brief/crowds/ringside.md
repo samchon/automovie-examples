@@ -34,6 +34,8 @@ The ring doctor sits by the [steps](../sets/ring.md#corners) at a neutral corner
 
 At the knockdown he rises and waits at the steps. He enters only when the referee calls him. He then climbs in by those steps and kneels at Visser with the referee. Only he may enter during his examination.
 
+What he visibly does there is care, in the signs the [representation](../world/work.md#faceless-polygon-men) has: he kneels at Visser's head, lays a hand on his shoulder, and bends his head down close to Visser's, as if listening. He does nothing the picture would read as a diagnosis or a treatment. No light is shone at the eyes, no hand goes to the neck, and no equipment is used. The mouthguard he removes cannot be seen and is not written ([work](../world/work.md#what-it-cannot-show), [commission](../../../instructions/commission.md#no-injury-mechanism)).
+
 Left to the screenplay: when he reaches Visser, between the referee's call and 180.
 
 ## Corner teams {#corner-teams}
@@ -42,7 +44,7 @@ Left to the screenplay: when he reaches Visser, between the referee's call and 1
 
 Each fighter has three cornermen, seated at his own corner in matching team sportswear: white for [Benlloch](../cast/benlloch.md#wardrobe), black for [Visser](../cast/visser.md#wardrobe). A ring inspector sits with each team and keeps it seated and in order during the round. After the knockout he lets it rise at its seats and keeps it outside the ropes ([rules study](../../../research/kickboxing/rules.md#officials)).
 
-During the round they stay seated and coach by gesture. Their calls are lost under the crowd, and no word from them is ever heard ([commission](../../../instructions/commission.md#language), [coverage study](../../../research/cinematography/fight-coverage.md#corner-voices)).
+They say no words at any point in the film. During the round, through the count and after the result they coach and react by gesture only, and no voice of theirs is heard ([commission](../../../instructions/commission.md#language), [coverage study](../../../research/cinematography/fight-coverage.md#corner-voices)).
 
 ### After the knockout {#corners-after}
 

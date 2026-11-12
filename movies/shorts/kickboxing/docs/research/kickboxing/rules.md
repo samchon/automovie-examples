@@ -9,7 +9,7 @@ Each observation carries its kind in brackets:
 - **[observation]**: what the original's text or photograph states, read directly in the saved copy.
 - **[measurement]**: a value with its unit that the original reports.
 - **[inference]**: this study's reasoning from sourced facts. The facts it rests on are cited.
-- **[choice]**: a decision this production makes where the sources leave room, offered to the brief.
+- **[choice]**: a decision this production makes where the sources leave room. A story decision among them is the brief's to adopt; a value or mapping for code is settled in the study or left to the code that realizes it, never handed to the brief.
 - **[commission]**: a value or ruling the commission fixes, such as an anchor second, set against the rule.
 
 Sources are cited by key with a locator. GLORY rule numbers are given with the page number printed on the page. The PDF page is that number plus two for the main rules. The appendices restart their own page numbers. The research index lists every original, with its creator, URL, retrieval date, saved path, rights and the locators used, in its [rules and referee section](../index.md#originals-rules-referee).
@@ -30,7 +30,7 @@ Sources are cited by key with a locator. GLORY rule numbers are given with the p
 
 GLORY's rules apply to every GLORY match, except where a mandatory regulator's rules supersede them (GLORY 1.02, p. 1) [observation]. The commission's contest is fictional and claims no accredited event. This production therefore follows the GLORY text alone and names no regulator [choice]. The current text, effective 16 March 2026, carries the version mark V2.2 on its contents page (GLORY, contents page) [observation]. This is the same version the package exports cite [observation: PKG `KickboxingRules` documentation].
 
-GLORY is silent on several things the brief needs: pre-fight instructions and the glove touch, the referee's gestures for the knockdown and the knockout, the count's cadence, corner padding, and who may enter the ring after a knockout. For each, this study states the rule of another body (ABC, Ontario, WAKO or BIBA) and its translation into this bout. ABC and BIBA referee and timekeeper texts are written for boxing. Ontario's and ABC-KB's rules are professional kickboxing ("boxing with hands and feet"). WAKO's ring rules are amateur, with head guards and shin guards. Their equipment and target rules are not adopted.
+GLORY is silent on several things the brief needs: pre-fight instructions and the glove touch, the referee's gestures for the knockdown and the knockout, the count's cadence, corner padding, and who may enter the ring after a knockout [observation]. For each, this study states the rule of another body (ABC, Ontario, WAKO or BIBA) and its translation into this bout. ABC and BIBA referee and timekeeper texts are written for boxing [observation]. Ontario's and ABC-KB's rules are professional kickboxing ("boxing with hands and feet") [observation]. WAKO's ring rules are amateur, with head guards and shin guards [observation]. Their equipment and target rules are not adopted [choice].
 
 ## Division and bout format {#format}
 
@@ -46,7 +46,7 @@ A title match is "five Rounds of three minutes each" unless it is part of a tour
 
 The timekeeper times rounds and intervals by clock or stopwatch. "By sounding the start of the Round gong, the Timekeeper signals the beginning and end of the Rounds for the Referee" (GLORY 5.01.F, p. 9) [observation]. Ten seconds before the end of an interval the timekeeper signals, and the referee calls "seconds out" (GLORY 5.01.F, p. 9) [observation]. Neither applies before round one.
 
-GLORY names no warning ten seconds before the end of a round. Ontario's timekeeper sounds a wooden clapper ten seconds before the end of each round (ONT 7, timekeeper). BIBA's timekeeper bangs a gavel twice and raises his left arm at 2 min 50 s (BIBA p. 2) [observation]. If round one starts at film second 0, its ten-second mark would fall at 170 s, after the knockout at 167.6 s, so no warning sounds [inference]. The brief fixes where the opening bell falls.
+GLORY names no warning ten seconds before the end of a round. Ontario's timekeeper sounds a wooden clapper ten seconds before the end of each round (ONT 7, timekeeper) [observation]. BIBA's timekeeper bangs a gavel twice and raises his left arm at 2 min 50 s (BIBA p. 2) [observation]. If round one starts at film second 0, its ten-second mark would fall at 170 s, after the knockout at 167.6 s, so no warning sounds [inference]. The brief fixes where the opening bell falls.
 
 When a knockout ends the bout, "the Timekeeper will sound the gong/bell indicating the end of the Match" (GLORY 5.05.B.5, p. 12) [observation]. The rule gives no delay. The commission's bell at 170.1 s comes 2.5 s after the signal at 167.6 s [commission]. That fits a timekeeper reacting to the referee's signal [inference]. BIBA has the timekeeper note the time of the stoppage and report it to the supervisor (BIBA p. 2) [observation].
 
@@ -56,7 +56,7 @@ GLORY's only command that starts action is "Fight": "The Referee begins or resum
 
 Other bodies place brief instructions and a touch before the first bell:
 
-- ABC: "General instructions in the middle of the ring should be brief and to the point". The referee reminds both men to obey his commands and protect themselves, and ensures they "touch gloves and return to their corners" (ABC-REF25 p. 4; ABC-REF22 p. 4) [observation]. The referee stands in the centre before the bell and keeps both men in their corners until it sounds (ABC-REF25 p. 4; ABC-REF22 p. 5) [observation].
+- ABC: "General instructions in the middle of the ring should be brief and to the point". The referee reminds both men to obey his commands and protect themselves, and ensures they "touch gloves and return to their corners" (ABC-REF25 p. 4; ABC-REF22 p. 4 has "touch gloves and go directly back to corners") [observation]. The referee stands in the centre before the bell and keeps both men in their corners until it sounds (ABC-REF25 p. 4; ABC-REF22 p. 5) [observation].
 - Ontario: the referee calls the men together for final instructions, each with his lead second. "The contestants, after receiving instructions, may touch gloves and return to their corners" (ONT 6) [observation].
 - BIBA: after the introductions, the referee calls both men to the centre and tells them "to touch gloves", sends them back to their corners and signals the timekeeper. The timekeeper announces "Round One" and rings the bell (BIBA pp. 1–2) [observation].
 - WAKO: the command SHAKE HANDS orders the men "to touch the gloves and show respect to each other" at the beginning of the fight. FIGHT then starts it (WAKO-REF 3.4.4, p. 8) [observation].
@@ -68,7 +68,7 @@ The commission wants a real glove touch that both men step into, followed by the
 ### Gloves {#gloves}
 
 - "Boxing gloves of equal weight provided exclusively by GLORY" (GLORY 4.03.A, p. 6) [observation].
-- Weight: "8 ounces (for weight classes under 65 kg) or 10 ounces for all other weight classes" (GLORY 4.03.B, p. 6). Both men wear 10 oz [inference from GLORY 4.03.B and the 80 kg division]. ABC-KB names 8 oz and 10 oz as the professional standard (ABC-KB 17) [observation].
+- Weight: "8 ounces (for weight classes under 65 kg) or 10 ounces for all other weight classes" (GLORY 4.03.B, p. 6) [observation]. Both men wear 10 oz [inference from GLORY 4.03.B and the 80 kg division]. ABC-KB names 8 oz and 10 oz as the professional standard (ABC-KB 17) [observation].
 - "In single-Match Matches, the color of the gloves should be the same as the color of the Athlete's corner" (GLORY 4.03.A, p. 6) [observation].
 - The gloves are taped so that no laces or loose ends show, and stamped by GLORY or the regulator (GLORY 4.03.A, p. 6). They are put on before an inspector, who tapes and initials them (GLORY 4.03.C, p. 6) [observation].
 - Hand wraps are soft bandages. Tape over the knuckles is at most 1 mm thick (3 strips), and the bandages are taped up to 2 cm under the knuckles (GLORY 4.02.A–B, p. 6) [measurement].
@@ -77,7 +77,7 @@ The commission wants a real glove touch that both men step into, followed by the
 
 GLORY's ring has "a white and black post for the Athletes with two neutral corners in between" (GLORY 4.06.D, p. 7) [observation]. Its scoring examples name the "White corner" and the "Black corner" (GLORY App. 2 C–D, appendix pp. 2–3) [observation]. Gloves match the corner (GLORY 4.03.A). So one man wears white gloves from the white corner and the other black gloves from the black corner [inference].
 
-Departure from PKG: `KickboxingRing.Corner` names the athletes' corners `"red"` and `"blue"`. This production keeps the package's corner geometry and reads `"red"` and `"blue"` as the white and black corners. Which name maps to which colour is the brief's choice [choice]. WAKO's red and blue corners with white neutral corners (WAKO-RULES ch. 7 art. 2.1, p. 121) are amateur practice and are not adopted [observation; choice].
+Departure from PKG: `KickboxingRing.Corner` names the athletes' corners `"red"` and `"blue"`. This production keeps the package's corner geometry and reads `"red"` and `"blue"` as the white and black corners. The mapping is settled here: `"red"` is the white corner and `"blue"` the black corner [choice]. The code that realizes the ring adopts it; the brief names only the colours. WAKO's red and blue corners with white neutral corners (WAKO-RULES ch. 7 art. 2.1, p. 121) are amateur practice and are not adopted [observation; choice].
 
 ### Trunks and the bare torso {#trunks}
 
@@ -116,7 +116,7 @@ Other ring facts GLORY gives (GLORY 4.06.A–D, p. 7):
 
 GLORY is silent on corner padding and access steps:
 
-- Padding: the referee confirms that "the canvas, ring ropes, post tops, turnbuckles, and corner posts are suitably padded and secured". The lowest rope is "a little looser to cushion a falling boxer's head" (ABC-REF25 p. 2; ABC-REF22 p. 3) [observation]. WAKO's corner posts are "well padded" (WAKO-RULES ch. 7 art. 2.1, p. 121) [observation]. All four corners carry padded covers [inference]. The two athletes' corners are white and black, and the neutral corners' pad colour is the brief's choice [choice].
+- Padding: the referee confirms that "the canvas, ring ropes, post tops, turnbuckles, and corner posts are suitably padded and secured". The lowest rope is "a little looser to cushion a falling boxer's head" (ABC-REF25 p. 2; ABC-REF22 p. 3 has "Corner post and all pads are secured" and "a little looser (to cushion a fallen boxer's head)") [observation]. WAKO's corner posts are "well padded" (WAKO-RULES ch. 7 art. 2.1, p. 121) [observation]. All four corners carry padded covers [inference]. The two athletes' corners are white and black, and the neutral corners' pad colour is the brief's choice [choice].
 - Steps: WAKO's ring has three sets of steps. Two are at the athletes' corners, and one at a neutral corner is "for the use of the Central referee and official doctor" (WAKO-RULES ch. 7 art. 2.1, p. 122) [observation]. Ontario seats the ringside doctor "in close proximity of the neutral steps" (ONT 3) [observation]. In this film the doctor enters by the steps at a neutral corner [inference].
 
 ## Legal techniques and targets {#targets}
@@ -125,7 +125,7 @@ PKG `KickboxingRules` already holds GLORY 5.07's bans on elbows, throws and swee
 
 ### The finishing kick's target {#finish-target}
 
-The commission places the landing "below and just behind the ear lobe", on the side of the head and neck, struck by a kick aimed at the side of the head. It is not the back of the head.
+The commission places the landing "below and just behind the ear lobe", on the side of the head and neck, struck by a kick aimed at the side of the head. It is not the back of the head [commission].
 
 - GLORY lists the legitimate kicks as "front kicks, low kicks inside and outside the leg, middle kicks, high kicks, sidekicks, back kicks, ax kicks, spinning kicks, jumping kicks" to a legal target, struck "with the foot or lower leg" (GLORY 5.06.A.2, p. 13) [observation]. The Brazilian (question-mark) kick is a high round kick delivered after a body-kick chamber, so it falls among "high kicks" [inference].
 - GLORY bans "All techniques targeting the back of the head or back or the torso" (GLORY 5.07.A.2, p. 16) and techniques targeting the groin (A.3). No GLORY rule names the side of the head, the jaw or the side of the neck as a foul [observation]. GLORY therefore treats the landing point as legal [inference]. In the package's regions it is `neckLeft`, `jawLeft` or `earLeft`, none of which is in `FOUL_REGIONS` [observation: PKG].
@@ -138,7 +138,7 @@ The production must keep the visible contact forward of the line running down fr
 
 - Punches strike "with the padded part of the glove". A spinning back fist counts "only if executed with the padded, back of the glove" (GLORY 5.06.A.1, p. 13) [observation]. Hitting with an open glove, the palm side or the thumb is a foul (GLORY 5.07.A.8, p. 16) [observation].
 - A caught leg may be held only "to immediately execute a single legal strike that may be accompanied by a single step in any direction", and then released (GLORY 5.07.A.12, p. 17) [observation].
-- Pushing "of any kind as an effort to off-balance or down an opponent" is a foul (GLORY 5.07.A.10, p. 16) [observation]. So is pulling the opponent forward with both arms on the lower back (A.13, p. 17) [observation].
+- Pushing "of any kind as an effort to off-balance or down a[n] opponent" is a foul (GLORY 5.07.A.10, p. 16) [observation]. So is pulling the opponent forward with both arms on the lower back (A.13, p. 17) [observation].
 - Prohibited conduct includes techniques after "Break" or "Stop", techniques on an opponent outside the ring or tied up in the ropes, pushing an opponent out of the ring or back over the ropes, and holding the ropes for any reason (GLORY 5.07.B.2–5, p. 17) [observation].
 - Stalling includes "continuously pulling up the front leg or stretching out the front arm without carrying out a particular technique", passivity and deliberate falling (GLORY 5.07.C, p. 17) [observation].
 - Unsportsmanlike conduct includes "spitting, cursing, talking, making rude sounds or obscene gestures" (GLORY 5.07.D.1, p. 17) [observation]. This supports the commission's fighters, who do not speak [inference].
@@ -147,6 +147,8 @@ The production must keep the visible contact forward of the line running down fr
 ### Fouls and their consequences {#foul-consequences}
 
 The referee chooses the consequence by the foul's nature, severity, repetition and intent (GLORY 5.08.B, p. 18) [observation]:
+
+Every cell restates the GLORY rule its row cites [observation]; "None given" records GLORY's silence [observation].
 
 | Consequence | Rule and procedure | Referee's gesture |
 | --- | --- | --- |
@@ -212,6 +214,8 @@ In a single match or a tournament final, an athlete "knocked down three times in
 
 ### The commission's anchors against the rule {#anchors}
 
+Only the exact seconds in this table are the commission's anchors [commission]. A second written "about" is this study's estimate of where an unanchored event falls [inference], not an anchor.
+
 | Film second | Commission event | Rule | Fit |
 | --- | --- | --- | --- |
 | 150.0 | The kick lands | 5.06.A.2 legal high kick; [finish target](#finish-target) | Legal [inference] |
@@ -231,7 +235,7 @@ Tensions:
     - WAKO's referee "must immediately start counting out the seconds", suspending the count only if the opponent refuses the corner (WAKO-RULES ch. 7 art. 9, p. 135) [observation]. That too would end the count near 161 s [inference].
 
     The commission's "One" at 158 follows GLORY, not these. The film shows no knockdown timekeeper and no count from ringside [choice].
-2. **An early stop for medical help.** GLORY lets the referee declare the knockout before ten "in order to bring in immediate medical assistance" (5.06.E.2). ABC tells referees that if a boxer "goes down hard" with "eyes ... closed" or "muscles twitching/spasms", they "may want to stop the count and immediately end the contest" (ABC-REF25 p. 7; ABC-REF22 p. 7) [observation]. A fallen man who reads as motionless and unconscious invites that early stop, against the commission's full real-time count [inference]. The full count is right when B is visibly conscious and trying, but failing, to rise: a turned head, a hand pressing the canvas, a knee drawn up that will not bear him. That staging also keeps within "no asserted injury mechanism" [choice].
+2. **An early stop for medical help.** GLORY lets the referee declare the knockout before ten "in order to bring in immediate medical assistance" (5.06.E.2). ABC tells referees that if a boxer "goes down hard" with "eyes ... closed" or "muscles twitching/spasms", they "may want to stop the count and immediately end the contest" (ABC-REF25 p. 7; ABC-REF22 p. 7 has "may want to end the count immediately") [observation]. A fallen man who reads as motionless and unconscious invites that early stop, against the commission's full real-time count [inference]. The full count is right when B is visibly conscious and trying, but failing, to rise: a turned head, a hand pressing the canvas, a knee drawn up that will not bear him. That staging also keeps within "no asserted injury mechanism" [choice].
 3. **Readiness at eight.** PKG assesses at eight. B is still down at eight, so no "Fight" check is made and the count runs on to ten (5.05.B.3, 5.05.B.5) [inference]. If the brief has B half-rise, a man still touching the floor with anything but his feet is still down (5.05.B.1.a) [inference].
 4. **The knockout gesture.** GLORY names none. ABC's referee "shall wave their arms above their head to signal the bout is over" (ABC-REF25 p. 6; ABC-REF22 p. 7). Ontario's waves both arms above the head (ONT 17). WAKO's KO/TKO signal, photographed, is the forearms crossed above the head (WAKO-REF App. 11.4, p. 48) [observation]. The referee study records the choice.
 
@@ -260,7 +264,7 @@ An athlete who loses by knockout must have a clinical assessment, and GLORY may 
 
 ## Officials at ringside {#officials}
 
-GLORY lists the officials "non-exhaustively" (GLORY 5.01, p. 8). Where GLORY gives no seat, the table states Ontario's or another body's placement.
+GLORY gives "a non-exhaustive list of Officials" (GLORY 5.01, p. 8) [observation]. Where GLORY gives no seat, the table states Ontario's or another body's placement. In the table, the GLORY role column restates GLORY [observation]; a placement or duty cited to Ontario, WAKO or BIBA is that body's rule [observation], adopted here by translation [inference]; a cell with no citation is this study's inference [inference].
 
 | Official | GLORY role | Where | During a round |
 | --- | --- | --- | --- |
@@ -278,6 +282,8 @@ Ontario also names a separate knockdown timekeeper (ONT 3). GLORY does not, so t
 ## Rule-outcome table {#outcomes}
 
 The outcome classes the brief uses, with the conditions that produce each under GLORY. Each row combines the attacker's action, the target and the defender's response.
+
+Every cell restates the rules its row cites [observation], with these exceptions: the clause "Before 150 s it costs breath, guard and balance but no knockdown" is the commission's [commission]; in the Blocked strike row the list of surfaces is this study's synthesis [inference]; in the Clinch row "play continues with no command" is inferred from 5.07.A.11, as at [the clinch](#clinch) [inference]; and in the Knockout row the knockout signal and the calling of the doctor are not specified by GLORY ([anchors](#anchors), tension 4; [ring entry](#ring-entry)) [inference].
 
 | Outcome class | Conditions | Rule | What follows |
 | --- | --- | --- | --- |

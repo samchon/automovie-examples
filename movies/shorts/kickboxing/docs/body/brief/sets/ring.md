@@ -31,7 +31,15 @@ Going round the ring, the corners run: white, the steps' neutral corner, black, 
 - **The officials' table:** at the centre of the side between the white corner and the steps' neutral corner ([ringside](../crowds/ringside.md#officials-table)).
 - **The steps:** for the referee and the doctor, at the steps' neutral corner ([ringside](../crowds/ringside.md#doctor)).
 
-After the knockdown, Benlloch waits in whichever neutral corner is farther from where Visser falls ([bout](../world/bout.md#wait)). Visser falls on the steps' side of the diagonal between the white and black corners, so that Benlloch's corner is the far neutral corner and the doctor's way in never passes the winner. Left to the screenplay: where on that half he falls.
+After the knockdown, Benlloch waits in whichever neutral corner is farther from where Visser falls ([bout](../world/bout.md#wait)). Visser falls on the steps' side of the diagonal between the white and black corners, so that Benlloch's corner is the far neutral corner and the doctor's way in never passes the winner.
+
+The count's staging sets three more conditions on the fall:
+
+- **Near the centre.** At the finish Benlloch stands no more than a stride from the ring's centre, on the steps' side, and Visser falls between him and the centre. Benlloch's walk round Visser's feet to the far neutral corner is then the rules study's off-centre walk of about 6 m, unhurried, and it ends, facing the centre, by 157 ([bout](../world/bout.md#wait), [rules study](../../../research/kickboxing/rules.md#anchors)).
+- **Back to the far corner.** Visser lies with his back toward the far neutral corner. Then the referee, kneeling at his face, has both Visser and Benlloch's corner in view ([referee](../cast/referee.md#knockdown), [referee study](../../../research/officiating/referee.md#knockdown-procedure)). So at the finish Benlloch stands on the steps' side of Visser, as the first condition places him, and Visser faces him as he falls.
+- **Round the feet.** Benlloch's route to the far corner goes round Visser's feet, never past his head, with the referee between them.
+
+Left to the screenplay: the exact place and the fall's path within these conditions.
 
 The other half, on the far neutral corner's side of that diagonal, is the **far half**. From 168.1 Benlloch celebrates there, in the far half: he may come up to the diagonal, beside Visser in the wide frame, but not across it, where the referee's palm stops him ([Benlloch](../cast/benlloch.md#state), [referee](../cast/referee.md#care)).
 

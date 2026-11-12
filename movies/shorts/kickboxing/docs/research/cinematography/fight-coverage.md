@@ -4,7 +4,7 @@ This study records how live broadcasts and fiction films shoot a ring bout, how 
 
 ## How to read this study {#reading}
 
-Each observation carries its kind in brackets: **[commission]** for a value or ruling the commission fixes; **[measurement]** for a value with its unit that the original reports; **[observation]** for what the original's text states or its photograph shows; **[inference]** for this study's reasoning from cited facts; **[choice]** for a decision this production offers the brief where the sources leave room. Imperial values are converted to metric, with the original value kept in brackets. Every original was retrieved on 2026-11-13 and is listed, with its creator, URL, saved path, rights and the locators used, in the research index's [fight-coverage section](../index.md#originals-coverage). No footage could be decoded on this machine, so nothing here is read from moving pictures; any value footage alone would give is marked unavailable, inferred or chosen.
+Each observation carries its kind in brackets: **[commission]** for a value or ruling the commission fixes; **[measurement]** for a value with its unit that the original reports; **[observation]** for what the original's text states or its photograph shows; **[inference]** for this study's reasoning from cited facts; **[choice]** for a decision this production makes where the sources leave room. A story decision among them is the brief's to adopt; a value or mapping for code is settled in the study or left to the code that realizes it, never handed to the brief. The values chosen here for light ratios and the bell's decay are for that code; the brief adopts none of them. The film's frame rate is not chosen here; it stays open in project context. Imperial values are converted to metric, with the original value kept in brackets. Every original was retrieved on 2026-11-13 and is listed, with its creator, URL, saved path, rights and the locators used, in the research index's [fight-coverage section](../index.md#originals-coverage). No footage could be decoded on this machine, so nothing here is read from moving pictures; any value footage alone would give is marked unavailable, inferred or chosen.
 
 | Key | Original |
 | --- | --- |
@@ -115,7 +115,7 @@ No retrieved source measures shot length or cut rate in boxing or kickboxing bro
 
 - Cutting slows for faster, lighter men and quickens for slower, heavier ones (SKY-AJ, as above) [observation].
 - At the referee's "break" Sky comes out to the head-to-toe size, "not when a boxer is in the middle of a really big exchange" (SKY-AJ last para.) [observation]. For heavier men who "stay in pockets", "perhaps we cut round it a little bit more" (SKY-AJ "Camera positions through the ropes" para. 1) [observation]. That a sober film keeps its cuts to such resets is this production's choice [choice].
-- Fiction long takes: Creed's first fight is one Steadicam shot covering two 90 s "movie rounds" and the 60 s break between them. Each of its 12 takes ran 4 min (CREED, para. beginning "Alberti describes") [measurement: one shot of about 240 s]. Southpaw's HBO operators rolled "two to four rounds of boxing, with each round being three minutes long without a cut, covering it like a live televised fight" (SOUTHPAW, para. beginning "The filmmakers turned to HBO") [measurement]. Those are camera takes, not shots in the edit.
+- Fiction long takes: Creed's first fight is one Steadicam shot covering two 90 s rounds ("Each round was a “movie round,”") and the 60 s break between them. Each of its 12 takes ran 4 min (CREED, para. beginning "Alberti describes") [measurement: one shot of about 240 s]. Southpaw's HBO operators rolled "two to four rounds of boxing, with each round being three minutes long without a cut, covering it like a live televised fight" (SOUTHPAW, para. beginning "The filmmakers turned to HBO") [measurement]. Those are camera takes, not shots in the edit.
 
 ## Fiction films in the ring {#fiction}
 
@@ -130,7 +130,7 @@ No retrieved source measures shot length or cut rate in boxing or kickboxing bro
 
 ### Southpaw: broadcast grammar, then subjectivity {#southpaw}
 
-- The aim for the fights was "Reality ... As close to reality as you could possibly get in a film". The first fight "is very observational, with an objective viewpoint", and later fights grow subjective (SOUTHPAW, paras. beginning "As Gyllenhaal was training" and "Second was to tell") [observation].
+- The aim for the fights was "Reality ... As close to reality as you could possibly get in a film". The first fight is "very observational, with an objective viewpoint", and later fights grow subjective (SOUTHPAW, paras. beginning "As Gyllenhaal was training" and "Second was to tell") [observation].
 - The fighters went "all the rounds of each fight without stopping, and we were rolling the whole time". There were "monitors for every camera, the same way you would in TV coverage" (SOUTHPAW, paras. beginning "Fuqua's ambitious plan" and "Each fight was highly choreographed") [observation].
 - Camera set: six Alexa XTs to an HBO plan; the two HBO operators at ringside; a high camera 12.2–15.2 m (40–50 ft) up; an Alexa on a Giraffe crane with a remote head "12' off the ground in one of the corners" [measurement: 3.7 m], used "for alternate-angle knockout shots" (SOUTHPAW, paras. beginning "Another camera" and "An Alexa was mounted") [observation].
 - Stylising devices: a Movi in the ring that can "put the camera almost on the ground and lift it up to somebody's face"; a Lensbaby "for Billy's disoriented point of view"; a camera mounted on the actor; "Alexa and Phantom cameras ... for slow-motion knockout sequences" and "the Phantom for the final knockout" (SOUTHPAW, paras. beginning "The second fight", "An Alexa was mounted" and "By this point") [observation].
@@ -150,8 +150,8 @@ Creed holds two rounds and the break between them in one shot (CREED) [observati
 
 ### Lenses and focus {#lenses}
 
-- Close coverage uses short-to-normal focal lengths from close by, not long lenses from far off. Sky prefers the jib "rather than ... a long lens camera 60 feet [20m] away because it takes you away from it" (SKY-AJ) [observation]. Raging Bull used "all long lenses" for one fight as a deliberate style (CHAPMAN-46) [observation].
-- Reported lenses: Creed Cooke S4/i primes and Optimo short zooms at T5.6 (CREED); Southpaw ringside 19–90 mm, main 25–250 mm, overhead 24–290 mm, in-ring Cooke MiniS4 on a Movi (SOUTHPAW); DAZN main 17×6.2 broadcast zoom (DAZN-MIL) [measurement]. These are ranges for different sensor formats. The brief converts any focal length it adopts into the renderer's field of view using the renderer's own camera model [inference].
+- Close coverage uses short-to-normal focal lengths from close by, not long lenses from far off. Sky prefers the jib "rather than ... a long lens camera 60 feet [20m] away because it takes you away from it" (SKY-AJ) [observation]. Raging Bull used long lenses for one fight as a deliberate style: "one was done all with long lenses" (CHAPMAN-46) [observation].
+- Reported lenses: Creed Cooke S4/i primes and Optimo short zooms at T5.6 (CREED); Southpaw ringside 19–90 mm, main 25–250 mm, overhead 24–290 mm, in-ring Cooke MiniS4 on a Movi (SOUTHPAW); DAZN main 17×6.2 broadcast zoom (DAZN-MIL) [measurement]. These are ranges for different sensor formats. The code that realizes the camera converts any focal length it adopts into the renderer's field of view using the renderer's own camera model; the brief adopts none [inference].
 - Depth of field: Creed stopped down so both fighters stayed sharp (CREED); DAZN welcomes the shallow focus of its close handhelds (DAZN-RIY) [observation]. A shallow focus that drops one fighter breaks the commission's rule that both men are readable together [inference].
 
 ### Framing {#framing}
@@ -192,7 +192,7 @@ Creed holds two rounds and the break between them in one shot (CREED) [observati
 - Gatto's broadcast rig hung "Seventy-two 575Wt ETC Source Four Pars and 24 High End Systems Studio Colors" for ring and audience. He diffuses "every ring light" with Gam 65 or Rosco 104 "to soften it", meters "all areas of the ring to check for shadows", and backs the dimmers off to 80% (GATTO paras. 5 and 7) [measurement]. "You never want to have harsh shadow" (para. 7) [observation].
 - Level: anchor lights "no more than 175fc, which is similar to the level in the ring" (GATTO para. 6) [measurement: about 1,880 lx]. Mooney's LED ring light runs "at 5800K and running about 140 ft candles" (BYB "Lighting the ring" para. 2) [measurement: about 1,510 lx at 5,800 K]. A championship ring is lit to about 1,500–1,900 lx [measurement range, two sources].
 - Avoiding spill and shadow: "You need to avoid light spillage outside of the ring but you also need to avoid casting shadows in the ring" (BYB "Lighting the ring" para. 1) [observation]. Mooney runs moving lights as spots and ballyhoos only between rounds; "during the action, being careful not to flash light through the ring", they go to wall patterns while washes "keep the audience lit for the camera shot and depth of view" (BYB "Wall and audience lighting") [observation].
-- During the bout, Britain's Boxing Board of Control is "very strict on us not having lights up once boxing is going on in the ring, because they don't obviously want anything to distract the boxer" (SKY-AJ "A Box Office occasion" para. 3) [observation].
+- During the bout, Britain's Boxing Board of Control is "very strict on us not having lights up once boxing is going on in [the] ring, because they don't obviously want anything to distract the boxer" (SKY-AJ "A Box Office occasion" para. 3) [observation].
 
 ### Rig height and the arena roof {#rig-height}
 
@@ -235,7 +235,7 @@ As a choice, the film holds one neutral grade for the whole round: near-neutral 
 - The referee, through his lavalier and through the house PA as ambient sound (NBC-MUTE para. 7) [observation].
 - Distance matters: punches near the ropes are easy to pick up, while in the centre "it's harder to get the sound ... You have to constantly watch and adjust for that" (UFC-SND para. 6) [observation].
 - Film sound editors add what microphones miss. They layer the feet "almost [like a] subharmonic pass", the swings' whooshes, and "the rope ... with the metal and then the creek" (TONE, Olivia Zhang 18:01) [observation]. A boxing ring "is like a plywood thing", and feet "can also be a little bit distracting" (TONE, René Coronado 17:32) [observation].
-- Breath: a host who boxed found that in the ring "the crowd goes away ... except for your own breath" (TONE, René Coronado 19:32) [observation]. Mixers leave "that pocket for the breath or the reaction relative to the transient of the hit", sometimes staggering them by "two frames" (TONE, Aaron Glasscock 48:40) [observation].
+- Breath: a host who boxed found that in the ring "crowd goes away, and everything goes away, except for your own breath" (TONE, René Coronado 19:32) [observation]. Mixers leave "that pocket for the breath or the reaction relative to the transient of the hit", sometimes staggering them by "two frames" (TONE, Aaron Glasscock 48:40) [observation].
 
 ### Mixing crowd against ring {#mix}
 
@@ -330,7 +330,7 @@ As a choice: the opening bell is a single strike; the match-ending bell is a run
 | Corner crane head | about 3.7 m above the floor | measurement | SOUTHPAW |
 | Lens height to see feet over the top rope from 0.6 m outside | at least 1.8 m above the canvas | inference | RULES; geometry |
 | Aperture to hold both fighters sharp | T5.6 | measurement | CREED |
-| Frame rate during boxing | 24 fps; no slow motion | measurement, choice | CHAPMAN-47; commission |
+| Frame rate during boxing | Real speed, no slow motion; Raging Bull's boxing ran at 24 fps | commission; measurement for the 24 fps | CHAPMAN-47; commission. The film's frame rate stays open in project context until a film is commissioned |
 | Overhead ring microphones | 2.4–3.2 m above the canvas | measurement | NBC-MUTE; ESPN-SND |
 | Corner microphones | about 0.6 m from the corner, on the bottom rope | measurement | ESPN-SND |
 | Longest fiction take | about 240 s (two 90 s rounds and a 60 s break) | measurement | CREED |
