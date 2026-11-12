@@ -2,15 +2,15 @@
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet settles the ring's shape, corners and zones: "the larger GLORY size", the black and white corners diagonally opposite with two neutral corners, bare corners during the round, and the zones every exchange is placed in.
+The facet settles the ring's shape, corners and zones: "the larger GLORY size", the black and white corners diagonally opposite with two neutral corners, bare corners during the round, and the zones every exchange is placed in, with a fixed name for each corner.
 
 ## @evidence shared/principles/common.md#specificity
 
-The size is chosen "so the men have room to circle, angle and cut each other off", and the zones are named by this ring's own posts.
+The size is chosen "so the men have room to circle, angle and cut each other off", and the two neutral corners are named by what sits beside them, "the table corner" and "the doctor's corner", so no name depends on the viewpoint.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles the space the screenplay stages in and a naming rule for its places, so a reader can follow every move of the fight.
+It settles the space the screenplay stages in, a fixed name for every corner, their order round the ring and a naming rule for the sides, so a reader can follow every move of the fight.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
@@ -50,7 +50,7 @@ The facet settles who is inside and outside the ropes and how a man uses the rop
 
 ## @evidence shared/principles/common.md#specificity
 
-The rule is this contest's: "Inside the ropes are only the two fighters and the referee until the doctor is called", and a man on the ropes "must step or pivot out".
+The rule is this contest's: "Inside the ropes are only the two fighters and the referee until the doctor, called after the knockout, climbs in at the doctor's corner", and a man on the ropes "must step or pivot out".
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
@@ -58,7 +58,7 @@ It settles the ring's occupants and the conduct at the ropes the screenplay must
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-The doctor's entry condition is owned by the ringside record and agrees.
+The doctor's entry is owned by the ringside record and agrees with it.
 
 ## @evidence instructions/commission.md#whole-ring
 

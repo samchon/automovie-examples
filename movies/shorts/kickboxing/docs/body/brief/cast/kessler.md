@@ -56,7 +56,7 @@ Vermeer's low kicks that beat his check cost him a moment off his lead leg; body
 
 ### After the finish {#after-finish}
 
-On the referee's order he goes to the farthest neutral corner and stays there through the count. After the knockout signal, from the celebration's [anchored second](../world/work.md#anchors), his gloves go up and he takes quick victory steps, each one landing his full weight on the canvas. He keeps clear of Vermeer and the referee, so that one wide frame holds his celebration beside the fallen man.
+On the referee's order he goes to the farthest neutral corner and stays there through the count. After the knockout signal, from the celebration's [anchored second](../world/work.md#anchors), his gloves go up and he takes quick victory steps, each one landing his full weight on the canvas. He keeps clear of Vermeer and the officials attending him, so that one wide frame holds his celebration beside the fallen man.
 
 ## Relationships {#relationships}
 

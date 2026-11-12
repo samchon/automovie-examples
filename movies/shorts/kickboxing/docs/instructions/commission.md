@@ -52,11 +52,11 @@ User requirement. "The visible referee is an adult man." "The referee is always 
 
 ## Fifteen-second phases of one scene {#phases}
 
-User requirement. "Each H2 scene is the next fifteen-second phase of one continuous ring scene, headed `INT. KICKBOXING RING - NIGHT` and then `CONTINUOUS`, with no time jump; each H3 is an exchange beat with its beat record, short present-tense action and separate speaker and dialogue blocks." The screenplay therefore has twelve scenes, and each scene's fifteen seconds are a true anchor of the edit.
+User requirement. "Each H2 scene is the next fifteen-second phase of one continuous ring scene, headed `INT. KICKBOXING RING - NIGHT` and then `CONTINUOUS`, with no time jump; each H3 is an exchange beat with its beat record, short present-tense action and separate speaker and dialogue blocks." The screenplay therefore has twelve scenes, and each scene's fifteen seconds are a true anchor of the edit. After the finish there is no exchange between the fighters, so this production reads the last two phases' exchange beats as the bout's closing exchanges between the men and the officials: the fall, the count, the result, the celebration and the bell. A heading is an address, not a cut, so the finish landing at 150.000 opens the eleventh phase while the uncut kick and fall run across that boundary.
 
 ## Pressure changes across the round {#progression}
 
-User requirement. "Change pressure, angle and initiative across the round; do not loop the first minute." Each phase hands the next a changed situation: who leads, where the fight stands in the ring and what each man has learned.
+User requirement. "Change pressure, angle and initiative across the round; do not loop the first minute." Each phase up to the finish hands the next a changed situation: who leads, where the fight stands in the ring and what each man has learned. After the finish the change is the procedure's, from the count to the result.
 
 ## The whole ring {#whole-ring}
 

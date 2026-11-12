@@ -38,6 +38,10 @@ At the bell he has no tell: he covers a body kick with his left elbow only once 
 
 He knows Kessler's body kick hurts and he means to stop paying for it. He does not know that his answer has become a habit Kessler can read, and he never sees the Brazilian kick coming, because it rises from the same knee lift his arm has learned to answer.
 
+### How he reads the proof {#reads-the-proof}
+
+When Kessler's feint draws his arm down and the follow-up lands over it, he takes the blow as a fast hand he failed to see behind a feint, not as a sign of a pattern in himself. He answers as his style does: he walks forward harder to take Kessler's room and keeps his eyes on Kessler's hands. The habit survives because it lives below his choices. The drop answers the rising knee in the instant of the chamber, before he could see where the kick goes ([tells](../../../research/kickboxing/bout-patterns.md#tells)), and Kessler's real body kicks still come from that knee, so the drop still saves his ribs every time one does.
+
 ## Relationships {#relationships}
 
 ### Kessler {#opponent}

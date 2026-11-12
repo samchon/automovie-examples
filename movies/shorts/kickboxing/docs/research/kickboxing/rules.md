@@ -34,7 +34,7 @@ Observation kinds are marked: *rule* for rule text read in the original, *cross-
 
 ### The finish's landing point {#landing-point}
 
-The commission lands the finish on "the area behind B's left ear at the junction of jaw and neck". GLORY forbids techniques *targeting* the back of the head and draws no line; ABC draws its rear boundary from ear to ear across the back of the head. The angle of the jaw, where jaw meets neck, lies below and slightly in front of the ear; the hollow directly below and just behind the ear lobe is still on the side of the head, forward of a band drawn behind the ears. A kick aimed at the side of the head that lands there is a side strike, not a strike targeting the back of the head. *inference* The production keeps the owner's wording and reads it this way; the brief records the reading for the user's confirmation. *choice*
+The commission lands the finish on "the area behind B's left ear at the junction of jaw and neck". GLORY forbids techniques *targeting* the back of the head and draws no line; ABC draws its rear boundary from ear to ear across the back of the head. The angle of the jaw, where jaw meets neck, lies below and slightly in front of the ear; the hollow directly below and just behind the ear lobe is still on the side of the head, forward of a band drawn behind the ears. A kick aimed at the side of the head that lands there is a side strike, not a strike targeting the back of the head. *inference* The production keeps the owner's wording and reads it this way, and the user confirmed the reading: the side of the head and neck below and behind the left ear is a legal target. *choice*
 
 ## Officials and corners
 

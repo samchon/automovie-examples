@@ -44,4 +44,5 @@ No video is delivered. The screenplay is written for one film of 180 seconds in 
 
 - The user fixed the rulings in the commission, including its reading of the tell, the language and the direction.
 - This production decided within that delegation: the fighters' names, corners and styles, the referee's attire and words, the ring's dressing, the hall's light and sound, and the camera's ringside grammar, each recorded in the brief with its reason.
-- Open for the user: the commission places the finish "behind B's left ear at the junction of jaw and neck", and the rules forbid targeting the back of the head. The brief reads the landing point as the side of the head and neck below and just behind the ear lobe, struck by a kick aimed at the side of the head, and records the [reading](docs/body/brief/world/contest.md#finish-target) for the user to confirm or correct.
+- Confirmed by the user: the commission places the finish "behind B's left ear at the junction of jaw and neck", and the rules forbid targeting the back of the head. The landing point is the side of the head and neck below and just behind the ear lobe, a legal target struck by a kick aimed at the side of the head, as the [brief](docs/body/brief/world/contest.md#finish-target) records.
+- No choice is open.

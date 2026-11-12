@@ -48,18 +48,18 @@ The film's clock is the round's clock: the start bell rings as the film opens, s
 
 ### Polygon men {#polygon-men}
 
-Kessler, Vermeer and the referee are polygon men. A polygon man shows his posture, limbs and stance, the turn of his head and trunk, his contacts and his place in the ring, and the colours of his clothes and gloves. He has no face, eyes, mouth, hair, skin detail, sweat, blood, swelling or marks, so no beat may ask for an expression, a wound or a visible mouthguard. A man's attention reads from where his head and trunk turn, his effort from his posture and breath, and the referee's care from what his hands and body do.
+Kessler, Vermeer, the referee and, once he enters the ring, the doctor are polygon men. A polygon man shows his posture, limbs and stance, the turn of his head and trunk, his contacts and his place in the ring, and the colours of his clothes and gloves. He has no face, eyes, mouth, hair, skin detail, sweat, blood, swelling or marks, so no beat may ask for an expression, a wound or a visible mouthguard. A man's attention reads from where his head and trunk turn, his effort from his posture and breath, and the referee's and the doctor's care from what their hands and bodies do.
 
 ### Coarse forms {#coarse-forms}
 
-The ring, its ropes, posts and canvas, and the light rig above are coarse forms: they show shape, position and colour, not texture. The hall beyond the light is dark and shows no figures.
+The ring, its ropes, posts and canvas, and the light rig above are coarse forms: they show shape, position and colour, not texture. The hall beyond the light is dark and shows no figures: the audience, the officials and the corner teams there are never seen. A person becomes visible only by coming into the light, as the doctor does when he climbs into the ring.
 
 ## Form {#form}
 
 ### One continuous ring scene {#one-ring-scene}
 
-The screenplay is one continuous scene in the ring, written as twelve fifteen-second phases. The first is headed `INT. KICKBOXING RING - NIGHT` and each later one `CONTINUOUS`, with no time jump. Each phase is a run of exchange beats, each beat with its record, short present-tense action, and separate speaker and dialogue blocks for the referee's words.
+The screenplay is one continuous scene in the ring, written as twelve fifteen-second phases. The first is headed `INT. KICKBOXING RING - NIGHT` and each later one `CONTINUOUS`, with no time jump. Each phase is a run of beats, each beat with its record, short present-tense action, and separate speaker and dialogue blocks for the referee's words. Up to the finish every beat is an exchange between the fighters. The eleventh phase opens on the finish's landing at 150.000: the last beat of the tenth phase carries Kessler's knee lift and the turn of his hip, and the uncut stretch of kick and fall runs across the heading, which is an address, not a cut. From the landing on, the beats are the bout's last exchanges between the men and the officials: the fall, the down call, the walk to the neutral corner and the count in the eleventh phase; the count's end, the knockout signal, the call for the doctor, the celebration and the bell in the twelfth.
 
 ### A round that changes {#round-changes}
 
-No phase repeats an earlier one. Each hands the next a changed situation in who leads, where in the ring the fight stands and what each man has learned of the other, so that pressure, angle and initiative move across the round and the whole ring is used: its centre, its four sides along the ropes, its corners, the angles the men cut and the circles they turn.
+No phase repeats an earlier one. Up to the finish, each hands the next a changed situation in who leads, where in the ring the fight stands and what each man has learned of the other, so that pressure, angle and initiative move across the round and the whole ring is used: its centre, its four sides along the ropes, its corners, the angles the men cut and the circles they turn. After the finish the change is the procedure's: the eleventh phase hands the twelfth a count nearing ten with Vermeer still down, and the twelfth closes on the result.

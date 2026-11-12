@@ -6,7 +6,7 @@ How the film is seen: the camera's place, its framing and movement, and the ligh
 
 ### A ringside view of both men {#ringside-view}
 
-The camera watches from ringside, outside the ropes, at the height of a standing fighter's chest, the place of the audience the film lets in on the plan. In every exchange it stands side-on to the line between the two men, so their feet, the struck target and both heads lie along one horizontal axis of the landscape frame, and it frames wide enough to hold both full bodies from feet to heads. It takes the side of the fighters' line away from the referee, so he stays in view behind them instead of between them and the lens; only at the finish does the struck side, not the referee, decide the camera's side. A framing that drops either man's feet or head, or the target being struck, is not used during an exchange.
+The camera watches from ringside, outside the ropes, at the height of a standing fighter's chest, the place of the audience the film lets in on the plan. In every exchange it stands side-on to the line between the two men, so their feet, the struck target and both heads lie along one horizontal axis of the landscape frame, and it frames wide enough to hold both full bodies from feet to heads. The struck target decides which side of the fighters' line the camera takes, because with both men orthodox each target faces one side only. Kessler's right body kick, Vermeer's left elbow dropping at the rising knee, the proving feint and the finish all face the side that Kessler's right and Vermeer's left face; the camera holds that side whenever Kessler's right knee may rise. Vermeer's right low kick and Kessler's check face the other side, and the camera crosses there for those exchanges. Because the referee keeps to that other side, the camera usually has him behind the fighters, never between them and the lens; when it crosses to his side it takes a place along the ropes that leaves him at the frame's edge. A framing that drops either man's feet or head, or the target being struck, is not used during an exchange.
 
 ### Closer views {#closer-views}
 
@@ -20,7 +20,7 @@ The camera moves along the ring's sides outside the ropes as the fighters move, 
 
 ### Unbroken stretches {#unbroken}
 
-The decisive kick and the whole fall are seen in one uncut stretch from the side of the ring that Vermeer's left side faces, where Kessler's kicking leg, Vermeer's dropped left arm and the struck side of his head stay in view. The count plays in real time from its first number to the knockout signal, with no second dropped. The ending is one wide frame holding Kessler's celebration, Vermeer on the canvas and the referee at his side.
+The decisive kick and the whole fall are seen in one uncut stretch from the side of the line that Vermeer's left side faces, where Kessler's kicking leg, Vermeer's dropped left arm and the struck side of his head stay in view, with the referee beyond them. The count plays in real time from its first number to the knockout signal, with no second dropped. The ending is one wide frame holding Kessler's celebration, Vermeer on the canvas, and the referee and the doctor kneeling at his side.
 
 ## Light and look {#look}
 

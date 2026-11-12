@@ -2,7 +2,7 @@
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet settles the film's sound sources, each kind of contact, breath and feet.
+The facet settles the film's sound sources, every sound the other records decide among them, each kind of contact, breath and feet.
 
 ## @evidence shared/principles/common.md#specificity
 
@@ -10,7 +10,7 @@ The contacts are this bout's techniques from the technique study, from "shin on 
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles what may be heard and how each contact differs, so every beat's foley and effects can be named without invention.
+It settles what may be heard, Kessler's wordless sound, the ropes and the officials' own movement included, and how each contact differs, so every beat's foley and effects can be named without invention.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 

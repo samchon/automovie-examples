@@ -28,11 +28,11 @@ The facet settles his conduct while the men fight: his position, how his attenti
 
 ## @evidence shared/principles/common.md#specificity
 
-His position follows the referee study, from "the side of their line, a step or two outside their reach", and he closes in at this bout's flashpoints, the ropes, the corners and the clinch.
+His position follows the referee study, from "the side of their line, a step or two outside their reach", and is fixed for these two orthodox fighters: "the side that Kessler's left and Vermeer's right face, out of the swing of Kessler's right kick". He closes in at this bout's flashpoints, the ropes, the corners and the clinch.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles where he stands, how he moves, what his head and trunk show, and exactly when he says "Break!", "Stop!" and "Fight!", so no beat leaves him without behaviour.
+It settles where he stands, which side of the line he keeps and where he is at the finish, how he moves, what his head and trunk show, and exactly when he says "Break!", "Stop!" and "Fight!", so no beat leaves him without behaviour.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
@@ -40,7 +40,7 @@ The rules he enforces are owned by the contest record and linked; this record ke
 
 ## @evidence instructions/commission.md#referee
 
-Adopts an always active referee: positioning, side view, clinch breaks and readable gaze.
+Adopts an always active referee: positioning on a fixed side of the line, side view, clinch breaks and readable gaze.
 
 ## @evidence instructions/commission.md#ruleset
 
@@ -58,7 +58,7 @@ Each step comes from the referee study for this situation: "neither turning him 
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles every word, gesture and position of the procedure and of his support, with the seconds linked to the anchors, so the count and the ending need no invented officiating.
+It settles every word, gesture and position of the procedure and of his support, with the seconds linked to the anchors, and how he hands Vermeer's care to the doctor when the doctor arrives, so the count and the ending need no invented officiating.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 

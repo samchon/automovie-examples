@@ -78,11 +78,11 @@ The facet promises what the representation can and cannot show, and states both 
 
 ## @evidence shared/principles/common.md#specificity
 
-Its limits are drawn for this film's needs: no visible mouthguard, wound or expression, and the referee's care read "from what his hands and body do", the readings the knockout and its aftermath depend on.
+Its limits are drawn for this film's needs: no visible mouthguard, wound or expression, and the referee's and the doctor's care read "from what their hands and bodies do", the readings the knockout and its aftermath depend on. The dark hall "shows no figures", and the doctor alone becomes visible by coming into the light.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles what a beat may ask of a polygon man and what it may not, and how attention, effort and care are read instead, so no screenplay writes past the representation.
+It settles who is a polygon man, the doctor included once he enters, what a beat may ask of a polygon man and what it may not, how attention, effort and care are read instead, and that nobody in the dark hall is seen, so no screenplay writes past the representation.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
@@ -96,7 +96,7 @@ Adopts the commission's reading that the faceless referee's expression is read f
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet promises the form every scene shares and delivers it: "one continuous scene in the ring, written as twelve fifteen-second phases", its headings and beat notation, and the condition that each phase hands the next a changed situation.
+The facet promises the form every scene shares and delivers it: "one continuous scene in the ring, written as twelve fifteen-second phases", its headings and beat notation, what the beats are before and after the finish, which phase the landing at 150.000 opens, and the condition that each phase hands the next a changed situation, the fight's before the finish and the procedure's after it.
 
 ## @evidence shared/principles/common.md#specificity
 
@@ -104,7 +104,7 @@ The form is this film's: a single ring, twelve fifteen-second phases, and change
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles the notation and continuity of the scenes and the condition that "No phase repeats an earlier one" while the whole ring is used, leaving each phase's events to the screenplay.
+It settles the notation and continuity of the scenes, that "The eleventh phase opens on the finish's landing at 150.000" while the uncut kick and fall cross the heading, what the eleventh and twelfth phases hold, and the condition that "No phase repeats an earlier one" while the whole ring is used, leaving each phase's events to the screenplay.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
@@ -112,11 +112,11 @@ The form is owned here once; the ring's zones that a phase moves through are own
 
 ## @evidence instructions/commission.md#phases
 
-Adopts twelve fifteen-second phases, the headings and the beat notation.
+Adopts twelve fifteen-second phases, the headings and the beat notation, with the commission's reading of the beats after the finish as the bout's closing exchanges between the men and the officials.
 
 ## @evidence instructions/commission.md#progression
 
-Adopts changing pressure, angle and initiative with no looped minute.
+Adopts changing pressure, angle and initiative with no looped minute up to the finish, and the procedure's change after it.
 
 ## @evidence instructions/commission.md#whole-ring
 

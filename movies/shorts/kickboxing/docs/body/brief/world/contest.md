@@ -20,7 +20,7 @@ Both men may punch with the padded glove, kick with the foot or lower leg to the
 
 ### The finish's target {#finish-target}
 
-The commission lands the finish on "the area behind B's left ear at the junction of jaw and neck", and the rules forbid targeting the back of the head. This contest reads the landing point as the side of the head and neck, the hollow below and just behind Vermeer's left ear lobe where the jaw meets the neck, struck by a kick aimed at the side of his head. The referee treats it as a legal side strike, and the film never shows it as a blow to the back of the head. The [landing-point reading](../../../research/kickboxing/rules.md#landing-point) stays open for the user to confirm.
+The commission lands the finish on "the area behind B's left ear at the junction of jaw and neck", and the rules forbid targeting the back of the head. The landing point is the side of the head and neck, the hollow below and just behind Vermeer's left ear lobe where the jaw meets the neck, struck by a kick aimed at the side of his head. It is a legal target, not the back of the head, as the user confirmed this [landing-point reading](../../../research/kickboxing/rules.md#landing-point); the referee treats it as a legal side strike, and the film never shows it as a blow to the back of the head.
 
 ### Downs and the result {#downs}
 

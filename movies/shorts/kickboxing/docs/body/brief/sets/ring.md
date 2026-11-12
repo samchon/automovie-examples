@@ -10,7 +10,7 @@ A raised square ring of the larger GLORY size, so the men have room to circle, a
 
 ### Zones {#zones}
 
-The screenplay places every exchange in one of the ring's zones: the open centre, one of the four sides along the ropes, one of the four corners, or the space between them that a man crosses when he cuts an angle. Each side and corner is named by its corner posts, such as "the ropes between the white corner and the far neutral corner", so a reader can follow where the fight moves.
+The screenplay places every exchange in one of the ring's zones: the open centre, one of the four sides along the ropes, one of the four corners, or the space between them that a man crosses when he cuts an angle. The four corners have fixed names that do not depend on where the camera stands: the black corner, the white corner, the table corner, which is the neutral corner beside the officials' table, and the doctor's corner, the other neutral corner, below whose steps the ring doctor sits. Each side is named by the two corners it joins, such as "the ropes between the white corner and the doctor's corner", so a reader can follow where the fight moves. Going round the ring, the corners come in the order black, table, white, doctor's.
 
 ## Dressing and light {#dressing}
 
@@ -26,4 +26,4 @@ A square rig hangs over the ring and lights the canvas evenly and hard from abov
 
 ### Inside and outside the ropes {#inside-outside}
 
-Inside the ropes are only the two fighters and the referee until the doctor is called. A man driven to the ropes feels them at his back and must step or pivot out; nobody holds them, because that is a foul.
+Inside the ropes are only the two fighters and the referee until the doctor, called after the knockout, climbs in at the doctor's corner and joins them. A man driven to the ropes feels them at his back and must step or pivot out; nobody holds them, because that is a foul.

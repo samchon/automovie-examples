@@ -2,7 +2,7 @@
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet settles the framing grammar: the ringside position, side-on to the fighters' line, wide enough for both full bodies, on the side away from the referee, and when closer framings are allowed.
+The facet settles the framing grammar: the ringside position, side-on to the fighters' line, wide enough for both full bodies, on the side the struck target faces, and when closer framings are allowed.
 
 ## @evidence shared/principles/common.md#specificity
 
@@ -10,15 +10,15 @@ The grammar follows the fight-coverage study's ringside broadcast view for this 
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles where the camera stands, how wide it frames in exchanges, which side of the line it takes, the framing it never uses during an exchange, and the count's frame.
+It settles where the camera stands, how wide it frames in exchanges, which side of the line it takes for each kind of exchange, "whenever Kessler's right knee may rise" and for Vermeer's low kick and Kessler's check, how it keeps the referee out of the lens, the framing it never uses during an exchange, and the count's frame.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-Framing is owned here; the referee's own position is owned by his record and the two agree.
+Framing is owned here; the referee's own side is owned by his record, and the two agree: he keeps to the side opposite the tell's.
 
 ## @evidence instructions/commission.md#camera
 
-Adopts feet, targets and heads readable together on one screen axis and a camera that relates the fighters.
+Adopts feet, targets and heads readable together on one screen axis, with the struck target always on the camera's side, and a camera that relates the fighters.
 
 # docs/body/brief/cinematography/coverage.md#movement
 
@@ -28,11 +28,11 @@ The facet settles how the camera moves and cuts and which stretches are unbroken
 
 ## @evidence shared/principles/common.md#specificity
 
-The unbroken stretch is placed for this finish, "from the side of the ring that Vermeer's left side faces", where the kicking leg, the dropped left arm and the struck side stay in view.
+The unbroken stretch is placed for this finish, "from the side of the line that Vermeer's left side faces", where the kicking leg, the dropped left arm and the struck side stay in view, "with the referee beyond them".
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles how the camera reacts, that it never enters the ring, that cuts never skip time, where the finish is seen from, and what the ending frame holds.
+It settles how the camera reacts, that it never enters the ring, that cuts never skip time, where the finish is seen from with the referee beyond the fighters, and what the ending frame holds, the doctor included.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
@@ -52,7 +52,7 @@ Adopts the whole count in real time.
 
 ## @evidence instructions/commission.md#ending
 
-Adopts the wide ending holding the winner, the fallen man and the referee.
+Adopts the wide ending holding the winner, the fallen man and the referee attending him, with the doctor beside them.
 
 # docs/body/brief/cinematography/coverage.md#look
 

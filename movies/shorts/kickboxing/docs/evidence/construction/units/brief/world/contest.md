@@ -36,11 +36,11 @@ The rules are narrowed to what this round uses: the clinch "for one immediate kn
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles legal and illegal actions, the landing point's reading with its open status, what makes a man down, when he has lost and what the bell does, so the screenplay can stage the finish and the count legally; the procedure itself is linked to the referee's record.
+It settles legal and illegal actions, the landing point as a legal side target, as the user confirmed, what makes a man down, when he has lost and what the bell does, so the screenplay can stage the finish and the count legally; the procedure itself is linked to the referee's record.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-Rules are stated here once and cite the rules study for their text; the referee's performance of them belongs to his record, linked from "Downs and the result". The landing point is marked open for the user, as PROJECT.md records.
+Rules are stated here once and cite the rules study for their text; the referee's performance of them belongs to his record, linked from "Downs and the result". The user's confirmation of the landing point is recorded here and in PROJECT.md, which no longer lists it as open.
 
 ## @evidence instructions/commission.md#ruleset
 
@@ -52,7 +52,7 @@ Adopts that landed blows before the finish "cost breath, guard and balance, neve
 
 ## @evidence instructions/commission.md#finish
 
-Adopts the commission's landing point and records how this contest reads it against the rules.
+Adopts the commission's landing point as the side of the head and neck below and behind the left ear, a legal target the user confirmed.
 
 ## @evidence instructions/commission.md#count
 

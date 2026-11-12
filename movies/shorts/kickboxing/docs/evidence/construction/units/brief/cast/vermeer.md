@@ -72,7 +72,7 @@ Adopts that B is no victim and leads much of the round with long combinations an
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet promises his habit and knowledge and settles the arm drop's baseline, trigger, response and persistence, and what he does and does not know.
+The facet promises his habit and knowledge and settles the arm drop's baseline, trigger, response and persistence, what he does and does not know, and how he reads the proving blow.
 
 ## @evidence shared/principles/common.md#specificity
 
@@ -80,7 +80,7 @@ The habit is this bout's: absent at the bell, formed once "Kessler's right body 
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles the tell's baseline state, its change condition, its exact trigger and response, that it holds "every time, through the finish", and his ignorance of it, which the finish depends on.
+It settles the tell's baseline state, its change condition, its exact trigger and response, that it holds "every time, through the finish", his ignorance of it, which the finish depends on, and his reaction to the proof: he takes it as "a fast hand he failed to see behind a feint", presses harder, and keeps the drop because it "lives below his choices" and still saves his ribs.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
@@ -88,7 +88,7 @@ The habit is owned here; Kessler's reading of it is owned in his plan, and the t
 
 ## @evidence instructions/commission.md#tell
 
-Adopts that B learns during this round to drop his left arm whenever A's right knee rises, from A's right body kicks.
+Adopts that B learns during this round to drop his left arm whenever A's right knee rises, from A's right body kicks, and keeps doing so after the proving feint.
 
 # docs/body/brief/cast/vermeer.md#relationships
 

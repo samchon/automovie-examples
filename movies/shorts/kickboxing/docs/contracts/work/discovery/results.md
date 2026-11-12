@@ -41,7 +41,7 @@ What this production's instructions, research and planned film require beyond th
 
 ### Conflicts reported
 
-- The finish's landing point, "behind B's left ear", against the rule forbidding strikes targeting the back of the head. Neither is changed; the brief records a reading for the user ([finish target](../../../body/brief/world/contest.md#finish-target), [PROJECT.md](../../../../PROJECT.md#authority-and-open-choices)).
+- The finish's landing point, "behind B's left ear", against the rule forbidding strikes targeting the back of the head. Neither was changed; the brief recorded a reading, and the user confirmed it: the side of the head and neck below and behind the left ear is a legal target ([finish target](../../../body/brief/world/contest.md#finish-target), [PROJECT.md](../../../../PROJECT.md#authority-and-open-choices)).
 - "Supported victory steps" is read as steps that land their weight, not steps someone else supports: the contest keeps everyone but the referee and the doctor out of the ring while the fallen man is down, so Kessler's corner stays outside and he celebrates alone ([Kessler after the finish](../../../body/brief/cast/kessler.md#after-finish), [the corners](../../../body/brief/crowds/ringside.md#corners)).
 
 ## The planned film read backwards

@@ -6,7 +6,7 @@ What the film's sound is made of and how it is balanced. Contacts follow the tec
 
 ### Sources {#sources}
 
-Every sound comes from the ring and the hall: the bell, the referee's voice, the fighters' breath, their feet on the canvas, their contacts, and the crowd. Nothing else is heard, as [what the film leaves out](../world/work.md#what-the-film-leaves-out) records.
+Every sound is one the ring and the hall could produce from what this brief decides: the bell, the referee's voice, the fighters' breath and Kessler's wordless sound after the result, their feet on the canvas, their contacts, a body driven against the ropes, the referee's and the doctor's own steps and kneeling, and the crowd. Nothing outside the scene is heard, as [what the film leaves out](../world/work.md#what-the-film-leaves-out) records.
 
 ### Contacts {#contacts}
 

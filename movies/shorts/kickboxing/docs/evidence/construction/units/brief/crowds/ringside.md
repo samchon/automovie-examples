@@ -28,15 +28,15 @@ The facet settles every official and corner outside the ropes: the timekeeper an
 
 ## @evidence shared/principles/common.md#specificity
 
-Their conduct follows the referee study's rules for this contest: the doctor "enters the ring only when the referee calls him", the corners do not approach during the count, and Kessler's corner stays out while Vermeer is down.
+Their conduct follows the referee study's rules for this contest: the doctor "enters the ring only when the referee calls him" and then "climbs through the ropes at once", the corners do not approach during the count, and Kessler's corner stays out while Vermeer is down, while the winner, already in the ring, keeps away from him.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles who is present, whether each is seen or heard, how the bell is struck at the start and the end, when the doctor enters, and why the announcer is silent, so every presence has behaviour.
+It settles who is present and where, whether each is seen or heard, how the bell is struck at the start and the end, the doctor's dress, that he reaches Vermeer within seconds of the call and before the film ends and what he does there, and why the announcer is silent, so every presence has behaviour.
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-The bell's second is linked to the anchors; the doctor's entry is a condition here and its moment is the screenplay's.
+The bell's second is linked to the anchors and the corner names to the ring record; the doctor's entry is settled here and its exact beat is the screenplay's.
 
 ## @evidence instructions/commission.md#sound
 
@@ -48,4 +48,4 @@ Adopts the match-ending bell after the knockout.
 
 ## @evidence instructions/commission.md#ending
 
-Keeps everyone but the referee and the doctor away from B, so the wide ending holds the winner, the fallen man and the referee.
+Keeps everyone but the referee and the doctor away from B, so the wide ending holds the winner, the fallen man and the officials attending him.
