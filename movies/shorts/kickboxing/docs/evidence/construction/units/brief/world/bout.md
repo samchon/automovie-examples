@@ -34,11 +34,11 @@ The start sequence realizes the ruling: "Both men walk out and step into a real 
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet promises what each man may and may not do, and settles it for this bout: the legal strikes and targets (`#strikes`), the fouls the bout comes nearest to (`#never-done`), the two kinds of close contact and the referee's answer to each (`#clinch`), and the legality of the finish (`#finish-target`). Its own choices include that "No deliberate foul is committed in the round" and that the one allowed foul is an accidental tie-up, broken "without a caution, at his discretion".
+The facet promises what each man may and may not do, and settles it for this bout: the legal strikes and targets (`#strikes`), the fouls the bout comes nearest to (`#never-done`), the two kinds of close contact and the referee's answer to each (`#clinch`), and the legality of the finish (`#finish-target`). Its own choices include that "No deliberate foul is committed in the round" and that the one allowed foul is an accidental tie-up, "a minor foul, for which the referee gives a caution". In this production the caution is the break itself: "This referee's caution is his "Break!" itself, given without stopping the round and without a gesture".
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-The record gives the limits a screenplay needs: "The round has at least one tie-up, so that the commission's clinch break is seen", and "No more than two are charged to either man, because GLORY deducts a point automatically after three fouls of any kind". The finish's limit is stated as what the picture may show: "A contact that read as landing on the back of the neck would be a foul, and the film never shows one." Each rule cites the rules study (`#targets`, `#technique-additions`, `#clinch`, `#foul-consequences`, `#finish-target`). When each clinch happens is left to the screenplay.
+The record gives the limits a screenplay needs: the lawful clinch is Visser's alone, "In this round only Visser does"; "The round has at least one tie-up, so that the commission's clinch break is seen"; and "Each tie-up is a cautioned foul, and GLORY deducts a point automatically after three fouls of any kind, so no more than two are charged to either man". The finish's limit is stated as what the picture may show: "A contact that read as landing on the back of the neck would be a foul, and the film never shows one." Each rule cites the rules study (`#targets`, `#technique-additions`, `#clinch`, `#foul-consequences`, `#finish-target`). When each clinch happens is left to the screenplay.
 
 ## @evidence instructions/commission.md#exchange-vocabulary
 
@@ -46,7 +46,7 @@ The strikes subsection takes the commission's vocabulary as the fight's whole vo
 
 ## @evidence instructions/commission.md#ruleset
 
-The never-done and clinch subsections keep the ruleset's limits: "Neither man throws an elbow, a throw or a sweep", no strike on "a man who is down", and a hold only "to throw one immediate knee", released "himself at once".
+The never-done and clinch subsections keep the ruleset's limits: "Neither man throws an elbow, a throw or a sweep", no strike on "a man who is down", and a hold only "to throw one immediate knee", released "himself at once", and taken in this round only by Visser.
 
 ## @evidence instructions/commission.md#finish
 

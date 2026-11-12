@@ -6,8 +6,17 @@ The study captures the GLORY ruleset at the level the brief's world rules, offic
 
 Statements 2, legal and illegal actions, and 6, the officials' conduct, are covered. Its `#scope` names each statement it leaves out, with its reason:
 
-- Technique laws (1), exchange rows of the outcome table (3), chains (4), spatial strategy and tempo (5), the fighters' markers of level (7) and activity targets (9, 10) belong to the screenplay's own study, because no brief record uses them. The brief defers them in the same terms, for example "Its law belongs to the screenplay's own study" (`docs/body/brief/cast/benlloch.md#brazilian-kick`).
+- Technique laws (1), exchange rows of the outcome table (3), exchange-by-exchange chains (4), measured rates and distances and the path of each exchange (5), and activity targets (9, 10) belong to the screenplay's own study, because no brief record uses them. The brief defers them in the same terms, for example "Its law belongs to the screenplay's own study" (`docs/body/brief/cast/benlloch.md#brazilian-kick`).
+- The style-level chains (4), ring use and tempo (5), the fighters' conduct beyond the rules (6) and their markers of level (7) are in the styles study, which `#scope` links.
 - How the genre is shot (8) and an invented action (11): the subject has none.
 - Package exports (14, 15) are not restudied. The study records only its departures from `KickboxingRules`, `KnockdownCount` and `KickboxingRing`: the corner colours, the two ring sizes, the finishing target and the count's delay.
 
 The rule values it does give keep their units and ranges: the class "over 77 kg up to 85 kg", the ring floor "6.40 x 6.40" or "7.00 x 7.00", the ropes at 40, 80, 120 and 150 cm, and the count delay "about 5–6 s" with the walk it implies. Values from boxing and amateur bodies state their translation, as in "ABC and BIBA referee and timekeeper texts are written for boxing", and "WAKO's ring rules are amateur", whose equipment and target rules "are not adopted".
+
+## @evidence shared/principles/research.md#traceable-sources
+
+Every observation names its source by key with a locator and states its kind in brackets: observation, measurement, inference, choice, and commission for "a value or ruling the commission fixes, such as an anchor second, set against the rule". GLORY rules are located by rule number and printed page, as in "(GLORY 5.05.B.2, p. 12) [observation]", and the other bodies by section or page, as in "(ONT 17)" and "(ABC-REF22 p. 6)". Where a table holds many sources, a note gives each cell's kind, as for the outcome table, "Every cell restates the rules its row cites [observation], with these exceptions".
+
+Each key names its original in the key table. The study points to the tracked index for the retained copy: "The research index lists every original, with its creator, URL, retrieval date, saved path, rights and the locators used, in its rules and referee section". That section of `docs/research/index.md` lists every original key except PKG, which names the installed package's exports rather than an original, and every saved path in it exists under `references/private/`.
+
+Uncertain values keep their range, such as the count delay "about 5–6 s" and the walk of "about 4–5 m" or "about 6 m". A second written "about" is marked as the study's estimate rather than an anchor. Its scope records that "None of the rule texts this study needed was unavailable", and it refers the two unretrieved referee manuals to the referee study and the index.

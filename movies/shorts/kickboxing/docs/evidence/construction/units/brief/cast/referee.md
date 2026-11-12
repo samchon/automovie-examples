@@ -38,11 +38,11 @@ The clinch-break subsection applies the one-knee rule to the referee: at a lawfu
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet promises his knockdown procedure and his care, and settles both against the anchors: seven steps from "Down!" through the neutral corner, his place at Visser's head at 157, the count from 158 to 167, the signal at 167.6 and "Doctor!" (`#knockdown`); then kneeling, a hand on Visser's upper arm or shoulder, "Stay down." and keeping Benlloch's celebration away (`#care`).
+The facet promises his knockdown procedure and his care, and settles both against the anchors: seven steps from "Down!" through the neutral corner, Benlloch's route "round Visser's feet, never past his head", his place at Visser's head at 157, the count from 158 to 167, the signal at 167.6, "Doctor!" and his move "round Visser's head to kneel on Benlloch's side of him" (`#knockdown`); then kneeling, a hand on Visser's upper arm or shoulder, "Stay down." and keeping Benlloch's celebration away (`#care`).
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-The record settles the limits a screenplay must keep: "He does not count until Benlloch stands in the corner facing the centre"; "He does not touch or help Visser during the count. He does not stop at "Eight", because Visser is still down"; and "He does not turn him, sit him up or take out his mouthguard, which is the doctor's work." It cites the referee study's `#knockdown-procedure` and `#care`.
+The record settles the limits a screenplay must keep: "He does not count until Benlloch stands in the corner facing the centre"; his count position works only because "Visser lies with his back toward that corner"; "He does not touch or help Visser during the count. He does not stop at "Eight", because Visser is still down"; and "He does not turn him, sit him up or take out his mouthguard, which is the doctor's work." It cites the referee study's `#knockdown-procedure` and `#care`.
 
 ## @evidence instructions/commission.md#count
 

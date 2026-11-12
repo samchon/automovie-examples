@@ -2,7 +2,7 @@
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet promises who the crowd is and where it sits, and settles both: "a full house of several thousand adults", drawn as "heads and shoulders in rows", with no one told apart (`#makeup`); floor seats on all four sides beyond the officials and corners, then raked tiers, with "Only the first rows" lit enough to read as people (`#arrangement`).
+The facet promises who the crowd is and where it sits, and settles both: "a full house of several thousand adults", each "a polygon man", of whom "Only the first, lit rows read as people, mostly as heads and shoulders above the seat backs", with no one told apart (`#makeup`); floor seats on all four sides beyond the officials and corners, then raked tiers, with "Only the first rows" lit enough to read as people (`#arrangement`).
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
@@ -20,7 +20,7 @@ The facet promises what the crowd does, and settles it in picture, "They stay in
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-The record settles the limits a screenplay keeps: in picture "never the subject of a shot", with no flags, signs or flashes; in sound "They do not count along", "They are never silent and never chant a name", and they favour neither man audibly, "That is the brief's choice." The sound practice cites the coverage study (`#crowd-sound`, `#knockout-reaction`), and its mix points to `sound/ring-sound.md#mix`.
+The record settles the limits a screenplay keeps: in picture "never the subject of a shot", with no flags, signs or flashes; in sound "They do not count along", "They are never silent and never chant a name", and they favour neither man audibly, "That is the brief's choice." Because no source measures how a live crowd answers each blow, the record marks the course as a choice: "the course below is this film's choice, built on how film crowds are designed". The sound practice cites the coverage study (`#crowd-sound`, `#knockout-reaction`), and its mix points to `sound/ring-sound.md#mix`.
 
 ## @evidence instructions/commission.md#venue
 

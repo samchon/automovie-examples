@@ -2,7 +2,7 @@
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet promises what the film is heard as, and `#palette` settles the sounds the scene can produce: the bells, the referee's words, the fighters' breath, mat friction from feet, the fall and a glove, the ropes, and the crowd, "wordless, underneath everything".
+The facet promises what the film is heard as, and `#palette` settles the sounds the scene can produce: the bells, the referee's words, the fighters' breath, mat friction from bare feet, the fall, a glove and "the officials' shoes, the referee's and the doctor's", the ropes, the contacts, and the crowd, "wordless, underneath everything".
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
@@ -24,7 +24,7 @@ The facet promises how contacts sound, and `#contacts` settles a sound for each 
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-The record settles the rules each contact keeps: "A contact is heard exactly where it lands, never before. A blocked strike sounds blocked, not landed. No contact is sweetened, slowed or followed by silence for effect." It cites the coverage study's `#translation` and `#knockout-reaction`.
+The record settles the rules each contact keeps: "A contact is heard exactly where it lands, never before. A blocked strike sounds blocked, not landed. No contact is sweetened, slowed or followed by silence for effect." It tells a covered kick from a landed one: a body kick "taken on a covering arm or elbow" is "A heavy, flatter smack, duller than the landed kick, with no forced breath". It cites the coverage study's `#translation` and `#knockout-reaction`.
 
 ## @evidence instructions/commission.md#sound
 

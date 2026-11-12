@@ -34,11 +34,11 @@ The wardrobe subsection settles B's corner colour, one of the delegated decision
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet promises his style, its costs and his level, and fills them with this fight's choices: the Dutch pressure fighter who cuts the ring off, punches "in long, varied combinations" finished with a low kick, checks and kicks back, slips and rolls inside, and feints to load his attacks (`#repertoire`); the weaknesses "that Benlloch's plan uses" (`#weaknesses`); and his level, with "His one lapse" named as the habit that "grows out of a good defence rather than out of carelessness" (`#level`).
+The facet promises his style, its costs and his level, and fills them with this fight's choices: the Dutch pressure fighter who cuts the ring off, punches "in long, varied combinations" finished with a low kick, checks and kicks back, slips and rolls inside, feints to load his attacks, and on the ropes may take "a two-handed hold behind the head for one knee to the body" (`#repertoire`); the weaknesses "that Benlloch's plan uses" (`#weaknesses`); and his level, with "His one lapse" named as the habit that "grows out of a good defence rather than out of carelessness" (`#level`).
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-The record settles the practice at its level and cites the study that holds its vocabulary (`#pressure-fighter`, `#pressure-ring-and-tempo`, `#tell-test`, `#pressure-weaknesses`, `#level-markers`). It states what a screenplay must keep: "He never throws the same combination twice running", "He sets a high pace from the first bell", and that his weaknesses are "why a body kick that arrives while he is planted lands on his left side, and why he covers it with his arm rather than his shin".
+The record settles the practice at its level and cites the study that holds its vocabulary (`#pressure-fighter`, `#pressure-ring-and-tempo`, `#tell-test`, `#pressure-weaknesses`, `#level-markers`). It states what a screenplay must keep: "He never throws the same combination twice running", "He sets a high pace from the first bell", the hold is let go "at once" as "the round's lawful clinch", and that his weaknesses are "why a body kick that arrives while he is planted lands on his left side, and why he covers it with his arm rather than his shin".
 
 ## @evidence instructions/commission.md#people
 
@@ -130,7 +130,7 @@ The knowledge subsection holds B's side of the direction, in which the audience 
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet promises his state through the round, and fills it from his own costs: the signs after "each landed right body kick", after "kicks Benlloch checks", his breath, his guard "pulled low on the left at each rising right knee", and after 150 seconds "down on his right side" until the film ends (`#state`).
+The facet promises his state through the round, and fills it from his own costs: the signs after "each landed right body kick", after "kicks Benlloch checks", his breath, his guard "pulled low on the left at each rising right knee", the signs after "a landed low kick" and "the strike behind the feint", and after 150 seconds "down on his right side" until the film ends, conscious, ceasing to try to rise at "Stay down." and never going limp (`#state`).
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
@@ -143,3 +143,7 @@ The state subsection gives B's costs in breath, guard and balance and keeps the 
 ## @evidence instructions/commission.md#fall
 
 The state subsection keeps B where the fall ruling puts him: "After 150 seconds he is down on his right side and cannot rise by ten".
+
+## @evidence instructions/commission.md#no-injury-mechanism
+
+The state subsection keeps the aftermath to visible signs without a cause: "Nothing in his state says why he cannot rise".

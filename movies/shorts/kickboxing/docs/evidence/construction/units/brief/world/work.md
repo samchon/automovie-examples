@@ -24,7 +24,7 @@ The running time and frame agree with the project's delivery profile, which each
 
 ## @evidence instructions/commission.md#one-round
 
-Its subsection `#running-time` holds the film to the one round: "with nothing outside that round", and `#film-kickboxing` has the knockout at 150 seconds and the aftermath "until 180".
+Its subsection `#running-time` holds the film to the one round: "with nothing outside that round", and `#film-kickboxing` lands the finishing kick at 150 seconds, signals the knockout at 167.6 and holds the aftermath "until 180".
 
 ## @evidence instructions/commission.md#phases
 
@@ -38,7 +38,7 @@ Its subsection `#the-frame` records the user's frame, "landscape 16:9 at 1280 ×
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet promises the adopted representation and what it cannot show. `#faceless-polygon-men` defines it, "a body of simple shaded forms with no face, eyes, mouth, hair or skin detail", and gives this film's translation of inner states into bodily signs, from attention ("the turn of the head and trunk toward its object") to care ("kneeling, a hand laid on another body, a lowered head"). `#what-it-cannot-show` applies the limits to this film's decisive moments: the finish "reads from where the shin and instep meet the side of the head and neck and from how the head moves, not from anatomy".
+The facet promises the adopted representation and what it cannot show. `#faceless-polygon-men` defines it, "a body of simple shaded forms with no face, eyes, mouth, hair or skin detail", and gives this film's translation of inner states into bodily signs, from attention ("the turn of the head and trunk toward its object") to care ("kneeling, a hand laid on another body, a lowered head"). `#what-it-cannot-show` applies the limits to this film's decisive moments: the finish "reads from where the shin and instep meet the side of the head and neck and from how the head moves, not from anatomy". It extends the representation to everyone on screen, "Every person in the film is a polygon man, the officials, corner teams and crowd included", and settles that the frame limits "how much of them reads, not what they are": the tiers "fall into silhouette and then darkness, where no single figure reads".
 
 ## @evidence shared/principles/brief.md#needed-decisions
 

@@ -34,11 +34,11 @@ The wardrobe subsection settles A's corner colour, one of the decisions the user
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet promises his style and repertoire, and fills it with this fight's choices: the precision fighter's kicks, range-finding lead hand, drilled check and counter, his answer to pressure and his defence (`#repertoire`); his kick feint and how it "tests the drop" (`#feint`); the Brazilian kick and how it starts "as his right body kick, from the same chamber Visser has learned to answer" (`#brazilian-kick`); and the markers of his level (`#level`). Which strike follows the feint, and the kick's law, are named as left to the screenplay and its study.
+The facet promises his style and repertoire, and fills it with this fight's choices: the precision fighter's kicks, a range-finding right cross that "touches Visser as it returns", drilled check and counter, his answer to pressure, his defence, and "No clinch: he never takes a hold" (`#repertoire`); his kick feint and how it "tests the drop" (`#feint`); the Brazilian kick and how it starts "as his right body kick, from the same chamber Visser has learned to answer" (`#brazilian-kick`); and the markers of his level (`#level`). Which strike follows the feint, and the kick's law, are named as left to the screenplay and its study.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-The record settles the practice at its level and cites the study that holds its vocabulary throughout (`#counter-kicker`, `#kicker-answers-pressure`, `#kicker-angles-feints`, `#kicker-ring-use`, `#kicker-weaknesses`, `#tell-test`, `#brazilian-why`, `#brazilian-chamber`, `#level-markers`). It states the limits that hold a screenplay: he gives ground "by pivots, 45-degree steps and circling, never straight back"; "When his back reaches the ropes, the low kicks he cannot check land on him"; and "He throws it once, at 150 seconds, at the legal target the bout sets."
+The record settles the practice at its level and cites the study that holds its vocabulary throughout (`#counter-kicker`, `#kicker-answers-pressure`, `#kicker-angles-feints`, `#kicker-ring-use`, `#kicker-weaknesses`, `#tell-test`, `#brazilian-why`, `#brazilian-chamber`, `#level-markers`). It states the limits that hold a screenplay: he gives ground "by pivots, 45-degree steps and circling, never straight back"; "When his back reaches the ropes, the low kicks he cannot check land on him"; and "He throws it once, and it lands at 150.000 seconds, at the legal target the bout sets." The range-finding touch is held to GLORY's stalling rule: "It is a real strike, not an arm held out".
 
 ## @evidence instructions/commission.md#exchange-vocabulary
 
@@ -50,7 +50,7 @@ The feint subsection realizes "A exploits that tell with a feint": "the right kn
 
 ## @evidence instructions/commission.md#finish
 
-The Brazilian-kick subsection realizes the finish: it "starts as his right body kick", then "the shin and instep come down over the lowered left arm onto the side of the head and neck", once, at 150 seconds.
+The Brazilian-kick subsection realizes the finish: it "starts as his right body kick", then "the shin and instep come down over the lowered left arm onto the side of the head and neck", thrown once and landing at 150.000 seconds.
 
 ## @evidence instructions/commission.md#people
 
@@ -114,7 +114,7 @@ The facet promises his relationship with Visser and settles it for this fight: "
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-The record settles how the relationship limits his behaviour after the result, "his celebration keeps to his own side of the ring, and he does not stand over Visser", and points to the other side of the relationship in `cast/visser.md#with-benlloch`.
+The record settles how the relationship limits his behaviour after the result, "his celebration keeps to the far half of the ring, and he does not stand over Visser", with the far half defined in `sets/ring.md#corners`, and points to the other side of the relationship in `cast/visser.md#with-benlloch`.
 
 # docs/body/brief/cast/benlloch.md#knowledge-facet
 
@@ -138,7 +138,7 @@ The knowledge subsection gives the tell ruling's A side as knowledge: he sees th
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-The facet promises his state through the round and fills it from his own costs: fresh at the bell, the signs after "a landed low kick" and "a punch to the head", breath that grows while "He shows his cost more in his narrowing stance than in breath", then the neutral corner through the count and the celebration from 168.1 (`#state`).
+The facet promises his state through the round and fills it from his own costs: fresh at the bell, the signs after "a landed low kick", "a punch to the head", "a punch to the body", "the clinch knee" and "a kick Visser checks", breath that grows while "He shows his cost more in his narrowing stance than in breath", then the neutral corner through the count and the celebration from 168.1 "in the far half of the ring" (`#state`).
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
