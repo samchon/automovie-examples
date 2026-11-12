@@ -34,7 +34,7 @@ Attention moves from the whole ring (the hard camera's wide) to the two men at t
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
-Each beat records participants by brief address, intents, an outcome from the outcome table, consequences, space, camera, all five sound layers and continuity; the only number written is the bell at the film's first frame.
+Each beat records participants by brief address, intents, an outcome from the outcome table, consequences, space, camera, all five sound layers and continuity; the scene writes no measured quantity: the bell is placed at the film's first frame, and its distances are in the performers' own units ("a long step apart", "a long stride from each man", "a step or two").
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
@@ -208,7 +208,7 @@ The second phase delivers Bastien's pressure and Arjan's first answers: the firs
 
 ## @evidence shared/principles/common.md#specificity
 
-Bastien's combination is his own, the hook to the body loading the lead leg for the low kick, and Arjan's first body kick is thrown off a jab as Bastien's switch kick lands.
+Bastien's combination is his own, the hook to the body loading the lead leg for the low kick, and Arjan's first body kick follows his jab, thrown as Bastien's blocked switch kick comes down.
 
 ## @evidence shared/principles/narratives.md#unit-progression
 
@@ -232,7 +232,7 @@ The heavy smack of the first low kick, the grunt behind the body hook and the do
 
 ## @evidence shared/principles/screenplay.md#attention-and-duration
 
-Four beats hold three exchanges and the circle between them, about the rhythm the activity study gives; the landed low kick gets a pause as the leg gives.
+Four beats hold three exchanges and the circle between them, about the rhythm the activity study gives; the landed low kick is held a moment as Arjan's weight comes off the leg before he sets it again.
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
@@ -240,7 +240,7 @@ Each beat decides intent, outcome from the table or the combinations law, conseq
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
-The combinations law and Bastien's repertoire were tested unchanged; Arjan's listed defence (parry, cover, slip) covers each answer here after the upstream repair to his defence facet described for s05.
+The combinations law and Bastien's repertoire were tested unchanged; Arjan's listed defence (parry, cover, slip, elbow block and check) covers each answer here after the upstream repair to his defence facet described for s05.
 
 ## @evidence brief/cast/bastien.md#repertoire
 
@@ -278,7 +278,7 @@ Bastien exploits Arjan's own habit, the early check of the drag, and Arjan answe
 
 ## @evidence shared/principles/narratives.md#unit-progression
 
-It levels the round: each man has used the other's tell once, and Bastien has now seen the body kick twice, blocked by its line.
+It levels the round: Bastien uses Arjan's check of the drag once, Arjan punishes Bastien's slow replant after a check twice in the scene, and Bastien has now seen the body kick twice, blocked by its line.
 
 ## @evidence shared/principles/narratives.md#parent-differentiation
 
@@ -360,7 +360,7 @@ The cut-off, the exchange on the ropes, the clinch and the escape each get their
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
-Each beat decides the referee's place (one stride away, on the far-neutral-corner side of the line, opposite the operator's end), the operator's place, outcomes, costs, camera and sound.
+The ropes beats decide the referee's place (one stride away, on the far-neutral-corner side of the line, opposite the operator's end, toward Bastien's end and away from the ropes), the clinch break his step into the gap and out, and the escape his giving ground and his walk back to the far side; each beat decides the operator's place, outcomes, costs, camera and sound.
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
@@ -568,7 +568,7 @@ The habit meets a knee as well as a kick, and Arjan's cross, hook and low kick s
 
 ## @evidence shared/principles/narratives.md#unit-progression
 
-Bastien's leg takes a landed low kick; his breathing turns ragged; he still owns the centre at the end.
+Bastien's leg takes a landed low kick; his breathing turns ragged; he takes the centre back at the end.
 
 ## @evidence shared/principles/narratives.md#parent-differentiation
 
@@ -734,7 +734,7 @@ The referee's "Down!", "Neutral corner!" and numbers are his commands and count.
 
 ## @evidence shared/principles/realized.md#action-and-line-order
 
-"Down!" comes with the point at the canvas; "Neutral corner!" with the arm toward the corner; each number with the arm's drop; the push falls between "Five!" and "Six!".
+The referee "points at the canvas" before "Down!", and "points his arm across the ring at the far neutral corner" before "Neutral corner!"; his counting arm "comes down toward Bastien's eyes with each number"; Bastien's push falls between "Five!" and "Six!", and the second hand rises before "Six!".
 
 ## @evidence shared/principles/screenplay.md#audiovisual-realization
 
@@ -770,11 +770,11 @@ Nothing in picture or sound names a cause for the fall.
 
 ## @evidence instructions/commission.md#fall
 
-"he goes down without a step: his right shoulder and hip meet the canvas", in the shot uncut since before the kick.
+"There is no step to save him: he goes down sideways to his right in one collapse, shoulder and hip landing together, and his head comes down after them onto the canvas with a dull thump", in the shot uncut since before the kick.
 
 ## @evidence instructions/commission.md#count
 
-"cut at 157 to the corner camera"; "'One' lands at 158 … 'Seven' at 164".
+"cut at 157 to the corner camera"; the numbers land on their seconds, from One at 158 to Seven at 164, as the Outcome lines of s11-b03 and s11-b04 state.
 
 ## @evidence instructions/commission.md#no-injury-mechanism
 
@@ -808,7 +808,7 @@ The referee's last words are the count; the doctor's words are not heard.
 
 ## @evidence shared/principles/realized.md#action-and-line-order
 
-"Eight!" follows the statement that Bastien has not stood; "Ten!" precedes the wave-off.
+"Eight!" comes first and the statement that Bastien has not stood follows it, so the count runs on without a check; "Ten!" precedes the wave-off.
 
 ## @evidence shared/principles/screenplay.md#audiovisual-realization
 
@@ -844,7 +844,7 @@ The ring doctor is the one person who enters.
 
 ## @evidence brief/cast/ring-doctor.md#body
 
-Navy and pale blue gloves, a bag.
+A dark navy jacket and trousers, pale blue medical gloves, a bag.
 
 ## @evidence brief/cast/ring-doctor.md#movement
 
@@ -884,12 +884,12 @@ He is silent.
 
 ## @evidence instructions/commission.md#count
 
-"'Eight' at 165, 'Nine' at 166, 'Ten' at 167"; "At 167.6 the referee waves"; "At 168.1 Arjan's gloves go up"; "At 170.1 the bell rings"; "until the film ends at 180".
+Eight at 165, Nine at 166 and Ten at 167, as s12-b01's Outcome states; "At 167.6 the referee waves"; "At 168.1 Arjan's gloves go up"; "At 170.1 the bell rings"; "until the film ends at 180".
 
 ## @evidence instructions/commission.md#ending
 
-"Arjan keeps moving in his quick light steps, gloves raised, turning to the crowd, his breath still loud. The wide frame holds all of them until the film ends at 180."
+"Beyond them, across the ring, Arjan's springing steps go on, gloves still raised, his breath still loud"; "The wide frame holds both until the film ends at 180."
 
 ## @evidence instructions/commission.md#referee
 
-His support: "kneels at his side, by his chest, a hand on his shoulder, watching him".
+His support: "he goes down on one knee there, a hand settling on Bastien's shoulder. His head stays bent toward Bastien, and he does not turn it toward the winner."
