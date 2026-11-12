@@ -49,13 +49,13 @@ In the inspector, the capture's keys are the address's parameters of the same na
 
 ## Make a motion hint
 
-1. Adopt the request, output boundary and operating choices in [PROJECT.md](PROJECT.md) through [project context](../../../.agents/skills/production/project-context.md).
+1. Adopt the request and output boundary in [PROJECT.md](PROJECT.md) through [project context](../../../.agents/skills/production/project-context.md).
 
-   Include the intended execution/capture path. Make routine choices within the user's delegation and keep creative requirements with their owners.
+   Include the intended execution/capture path. Make routine choices within the user's delegation and keep creative requirements with their owners. [Ask for operating choices](../../../.agents/skills/production/project-context.md#asking-for-operating-choices) when the task that uses them begins.
 
-2. Study every practice and style the film shows through [research](../../../.agents/skills/story/planning/research.md), then write the story with evidence and independent review.
+2. When the agent writes the story, first [ask the user](../../../.agents/skills/story/planning/requirements.md#asking-the-user) about it.
 
-   Write the [settings](../../../.agents/skills/story/layers/settings.md), or a short's [brief](../../../.agents/skills/story/layers/brief.md), that draw on the study, then the complete [screenplay](../../../.agents/skills/story/SKILL.md) along its [writing route](../../../.agents/skills/story/workflow.md#route-and-parents).
+   Write the screenplay as the user's [choice of writer](../../../.agents/skills/story/workflow.md#who-writes-the-screenplay) sets. When it runs the narrative passes, write the [settings](../../../.agents/skills/story/layers/settings.md), or a short's [brief](../../../.agents/skills/story/layers/brief.md), then the complete [screenplay](../../../.agents/skills/story/SKILL.md) along its [writing route](../../../.agents/skills/story/workflow.md#route-and-parents), with evidence and independent review.
 
 3. Build the coarse entities under [entity work](../../../.agents/skills/development/entities.md) and accept every module in its [catalog cases](../../../.agents/skills/motion/catalog-cases.md).
 
