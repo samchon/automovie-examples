@@ -62,7 +62,7 @@ It settles the baseline condition the commission fixes (no early knockdown), wit
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-It owns the procedure once; the referee record owns how he performs it, and the knockout study its sources.
+It owns the procedure once; the referee record owns how he performs it; the rules study is the source it cites for the count and the result, and the knockout study the source for the aftermath.
 
 ## @evidence instructions/commission.md#contacts-before-finish
 

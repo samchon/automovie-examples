@@ -696,7 +696,7 @@ The two exchanges keep the pace high; the walk and the jab slow it; the kick tak
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
-The finish beat states the anchor 150.000 as the end of the phase, the outcome by the kick's row, the consequence by the fall law, and the camera's position square to the line, with the kicking leg and the struck place facing it; the high kick's beat decides the referee's closing in on the hurt man and his dropping back; the inserted beat keeps the new address s10-b01a.
+The finish beat states the anchor 150.000 as the end of the phase, the outcome by the kick's row, the consequence by the fall law, and the camera's position square to the line, with the kicking leg and the struck place facing it; the high kick's beat decides the referee's closing in on the hurt man and his holding there while Arjan covers up, and s10-b02, which alone tells Arjan setting his feet, his dropping back; the inserted beat keeps the new address s10-b01a.
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 

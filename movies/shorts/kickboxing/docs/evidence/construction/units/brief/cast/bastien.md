@@ -76,7 +76,7 @@ It gives his weapons, his feint and his defence with its counters.
 
 ## @evidence shared/principles/common.md#specificity
 
-Long combinations ending in the low or high kick, the switch kick, the drag feint, and a named counter from each defensive answer.
+Long combinations ending in the low or high kick, the switch kick, the drag feint, and named counters after the check, the slip, the roll and a blocked body kick, under the rule that he counters from each answer at once.
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
@@ -106,7 +106,7 @@ It settles the habit as a baseline absence and a change condition with its excep
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-When the screenplay establishes the scene, this record will cite it as statement 5 asks.
+The screenplay establishes the habit at s05-b01, and the record cites that unit, as statement 5 asks.
 
 ## @evidence instructions/commission.md#tell
 

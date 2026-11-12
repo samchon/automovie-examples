@@ -10,11 +10,11 @@ The conditions are this film's: a faceless polygon man cannot show a face, sweat
 
 ## @evidence shared/principles/brief.md#needed-decisions
 
-It settles running time, frame and representation with their limits (statement 2), the film's line with the anchor the commission fixes, the kick landing at 150 seconds, and leaves events to the screenplay. Its only values, 180 seconds and the frame, are commission and delivery decisions (statement 5).
+It settles running time, frame and representation with their limits (statement 2), the film's line with the anchor the commission fixes, the kick landing at 150 seconds, and leaves events to the screenplay. Its values, the 180 seconds, the frame, the twelve phases of fifteen seconds and the landing at 150 seconds, are commission and delivery decisions (statement 5).
 
 ## @evidence shared/principles/brief.md#record-and-currency
 
-The facet sits in the work record the brief layer names for fixed conditions, cites the delivery profile it agrees with instead of restating its raster, and describes no code. No screenplay exists yet, so statement 5 has nothing to carry.
+The facet sits in the work record the brief layer names for fixed conditions, cites the delivery profile it agrees with instead of restating its raster, and describes no code. The screenplay now exists and establishes no decision this facet must carry: the running time, the frame, the twelve phases and the landing at 150 seconds are the commission's, and the screenplay keeps them (the kick "lands at 150.000, at the end of the phase" in s10-b04, and "the film ends at 180"), so statement 5 has nothing to record here.
 
 ## @evidence instructions/commission.md#one-round
 

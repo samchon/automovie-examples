@@ -68,7 +68,7 @@ The movement style is owned here; the referee study owns its sources.
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-It gives every duty the commission names: positioning, closing in, the clinch break, the knockdown and count, and the wave-off.
+It gives every duty the commission names an H3: positioning with the side view, clinch breaks, signals at the knockdown and the wave-off, and the knockdown procedure; it adds closing in.
 
 ## @evidence shared/principles/common.md#specificity
 
@@ -84,7 +84,7 @@ His procedure is owned here and agrees with the contest record's rules.
 
 ## @evidence instructions/commission.md#referee
 
-"Positioning, closing in, the clinch break, the knockdown and count, the wave-off": each an H3 here.
+The commission asks for "positioning, side view, clinch breaks, signals and the knockdown procedure"; the H3s "Positioning" (with the side view), "The clinch break", "Knockdown and count" and "The wave-off" (with the signals) give each its own unit, and "Closing in" adds the approach the referee study records.
 
 ## @evidence instructions/commission.md#count
 
