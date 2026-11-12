@@ -11,7 +11,7 @@ Each observation carries its kind in brackets:
 - **[inference]**: this study's reasoning from sourced facts. The facts it rests on are cited.
 - **[choice]**: a decision this production makes where the sources leave room, offered to the brief.
 
-Sources are cited by key with a locator. GLORY rule numbers are given with the page number printed on the page. The PDF page is that number plus two for the main rules. The appendices restart their own page numbers. The index `.cache/research/index-rules-referee.md` lists every original, its URL and its saved path.
+Sources are cited by key with a locator. GLORY rule numbers are given with the page number printed on the page. The PDF page is that number plus two for the main rules. The appendices restart their own page numbers. The research index lists every original, with its creator, URL, retrieval date, saved path, rights and the locators used, in its [rules and referee section](../index.md#originals-rules-referee).
 
 | Key | Original |
 | --- | --- |

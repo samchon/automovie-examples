@@ -4,7 +4,7 @@ This study records how live broadcasts and fiction films shoot a ring bout, how 
 
 ## How to read this study {#reading}
 
-Each observation carries its kind in brackets: **[measurement]** for a value with its unit that the original reports; **[observation]** for what the original's text states or its photograph shows; **[inference]** for this study's reasoning from cited facts; **[choice]** for a decision this production offers the brief where the sources leave room. Imperial values are converted to metric, with the original value kept in brackets. Every original was retrieved on 2026-11-13 and is listed in `.cache/research/index-coverage.md`. No footage could be decoded on this machine, so nothing here is read from moving pictures; any value footage alone would give is marked unavailable, inferred or chosen.
+Each observation carries its kind in brackets: **[measurement]** for a value with its unit that the original reports; **[observation]** for what the original's text states or its photograph shows; **[inference]** for this study's reasoning from cited facts; **[choice]** for a decision this production offers the brief where the sources leave room. Imperial values are converted to metric, with the original value kept in brackets. Every original was retrieved on 2026-11-13 and is listed, with its creator, URL, saved path, rights and the locators used, in the research index's [fight-coverage section](../index.md#originals-coverage). No footage could be decoded on this machine, so nothing here is read from moving pictures; any value footage alone would give is marked unavailable, inferred or chosen.
 
 | Key | Original |
 | --- | --- |

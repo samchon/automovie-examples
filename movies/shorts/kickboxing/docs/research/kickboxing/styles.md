@@ -11,7 +11,7 @@ Each observation carries its kind in brackets:
 - **[inference]**: this study's reasoning from the cited facts.
 - **[choice]**: a decision this production may make where the sources leave room, offered to the brief.
 
-Sources are cited by key with a locator. Web articles are located by their section heading, or by the opening words of the paragraph where the article has no headings. Papers are located by page, table or section. GLORY rule numbers carry the page number printed on the page. The index `.cache/research/index-styles.md` lists every original with its URL and saved path.
+Sources are cited by key with a locator. Web articles are located by their section heading, or by the opening words of the paragraph where the article has no headings. Papers are located by page, table or section. GLORY rule numbers carry the page number printed on the page. The research index lists every original, with its creator, URL, retrieval date, saved path, rights and the locators used, in its [styles section](../index.md#originals-styles).
 
 Most coaching texts here are written for Muay Thai or MMA. GLORY kickboxing uses the same punches, kicks, knees, checks and blocks, but it forbids elbows, throws and sweeps, allows only one knee from a brief clinch, and scores no differently for kicks and punches. Each value or practice taken from Muay Thai, MMA, amateur WAKO or amateur K-1 states its translation where it is used.
 
