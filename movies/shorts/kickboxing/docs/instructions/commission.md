@@ -76,10 +76,32 @@ User requirement. "Start and match-ending bells, English referee words, breaths,
 
 User requirement. "The winner's raised gloves, supported victory steps and excited breath remain visible beside the downed opponent in the wide ending." The last image holds A's celebration and B on the canvas in one wide frame, with the referee attending B. This production reads "supported victory steps" as steps that carry A's weight on his own planted feet, each one landing and bearing him, not as steps in which anyone holds him up: no corner man enters the ring before 180, and the ruling describes the winner's own movement.
 
+## The frame {#frame}
+
+User choice, given on 2026-11-13 in answer to the first round of story questions. The picture is landscape 16:9 at 1280 × 720, the scaffold's default, chosen because two fighters standing side by side, with feet, targets and heads on one screen axis, and the wide ending of the winner beside the fallen man fit this shape best.
+
+## Who the men are {#people}
+
+Delegated choice, given by the user on 2026-11-13 in answer to the first round of story questions: the writer decides the fighters' and the referee's names, ages, home countries, corner colours and fighting styles, within the rulings above. The user accepted the plan put to them, that B is the pressure fighter who leads much of the round with long combinations and low kicks and A is the patient kicker whose right body kicks slowly build the trap. The brief's cast records own these decisions.
+
+## Tone {#tone}
+
+User choice, given on 2026-11-13 in answer to the first round of story questions. The round is sober and close: two professionals doing hard, skilled work, with respect at the glove touch and care at the end. The violence is the sport's own, shown for its craft and its cost in breath and balance, never relished. The knockout is decisive, but the film stays with the fallen man as much as with the winner.
+
+## The venue and the crowd {#venue}
+
+User choice, given on 2026-11-13 in answer to the first round of story questions. The bout is a championship night in an arena. A seated crowd in the dark beyond the ring is present and heard only as a wordless rise and fall of noise under the ring's own sounds; a timekeeper rings the bell from ringside; and the corner teams stay outside the ropes until the film ends.
+
 ## Language {#language}
 
 Delegated choice, decided by this production. The screenplay is written in English, and the referee speaks English, as the sound requirement names. The fighters do not speak; their voices are breath and effort, which keeps the referee's words the only speech and makes each one count. The screenplay's text uses British spelling, as this commission does; the referee's count is spoken as the words "One" to "Ten", and film seconds are written as numerals at the precision the anchors above give.
 
 ## Direction {#direction}
 
-Delegated choice, decided by this production within the rulings above, under [direction](../../../../../.agents/skills/story/planning/direction.md). The audience follows both men from a ringside position and is let in on A's plan before B is: it sees the right body kick land, sees B's left arm begin to drop at every rising right knee, and sees A test that drop with a feint, so the Brazilian kick arrives as a payoff the audience has watched being built rather than as a surprise. B is no victim: he leads much of the round with long combinations and low kicks, and A's plan is a slow answer to his pressure. Attention is sustained by the alternation of initiative and by the growing pattern; the finish, the count and the celebration close the bout completely, and nothing remains open. This serves the commission because the owner's finish depends on a learned tell, which only reads as craft when the audience has seen it learned.
+Delegated choice, decided by this production on 2026-11-13 within the rulings above, under [direction](../../../../../.agents/skills/story/planning/direction.md). The situation, the finish and the ending are fixed, so the directions compared differ in whom the audience follows and what it knows when.
+
+- Following B from his side of the ring, so that the audience shares his ignorance of his own tell and the finish arrives as a surprise. Rejected: the feint the commission requires would then read as an ordinary miss, and a knockout from a habit the audience never saw forming would read as luck, which contradicts the premise that a learned habit, not a mismatch, decides the bout.
+- Following the referee as the audience's eye, so that the round is read through the official who manages it. Rejected: it pulls attention from the two men the camera must relate, and the referee's care at the end would outweigh the fight it closes.
+- Following both men from a ringside position, with the audience let in on A's plan before B is. Chosen.
+
+The audience watches both men and learns A's plan before B does: it sees the right body kick land, sees B's left arm begin to drop at each rising right knee, and sees A test that drop with a feint, so the Brazilian kick arrives as a payoff it has watched being built rather than as a surprise. B is no victim: he leads much of the round with long combinations and low kicks, and A's plan is a slow answer to his pressure, which costs A breath and ground before it pays. Attention is sustained by the alternation of initiative and by the growing pattern, and after the finish by the count's real-time procedure. The finish, the count and the celebration close the bout completely, and nothing remains open. Within the user's [tone](#tone) the image stays with readable, whole bodies and the sound with the ring's own noises. This serves the commission because the owner's finish depends on a learned tell, which only reads as craft when the audience has seen it learned.
