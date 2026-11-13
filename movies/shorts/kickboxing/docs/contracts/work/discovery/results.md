@@ -89,7 +89,7 @@ No separate language contract is needed, because these risks have the owner abov
 What the inspection looked for, and what it found.
 
 - **An element kind no folder owns:** none for the screenplay-only scope. No source is commissioned.
-- **A behaviour, camera or staging choice no research supports:** none in the brief. Each decision cites its study. The technique laws, the exchange outcome table and the activity targets the screenplay will need are not yet studied. Each study's scope section assigns them to the screenplay's own study. This is open, not missing.
+- **A behaviour, camera or staging choice no research supports:** none in the brief, where each decision cites its study. At the brief checkpoint the technique laws, the exchange outcome table and the activity targets were left to the screenplay's own study. That study now holds them: [`docs/research/kickboxing/exchanges.md`](../../../research/kickboxing/exchanges.md) ([outcomes](../../../research/kickboxing/exchanges.md#outcomes), [chains](../../../research/kickboxing/exchanges.md#chains), [tempo](../../../research/kickboxing/exchanges.md#tempo), and the laws of the [Brazilian kick](../../../research/kickboxing/exchanges.md#brazilian-kick-law), [the fall](../../../research/kickboxing/exchanges.md#fall-law) and [failing to rise](../../../research/kickboxing/exchanges.md#failing-to-rise)). Every action the screenplay names that the motion vocabulary does not perform is listed as a departure for the code in [what the vocabulary lacks](../../../research/kickboxing/exchanges.md#vocab-lacks). Nothing in this area remains open.
 - **A failure no contract asks about:** none found. The representation limit is owned by the brief's [work record](../../../body/brief/world/work.md#faceless-polygon-men), and the shared screenplay principles hold the screenplay to it. The commission's anchors are requirements the screenplay must cite.
 - **A scaffold candidate:** the motion package's `KickboxingRing.Corner` names the athletes' corners `red` and `blue`, while GLORY's are white and black ([rules study](../../../research/kickboxing/rules.md#corner-colours)). That matters only to source, which is not commissioned. It is recorded here as a candidate and kept local.
 
@@ -126,7 +126,7 @@ No new user-owned element was found, and no two fixed conditions conflict.
 
 ## The screenplay {#screenplay}
 
-Screenplay construction, run on 2026-11-13, read the complete draft of `docs/body/screenplay/kickboxing.md` for audiovisual form choices and recurring narrative conditions that no owner held. Each one found now has an owner.
+Screenplay construction, run on 2026-11-13, read the complete draft of `docs/body/screenplay/kickboxing.md` for audiovisual form choices and recurring narrative conditions that no owner held. Each one found now has an owner, and the areas inspected without a finding are accounted for with their existing owners.
 
 ### Form choices found and owned {#screenplay-form}
 
@@ -138,12 +138,30 @@ Screenplay construction, run on 2026-11-13, read the complete draft of `docs/bod
 | The count as separate spoken numbers, each with its arm stroke | Each second of the count is a perceptible anchor the picture and sound share | A number lost under the crowd, or a count summarised | [Commission count](../../../instructions/commission.md#count); [s11-b03](../../../body/screenplay/kickboxing.md#s11-b03), [s12-b01](../../../body/screenplay/kickboxing.md#s12-b01) |
 | No music, no commentary, the referee's words the only speech | The ring's own sounds and the crowd carry the round | Any voice or score outside the palette | [Ring sound](../../../body/brief/sound/ring-sound.md#palette); every beat's sound record |
 
+### Other form areas inspected {#screenplay-negatives}
+
+The rest of what screenplay discovery looks for was inspected against the draft. None of these areas needed a new owner, because each risk already has an adequate one:
+
+| Area | Risk inspected | Existing owner that covers it |
+| --- | --- | --- |
+| Dialogue incompletion | A referee's line cut off, or a word a fighter or corner would say, against the only-speech ruling | The commission's [language](../../../instructions/commission.md#language) and the referee's [words](../../../body/brief/cast/referee.md#words). Every line in the draft is a complete command or count word |
+| Rhythm | One exchange shape looped, or a uniform pace, against "do not loop the first minute" | The commission's [progression](../../../instructions/commission.md#progression) and the study's [tempo](../../../research/kickboxing/exchanges.md#tempo) and [handover](../../../research/kickboxing/exchanges.md#handover). Tempo per phase was checked in inspection |
+| Duration | A phase running long or short, or an anchor second missed | The commission's [phases](../../../instructions/commission.md#phases) and [count](../../../instructions/commission.md#count), and the work record's [running time](../../../body/brief/world/work.md#running-time). Every anchor is written to its second |
+| Scene | A scene heading that implies a cut or a jump in time | The commission's [phases](../../../instructions/commission.md#phases): a heading is an address, and every scene after the first is `CONTINUOUS` |
+| Compression | Time compressed, slowed or skipped | The work record's [left out](../../../body/brief/world/work.md#left-out) and the camera's [cuts](../../../body/brief/cinematography/camera.md#cuts) |
+| Motif transformation | The rising right knee repeated without changing what it means | [Visser's tell](../../../body/brief/cast/visser.md#tell) and [Benlloch's knowledge](../../../body/brief/cast/benlloch.md#knowledge): the knee's meaning changes stage by stage, from body kick to feint to finish |
+| Transitions | A cut inside an exchange, or a broken take across the finish | The camera's [cuts](../../../body/brief/cinematography/camera.md#cuts); the draft's two cuts are at resets |
+| Exits | An ending that leaves the bout open, or one that leaves the wide frame | The commission's [ending](../../../instructions/commission.md#ending) and [direction](../../../instructions/commission.md#direction); the last beat holds the wide image to 180 |
+| Captions | Any caption, graphic or on-screen text | The work record's [left out](../../../body/brief/world/work.md#left-out) and [what the representation cannot show](../../../body/brief/world/work.md#what-it-cannot-show). The draft has none |
+| Notation | Headings, beat records or the speaker cue departing from the commission's form | The commission's [phases](../../../instructions/commission.md#phases) and the [notation](../../../../../../../.agents/skills/story/layers/notation.md) skill. Every beat carries its full record |
+| Register | British spelling, seconds as numerals and count words as words | The commission's [language](../../../instructions/commission.md#language) |
 ### Recurring narrative conditions {#screenplay-conditions}
 
-- **The tell's visible progress.** Each landed right body kick moves the cover one stage on, and the screenplay must never show a stage go backwards. Owner: [Visser's tell](../../../body/brief/cast/visser.md#tell). Its smallest honest host is the screenplay's population of beats in which Benlloch's right knee rises; author inspection found one reversal and repaired it.
-- **Costs that carry forward.** A landed blow's cost lasts beyond its beat. Owners: the two state records ([Benlloch](../../../body/brief/cast/benlloch.md#state), [Visser](../../../body/brief/cast/visser.md#state)). Inspection found one cost cancelled in the next beat and repaired it.
-- **Everyone present responds.** The referee in every beat, and the ringside people whenever a wide frame holds them. Owners: [the referee](../../../body/brief/cast/referee.md#conduct) and [ringside](../../../body/brief/crowds/ringside.md).
-
+| Condition | Observable application | Audience effect | Representative refutation | Smallest honest host | Owner |
+| --- | --- | --- | --- | --- | --- |
+| The tell's visible progress | Each landed right body kick moves Visser's cover one stage on, and no later beat shows an earlier stage | The audience watches the habit being built, so the finish reads as a payoff; a stage that goes backwards makes the finish read as luck, against the direction | A beat after the cover has started forming that shows a body kick land with no cover at all, as round 1 of author inspection found in s03-b03 | The beats in which Benlloch's right knee rises: s01-b04, s02-b03, s03-b03, s04-b03, s05-b03, s06-b01, s07-b02, s08-b01, s10-b01, s10-b03 and s11-b01 | [Visser's tell](../../../body/brief/cast/visser.md#tell) |
+| Costs that carry forward | A landed blow's cost (a lighter lead leg, short breath, a slower step) shows in the beats after it until the state record lets it fade | The audience feels the round wearing both men down, so pressure and initiative change for a reason; a cost cancelled in the next beat makes blows weightless | A beat that has a man drive in at once after the previous beat slowed his step, as round 1 found in s08-b02 | Each beat whose record states a cost, with the beat or beats after it: the consecutive beat pairs from s02-b02 through s10-b02 | The state records of [Benlloch](../../../body/brief/cast/benlloch.md#state) and [Visser](../../../body/brief/cast/visser.md#state) |
+| Everyone present responds | The referee has a place and an intent in every beat; the ringside people have a behaviour whenever a frame holds them | The audience sees one live ring, with an official always working and a hall that watches; an unplaced referee or a frozen ringside reads as a gap in the world | A reset beat in which the referee is cast but not placed, as round 1 found in s05-b04 and s08-b03; or a wide frame holding seated people the beat never performs, as in s11-b03 before repair | All 40 beats for the referee; the beats with wide frames holding ringside (s05-b04, s08-b03, s11-b02, s11-b03, s12-b02, s12-b03 and s12-b04) for the ringside people | [The referee](../../../body/brief/cast/referee.md#conduct) and [ringside](../../../body/brief/crowds/ringside.md) |
 No new work contract is adopted: each condition is asked by the shared screenplay and narrative contracts, through the owners named.
 
 ### Upstream gap found by the screenplay {#screenplay-upstream}

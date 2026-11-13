@@ -19,7 +19,7 @@ Two men wait in opposite corners of a bright, roped square. In the white corner,
 
 The REFEREE stands alone in the centre between them, white shirt, dark trousers, arms loose. He looks once to each corner.
 
-At 0.000 a single bell strike rings out from the officials' table and hangs in the air.
+At 0.000 the timekeeper, seated at the officials' table, strikes the bell once. The note rings out and hangs in the air.
 
 The referee extends an arm toward the space between the corners, open hand.
 
@@ -28,9 +28,9 @@ Fight!
 
 He steps back and to the side, off the line between the corners, toward the ropes on the officials' side.
 
-- Cast: [Benlloch](../brief/cast/benlloch.md#watches), [Visser](../brief/cast/visser.md#champion), [the referee](../brief/cast/referee.md#words).
-- Intent: the referee starts the round as GLORY orders it and clears the line; both fighters wait for the command, then for each other.
-- Outcome: the round begins, as the [start sequence](../brief/world/bout.md#start-sequence) sets.
+- Cast: [Benlloch](../brief/cast/benlloch.md#watches), [Visser](../brief/cast/visser.md#champion), [the referee](../brief/cast/referee.md#words), [the timekeeper](../brief/crowds/ringside.md#timekeeper).
+- Intent: the timekeeper opens the round with one strike of the bell from his seat; the referee starts the round as GLORY orders it and clears the line; both fighters wait for the command, then for each other.
+- Outcome: the round begins, as the [start sequence](../brief/world/bout.md#start-sequence) sets; the timekeeper's strike from his seat is a departure the study records ([what the vocabulary lacks](../../research/kickboxing/exchanges.md#vocab-lacks)).
 - Consequence: none to either body; the round clock now runs, and nothing is owed to the corners until 180.
 - Space: Benlloch in the white corner, Visser in the black corner, the referee from the centre to a place off their diagonal near the officials' side.
 - Camera: wide, from the apron on the side of the steps' neutral corner at the men's head height, holding both corners and the referee across the ring; it begins to ease along the apron toward the centre of that side as the referee moves.
@@ -204,7 +204,7 @@ The red pad of the far neutral corner is a stride behind him.
 - Outcome: the jab and cross covered; the body hook lands clean on the body; the low kick lands on a planted leg ([outcome table](../../research/kickboxing/exchanges.md#outcomes), [Visser's chains](../../research/kickboxing/exchanges.md#visser-chains)).
 - Consequence: Benlloch's breath forced out and his elbow clamped for a step or two; his lead leg lighter and his stance shorter, now for the rest of the round in some degree ([Benlloch's state](../brief/cast/benlloch.md#state)). Visser unhurt and breathing harder from the work.
 - Space: from the centre to just in front of the far neutral corner, Benlloch giving ground on short angles, Visser cutting them off; the referee closes in as the corner nears, still to the side.
-- Camera: base two-shot head to toe from the side, the far neutral corner's red pad entering frame behind Benlloch.
+- Camera: base two-shot head to toe from the side, tracking along the apron with the men as Visser drives Benlloch from the centre toward the far neutral corner, so that the corner's red pad enters the frame behind Benlloch.
 - Sound: dialogue none; foley two smacks on the gloves, the body hook's dull thud, Benlloch's forced grunt, the low kick's deep slap, four exhales from Visser; ambience the crowd's biggest swell yet; effects none; music none.
 - Continuity: Benlloch near the far neutral corner, hurt in breath and leg; Visser inside at punching range, his feet planted.
 
@@ -356,7 +356,7 @@ Benlloch slides off the line, away from the ropes.
 - Outcome: the push kick lands on a man committed forward and drives him back one capture step ([outcome table](../../research/kickboxing/exchanges.md#outcomes)).
 - Consequence: Visser stopped for a moment and back at kicking range; no lasting cost.
 - Space: Benlloch off the ropes toward the centre; Visser one step back; the referee steps round to stay off their line.
-- Camera: base two-shot from the side, wide enough for the push and the step back.
+- Camera: base two-shot from the side, wide enough for the push and the step back; still for the push, then easing along the apron as Benlloch slides off the line.
 - Sound: dialogue none; foley the push kick's dull thump, Visser's capture step, an exhale; ambience the crowd's short rise; effects none; music none.
 - Continuity: the men at kicking range between the centre and the black–steps ropes; Benlloch's back clear of the ropes.
 
@@ -375,7 +375,7 @@ Both men step back.
 - Outcome: the body kick lands on the ribs through a late cover; the counter hook lands glancing on the head ([outcome table](../../research/kickboxing/exchanges.md#outcomes)).
 - Consequence: Visser's third landed body kick: his breath forced out, his trunk folded toward it, no pressing for a step; his cover will start sooner still, and his glove has now left his head ([Visser's state](../brief/cast/visser.md#state), [tell](../brief/cast/visser.md#tell)). Benlloch's head turned by a glancing hook; he resets his stance ([Benlloch's state](../brief/cast/benlloch.md#state)).
 - Space: the open ring between the centre and the black–steps ropes, both men a step apart after it; the referee's head turns with the kick, then to the gap.
-- Camera: base two-shot head to toe from the side, Visser's left side toward the lens.
+- Camera: base two-shot head to toe from the side, Visser's left side toward the lens; still through the kick and the hook, then easing out as both men step back.
 - Sound: dialogue none; foley the body kick's crack, Visser's breath forced out, the hook's short slap, exhales; ambience the crowd's loud swell; effects none; music none.
 - Continuity: both men hurt a little and apart; Visser's breath short; the tell well into its forming stage.
 
@@ -445,7 +445,7 @@ The referee has come close. He says nothing.
 - Outcome: the jab and cross covered and the body hook glancing on the elbow; the clinch knee lands to the body ([outcome table](../../research/kickboxing/exchanges.md#outcomes), [Visser's chains](../../research/kickboxing/exchanges.md#visser-chains)); a lawful clinch, so no command ([bout, clinch](../brief/world/bout.md#clinch)).
 - Consequence: Benlloch's breath forced out and his trunk folded for a moment; he will breathe harder for the next exchanges ([Benlloch's state](../brief/cast/benlloch.md#state)). Visser spends breath on the burst.
 - Space: from the officials' side of centre to the white–steps ropes below the officials' table, then Benlloch pivoting off along them toward the steps' neutral corner; the referee closes in on the ropes and steps back as they part.
-- Camera: base two-shot head to toe from the apron between the steps' corner and the black corner, looking along the ropes so the men stand side-on across the frame, their feet and the knee in it; the officials' table dark below the ropes beyond them.
+- Camera: base two-shot head to toe from the apron between the steps' corner and the black corner; the camera stays on that apron and pans with the men as Visser drives Benlloch to the white–steps ropes, ending looking along those ropes so the men stand side-on across the frame, their feet and the knee in it, the officials' table dark below the ropes beyond them; it holds still through the clinch and pans again as Benlloch pivots out.
 - Sound: dialogue none; foley three punches on gloves and an elbow, the knee's deep thud, Benlloch's forced breath, the ropes creaking as his back meets them, exhales; ambience the crowd's loudest swell yet; effects none; music none.
 - Continuity: Benlloch off the ropes near the steps' neutral corner, his breath short; Visser at punching range, breathing hard; the initiative back with Visser.
 
@@ -492,7 +492,7 @@ Visser's lead foot settles light for a moment.
 - Outcome: the feint draws none; the inside low kick lands on a planted leg ([outcome table](../../research/kickboxing/exchanges.md#outcomes)).
 - Consequence: Visser's lead leg takes its first low kick; it settles lighter and slows his next step in ([Visser's state](../brief/cast/visser.md#state)).
 - Space: the centre; Benlloch moving a step to Visser's left after the kick; the referee on his circle.
-- Camera: base two-shot head to toe from the side, holding both men's legs through the feint and the kick.
+- Camera: base two-shot head to toe from the side, still, holding both men's legs through the feint and the kick, then easing a step along the apron as Benlloch moves to Visser's left.
 - Sound: dialogue none; foley the hip-snap's scuff on the canvas, the low kick's deep slap, the exhale on the kick; ambience the crowd rising on the kick; effects none; music none.
 - Continuity: both men's lead legs now marked by low kicks; Benlloch at Visser's left, at kicking range.
 
@@ -564,7 +564,7 @@ Visser's lead foot settles light. He shifts his weight off it, then takes a step
 - Outcome: the drop comes at the knee; the low kick lands on a planted leg, since the cover went to the ribs and no check came ([outcome table](../../research/kickboxing/exchanges.md#outcomes)).
 - Consequence: Visser's lead leg takes its second low kick and his step in slows further ([Visser's state](../brief/cast/visser.md#state)); the drop is shown to follow every rise of the knee ([tell](../brief/cast/visser.md#tell)).
 - Space: the centre; Visser one step back toward the black corner's side; the referee keeps his circle.
-- Camera: base two-shot head to toe from the side, Visser's left side toward the lens, so that the dropped elbow and the kick landing below it read in one frame.
+- Camera: base two-shot head to toe from the side, Visser's left side toward the lens, so that the dropped elbow and the kick landing below it read in one frame; still through the kick, then easing out as Visser steps back.
 - Sound: dialogue none; foley the low kick's deep slap, exhales; ambience the crowd's swell; effects none; music none.
 - Continuity: the men at range near the centre, Visser a step back; his elbow back up; the tell proved for any rise of the knee.
 
@@ -644,7 +644,7 @@ Benlloch is out again before the right hand can answer.
 - Outcome: covered, parried and rolled; no cost ([outcome table](../../research/kickboxing/exchanges.md#outcomes), [Benlloch's chains](../../research/kickboxing/exchanges.md#benlloch-chains)).
 - Consequence: none to either body; the initiative passes, for this exchange, to Benlloch.
 - Space: near the centre; Benlloch in, then out on an angle toward the black corner's side; the referee steps round to keep off their line.
-- Camera: base two-shot from the side.
+- Camera: base two-shot from the side, still while Benlloch throws, then tracking along the apron as he steps out on an angle.
 - Sound: dialogue none; foley three punches and their defences, exhales; ambience the crowd rising on Benlloch's attack; effects none; music none.
 - Continuity: the men at range near the centre; both breathing hard; the round evenly held.
 
@@ -659,7 +659,7 @@ Benlloch stops circling. He holds his ground a stride from the centre, his back 
 - Outcome: no strike; the cut-off narrows the ring ([chains](../../research/kickboxing/exchanges.md#visser-chains)).
 - Consequence: none to either body; Benlloch is where the finish will happen, on the steps' side of the white–black diagonal, a stride from the centre, with Visser between him and the centre ([ring](../brief/sets/ring.md#corners)).
 - Space: from near the centre toward the steps' neutral corner; Visser square in front of Benlloch, facing that corner; the referee moves to the white corner's side of them, off their line.
-- Camera: base two-shot head to toe from the apron near the black corner, the line between the men across the frame, the steps' corner's red pad at the edge beyond Benlloch.
+- Camera: base two-shot head to toe from the apron near the black corner, the line between the men across the frame, the steps' corner's red pad at the edge beyond Benlloch; the camera moves along the apron toward the black corner with them as Visser's cut-offs carry them toward the steps' corner, and comes to rest there when Benlloch stops.
 - Sound: dialogue none; foley feet scuffing, both men's breath; ambience the crowd's bed rising in expectation; effects none; music none.
 - Continuity: Benlloch a stride from the centre on the steps' side, his back toward the steps' corner; Visser facing him, his back toward the far neutral corner; the referee on the white corner's side; the camera near the black corner.
 
@@ -689,7 +689,7 @@ The knee does not kick. The right foot comes back down to the canvas, and Benllo
 - Outcome: the feint draws the reaction; the follow-up cross lands on the left side of the head over the dropped glove, glancing before 150 s ([outcome table](../../research/kickboxing/exchanges.md#outcomes), [Benlloch's chains](../../research/kickboxing/exchanges.md#benlloch-chains)).
 - Consequence: Visser's head turned and one step back; he resets ([Visser's state](../brief/cast/visser.md#state)). Benlloch now knows the opening is there and that it comes with the start of his body kick ([Benlloch's knowledge](../brief/cast/benlloch.md#knowledge)). The audience knows it with him.
 - Space: a stride from the centre on the steps' side; Visser one step back toward the centre; the referee's head turns with the strike.
-- Camera: base two-shot head to toe from the side, Visser's left side toward the lens: the knee, the dropping glove and the cross landing above it in one frame.
+- Camera: base two-shot head to toe from the side, Visser's left side toward the lens: the knee, the dropping glove and the cross landing above it in one frame; the camera stays still, from the apron near the black corner, as Visser goes back his step.
 - Sound: dialogue none; foley the foot's replant on the canvas, the cross's short slap, Benlloch's exhale; ambience the crowd's sharp rise; effects none; music none.
 - Continuity: the feint has landed; Visser a step back near the centre, Benlloch facing him from the steps' side.
 
@@ -723,7 +723,7 @@ Visser's left elbow and glove drop to his ribs.
 - Outcome: the drop comes at the knee, as every time ([Brazilian kick's law](../../research/kickboxing/exchanges.md#bq-phases), phases one and two).
 - Consequence: Visser's left side of the head uncovered as the kick turns over ([the finish](../../research/kickboxing/exchanges.md#outcomes)).
 - Space: unchanged; Benlloch's support foot begins to turn on its ball.
-- Camera: the base two-shot head to toe from the apron near the black corner; from the chamber's start the camera holds without a cut until Visser is at rest ([camera](../brief/cinematography/camera.md#cuts)).
+- Camera: the base two-shot head to toe from the apron near the black corner; still, from the chamber's start, and without a cut until Visser is at rest ([camera](../brief/cinematography/camera.md#cuts)).
 - Sound: dialogue none; foley the support foot's pivot on the canvas, Benlloch's breath drawn; ambience the crowd's bed; effects none; music none.
 - Continuity: the kick in its chamber across the phase boundary; the take runs on uncut into the next phase.
 
@@ -832,7 +832,7 @@ At their seats both corner teams watch without moving. Around the ring the judge
 - Outcome: "One" at 158 through "Seven" at 164, as the [commission](../../instructions/commission.md#count) anchors; Visser's attempt gives way, as [failing to rise](../../research/kickboxing/exchanges.md#rise-phases) sets out, signs two to four.
 - Consequence: Visser still down and back on his right side as the phase ends; nothing says why ([commission](../../instructions/commission.md#no-injury-mechanism)).
 - Space: unchanged: Visser near the centre, the referee kneeling at his head, Benlloch in the far neutral corner, the doctor standing at the steps, the corner teams and the judges at their seats outside the ropes.
-- Camera: the take runs on, wide, from the apron near the black corner: the kneeling referee, Visser whole on the canvas, Benlloch in the far neutral corner beyond, no cut inside the count.
+- Camera: the take runs on, wide and still, from the apron near the black corner, where the move in the last beat left it: the kneeling referee, Visser whole on the canvas, Benlloch in the far neutral corner beyond, no cut inside the count.
 - Sound: dialogue the referee's count, "One" to "Seven", loud and clear; foley the glove's slide on the canvas, the scrape of Visser's foot, his ragged breath; ambience the crowd's murmur with scattered calls, low enough for every number; effects none; music none.
 - Continuity: the count at "Seven"; Visser on his right side, still trying; Benlloch in the corner; the doctor at the steps; the corners and judges seated and still.
 
@@ -869,7 +869,7 @@ At 167.6 the referee's arms go up, cross above his head and fly apart.
 - Outcome: "Eight" at 165, "Nine" at 166, "Ten" at 167 and the knockout signalled at 167.6 ([commission](../../instructions/commission.md#count), [bout, the result](../brief/world/bout.md#result)); a knockout ([outcome table](../../research/kickboxing/exchanges.md#outcomes)).
 - Consequence: the bout is over; Benlloch is released from the corner; Visser has lost by knockout and stays down.
 - Space: unchanged.
-- Camera: the take runs on, wide, from the apron near the black corner, holding all three men through the last numbers and the signal.
+- Camera: the take runs on, wide and still, from the apron near the black corner, holding all three men through the last numbers and the signal.
 - Sound: dialogue "Eight", "Nine", "Ten"; foley Visser's glove on the canvas, his breath; ambience the crowd's murmur, then a roar rising at the signal; effects none; music none.
 - Continuity: the knockout signalled; the referee's arms coming down; Benlloch released.
 
@@ -884,10 +884,10 @@ Across the ring, at 168.1, Benlloch comes off the pads. Both fists go up over hi
 
 - Cast: [the referee](../brief/cast/referee.md#care), [Visser](../brief/cast/visser.md#state), [Benlloch](../brief/cast/benlloch.md#state), [the corner teams](../brief/crowds/ringside.md#corners-after).
 - Intent: the referee calls the doctor at once and puts himself between the winner and the fallen man; Visser, on his side, still pushes at the canvas, his breath ragged; Benlloch celebrates for himself and his corner, away from Visser; the corners rise at their seats.
-- Outcome: the procedure's last steps ([referee study](../../research/officiating/referee.md#knockdown-procedure), step eight; [care](../../research/officiating/referee.md#care)); the celebration from 168.1 ([commission](../../instructions/commission.md#count), [winner's conduct](../../research/kickboxing/exchanges.md#celebration-benlloch)).
+- Outcome: the procedure's last steps ([referee study](../../research/officiating/referee.md#knockdown-procedure), step eight; [care](../../research/officiating/referee.md#care)); his step round Visser's head in a crouch is a departure the study records ([what the vocabulary lacks](../../research/kickboxing/exchanges.md#vocab-lacks)); the celebration from 168.1 ([commission](../../instructions/commission.md#count), [winner's conduct](../../research/kickboxing/exchanges.md#celebration-benlloch)).
 - Consequence: Benlloch's celebration confined to the far half ([ring](../brief/sets/ring.md#corners)); Visser still down, conscious ([Visser's state](../brief/cast/visser.md#state)).
 - Space: the referee from Visser's face side round his head to Benlloch's side of him, kneeling close at his head; Benlloch from the far neutral corner along the ropes of the far half toward the white corner; the corner teams standing at their seats, outside the ropes.
-- Camera: the take runs on from the apron near the black corner, wide enough to hold the kneeling referee with Visser and, beyond them, Benlloch's celebration along the far ropes.
+- Camera: the take runs on from the apron near the black corner, wide enough to hold the kneeling referee with Visser and, beyond them, Benlloch's celebration along the far ropes; it stays put and pans a little to follow Benlloch toward the white corner.
 - Sound: dialogue "Doctor!"; foley the referee's shoes and knee on the canvas, Visser's breath, Benlloch's quick steps and excited breath; ambience the crowd's roar, high and holding; effects none; music none.
 - Continuity: the referee kneeling between the two men at Visser's head; Benlloch celebrating along the far ropes toward the white corner; the doctor about to climb the steps; the corner teams standing at their seats.
 
@@ -912,10 +912,10 @@ Outside the ropes both corner teams stand at their seats, a ring inspector besid
 
 - Cast: [the timekeeper and the officials' table](../brief/crowds/ringside.md#officials-table), [Benlloch](../brief/cast/benlloch.md#state), [the referee](../brief/cast/referee.md#care), [the ring doctor and the paramedic](../brief/crowds/ringside.md#doctor), [Visser](../brief/cast/visser.md#state), [the corner teams and the inspectors](../brief/crowds/ringside.md#corners-seated), [the judges](../brief/crowds/ringside.md#judges).
 - Intent: the timekeeper ends the match; the referee keeps the fallen man lying still; Visser obeys and stops trying to rise; Benlloch celebrates on and comes back toward the fallen man until the referee stops him at the diagonal; the doctor comes to the fallen man and cares for him; Visser attends to them; the corners stay outside, kept there by the inspectors; the officials watch.
-- Outcome: the match-ending bell at 170.1 ([commission](../../instructions/commission.md#count), [bell](../brief/props/bell.md#strikes)); the referee's care ([referee study](../../research/officiating/referee.md#care)); Benlloch held at the diagonal ([ring](../brief/sets/ring.md#corners)); the doctor's entry by the steps, which never passes the winner, performed as the vocabulary's stair climb, bend and step-over.
+- Outcome: the match-ending bell at 170.1 ([commission](../../instructions/commission.md#count), [bell](../brief/props/bell.md#strikes)); the referee's care ([referee study](../../research/officiating/referee.md#care)); Benlloch held at the diagonal ([ring](../brief/sets/ring.md#corners)); the doctor's entry by the steps, which never passes the winner, performed as the vocabulary's stair climb, bend and step-over; the timekeeper's seated strikes and the doctor's hand on Visser from a kneel are departures the study records ([what the vocabulary lacks](../../research/kickboxing/exchanges.md#vocab-lacks)).
 - Consequence: Visser lying still under the referee's hand, conscious, breathing raggedly, to the end ([Visser's state](../brief/cast/visser.md#state)); Benlloch at the diagonal in the far half to the end; the doctor and the referee both kneeling at Visser's head to the end; nothing the doctor does reads as a diagnosis or treatment ([doctor](../brief/crowds/ringside.md#doctor)).
 - Space: Benlloch from the far ropes back across the far half to the diagonal; the doctor from the steps' corner through the ropes to Visser's head on the steps' side of the diagonal; the referee unchanged; the corner teams, the inspectors, the paramedic, the judges and the officials' table outside the ropes.
-- Camera: the take runs on, wide, holding Benlloch's return, the doctor's entry and the men at Visser's head.
+- Camera: the take runs on, wide, from the apron near the black corner; it pans back from the far ropes with Benlloch's return to the diagonal and settles, still, on the whole group as the doctor enters and kneels.
 - Sound: dialogue "Stay down."; foley the bell's three strikes and their ringing decay, Benlloch's quick steps and loud breath, the ropes creaking as the doctor steps through, his shoes on the steps and the canvas, Visser's breath; ambience the crowd's roar holding under the bell; effects none; music none.
 - Continuity: the doctor and the referee kneeling at Visser, the referee's hand on his arm; Benlloch at the diagonal in the far half, gloves raised; the corners outside the ropes.
 
