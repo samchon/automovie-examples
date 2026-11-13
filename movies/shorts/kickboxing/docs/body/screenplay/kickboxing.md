@@ -1,6 +1,26 @@
+
+
+
+
+
+
+
+
 # Kickboxing
 
 ## INT. KICKBOXING RING - NIGHT {#s01}
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Phase: one of twelve, 0.000 to 15.000 seconds, the opening bell to the first exchanges ([commission](../../instructions/commission.md#phases)).
 - Cast: [Benlloch](../brief/cast/benlloch.md#identity), [Visser](../brief/cast/visser.md#identity), [the referee](../brief/cast/referee.md#identity).
@@ -15,18 +35,18 @@
 
 ### The bell and "Fight" {#s01-b01}
 
-Two men wait in opposite corners of a bright, roped square. In the white corner, BENLLOCH bounces lightly on his bare feet, gloves at his cheeks. Across the diagonal, in the black corner, VISSER stands squarer and stiller, chin down behind black gloves.
+A bright, roped square in the dark. In the white corner BENLLOCH bounces on his bare feet, gloves at his cheeks. Across the ring, in the black corner, VISSER stands square and still, chin tucked behind black gloves.
 
-The REFEREE stands alone in the centre between them, white shirt, dark trousers, arms loose. He looks once to each corner.
+Between them the REFEREE waits alone, white shirt, dark trousers, arms loose. He looks to one corner, then the other.
 
-At 0.000 the timekeeper, seated at the officials' table, strikes the bell once. The note rings out and hangs in the air.
+At 0.000 the timekeeper strikes the bell once from his seat at the officials' table. The note hangs over the hall.
 
-The referee extends an arm toward the space between the corners, open hand.
+The referee's open hand goes out into the space between the corners.
 
 REFEREE
 Fight!
 
-He steps back and to the side, off the line between the corners, toward the far neutral corner.
+He backs away off their line, toward the far neutral corner.
 
 - Cast: [Benlloch](../brief/cast/benlloch.md#watches), [Visser](../brief/cast/visser.md#champion), [the referee](../brief/cast/referee.md#words), [the timekeeper](../brief/crowds/ringside.md#timekeeper).
 - Intent: the timekeeper opens the round with one strike of the bell from his seat; the referee starts the round as GLORY orders it and clears the line; both fighters wait for the command, then for each other.
@@ -39,9 +59,9 @@ He steps back and to the side, off the line between the corners, toward the far 
 
 ### The touch {#s01-b02}
 
-Both men walk out. They meet near the centre. Benlloch's right glove reaches out at chest height; Visser's left meets it. Leather taps leather, once, light.
+The two men walk out and meet near the centre. Benlloch's right glove reaches out at chest height, and Visser's left comes to meet it. One light tap of leather.
 
-The gloves part. Both men are back in guard before either has finished stepping back.
+They part, and both guards are up again before either man has finished his step back.
 
 - Cast: [Benlloch](../brief/cast/benlloch.md#challenger), [Visser](../brief/cast/visser.md#champion), [the referee](../brief/cast/referee.md#side-view).
 - Intent: each man shows respect without lowering his guard; neither fakes the touch.
@@ -54,15 +74,15 @@ The gloves part. Both men are back in guard before either has finished stepping 
 
 ### Visser opens {#s01-b03}
 
-Visser does not wait. His jab snaps out. Benlloch's right glove turns it aside. The cross follows; Benlloch's left glove covers his cheek and takes it with a flat smack.
+Visser goes first. The jab snaps out, and Benlloch's right glove turns it aside. The cross follows into Benlloch's left glove, held at his cheek: a flat smack.
 
-As the cross comes back, Visser's weight settles onto his lead leg. His right shin swings low at Benlloch's lead thigh.
+As the cross comes back, Visser's weight drops onto his lead leg, and his right shin whips low at Benlloch's lead thigh.
 
-Benlloch's lead knee is already up, shin turned out. Shin meets shin: a hard, bony knock.
+Benlloch's knee is already up, shin turned out to meet it. Bone knocks on bone.
 
-Benlloch's foot is down and his right cross is coming as Visser's leg returns. Visser slips it, his head moving outside the punching arm. Both men are back in range, gloves up.
+His foot is barely down before his right cross is on its way. Visser slips outside it. Both men square up again, in range, gloves high.
 
-The referee drifts round with them, his head on the gap between them.
+The referee drifts round with them, watching the gap.
 
 - Cast: [Visser](../brief/cast/visser.md#repertoire), [Benlloch](../brief/cast/benlloch.md#repertoire), [the referee](../brief/cast/referee.md#distance).
 - Intent: Visser sets the pace at once with punches finished by a low kick; Benlloch defends and answers, reading what Visser throws.
@@ -75,15 +95,15 @@ The referee drifts round with them, his head on the gap between them.
 
 ### The first right body kick {#s01-b04}
 
-Visser steps in behind a jab feint. Benlloch does not move for it.
+Visser shows a jab and steps in behind it. Benlloch does not move for the jab.
 
-As Visser's front foot lifts to step in, Benlloch's right knee rises across his body. The shin swings at Visser's left ribs.
+As Visser's front foot lifts, Benlloch's right knee comes up across his body and the shin swings for Visser's left ribs.
 
-Visser's weight is still on his rear leg. The lifted left knee turns up and out instead of stepping, and the kick meets his shin. Knock.
+Visser's weight is still back. The lifted knee turns out instead of stepping, and the kick meets his shin. A knock.
 
-Benlloch's stung foot comes down and settles a moment. Visser plants the checking foot and answers with his own right low kick at that leg, but Benlloch is stepping back and off to his left as it comes, and the shin swings through the air short of him.
+Benlloch's stung foot comes down and stays a moment. Visser plants and swings his own right low kick at that leg, but Benlloch is already moving back and to his left, and the kick cuts through empty air.
 
-Out of range, Benlloch re-squares. Visser follows a step and stops, gloves high.
+Out of range, Benlloch turns square again. Visser follows one step and stops, gloves high.
 
 - Cast: [Benlloch](../brief/cast/benlloch.md#repertoire), [Visser](../brief/cast/visser.md#tell), [the referee](../brief/cast/referee.md#side-view).
 - Intent: Benlloch tries the right body kick he has come to throw; Visser defends it with a check, as he does while his leg is free, and answers with his own low kick to the landing leg ([Visser's repertoire](../brief/cast/visser.md#repertoire)); Benlloch angles out.
@@ -95,6 +115,18 @@ Out of range, Benlloch re-squares. Visser follows a step and stops, gloves high.
 - Continuity: the men apart, out of range, at the white corner's side of centre; the round's first right body kick has been checked.
 
 ## INT. KICKBOXING RING - NIGHT - CONTINUOUS {#s02}
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Phase: two of twelve, 15.000 to 30.000 seconds: Visser's cut-off drives Benlloch to the ropes, and the first right body kick lands as Visser plants.
 - Cast: [Benlloch](../brief/cast/benlloch.md#identity), [Visser](../brief/cast/visser.md#identity), [the referee](../brief/cast/referee.md#identity).
@@ -109,11 +141,11 @@ Out of range, Benlloch re-squares. Visser follows a step and stops, gloves high.
 
 ### The cut-off {#s02-b01}
 
-Benlloch circles to his right, away from Visser's right hand. Visser does not chase. He steps across in front of him, then again, square, closing a little each time.
+Benlloch circles to his right, away from Visser's right hand. Visser does not chase him. He steps across in front of him, and again, staying square, taking a little ground each time.
 
-Benlloch changes direction. Visser is already there. The ropes on the white corner's side are behind Benlloch now, and his circle is getting shorter.
+Benlloch turns back the other way. Visser mirrors him. Now the ropes on the white corner's side are at Benlloch's back, and his circle is getting smaller.
 
-Benlloch flicks a jab to hold him. Visser slips it outside and keeps coming.
+Benlloch flicks out a jab to hold him off. Visser slips it and keeps coming.
 
 - Cast: [Visser](../brief/cast/visser.md#repertoire), [Benlloch](../brief/cast/benlloch.md#repertoire), [the referee](../brief/cast/referee.md#distance).
 - Intent: Visser cuts the ring off instead of following; Benlloch tries to keep the centre by circling.
@@ -126,11 +158,11 @@ Benlloch flicks a jab to hold him. Visser slips it outside and keeps coming.
 
 ### The hip-snap and the low kick {#s02-b02}
 
-Visser's hips snap as if for a low kick. Benlloch's lead knee lifts to check it.
+Visser's hips snap as if for a low kick. Benlloch's lead knee jumps up to check it.
 
-Nothing comes. As Benlloch's foot comes back down and takes his weight, Visser's right shin lands on that thigh. A deep, heavy slap.
+No kick. As Benlloch's foot comes back down and takes his weight, Visser's right shin smashes into that thigh. A deep, heavy slap.
 
-Benlloch's lead foot settles lighter. He shifts his weight off it for a moment, then pivots off the ropes to his left, out along them.
+Benlloch keeps his weight off the leg for a moment, then pivots off the ropes to his left and slides out along them.
 
 - Cast: [Visser](../brief/cast/visser.md#repertoire), [Benlloch](../brief/cast/benlloch.md#state), [the referee](../brief/cast/referee.md#side-view).
 - Intent: Visser draws the check with a feint and kicks the leg as it lands; Benlloch defends the low kick he expects.
@@ -143,15 +175,15 @@ Benlloch's lead foot settles lighter. He shifts his weight off it for a moment, 
 
 ### The first body kick lands {#s02-b03}
 
-Benlloch's right cross reaches out and touches Visser's guard as it comes back.
+Benlloch's right cross reaches out, touches Visser's guard and comes back.
 
-Visser answers it at once. He plants his feet to throw his own right hand.
+Visser answers at once, setting his feet to fire his own right hand.
 
-As he plants, Benlloch's right knee is rising. Visser's left elbow starts down, his glove staying at his cheek, but the elbow is late. The shin cracks into his ribs under it. A loud, cracking slap. His breath bursts out through his teeth, and his trunk folds toward the kick.
+He is still setting them when Benlloch's right knee comes up. Visser's left elbow starts down, his glove staying at his cheek, but the elbow is late. The shin cracks into his ribs beneath it. His breath bursts out, and he folds toward the blow.
 
-He does not throw the right hand. He takes a step back.
+The right hand never comes. He takes a step back.
 
-Benlloch steps off at an angle toward the centre, away from the ropes.
+Benlloch angles off toward the centre, away from the ropes.
 
 - Cast: [Benlloch](../brief/cast/benlloch.md#repertoire), [Visser](../brief/cast/visser.md#state), [the referee](../brief/cast/referee.md#side-view).
 - Intent: Benlloch finds his range with the cross and kicks the body as Visser plants to answer it; Visser starts his disciplined cover, but planted to punch he is late.
@@ -163,11 +195,11 @@ Benlloch steps off at an angle toward the centre, away from the ropes.
 - Continuity: the men back near the centre, Benlloch on the white–far side of Visser and Visser facing him; Visser has taken a body kick and is breathing harder.
 ### Two jabs and the reset {#s02-b04}
 
-Visser comes again behind two jabs. Benlloch sways back from the first and parries the second, already moving to his right.
+Visser comes again behind two jabs. Benlloch sways back from the first, parries the second and is already drifting to his right.
 
-Visser's right hand stays home. He lets Benlloch go and turns with him.
+Visser keeps his right hand home. He lets Benlloch go and turns with him.
 
-They stand off at kicking range, their chests rising and falling, gloves up.
+They face each other at kicking range, their chests rising and falling, gloves up.
 
 - Cast: [Visser](../brief/cast/visser.md#repertoire), [Benlloch](../brief/cast/benlloch.md#repertoire), [the referee](../brief/cast/referee.md#side-view).
 - Intent: Visser keeps the pressure with a short probe; Benlloch avoids it and keeps moving.
@@ -179,6 +211,18 @@ They stand off at kicking range, their chests rising and falling, gloves up.
 - Continuity: both men in guard at kicking range in the centre; Visser leads the round; Benlloch's lead leg is a little lighter.
 
 ## INT. KICKBOXING RING - NIGHT - CONTINUOUS {#s03}
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Phase: three of twelve, 30.000 to 45.000 seconds: Visser's long combination lands, and a second right body kick lands in answer.
 - Cast: [Benlloch](../brief/cast/benlloch.md#identity), [Visser](../brief/cast/visser.md#identity), [the referee](../brief/cast/referee.md#identity).
@@ -193,13 +237,13 @@ They stand off at kicking range, their chests rising and falling, gloves up.
 
 ### The long combination {#s03-b01}
 
-Visser walks Benlloch toward the far neutral corner. Benlloch angles to his left, and Visser steps across in front of him; he angles to his right, and Visser steps across again. Then he lets the hands go: jab, cross, a left hook dug into Benlloch's body, and a right low kick.
+Visser walks him toward the far neutral corner. Benlloch slides to his left, and Visser's step across shuts the gap; he slides to his right, and Visser shuts that too. Then the hands come: jab, cross, a left hook dug into the body, a right low kick.
 
-Benlloch's gloves take the jab and the cross. The body hook arrives under his elbow, a heavy thud; his breath goes out of him in a grunt through closed teeth, and his right elbow clamps down.
+Benlloch's gloves catch the jab and the cross. The hook sinks in under his elbow with a heavy thud, a grunt is forced out of him, and his right elbow clamps down.
 
-Visser's shin lands on the lead thigh he has already kicked. Deep slap. Benlloch's foot settles light again and his stance shortens.
+The low kick lands on the thigh Visser has already kicked. Benlloch's foot goes light under him again, and his stance shortens.
 
-The red pad of the far neutral corner is a stride behind him.
+Behind him, a stride away, is the red pad of the far neutral corner.
 
 - Cast: [Visser](../brief/cast/visser.md#repertoire), [Benlloch](../brief/cast/benlloch.md#state), [the referee](../brief/cast/referee.md#distance).
 - Intent: Visser finishes a varied combination with the low kick to the leg he has already hurt; Benlloch covers the head and is caught by the body work.
@@ -212,9 +256,9 @@ The red pad of the far neutral corner is a stride behind him.
 
 ### Out of the corner {#s03-b02}
 
-Visser sets his feet for the next punch.
+Visser plants his feet for the next punch.
 
-Benlloch pivots on his lead foot and swings his back out of the corner, along the ropes toward the white corner. Visser's cross arrives where his head was. It catches only air.
+Benlloch pivots on his lead foot and swings his back out of the corner, along the ropes toward the white corner. The cross arrives where his head was and finds nothing.
 
 - Cast: [Benlloch](../brief/cast/benlloch.md#repertoire), [Visser](../brief/cast/visser.md#repertoire), [the referee](../brief/cast/referee.md#side-view).
 - Intent: Benlloch escapes the corner on an angle rather than backing straight; Visser tries to finish the combination.
@@ -229,13 +273,13 @@ Benlloch pivots on his lead foot and swings his back out of the corner, along th
 
 Visser plants to punch again.
 
-Benlloch's right knee is already rising. Visser's elbow is coming down sooner than before, but he is planted, and it is late again. The shin cracks into his left ribs under it. A loud, cracking slap.
+Benlloch's right knee is already coming up. Visser's elbow drops sooner this time, but he is planted, and it is late again. The shin cracks into his ribs beneath it.
 
-Visser's breath bursts out. His trunk folds toward the kick, and his left elbow clamps to his side. He takes one step back and does not come forward.
+The breath goes out of him. He folds toward the kick, clamps the elbow to his side and takes a step back, and he does not come forward.
 
-Benlloch does not follow. He steps off at an angle into open space and re-squares, gloves high.
+Benlloch lets him go. He angles off into open canvas and squares up, gloves high.
 
-Benlloch's head and shoulders stay turned to Visser's left side.
+His head and shoulders stay turned toward Visser's left side.
 
 - Cast: [Benlloch](../brief/cast/benlloch.md#watches), [Visser](../brief/cast/visser.md#state), [the referee](../brief/cast/referee.md#distance).
 - Intent: Benlloch kicks the body as Visser plants to punch; Visser's cover starts sooner than before, but planted to punch he is late again.
@@ -247,6 +291,18 @@ Benlloch's head and shoulders stay turned to Visser's left side.
 - Continuity: Visser has taken his second landed body kick and is breathing harder; Benlloch's leg and breath are both a little spent; the men apart at kicking range, the initiative balanced for a moment.
 
 ## INT. KICKBOXING RING - NIGHT - CONTINUOUS {#s04}
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Phase: four of twelve, 45.000 to 60.000 seconds: a tie-up and the break, and the cover starting to come early.
 - Cast: [Benlloch](../brief/cast/benlloch.md#identity), [Visser](../brief/cast/visser.md#identity), [the referee](../brief/cast/referee.md#identity).
@@ -261,9 +317,9 @@ Benlloch's head and shoulders stay turned to Visser's left side.
 
 ### The tie-up {#s04-b01}
 
-Visser comes back behind his jab, and Benlloch's glove takes it. Visser gets inside and throws a right hand to the body. Benlloch smothers it, both arms closing on it. Visser's left arm is caught over Benlloch's shoulder. Neither lets go.
+Visser comes back behind a jab, and Benlloch takes it on his glove. Visser gets inside with a right hand to the body. Benlloch smothers it with both arms. Visser's left arm is pinned over Benlloch's shoulder, and neither man lets go.
 
-The referee is already closing in at an angle.
+The referee is already coming in at an angle.
 
 REFEREE
 Break!
@@ -283,11 +339,11 @@ They fight on as he goes.
 
 ### The cut and the reset {#s04-b02}
 
-The two men stand off at range, square, each where he stood. Neither throws.
+The two men stand off at range, each where he stood. Nobody throws.
 
-Visser's chest rises and falls deeper than before. His left elbow sits a little lower than his right.
+Visser's chest rises and falls deeper than before, and his left elbow sits a little lower than his right.
 
-The referee stands off their line on the black–far side of them, his head on the gap.
+The referee hangs off their line on the far side of them, his head on the gap.
 
 - Cast: [Visser](../brief/cast/visser.md#state), [Benlloch](../brief/cast/benlloch.md#watches), [the referee](../brief/cast/referee.md#side-view).
 - Intent: both men read each other after the break; Benlloch watches the left elbow; Visser gathers his breath; the referee holds the side view.
@@ -302,13 +358,13 @@ The referee stands off their line on the black–far side of them, his head on t
 
 The camera eases back to the full figures.
 
-Benlloch's right knee rises. Visser's left elbow drops to his ribs at once, before the shin has shown where it is going. The left glove comes down from his cheek with it, a hand's width.
+Benlloch's right knee comes up. Visser's left elbow drops to his ribs at once, before the shin has shown where it is going. The left glove comes down from his cheek with it, a hand's width.
 
-The kick lands on the elbow. Heavy, flat smack. No breath goes out.
+The kick lands flat on the elbow with a smack. Nothing is forced out of him.
 
-Visser counters with the left hook. Benlloch rolls under it and steps out.
+Visser fires back with the left hook. Benlloch rolls under it and steps out.
 
-Benlloch's head turns, briefly, to the left glove now going back up.
+For a moment Benlloch's head turns to that left glove as it climbs back to the cheek.
 
 - Cast: [Benlloch](../brief/cast/benlloch.md#knowledge), [Visser](../brief/cast/visser.md#tell), [the referee](../brief/cast/referee.md#attention).
 - Intent: Benlloch repeats the right body kick; Visser covers early, on the rising knee, and counters with the same arm.
@@ -320,6 +376,18 @@ Benlloch's head turns, briefly, to the left glove now going back up.
 - Continuity: the tell forming; Visser's left glove back up at his cheek; the men at kicking range in the centre, Benlloch on the white–far side of Visser; the camera on the officials' side.
 
 ## INT. KICKBOXING RING - NIGHT - CONTINUOUS {#s05}
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Phase: five of twelve, 60.000 to 75.000 seconds: Visser's pressure toward the white corner, Benlloch's push kick, and the third body kick through a late cover.
 - Cast: [Benlloch](../brief/cast/benlloch.md#identity), [Visser](../brief/cast/visser.md#identity), [the referee](../brief/cast/referee.md#identity).
@@ -334,9 +402,9 @@ Benlloch's head turns, briefly, to the left glove now going back up.
 
 ### Visser walks him back {#s05-b01}
 
-Visser presses, behind a shoulder dip and a jab. Benlloch angles to his right, and Visser steps across in front of him; he angles to his left, and Visser steps across again. The white corner's pads are a stride behind Benlloch now. Cross, hook, right low kick.
+Visser presses: a dip of the shoulder for a body shot that never comes, then a jab. Benlloch gives ground to his right and finds Visser's guard waiting, gives ground to his left and meets it again, and runs out of ring: the pads of his own white corner are a stride behind him. Cross, hook, right low kick.
 
-Benlloch covers the jab and the cross. He rolls the hook. The low kick finds the lead leg again, and he shifts his weight off it.
+Benlloch covers the jab and the cross and rolls under the hook. The low kick finds his lead leg again, and he takes his weight off it.
 
 - Cast: [Visser](../brief/cast/visser.md#repertoire), [Benlloch](../brief/cast/benlloch.md#state), [the referee](../brief/cast/referee.md#distance).
 - Intent: Visser presses with a feinted entry and a combination finished low, cutting Benlloch off toward his own corner; Benlloch defends the head and gives ground.
@@ -351,9 +419,9 @@ Benlloch covers the jab and the cross. He rolls the hook. The low kick finds the
 
 Visser steps in to close the last stride.
 
-Benlloch's lead foot comes up and drives into Visser's stomach. Visser is pushed back one step, and his advance stops.
+Benlloch's lead foot comes up into Visser's stomach and drives him back a step. The advance stops dead.
 
-Benlloch steps off the line, out of the corner's reach, back toward the centre.
+Benlloch steps off the line, away from his corner, back toward the middle of the ring.
 
 - Cast: [Benlloch](../brief/cast/benlloch.md#repertoire), [Visser](../brief/cast/visser.md#repertoire), [the referee](../brief/cast/referee.md#side-view).
 - Intent: Benlloch stops the advance before his back reaches the corner; Visser commits forward to close.
@@ -366,11 +434,11 @@ Benlloch steps off the line, out of the corner's reach, back toward the centre.
 
 ### The third body kick lands {#s05-b03}
 
-Visser comes again at once and plants to throw the cross.
+Visser comes straight back and plants to throw the cross.
 
-Benlloch's right knee rises. Visser's elbow starts down, but late, and his left glove comes away from his cheek with it. The shin cracks into his ribs through the half-made cover. His breath bursts out. His trunk folds toward the kick, and the elbow clamps to his side.
+Benlloch's right knee comes up. Visser's elbow starts down, late, dragging his left glove away from his cheek. The shin cracks into his ribs through the half-made cover. The breath bursts out of him. He folds toward the kick, and the elbow clamps to his side.
 
-He does not throw the cross. He takes a step back and does not come forward.
+He never throws the cross. He steps back and stays there.
 
 Benlloch steps back too, gloves high, and waits.
 
@@ -387,9 +455,9 @@ Benlloch steps back too, gloves high, and waits.
 
 Both men take a step back, out of range, and stand off.
 
-Visser's shoulders rise and fall, his left elbow still tucked to his ribs. Benlloch bounces less on his lead leg than at the bell.
+Visser's shoulders rise and fall, his left elbow still tucked against his ribs. Benlloch bounces less on his lead leg than he did at the bell.
 
-The referee stands off their line on his wider circle, his head on the gap between them.
+The referee holds his place on his wider circle, off their line, watching the gap between them.
 
 - Cast: [Visser](../brief/cast/visser.md#state), [Benlloch](../brief/cast/benlloch.md#state), [the referee](../brief/cast/referee.md#side-view).
 - Intent: both men step out of range to take their breath and read each other; the referee holds the side view.
@@ -401,6 +469,18 @@ The referee stands off their line on his wider circle, his head on the gap betwe
 - Continuity: the men out of range, Benlloch on the white corner's side of Visser; Visser's breath audibly harder than Benlloch's; the camera at the steps' corner end of the officials' side.
 
 ## INT. KICKBOXING RING - NIGHT - CONTINUOUS {#s06}
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Phase: six of twelve, 75.000 to 90.000 seconds: Benlloch takes the initiative for the first time; Visser takes it back on the ropes with the clinch knee.
 - Cast: [Benlloch](../brief/cast/benlloch.md#identity), [Visser](../brief/cast/visser.md#identity), [the referee](../brief/cast/referee.md#identity).
@@ -415,11 +495,11 @@ The referee stands off their line on his wider circle, his head on the gap betwe
 
 ### Benlloch comes forward {#s06-b01}
 
-For the first time Benlloch steps forward. He circles to Visser's left, away from the right hand, round toward the officials' side, and jabs. Visser covers.
+For the first time, Benlloch walks forward. He circles to Visser's left, away from the right hand, round toward the officials' table, and jabs. Visser covers.
 
-Benlloch's right cross touches Visser's guard and comes back, and the right knee is up behind it.
+The right cross touches Visser's guard and comes back, and the right knee is up behind it.
 
-Visser's left elbow drops at the knee. His glove goes down with it, all the way to his hip. The shin slams onto the elbow. Flat smack, no breath forced out, and his head is wide open above it.
+Visser's left elbow drops at the knee, and his glove goes down with it, all the way to his hip. The shin slams onto the elbow and forces nothing out of him. Above it, his head is wide open.
 
 Benlloch does not throw at the head. He steps out.
 
@@ -434,11 +514,11 @@ Benlloch does not throw at the head. He steps out.
 
 ### The clinch knee {#s06-b02}
 
-Visser answers with a burst: jab, cross, body hook. Benlloch covers the jab and the cross, and the body hook glances off his elbow. He angles out to his left, and Visser steps across; he angles out to his right, and Visser steps across again, and his back is on the ropes between the white corner and the steps' neutral corner, above the officials' table.
+Visser answers with a burst: jab, cross, a hook to the body. Benlloch covers the jab and the cross, and the hook glances off his elbow. Benlloch angles out to his left, and Visser steps across. He angles to his right, and Visser steps across again, and Benlloch's back meets the ropes above the officials' table.
 
-Visser is inside. Both his gloves close behind Benlloch's neck. His right knee drives into Benlloch's stomach, once. A short, deep thud. Then he lets go.
+Visser is inside. Both his gloves close behind Benlloch's neck, and his right knee drives once into Benlloch's stomach with a short, deep thud. The knee folds Benlloch into the hold and drives the breath out of him. Then Visser lets go.
 
-Benlloch's breath goes out of him into the hold, and his trunk folds into it. Released, he pivots off the ropes to his right and is out.
+The moment he is free, Benlloch pivots off the ropes to his right and gets out.
 
 The referee has come close. He says nothing.
 
@@ -453,9 +533,9 @@ The referee has come close. He says nothing.
 
 ### Out into the open {#s06-b03}
 
-Visser follows with a jab. Benlloch slips it and angles out into the open ring.
+Visser follows with a jab. Benlloch slips it and angles out into open canvas.
 
-They re-square at range near the centre. Both are breathing hard now.
+They square up again at range near the centre, both breathing hard now.
 
 - Cast: [Benlloch](../brief/cast/benlloch.md#repertoire), [Visser](../brief/cast/visser.md#repertoire), [the referee](../brief/cast/referee.md#side-view).
 - Intent: Visser follows up; Benlloch slips and resets in open space.
@@ -467,6 +547,18 @@ They re-square at range near the centre. Both are breathing hard now.
 - Continuity: both at kicking range near the centre, both breathing hard.
 
 ## INT. KICKBOXING RING - NIGHT - CONTINUOUS {#s07}
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Phase: seven of twelve, 90.000 to 105.000 seconds: Visser's feint finds nothing, and the drop comes complete at the first lift of the knee.
 - Cast: [Benlloch](../brief/cast/benlloch.md#identity), [Visser](../brief/cast/visser.md#identity), [the referee](../brief/cast/referee.md#identity).
@@ -485,9 +577,9 @@ Visser's hips snap for the low kick.
 
 This time Benlloch's lead leg stays down. His head and trunk do not move.
 
-Visser has spent the feint, and his feet come square. Benlloch's inside low kick goes to Visser's lead leg as it takes his weight, and lands with a heavy slap.
+The feint is spent, and Visser's feet come square under him. Benlloch's inside low kick catches Visser's lead leg just as his weight settles on it. A heavy slap.
 
-Visser's lead foot settles light for a moment.
+For a moment Visser's lead foot goes light.
 
 - Cast: [Visser](../brief/cast/visser.md#repertoire), [Benlloch](../brief/cast/benlloch.md#level), [the referee](../brief/cast/referee.md#side-view).
 - Intent: Visser tries the feint that worked before; Benlloch, reading the trunk rather than the hip, does not bite and kicks into the feint's end.
@@ -502,13 +594,13 @@ Visser's lead foot settles light for a moment.
 
 Visser comes forward anyway, his first step slower.
 
-Benlloch's right knee rises.
+Benlloch's right knee comes up.
 
-Visser's left elbow and glove drop at once, all the way, before the leg has turned. The kick lands on the elbow. Flat smack.
+Visser's left elbow and glove drop at once, all the way, before the leg has turned. The kick lands on the elbow.
 
-Visser's right cross answers and lands on Benlloch's body, a dull thud. Benlloch grunts and steps out on an angle.
+Visser's right cross answers and thuds into Benlloch's body. Benlloch grunts and angles out.
 
-Out of range, Benlloch re-squares. His head stays turned to Visser's left side, to the left glove now climbing back to the cheek.
+Out of range, he squares up. His head stays on Visser's left side, on the left glove climbing back to the cheek.
 
 - Cast: [Benlloch](../brief/cast/benlloch.md#watches), [Visser](../brief/cast/visser.md#tell), [the referee](../brief/cast/referee.md#attention).
 - Intent: Benlloch repeats the body kick to see the drop again; Visser covers the body he expects to be kicked and counters with the right.
@@ -523,11 +615,11 @@ Out of range, Benlloch re-squares. His head stays turned to Visser's left side, 
 
 The camera eases back to full figures.
 
-Visser walks back into range: jab, cross, a hook to the body, right low kick.
+Visser walks back into range: jab, cross, a hook to the body, then the right low kick.
 
-Benlloch parries the jab and slips the cross. The body hook lands on his elbow. Visser reads Benlloch stepping in to counter and throws the right low kick at the lead leg where it should land; but Benlloch has not stepped, the leg is free, and he checks it.
+Benlloch parries the jab and slips the cross, and the hook lands on his elbow. Visser throws the low kick at the lead leg as if Benlloch were stepping in to counter. He is not. The leg is free, and it comes up to check.
 
-Shin on shin. Visser settles his kicking leg. Benlloch's right cross comes back at him, and he takes it on his gloves.
+Shin on shin. Visser settles his kicking leg as Benlloch's right cross comes back at him, and he takes it on his gloves.
 
 - Cast: [Visser](../brief/cast/visser.md#repertoire), [Benlloch](../brief/cast/benlloch.md#level), [the referee](../brief/cast/referee.md#distance).
 - Intent: Visser presses again with punches finished low, aiming the kick at a leg he expects to be landing; Benlloch, who does not step in, defends every strike and counters from the check.
@@ -539,6 +631,18 @@ Shin on shin. Visser settles his kicking leg. Benlloch's right cross comes back 
 - Continuity: both men near the centre; Visser's breath short and loud; Benlloch's stance narrow but steady.
 
 ## INT. KICKBOXING RING - NIGHT - CONTINUOUS {#s08}
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Phase: eight of twelve, 105.000 to 120.000 seconds: the drop answers a knee that kicks low, so the tell is fixed; and the second tie-up.
 - Cast: [Benlloch](../brief/cast/benlloch.md#identity), [Visser](../brief/cast/visser.md#identity), [the referee](../brief/cast/referee.md#identity).
@@ -553,13 +657,13 @@ Shin on shin. Visser settles his kicking leg. Benlloch's right cross comes back 
 
 ### The knee that kicks low {#s08-b01}
 
-Benlloch's right knee rises again.
+Benlloch's right knee comes up again.
 
 Visser's left elbow and glove drop to his ribs.
 
-The shin does not come to the ribs. It cuts down onto Visser's lead thigh. A deep, heavy slap. Visser's elbow is still clamped to his side, covering a kick that never came.
+The shin cuts down instead, into Visser's lead thigh, with a deep, heavy slap. Above it, his elbow is still clamped to his ribs.
 
-Visser's lead foot settles light. He shifts his weight off it, then takes a step back.
+He keeps his weight off the leg a moment, then takes a step back.
 
 - Cast: [Benlloch](../brief/cast/benlloch.md#knowledge), [Visser](../brief/cast/visser.md#tell), [the referee](../brief/cast/referee.md#side-view).
 - Intent: Benlloch shows his right knee and kicks low, to see whether the drop comes whatever the leg then does; Visser covers his ribs at the knee.
@@ -572,7 +676,7 @@ Visser's lead foot settles light. He shifts his weight off it, then takes a step
 
 ### Visser comes in hard {#s08-b02}
 
-Visser comes back in, his first step slower than it was, and then goes low behind a cross to the body. Benlloch's elbow takes it. Visser's left hook glances off Benlloch's guard and his head, and then the two men are chest to chest, Visser's right arm caught under Benlloch's left.
+Visser comes back in, his first step slower again, then drops low behind a cross to the body. Benlloch's elbow takes it. Visser's left hook glances off Benlloch's guard and the side of his head, and suddenly they are chest to chest, Visser's right arm caught under Benlloch's left.
 
 REFEREE
 Break!
@@ -590,7 +694,7 @@ They step apart. The referee steps between them and out again, a full step strai
 
 ### The cut, and the corners {#s08-b03}
 
-The two men stand off out of range, breathing hard. The referee stands off their line, his head moving between them.
+The two men stand off out of range, breathing hard. Off their line, the referee's head moves from one to the other.
 
 In the white corner's seats, Benlloch's cornerman points to the side of his own head.
 
@@ -607,6 +711,18 @@ Benlloch's head does not turn to his corner. It stays on Visser's left side.
 
 ## INT. KICKBOXING RING - NIGHT - CONTINUOUS {#s09}
 
+
+
+
+
+
+
+
+
+
+
+
+
 - Phase: nine of twelve, 120.000 to 135.000 seconds: Visser changes his attack to the hands, and Benlloch answers with his own.
 - Cast: [Benlloch](../brief/cast/benlloch.md#identity), [Visser](../brief/cast/visser.md#identity), [the referee](../brief/cast/referee.md#identity).
 - Crowds: [the arena crowd](../brief/crowds/arena-crowd.md#in-sound).
@@ -620,9 +736,9 @@ Benlloch's head does not turn to his corner. It stays on Visser's left side.
 
 ### Hands only {#s09-b01}
 
-Visser no longer kicks. He comes behind his hands: a jab, then a cross dug into Benlloch's body.
+Visser does not kick any more. He comes behind his hands: a jab, then a cross dug into the body.
 
-Benlloch sways back from the jab. The body cross lands under his elbow, a dull thud, and his breath goes out. He clamps the elbow and steps out on an angle.
+Benlloch sways away from the jab. The cross lands under his elbow with a dull thud that drives the breath out of him. He clamps the elbow and angles out.
 
 - Cast: [Visser](../brief/cast/visser.md#state), [Benlloch](../brief/cast/benlloch.md#state), [the referee](../brief/cast/referee.md#side-view).
 - Intent: Visser, his kicking shin stung and his lead leg slowed, attacks with his hands to the body; Benlloch defends the head and gives ground.
@@ -635,11 +751,11 @@ Benlloch sways back from the jab. The body cross lands under his elbow, a dull t
 
 ### Benlloch's combination {#s09-b02}
 
-Visser follows him in. His feet are slower now. He sets them to punch.
+Visser follows him in on slower feet and sets them to punch.
 
-Benlloch gets there first: jab, cross, left hook. Visser covers the jab and parries the cross. He rolls under the hook.
+Benlloch beats him to it: jab, cross, left hook. Visser covers the jab, parries the cross and rolls under the hook.
 
-Benlloch is out again before the right hand can answer.
+Benlloch is gone again before the right hand can answer.
 
 - Cast: [Benlloch](../brief/cast/benlloch.md#repertoire), [Visser](../brief/cast/visser.md#level), [the referee](../brief/cast/referee.md#distance).
 - Intent: Benlloch throws his own short combination while Visser's pressure stalls; Visser defends it cleanly.
@@ -652,9 +768,9 @@ Benlloch is out again before the right hand can answer.
 
 ### Toward the steps' corner {#s09-b03}
 
-Visser walks after him. He cuts off a step to the left, then a step to the right. Benlloch's circle shrinks toward the corner with the red pad and the steps beyond it.
+Visser walks after him, cutting off a step to the left, then a step to the right. Benlloch's circle shrinks toward the corner with the red pad and the steps.
 
-Benlloch stops circling and holds his ground at kicking range, his back toward that corner. Visser stands square in front of him near the centre, just on the steps' side of the line between the white and black corners.
+Benlloch stops circling and plants himself at kicking range, his back to that corner. Visser stands square in front of him, near the middle of the ring.
 
 - Cast: [Visser](../brief/cast/visser.md#repertoire), [Benlloch](../brief/cast/benlloch.md#watches), [the referee](../brief/cast/referee.md#side-view).
 - Intent: Visser cuts off the ring toward the steps' neutral corner; Benlloch stops giving ground short of it and waits.
@@ -666,6 +782,18 @@ Benlloch stops circling and holds his ground at kicking range, his back toward t
 - Continuity: Benlloch at kicking range toward the steps' corner, his back toward it; Visser near the centre just on the steps' side of the diagonal, facing him, his back toward the far neutral corner; the referee on the white corner's side; the camera at the black corner end of the steps'–black side.
 
 ## INT. KICKBOXING RING - NIGHT - CONTINUOUS {#s10}
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Phase: ten of twelve, 135.000 to 150.000 seconds: the feint proves the opening; the finish begins.
 - Cast: [Benlloch](../brief/cast/benlloch.md#identity), [Visser](../brief/cast/visser.md#identity), [the referee](../brief/cast/referee.md#identity).
@@ -680,7 +808,7 @@ Benlloch stops circling and holds his ground at kicking range, his back toward t
 
 ### The feint {#s10-b01}
 
-Benlloch's right knee rises, exactly as for the body kick.
+Benlloch's right knee comes up, exactly as for the body kick.
 
 Visser's left elbow and glove drop to his ribs.
 
@@ -697,11 +825,11 @@ The knee does not kick. The right foot comes back down to the canvas, and Benllo
 
 ### Glove high {#s10-b02}
 
-Visser re-squares. His left glove is higher at his cheek than it has been all round.
+Visser squares up. His left glove sits higher at his cheek than it has all round.
 
-He comes forward at once, behind a jab and a cross, back across the line. Benlloch covers both and holds his ground, his back toward the steps' corner.
+He comes straight back in behind a jab and a cross. Benlloch covers both and does not give an inch, his back still to the corner.
 
-Visser, breathing hard, settles back half a step out of punching range and stops square in front of him at kicking range, near the centre, just on the steps' side of the line between the white and black corners.
+Breathing hard, Visser eases back half a step out of punching range and stops square in front of him, near the middle of the ring.
 
 - Cast: [Visser](../brief/cast/visser.md#knowledge), [Benlloch](../brief/cast/benlloch.md#watches), [the referee](../brief/cast/referee.md#side-view).
 - Intent: Visser, stung, carries his left glove higher and presses to take back the round; Benlloch holds his ground.
@@ -716,7 +844,7 @@ Visser, breathing hard, settles back half a step out of punching range and stops
 
 Visser sets his feet to punch.
 
-As the phase ends, Benlloch's right knee rises across his body toward Visser's ribs, as it has all round.
+Then, just before 150, Benlloch's right knee comes up across his body toward Visser's ribs, the way it has all round.
 
 Visser's left elbow and glove drop to his ribs.
 
@@ -731,6 +859,18 @@ Visser's left elbow and glove drop to his ribs.
 
 ## INT. KICKBOXING RING - NIGHT - CONTINUOUS {#s11}
 
+
+
+
+
+
+
+
+
+
+
+
+
 - Phase: eleven of twelve, 150.000 to 165.000 seconds: the finish lands, Visser falls, and the count begins.
 - Cast: [Benlloch](../brief/cast/benlloch.md#identity), [Visser](../brief/cast/visser.md#identity), [the referee](../brief/cast/referee.md#identity).
 - Crowds: [the arena crowd](../brief/crowds/arena-crowd.md#in-sound), [the ring doctor and the paramedic](../brief/crowds/ringside.md#doctor), [the corner teams](../brief/crowds/ringside.md#corners-seated), [the judges](../brief/crowds/ringside.md#judges).
@@ -744,15 +884,15 @@ Visser's left elbow and glove drop to his ribs.
 
 ### The kick {#s11-b01}
 
-The knee does not stop at the ribs. It climbs. Benlloch's left heel swings round on the canvas, and his hips tip over the standing leg.
+The knee does not stop at the ribs. It climbs. Benlloch's left heel swings round on the canvas, and his hips roll over the standing leg.
 
-From above Visser's dropped arm the right leg whips down. At 150.000 the shin and the top of the foot meet the side of Visser's head and neck, under and just behind the left ear. It is the loudest sound of the night.
+From above the dropped arm, the right leg whips down. At 150.000 the shin and the top of the foot smash into the side of Visser's head and neck, under and just behind the left ear. It is the loudest sound of the night.
 
-Visser's head snaps round to his right. Everything below it goes at once. His knees fold, and he goes down sideways, the way his head went: thigh, hip and shoulder meet the canvas in turn, his right arm flat beneath him, his head last, onto that arm. His left arm, still down at his ribs, swings across his chest and lies there.
+Visser's head snaps round to his right, and everything beneath it goes at once. His knees fold, and he goes down sideways, the way his head went: thigh, hip, then shoulder hit the canvas, his right arm flat beneath him, his head landing last on that arm. His left arm, still down at his ribs, swings across his chest and lies there.
 
-He stops on his right side. His face is toward the red pad of the steps' corner, his back to the far one.
+He comes to rest on his right side, facing the red pad of the steps' corner, his back to the far one.
 
-Benlloch's right foot is already down again. Gloves up. He has not moved from where he stood.
+Benlloch's right foot is already down. Gloves up. He has not moved from where he stood.
 
 The arena roars.
 
@@ -772,16 +912,16 @@ The referee is already moving in.
 REFEREE
 Down!
 
-His finger jabs at the canvas. He slides in between the two men, his back to Visser and his chest to Benlloch.
+His finger jabs at the canvas. He slides between the two men, his back to Visser, his chest to Benlloch.
 
 REFEREE
 Neutral corner!
 
-His arm reaches past Visser to the far red pad. Benlloch turns and walks. He takes the long way, out past Visser's feet, and the referee turns with him to stay in between. At the far corner Benlloch swings round, shoulders against the pads, and faces the middle of the ring.
+His arm points past Visser to the far red pad. Benlloch turns and walks. He takes the long way round, past Visser's feet, and the referee turns with him to stay between them. In the far corner Benlloch swings round, his shoulders against the pads, and faces the middle of the ring.
 
-On the canvas Visser's head comes up off his arm and turns, searching for the voice.
+On the canvas, Visser's head comes up off his arm and turns, searching for the voice.
 
-At the steps' corner the doctor is on his feet beside the paramedic, waiting.
+Down at the steps' corner the doctor has risen beside the paramedic. He waits.
 
 - Cast: [the referee](../brief/cast/referee.md#knockdown), [Benlloch](../brief/cast/benlloch.md#state), [Visser](../brief/cast/visser.md#state), [the ring doctor and the paramedic](../brief/crowds/ringside.md#doctor).
 - Intent: the referee calls the knockdown and sends the standing man away, shielding the fallen one; Benlloch obeys and walks, unhurried; Visser, conscious, turns toward the voice; the doctor rises and waits to be called.
@@ -794,12 +934,12 @@ At the steps' corner the doctor is on his feet beside the paramedic, waiting.
 
 ### The count begins {#s11-b03}
 
-At 157 the referee drops to one knee at Visser's head, between Visser's face and the steps' corner. At the right of the frame Benlloch is a white figure against the far pad. The referee's arm goes up.
+At 157 the referee drops to one knee at Visser's head, in front of his face. Away in the far corner Benlloch is a white figure against the red pad. The referee's arm goes up.
 
 REFEREE
 One.
 
-The arm chops down with the word. Visser's left glove comes down flat on the canvas by his chest and drags. He shoves. His shoulder comes up off the floor and sinks again.
+The arm chops down with the word. Visser's left glove comes down flat beside his chest and drags. He shoves. His shoulder lifts off the canvas and sinks back.
 
 REFEREE
 Two.
@@ -807,7 +947,7 @@ Two.
 REFEREE
 Three.
 
-His top knee hauls up toward his chest, and his foot scrapes for a grip. His hips stay where they are.
+His top knee hauls up toward his chest; his foot scrapes for a grip. His hips do not move.
 
 REFEREE
 Four.
@@ -815,7 +955,7 @@ Four.
 REFEREE
 Five.
 
-Both gloves now. He rolls toward his front and pushes, and for a moment his hips lift, as if he will come up onto his hands and knees.
+Both gloves now. He rolls toward his front and pushes, and for a moment his hips lift, as if he will make it to his hands and knees.
 
 REFEREE
 Six.
@@ -827,7 +967,7 @@ His elbows give. He sinks back onto his right side.
 
 Across the ring Benlloch has not left the pads. His gloves are at his chest, and his shoulders heave.
 
-Beyond Visser's head, in the white corner's seats, Benlloch's team watches without moving. Around the ring the judges watch too, no longer writing.
+Past Visser's head, in the white corner's seats, Benlloch's team sits frozen, every head turned to the count. Around the ring the judges have stopped writing and turned to watch.
 
 - Cast: [the referee](../brief/cast/referee.md#signals), [Visser](../brief/cast/visser.md#state), [Benlloch](../brief/cast/benlloch.md#state), [the ring doctor](../brief/crowds/ringside.md#doctor), [the corner teams](../brief/crowds/ringside.md#corners-seated), [the judges](../brief/crowds/ringside.md#judges).
 - Intent: the referee counts, one word and one stroke of the arm a second, watching Visser and glancing up to Benlloch; Visser tries to rise and fails; Benlloch waits in the corner; the corners and the judges watch; the doctor waits at the steps.
@@ -839,6 +979,18 @@ Beyond Visser's head, in the white corner's seats, Benlloch's team watches witho
 - Continuity: the count at "Seven"; Visser on his right side, still trying; Benlloch in the corner; the doctor at the steps; the corners and judges seated and still.
 
 ## INT. KICKBOXING RING - NIGHT - CONTINUOUS {#s12}
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Phase: twelve of twelve, 165.000 to 180.000 seconds: the count ends, the knockout, the celebration, the bell, and the winner beside the fallen man.
 - Cast: [Benlloch](../brief/cast/benlloch.md#identity), [Visser](../brief/cast/visser.md#identity), [the referee](../brief/cast/referee.md#identity).
@@ -856,7 +1008,7 @@ Beyond Visser's head, in the white corner's seats, Benlloch's team watches witho
 REFEREE
 Eight.
 
-Visser's head comes round to the referee again. A glove drags across the canvas. His knees stay drawn up on the canvas; his feet never come under him.
+Visser's head turns to the referee again. A glove drags across the canvas. His knees stay drawn up; his feet never get under him.
 
 REFEREE
 Nine.
@@ -880,11 +1032,11 @@ At 167.6 the referee's arms go up, cross above his head and fly apart.
 REFEREE
 Doctor!
 
-One arm beckons hard toward the steps' corner. He comes up to a crouch, steps round Visser's head and kneels again at Visser's head on the side of his back, facing him, his own body between Visser and the far half. Over Visser's shoulder he can see the left glove still pushing at the canvas by Visser's chest.
+One arm beckons hard toward the steps' corner. He comes up into a crouch, steps round Visser's head and kneels again on the other side, at Visser's back, facing him, putting his own body between the fallen man and Benlloch's side of the ring. Over Visser's shoulder he can see the left glove still pushing at the canvas.
 
-Across the ring, at 168.1, Benlloch comes off the pads. Both fists go up over his head, his head goes back and his chest swells, and his breath bursts out of him, loud and wordless. He sets off along the ropes of the far half toward the white corner in short, quick steps, every foot landing under him. In the white corner's seats his team is on its feet, arms in the air.
+Across the ring, at 168.1, Benlloch comes off the pads. Both fists go up over his head, his head goes back, his chest swells, and the breath bursts out of him, loud and wordless. He sets off along the far ropes toward the white corner in short, quick steps, each foot landing square beneath him. In the white corner's seats his team is on its feet, arms in the air.
 
-The referee's head turns up over his shoulder to Benlloch, and his free palm rises toward him.
+The referee looks up over his shoulder at Benlloch and lifts one palm toward him.
 
 - Cast: [the referee](../brief/cast/referee.md#care), [Visser](../brief/cast/visser.md#state), [Benlloch](../brief/cast/benlloch.md#state), [the corner teams](../brief/crowds/ringside.md#corners-after).
 - Intent: the referee calls the doctor at once and kneels where he can care for the fallen man while his body and raised palm keep the winner off him; Visser, on his side, still pushes at the canvas, his breath ragged; Benlloch celebrates for himself and his corner, away from Visser; the corners rise at their seats.
@@ -899,20 +1051,20 @@ The referee's head turns up over his shoulder to Benlloch, and his free palm ris
 
 At 170.1 the bell rings three quick strikes, sharp over the noise.
 
-The referee's free hand settles on Visser's upper arm.
+The referee's other hand comes to rest on Visser's upper arm.
 
 REFEREE
 Stay down.
 
-At the words Visser's pushing glove goes still. He lets his head down onto his arm, then lifts it a little toward the referee's voice. His breath comes hard and loud through the noise.
+At the words, the pushing glove goes still. Visser lets his head sink onto his arm, then lifts it a little toward the referee's voice. His breath comes hard and loud through the noise.
 
-Out along the far ropes, Benlloch turns toward the sound and throws both gloves up again, his chest heaving. Then his head turns to the man on the canvas. He lowers his gloves and comes back across the far half to see how Visser is. A stride short of the kneeling referee, off his shoulder toward the black–far ropes, the referee's raised palm meets him, and he stops there. He looks down at Visser over the referee's shoulder, then lifts one glove toward him, open.
+Out along the far ropes Benlloch turns toward the bell and throws both gloves up again, his chest heaving. Then his head turns to the man on the canvas. He lowers his gloves and walks back toward him. He gets no closer than a stride from the kneeling referee: the raised palm meets him just off the referee's shoulder, and he stops there. He looks down at Visser over the referee's shoulder, then lifts one glove toward him, open.
 
-The doctor climbs the steps beside the camera, bends and steps through between the ropes, and crosses the grey canvas, dark blue among the white and black. He kneels at the crown of Visser's head, beside it, with the referee at Visser's back. One hand goes to Visser's shoulder, and his head bends close.
+The doctor climbs the steps, bends through the ropes and crosses the grey canvas, dark blue among the white and black. He kneels at the top of Visser's head, beside it, the referee at Visser's back. One hand goes to Visser's shoulder, and he bends his head close.
 
 Visser's head turns from the referee to the doctor.
 
-In the black corner's seats, at the right of the frame, Visser's team is on its feet, leaning toward the ropes, watching the doctor. In the white corner's seats, at the left, Benlloch's team stands with arms raised. A ring inspector stands beside each team, and the paramedic waits at the foot of the steps. Around the ring the judges have stopped writing and watch. At the officials' table the supervisor, the scorekeeper and the announcer sit watching, and the timekeeper's hammer is still.
+In the black corner's seats Visser's team is on its feet, leaning toward the ropes, watching the doctor. In the white corner's seats Benlloch's team stands with arms raised. A ring inspector stands beside each team; the paramedic waits at the foot of the steps. Around the ring the judges look on. At the officials' table the supervisor, the scorekeeper and the announcer turn toward the doctor, and the timekeeper lays down his hammer.
 
 - Cast: [the timekeeper and the officials' table](../brief/crowds/ringside.md#officials-table), [Benlloch](../brief/cast/benlloch.md#challenger), [the referee](../brief/cast/referee.md#care), [the ring doctor and the paramedic](../brief/crowds/ringside.md#doctor), [Visser](../brief/cast/visser.md#state), [the corner teams and the inspectors](../brief/crowds/ringside.md#corners-seated), [the corners after the result](../brief/crowds/ringside.md#corners-after), [the judges](../brief/crowds/ringside.md#judges).
 - Intent: the timekeeper ends the match; the referee keeps the fallen man lying still and the winner off him; Visser obeys and stops trying to rise; Benlloch, his celebration given to his corner, comes back out of respect to see how the man he has beaten is, and accepts the referee's palm; the doctor comes to the fallen man and cares for him; Visser's corner watches the doctor and Benlloch's celebrates; the inspectors keep both outside; the officials watch.
@@ -927,9 +1079,9 @@ In the black corner's seats, at the right of the frame, Visser's team is on its 
 
 The camera rises a little on the apron and widens to the whole ring.
 
-Benlloch turns from Visser toward his corner and raises both gloves to his team, his head back, breathing hard and loud. He takes two quick steps toward them and stops, gloves still high, Visser beside him on the canvas a few strides away.
+Benlloch turns from Visser toward his corner and raises both gloves to his team, head back, breathing hard and loud. He takes two quick steps toward them and stops, gloves still high, a few strides from the man on the canvas.
 
-The referee's hand stays on Visser's arm. At the crown of Visser's head the doctor's head stays bent close. Visser lies on his right side, his front toward the lens. His glove slides a little on the canvas. His breath rises and falls.
+The referee's hand stays on Visser's arm. At the top of Visser's head, the doctor stays bent close. Visser lies on his right side, facing us. His glove slides a little on the canvas. His breath rises and falls.
 
 Outside the ropes Visser's team leans toward the ring, still watching the doctor, and Benlloch's team has its arms in the air.
 
