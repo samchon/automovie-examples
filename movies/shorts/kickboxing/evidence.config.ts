@@ -7,7 +7,6 @@ export default createEvidenceConfig({
   narrative: {
     mode: "short",
     construction: { brief: "evidence", screenplay: "evidence" },
-    naturalness: { screenplay: "evidence" },
   },
   research: "evidence",
 });
