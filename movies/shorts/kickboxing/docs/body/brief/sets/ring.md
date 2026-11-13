@@ -35,13 +35,13 @@ After the knockdown, Benlloch waits in whichever neutral corner is farther from 
 
 The count's staging sets three more conditions on the fall:
 
-- **Near the centre.** At the finish Benlloch stands no more than a stride from the ring's centre, on the steps' side, and Visser falls between him and the centre. Benlloch's walk round Visser's feet to the far neutral corner is then the rules study's off-centre walk of about 6 m, unhurried, and it ends, facing the centre, by 157 ([bout](../world/bout.md#wait), [rules study](../../../research/kickboxing/rules.md#anchors)).
+- **Near the centre.** At the finish Visser stands near the ring's centre, just on the steps' side of the white–black diagonal: far enough from it that, with his hips dropping back as he falls, he comes to rest on the steps' side, and no further, so that the far neutral corner stays within a brisk walk. Benlloch stands at kicking range from him, further toward the steps' corner, the distance the finish is thrown from ([exchange study, travel](../../../research/kickboxing/exchanges.md#bq-travel)). Benlloch's walk round Visser's feet to the far neutral corner is then a steady, brisk walk, not a hurry, and it ends, facing the centre, by 157 ([bout](../world/bout.md#wait)).
 - **Back to the far corner.** Visser lies with his back toward the far neutral corner. Then the referee, kneeling at his face, has both Visser and Benlloch's corner in view ([referee](../cast/referee.md#knockdown), [referee study](../../../research/officiating/referee.md#knockdown-procedure)). So at the finish Benlloch stands on the steps' side of Visser, as the first condition places him, and Visser faces him as he falls.
 - **Round the feet.** Benlloch's route to the far corner goes round Visser's feet, never past his head, with the referee between them.
 
 Left to the screenplay: the exact place and the fall's path within these conditions.
 
-The other half, on the far neutral corner's side of that diagonal, is the **far half**. From 168.1 Benlloch celebrates there, in the far half: he may come up to the diagonal, beside Visser in the wide frame, but not across it, where the referee's palm stops him ([Benlloch](../cast/benlloch.md#state), [referee](../cast/referee.md#care)).
+The other half, on the far neutral corner's side of that diagonal, is the **far half**. From 168.1 Benlloch celebrates there, in the far half. Visser lies close to the diagonal, and after the result the referee kneels at his head on the far-half side of him, so Benlloch comes no nearer than a stride short of the kneeling referee, where the referee's palm stops him: beside Visser in the wide frame, and never over him ([Benlloch](../cast/benlloch.md#state), [referee](../cast/referee.md#care)).
 
 ### Seen from above {#handedness}
 
