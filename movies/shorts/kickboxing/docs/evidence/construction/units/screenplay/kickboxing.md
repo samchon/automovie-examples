@@ -332,6 +332,12 @@ The tie-up is played as bodies, not as a label: a smothered body punch, "both ar
 
 The early cover is the scene's moment. The camera "eases back to the full figures", the elbow drops before the kick shows its height, the glove leaves the cheek "a hand's width", and the kick lands on the elbow with "Heavy, flat smack. No breath goes out." The scene closes on Benlloch's head turning to the glove going back up, so the audience sees the drop and sees him see it.
 
+## @evidence shared/principles/screenplay.md#beat-decisions
+
+Each beat names its participants by brief record and gives each an intent. Visser and Benlloch have theirs, and the referee's is the conduct record his Cast line names: the clinch break in `#s04-b01`, and the side view in `#s04-b02` and `#s04-b03`. In `#s04-b02` the side view is also stated: "the referee holds the side view". Outcomes come from the table: the covered jab, the tie-up broken by "Break!" as the round's minor foul, a reset, the body kick on the elbow block and the rolled hook. Each consequence gives its duration and mark: "both men are charged one tie-up", "his left elbow carried a little low from the landed kick", and "the tell is in its forming stage".
+
+Each beat states its space among the ring's landmarks, with the referee "on the black–far side of it, away from the camera". It states the camera's size, angle and movement: "the camera moves round the referee as he steps in rather than cutting"; then the cut to "a closer size from the same officials' side", after which "the camera then holds still"; then "back to the base two-shot", which the action opens with "The camera eases back to the full figures." Each beat states all five sound layers and its continuity. The tie-up is the departure the study records as `#vocab-lacks` item 6, which the beat cites, and the degraded elbow block is its item 4. No time or coordinate is written. Attention reads as "Benlloch's head turns", never as a face. The breakdown names the ring, crowd, cast, wardrobe, sound, the camera's cut, movement and sizes, and the lighting the beats use.
+
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
 Tested unchanged: the clinch record's "This referee's caution is his "Break!" itself", the referee's break order, the camera's "A cut is allowed only at a reset", and the tell's forming stage, "his cover comes sooner, at the first rise of the knee, and grows bigger". Each realized without change. No parent defect was found, and performance is pending.
