@@ -294,7 +294,7 @@ The referee stands off their line on the black–far side of them, his head on t
 - Outcome: no exchange; a reset ([chains, resets](../../research/kickboxing/exchanges.md#resets)).
 - Consequence: Visser's breath audible and deeper; his left elbow carried a little low from the landed kick.
 - Space: the centre, Benlloch on the white–far side of Visser as before; the referee off their line on the black–far side, away from the camera.
-- Camera: cut, at the reset, to a closer size from the same officials' side, the two men from the knees up, side-on.
+- Camera: cut, at the reset, to a closer size from the same officials' side, the two men from the knees up, side-on; the camera then holds still, on Visser's rising chest and low left elbow beside Benlloch's watching guard, until the next beat eases it back to the full figures.
 - Sound: dialogue none; foley both men's breath, feet, the bounce of Benlloch's stance; ambience the crowd's bed; effects none; music none.
 - Continuity: the camera still on the officials' side; Benlloch on the white–far side of Visser; the men at kicking range in the centre; Visser's elbow a little low.
 
