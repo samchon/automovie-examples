@@ -43,6 +43,12 @@ Left to the screenplay: the exact place and the fall's path within these conditi
 
 The other half, on the far neutral corner's side of that diagonal, is the **far half**. From 168.1 Benlloch celebrates there, in the far half: he may come up to the diagonal, beside Visser in the wide frame, but not across it, where the referee's palm stops him ([Benlloch](../cast/benlloch.md#state), [referee](../cast/referee.md#care)).
 
+### Seen from above {#handedness}
+
+Seen from above, the order of the corners, white, the steps' neutral corner, black, the far neutral corner, runs anticlockwise. So a man standing near the centre and facing the steps' corner has the white corner's side on his right and the black corner's side on his left. Visser, facing that corner at the finish, falls to his right, toward the white corner's side, and lies on his right side with his head toward the white corner's side and his feet toward the black corner's ([the commission's fall](../../../instructions/commission.md#fall)).
+
+The screenplay's [finish](../../screenplay/kickboxing.md#s11-b01) established this placement, and the ring keeps it for every scene.
+
 ### How the fight uses it {#use}
 
 The whole ring is used ([commission](../../../instructions/commission.md#whole-ring), [styles study](../../../research/kickboxing/styles.md#pressure-ring-and-tempo)):

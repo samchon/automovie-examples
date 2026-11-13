@@ -1,0 +1,307 @@
+
+Age-Related Differences in Head Impact during Experimentally Induced Sideways Falls - PMC
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov website belongs to an official
+government organization in the United States.
+Secure .gov websites use HTTPS
+A lock (
+Lock
+Locked padlock icon
+) or https:// means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+Search
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Search…
+Search NCBI
+Primary site navigation
+Search
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+Search PMC Full-Text Archive
+Search in PMC
+Journal List
+User Guide
+PERMALINK
+Copy
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+Learn more:
+PMC Disclaimer
+|
+PMC Copyright Notice
+Biomed Res Int
+. 2019 Apr 22;2019:6804614. doi: 10.1155/2019/6804614
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Age-Related Differences in Head Impact during Experimentally Induced Sideways Falls
+Tyler A Wood
+Tyler A Wood
+1 Department of Kinesiology and Community Health, University of Illinois at Urbana-Champaign, 906 S. Goodwin Avenue, Urbana, IL 61801, USA
+Find articles by Tyler A Wood
+1 , Yaejin Moon
+Yaejin Moon
+1 Department of Kinesiology and Community Health, University of Illinois at Urbana-Champaign, 906 S. Goodwin Avenue, Urbana, IL 61801, USA
+Find articles by Yaejin Moon
+1 , Ruopeng Sun
+Ruopeng Sun
+1 Department of Kinesiology and Community Health, University of Illinois at Urbana-Champaign, 906 S. Goodwin Avenue, Urbana, IL 61801, USA
+Find articles by Ruopeng Sun
+1 , Alka Bishnoi
+Alka Bishnoi
+1 Department of Kinesiology and Community Health, University of Illinois at Urbana-Champaign, 906 S. Goodwin Avenue, Urbana, IL 61801, USA
+Find articles by Alka Bishnoi
+1 , Jacob J Sosnoff
+Jacob J Sosnoff
+1 Department of Kinesiology and Community Health, University of Illinois at Urbana-Champaign, 906 S. Goodwin Avenue, Urbana, IL 61801, USA
+Find articles by Jacob J Sosnoff
+1, ✉
+Author information
+Article notes
+Copyright and License information
+1 Department of Kinesiology and Community Health, University of Illinois at Urbana-Champaign, 906 S. Goodwin Avenue, Urbana, IL 61801, USA
+Academic Editor: Vida Demarin
+✉ Corresponding author.
+Received 2018 Dec 20; Revised 2019 Mar 20; Accepted 2019 Mar 26; Collection date 2019.
+Copyright © 2019 Tyler A. Wood et al.
+This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+PMC Copyright notice
+PMCID: PMC6501264  PMID: 31143775
+Abstract
+Purpose
+To examine head impact incidence and head acceleration during experimentally induced falls as a function of age.
+Methods
+15 young adults (21.2±2.7) and 10 older adults (61.9±4.3 years) underwent 6 experimentally induced sideways falls. Participants fell sideways onto a 20cm crash pad. The number of head impacts was tabulated from video recordings and head acceleration was calculated from motion capture data. A total of 147 falls were analyzed.
+Results
+The young group underwent 88 falls, in which 11.4% resulted in head impact. The older group underwent 59 falls, in which 34.5% resulted in head impact. A proportion analysis revealed older adults had a significantly greater proportion of head impacts than young adults ( X 2 (1) = 11.445, p = 0.001). A two-way ANOVA only revealed a main effect of head impact on acceleration ( F (1,142) = 54.342, p<0.001).
+Conclusion
+The older adults experienced a greater proportion of head impacts during sideways falls. Head impact resulted in greater head acceleration compared to no head impact. Collectively, this data highlights the possibility that age-related neuromuscular changes to head control may result in elevated risk of fall-related TBIs. Future research examining mechanisms underlying increases in fall-related head impact is warranted.
+1. Introduction
+Traumatic brain injuries (TBIs) result from damaging forces being applied to the brain [ 1 ]. TBIs are a major cause of morbidity and mortality in older adults. Upwards of 80% of TBIs stem from head impact during a fall [ 2 , 3 ]. As a result of fall-related TBIs, older adults experience extended hospital stays and a ~10% fatality rate [ 2 ]. The adverse consequences of fall-related TBI have led to the call for research focusing on underlying mechanisms [ 1 ].
+Mechanisms contributing to the high prevalence of fall-related TBIs in older adults have traditionally focused on changes in tissue properties (i.e., bone-mineral density) and use of anticoagulants (increasing likelihood of hemorrhage) [ 3 , 4 ]. Another possibility that has received less scientific scrutiny is that older adults may strike their head differently than young adults due to age-related changes in the neuromuscular system (declines in strength, flexibility, reaction time, etc.). From a biomechanical perspective, a fall-related injury occurs when the tissue experiences forces greater than its ultimate strength [ 5 ]. Although it is known that older adults, especially fallers, have deficits in protective movements during falls [ 6 , 7 ], there is limited information concerning head impact. Understanding head impacts during falls may identify novel strategies to reduce fall-related head injury.
+It is possible that older adults suffer a greater number of fall-related TBIs because they experience a greater number of head impacts during falls and head impact results in greater head acceleration. Consistent with this view, the sports medicine literature has illustrated that the risk of mild TBIs increases with greater head acceleration at impact in young adults [ 8 – 11 ]. Yet, there is limited information concerning head impacts and acceleration during falls. Thus, this current investigation sought to examine kinematics of the head during an experimentally induced sideway fall in healthy young and older adults. Sideway falls were examined since they have an increased risk for fall-related TBI [ 4 ]. It was hypothesized that older adults would impact their head more frequently than young adults and that head impact would result in greater head acceleration.
+2. Methods
+2.1. Participants
+This study involves a secondary analysis of baseline data from a recently completed pilot, randomized controlled trial of a safe landing training study (NCT# 0017577)[ 12 ]. 15 young adults (5 females) and 10 older adults (3 females) participated in the experimental fall paradigm. All procedures were approved by the University of Illinois at Urbana-Champaign institutional review board. All participants provided written informed consent prior to taking part in the investigation.
+The inclusion and exclusion criteria were designed to include healthy individuals who are capable of safely undergoing the procedures. The inclusion criteria included age between 18 and 30 years and 55 and 75 years, having body mass index (BMI) between 18.5 and 34.9 kg/m 2 , adequate bone mass index (t score>-1.0), right hand being dominant, being capable of performing 5-time sit to stand test within 10 seconds, and Montreal Cognitive Assessment (MoCA) score over 26. Exclusion criteria included history of fracture, stroke, neuromuscular disease, osteoporosis, tumbling or gymnastics training, taking anticoagulants, or being pregnant.
+2.2. Study Procedures
+After completing the informed consent process, participants completed the following assessments to insure they met inclusion/exclusion criteria before taking part in the falling procedures. First, participants had their height and weight quantified to calculate BMI. Next, participants had their bone mineral density measured with DEXA bone densitometer (Hologic QDR 4500, Hologic Inc, Waltham, MA). Participants completed the 5-time sit to stand test [ 13 ], the MoCA [ 14 ], and the short form of the physiological profile assessment (PPA) [ 15 ]. The short form of the PPA consists of 5 tests relating to visual edge contrast sensitivity, lower limb proprioception, finger reaction time, knee extension strength, and balance on a foam pad. Results of the individual tests are compared to age-matched norms to obtain a fall risk score [ 15 ].
+Prior to the falling experiment, participants completed a 10-minute stretching session to reduce the risk of injury. Participants were also equipped with protective gear including a light-weight foam martial arts helmet and wrist guard.
+During the experiments, participants were made to fall sideways onto a 183 cm x 122 cm x 20 cm thick crash pad (Asana Drag Pad, Asana Climbing & MFG, Boise ID, USA) by being released from a 10° side-way lean by means of an inextensible tether ( Figure 1 ).
+Figure 1.
+Open in a new tab
+Experimental setup of a falling simulation. Image adapted from Moon 2018 [ 16 ].
+The 10° leaning angle is based on previous research, which exceeds the capacity of participants to recover from falling by taking a single step [ 17 ]. The tether was released via a mechanical catch (a snap shackle). Participants were unable to predict the time of release as a time delay between 3-8 seconds was randomly assigned to increase unexpectedness. Prior to tether release, the subjects were informed to look forward and keep the hips and knees extended. Participants were instructed to “land on the mat in a way that feels comfortable for you.” As hip impact was the main interest of the primary study, it was emphasized to land on the hip first by restraining from landing on the hand first, taking a step, or kneeling. The test consisted of 3 right-side falls and 3 left-side falls, for a total of 6 falls. Order of the direction of falls was counterbalanced.
+2.3. Data Collection and Processing
+Video of falls were recorded using an iPhone (Apple Inc. Cupertino, CA, USA) in the frontal plane at 60 Hz. TAW and two trained research assistants reviewed the video of each fall to classify the presence of head impact utilizing standardized procedures. Head impact was indicated if each of the following criteria were met: (1) head made contact with the ground (i.e., mat), (2) the mat deformed as a result of the head impact, and (3) the head rebounded from the mat before coming to rest. Any disagreement on impact classification was resolved through discussion.
+A ten-camera motion capture system (VICON, Oxford Metrics, Oxford, England) was used to collect kinematic data of the head. Five reflective markers were attached on the anterior, posterior, bilateral, and superior parts of the helmet. The motion capture system tracked the 3D coordinates of the reflective markers at a sample rate of 100 Hz. The 3D coordinates of the markers were entered into a VICON Nexus software (VICON, Oxford Metrics, Oxford, England). A representative marker on the head was selected for further analysis as markers were occluded depending on the body configuration at impact. Since there was sudden change of trajectory of markers at impact, conventional gap filling methods for missing markers have a high likelihood of being inaccurate [ 18 ]. Therefore, to maximize accuracy, a representative marker was selected based on the following two criteria: (1) the marker did not have missing frames at the impact phase and (2) the marker was the closest to the impact point. Then, the VICON Nexus software calculated velocity data of the representative marker. We used a custom MATLAB script to filter the head velocity data using a low-pass-filtered with a fourth-order Butterworth filter with a cutoff frequency of 10Hz [ 19 ]. Then, head acceleration was computed by numerical differentiation of head velocity and subsequently low-pass-filtered with a fourth-order Butterworth filter with a cutoff frequency of 20Hz. Maximum head acceleration was calculated as a maximum value of head vertical acceleration. We neglected horizontal components of the parameters since it has been shown that they have relatively little effect on risk for injury during a fall [ 20 ].
+2.4. Statistical Analysis
+Statistical analysis was performed using SPSS for Windows, version 25.0 (IBM, Inc., Chicago, IL). Descriptive statistics were calculated for participant demographic information and independent sample t-tests were used to examine group differences. A chi-square test was used to examine whether there were differences in the proportion of head impacts between the young and older group. A two-way (age group by impact) analysis of variance (ANOVA) was used to examine acceleration differences between head impact and no head impact in the young and older group. Finally, a two-way (age group by impact) ANOVA was used to examine fall direction differences between head impact and no head impact in the young and old group.
+3. Results
+A total of 25 participants (15 young and 10 old) underwent the study procedures. Table 1 displays the participants' demographic information. Overall, there were minimal differences between the young and older adults in demographic and performance metrics.
+Table 1.
+Participants' demographics.
+Young
+Older
+p-value
+N
+10M/5F
+7M/3F
+-
+Age (years)
+21.2±2.7
+61.9±4.3
+<0.001 ∗
+Height (cm)
+172.7±7.6
+170.7±7.7
+0.541
+BMI (kg/m 2 )
+23.9±3.5
+25.8±5.0
+0.294
+Bone Mass Density (t-score)
+0.4±0.8
+0.2±0.8
+0.403
+5-Time Sit to Stand (sec)
+6.6±1.4
+7.5±1.4
+0.127
+MoCA Score
+28.3±1.7
+28.6±1.2
+0.673
+Open in a new tab
+All values are presented as mean±SD; ∗ denotes statistically significant difference
+Table 2 displays the results of the subcomponents of the PPA and fall risk score. Older adults were found to have greater postural sway and worse edge contrast sensitivity than the young adults; yet, these age-related differences were still within healthy ranges [ 21 ]. There were no significant differences in simple reaction time, knee extensor strength, or lower limb proprioception.
+Table 2.
+Physiological profile assessment results.
+Young
+Older
+p-value
+Edge Contrast Sensitivity (dB)
+22.5±0.9
+20.3±0.9
+<0.001 ∗
+Lower Limb Proprioception (degrees)
+1.8±0.9
+2.3±1.0
+0.217
+Knee Extension Strength (Kg)
+41.9±11.6
+37.0±7.7
+0.270
+Finger Reaction Time (ms)
+226.9±48.3
+219.8±44.5
+0.721
+Anterior-Posterior Sway (mm)
+23.5±8.9
+36.8±9.5
+0.002 ∗
+Medial-Lateral Sway (mm)
+19.1±6.7
+29.3±16.4
+0.054
+Fall Risk Score
+-0.4±0.6
+0.7±0.8
+0.014 ∗
+Open in a new tab
+All values are presented as mean±SD; fall risk score was determined by short form of the physiological profile assessment [ 15 ]; ∗ denotes statistically significant difference
+Data from a total of 147 falls were recorded and analyzed. It was not possible to analyze three falls (2 young, 1 older) due to video loss. The young group experienced 90 falls, of which 88 were analyzed. Of these 88 falls, 11.4% (10 falls) resulted in head impact. Of the 15 participants in the young group, 6 participants experienced head impacts with the number of head impacts ranging from 1 to 3 per participant. The older group experienced a total of 60 falls, of which 59 were analyzed. Of the 59 falls, 34.5% (20 falls) resulted in head impact. Of the 10 participants, 7 participants experienced head impacts with the number of head impacts ranging from 1 to 5 per participant. Statistical analysis revealed that the older group experienced a significantly greater proportion of head impact than the young group ( X 2 (1) = 11.445, p=0.001).
+Figure 2 displays a representative example of head acceleration profiles for a 64-year-old male with no head impact and a 63-year-old male with head impact. It is clear in the figure that falls with head impact have a greater head acceleration. Statistical analysis confirmed this observation. The two-way ANOVA revealed a main effect of head impact on acceleration ( F (1,142) = 54.342, p<0.001). No effect of age ( F (1,142) = 0.352, p=0.554) or an interaction between age and impact was observed ( F (1,142) = 1.236, p=0.268). Figure 3 displays head acceleration as a function of impact and age group. A two-way ANOVA revealed no effect of fall direction on head impact in either group (F(1,142) = 0.873, p=0.456).
+Figure 2.
+Open in a new tab
+Head acceleration profiles for a 64-year-old male with no head impact and a 63-year-old male with no head impact.
+Figure 3.
+Open in a new tab
+Head acceleration as a function of age group and impact.
+4. Discussion
+Fall-related TBIs in older adults are a major health concern [ 2 , 3 ]. Previous investigations of fall-related TBIs have focused on tissue properties and use of anticoagulants as risk factors [ 3 , 4 ]. This is the first investigation to examine age-related differences in head impact and quantify head acceleration during experimentally induced falls. The novel observation of this investigation was that healthy older adults had a greater proportion of head impacts than young adults. It was also noted that head acceleration was significantly greater with head impact than no head impact. These observations have significant importance considering the health implications of fall-related TBI in older adults.
+There are multiple mechanisms that may contribute to the elevated proportion of head impacts in the older group. For instance, Yang and colleagues reported that older adults in long-term care with mild cognitive impairment, visual impairment and who are females were more likely to suffer a head impact during falls [ 22 ]. Although the older adult group in this investigation had lower edge contrast sensitivity than the young group, it is unlikely that it is related to higher impacts observed in the current investigation. It is important to note that while the edge contrast sensitivity of this group was lower than young adults, the score is above the normative value [ 21 ]. Additionally, Yang and colleagues did video analysis of real world falls while the current investigation utilized a simulated fall paradigm.
+Another possible mechanism that may be contributing to head impact is age-related neuromuscular changes to the neck musculature. The neck is responsible for control of the head and age-related declines in neck strength and function may result in an inability to control the head during a fall [ 23 , 24 ]. Neck strength decreases 35%-45% between the ages of 20 and 60 years [ 25 ]. Furthermore, it has been shown that the muscle fibers of the sternocleidomastoid (SCM), the main agonist of neck flexion and lateral flexion, remodel with age. In young adults, the SCM has similar amounts of Type I and Type IIa muscle fiber [ 26 – 29 ]. Yet with advanced age, the SCM takes on a slower muscle phenotype with a decreased area of fast twitch fibers (Type II) and increase in the number of slow twitch fibers (Type I) [ 26 – 29 ]. Collectively, these age-related changes to muscle strength and muscle fibers are likely to result in an inability of older adults to stabilize their head during a fall and experience head impacts. This speculation is consistent with sports medicine literature that highlights that lower neck muscle strength and slower muscle activation are risk factors for increased head acceleration and greater impact forces [ 30 – 32 ].
+It is important to highlight the older group in the current investigation was relatively young (average age = 62 years of age) and physically fit. There were no age group differences in isometric knee extension strength or 5-time sit to stand test. The lack of strength differences between young and old is inconsistent with the possibility that age-related muscle strength changes contribute to head impact. It is possible that the rate of strength decline in neck musculature is greater than in lower limb musculature. Ultimately the mechanism(s) that contribute to increased head impact in older adults is unclear.
+It was also observed that head impact resulted in greater head acceleration. This is concerning given that the sports medicine literature has consistently shown that increased head acceleration at impact is a risk factor for mild TBIs [ 8 – 11 ]. Head impact reconstructions from sporting events have estimated that the acceleration threshold for a mild TBI is 70 g to 75 g [ 8 – 11 ]. However, the acceleration threshold for fall-related TBI in older adults is not well understood. This observation may suggest that higher acceleration during a fall is more likely to result in less head stabilization and, ultimately, a greater risk of head impact. While this investigation did not observe an age by impact interaction, it is feasible to speculate that, under higher acceleration falls, older, less fit individuals would be less able to stabilize their head, which results in greater head impacts and an increased risk of TBIs. More research is needed to better understand the causal relationship between head acceleration and head impact as it relates to fall-related TBIs.
+The disproportionate and significant adverse consequences of fall-related TBI are clear motivation for innovative prevention strategies [ 1 – 3 ]. It remains to be seen if interventions targeting head control can reduce fall-related TBI risk. To maximize success, preventative strategies in older adults should target modifiable risk factors. A potentially modifiable risk factor in the prevention of fall-related TBI may be neck muscle strength and activation. Resistance training for the neck muscles has been shown to effectively decrease linear head velocity during head loading conditions in young adults [ 33 ]. Conversely it has been suggested that dynamic neuromuscular training may provide more benefit for the neck musculature's response to perturbation than resistance training alone [ 34 ]. It is important to note that most exercise and fall prevention programs designed for older adults do not target neck musculature [ 35 , 36 ]. Consequently, there is a dearth of research concerning neck muscle strength and activation and fall-related TBI in older adults and several knowledge gaps remain.
+Another potential strategy may be teaching older adults protective movements strategies to prevent head impact during a fall. There is some evidence to suggest the possibility that head impact can be reduced during a sideways fall by individuals rotating to land on their back [ 37 ]. Furthermore, it has been shown that utilizing safe landing strategies can reduce the impact load during a fall [ 5 ]. With these techniques, it may be potentially beneficial to add functional training of the neck to support the head during a fall to prevent head impact. Still knowledge gaps remain related to understanding how teaching older adults safe landing strategies can reduce head impact and fall-related TBIs.
+While this investigation has observed novel results, some limitations should be noted. The sample size was small and the participants expected the falls. The older adult participants were relatively young, healthy, and physically fit. It is speculated that older, weaker individuals would experience even more head impacts. The falls were experimentally induced and it is not clear how well they mimic real world falls. Additionally, we utilized a video analysis to quantify head impact, instead of motion capture data; more research is needed to understand a potential acceleration threshold of head impact during a fall. Furthermore, neck strength and muscle activation was not assessed, which limits the interpretations of age-related changes to neuromuscular control being a contributing factor for increased proportion of head impacts and head acceleration. More research is needed to better understand the role the neck musculature plays in head control during a fall in older adults and the potential impact low neck strength and slow muscle activation has on head acceleration during a fall.
+5. Conclusions
+This investigation was the first to highlight that older adults experience a greater proportion of head impacts during experimentally induced sideways falls. Additionally, the falls which resulted in head impacts also resulted in greater head acceleration. Age-related neuromuscular changes may be responsible for the higher proportion of head impacts in older adults. Several knowledge gaps, subsequent research examining head acceleration during a fall, the implications of neck musculature on head acceleration in older adults, and the relationship between head acceleration and fall-related TBI are still warranted.
+Data Availability
+The data used to support the findings of this study are restricted by the University of Illinois at Urbana-Champaign Institutional Review Board in order to protect participants' confidentiality. Data are available from Jacob Sosnoff (jsosnoff@illinois.edu) for researchers who meet the criteria for access to confidential data.
+Conflicts of Interest
+The authors declare that there are no conflicts of interest regarding the publication of this paper.
+References
+1. Taylor C. A., Bell J. M., Breiding M. J., Xu L. Tramatic brain injury-related emergency department visits, hospitalizaitons, deaths - United States, 2007 and 2013. MMWR Surveillance Summaries. 2017;66(9):1–16. doi: 10.15585/mmwr.ss6609a1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+2. Fu W. W., Fu T. S., Jing R., McFaull S. R., Cusimano M. D., Chen H. I. Predictors of falls and mortality among elderly adults with traumatic brain injury: a nationwide, population-based study. PLoS ONE. 2017;12(4) doi: 10.1371/journal.pone.0175868.e0175868 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+3. Harvey L. A., Close J. C. T. Traumatic brain injury in older adults: Characteristics, causes and consequences. Injury. 2012;43(11):1821–1826. doi: 10.1016/j.injury.2012.07.188. [ DOI ] [ PubMed ] [ Google Scholar ]
+4. Hwang H.-F., Cheng C.-H., Chien D.-K., Yu W.-Y., Lin M.-R. Risk factors for traumatic brain injuries during falls in older persons. The Journal of Head Trauma Rehabilitation. 2015;30(6):E9–E17. doi: 10.1097/HTR.0000000000000093. [ DOI ] [ PubMed ] [ Google Scholar ]
+5. Moon Y., Sosnoff J. J. Safe landing strategies during a fall: systematic review and meta-analysis. Archives of Physical Medicine and Rehabilitation. 2017;98(4):783–794. doi: 10.1016/j.apmr.2016.08.460. [ DOI ] [ PubMed ] [ Google Scholar ]
+6. Bair W.-N., Prettyman M. G., Beamer B. A., Rogers M. W. Kinematic and behavioral analyses of protective stepping strategies and risk for falls among community living older adults. Clinical Biomechanics. 2016;36:74–82. doi: 10.1016/j.clinbiomech.2016.04.015. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+7. McIlroy W. E., Maki B. E. Age-related changes in compensatory stepping in response to unpredictable perturbations. The Journals of Gerontology. Series A, Biological Sciences and Medical Sciences. 1996;51(6):M289–M296. doi: 10.1093/gerona/51A.6.M289. [ DOI ] [ PubMed ] [ Google Scholar ]
+8. Broglio S. P., Sosnoff J. J., Shin S., He X., Alcaraz C., Zimmerman J. Head impacts during high school football: a biomechanical assessment. Journal of Athletic Training. 2009;44(4):342–349. doi: 10.4085/1062-6050-44.4.342. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+9. Brolinson P. G., Manoogian S., McNeely D., Goforth M. W., Greenwald R. M., Duma S. M. Analysis of linear head accelerations from collegiate football impacts. Current Sports Medicine Reports. 2006;5(1):23–28. doi: 10.1097/01.csmr.0000306515.87053.fa. [ DOI ] [ PubMed ] [ Google Scholar ]
+10. Pellman E. J., Viano D. C., Tucker A. M. Concussion in professional football: reconstruction of game impacts and injuries. Neurosurgery. 2003;53(4):799–814. doi: 10.1093/neurosurgery/53.3.799. [ DOI ] [ PubMed ] [ Google Scholar ]
+11. Mihalik J. P., Bell D. R., Marshall S. W., Guskiewicz K. M. Measurement of head impacts in collegiate football players: an investigation of positional and event-type differences. Neurosurgery. 2007;61(6):1229–1235. doi: 10.1227/01.neu.0000306101.83882.c8. [ DOI ] [ PubMed ] [ Google Scholar ]
+12. Moon Y., Bishnoi A., Sun R., Shin J. C., Sosnoff J. J. Preliminary investigation of teaching older adults the tuck-and-roll strategy: can older adults learn to fall with reduced impact severity. Journal of Biomechanics. 2019;83:291–297. doi: 10.1016/j.jbiomech.2018.12.002. [ DOI ] [ PubMed ] [ Google Scholar ]
+13. Makizako H., Shimada H., Doi T., et al. Predictive cutoff values of the five-times sit-to-stand test and the timed “up & go” test for disability incidence in older people dwelling in the community. Physical Therapy. 2017;97(4):417–424. doi: 10.2522/ptj.20150665. [ DOI ] [ PubMed ] [ Google Scholar ]
+14. Nasreddine Z. S., Phillips N. A., Bédirian V., et al. The Montreal Cognitive Assessment, MoCA: a brief screening tool for mild cognitive impairment. Journal of the American Geriatrics Society. 2005;53(4):695–699. doi: 10.1111/j.1532-5415.2005.53221.x. [ DOI ] [ PubMed ] [ Google Scholar ]
+15. Lord S. R., Menz H. B., Tiedemann A. A physiological profile approach to falls risk assessment and prevention. Physical Therapy. 2003;83(3):237–252. [ PubMed ] [ Google Scholar ]
+16. Moon Y. Teaching older adults to fall safely [dissertation] Urbana, Ill, USA: University of Illinois at Urbana-Champaign; 2018. [ Google Scholar ]
+17. Hsiao E. T., Robinovitch S. N. Elderly subjects' ability to recover balance with a single backward step associates with body configuration at step contact. The Journals of Gerontology Series A: Biological Sciences and Medical Sciences. 2001;56(1):M42–M47. doi: 10.1093/gerona/56.1.M42. [ DOI ] [ PubMed ] [ Google Scholar ]
+18. Howarth S. J., Callaghan J. P. Quantitative assessment of the accuracy for three interpolation techniques in kinematic analysis of human movement. Computer Methods in Biomechanics and Biomedical Engineering. 2010;13(6):847–855. doi: 10.1080/10255841003664701. [ DOI ] [ PubMed ] [ Google Scholar ]
+19. Groen B. E., Smulders E., De Kam D., Duysens J., Weerdesteyn V. Martial arts fall training to prevent hip fractures in the elderly. Osteoporosis International. 2010;21(2):215–221. doi: 10.1007/s00198-009-0934-x. [ DOI ] [ PubMed ] [ Google Scholar ]
+20. Robinovitch S. N., Brumer R., Maurer J. Effect of the “squat protective response” on impact velocity during backward falls. Journal of Biomechanics. 2004;37(9):1329–1337. doi: 10.1016/j.jbiomech.2003.12.015. [ DOI ] [ PubMed ] [ Google Scholar ]
+21. Eperjesi F., Wolffsohn J., Bowden J., Napper G., Rubinstein M. Normative contrast sensitivity values for the back-lit Melbourne Edge Test and the effect of visual impairment. Ophthalmic and Physiological Optics. 2004;24(6):600–606. doi: 10.1111/j.1475-1313.2004.00248.x. [ DOI ] [ PubMed ] [ Google Scholar ]
+22. Yang Y., MacKey D. C., Liu-Ambrose T., Leung P.-M., Feldman F., Robinovitch S. N. Clinical risk factors for head impact during falls in older adults: a prospective cohort study in long-term care. The Journal of Head Trauma Rehabilitation. 2017;32(3):168–177. doi: 10.1097/HTR.0000000000000257. [ DOI ] [ PubMed ] [ Google Scholar ]
+23. Huelke D. F. Anatomy of the Human Cervical Spine and Associated Structures. SAE International; 1979. [ Google Scholar ]
+24. Bogduk N., Mercer S. Biomechanics of the cervical spine. Clinical Biomechanics. 2000;15:633–648. doi: 10.1016/S0268-0033(00)00034-6. [ DOI ] [ PubMed ] [ Google Scholar ]
+25. Garcés G. L., Medina D., Milutinovic L., Garavote P., Guerado E. Normative database of isometric cervical strength in a healthy population. Medicine & Science in Sports & Exercise. 2002;34(3):464–470. doi: 10.1097/00005768-200203000-00013. [ DOI ] [ PubMed ] [ Google Scholar ]
+26. Meznaric M., Eržen I., Karen P., Cvetko E. Effect of ageing on the myosin heavy chain composition of the human sternocleidomastoid muscle. Annals of Anatomy - Anatomischer Anzeiger. 2018;216:95–99. doi: 10.1016/j.aanat.2017.12.001. [ DOI ] [ PubMed ] [ Google Scholar ]
+27. Woollacott M. H., Shumway-Cook A., Nashner L. M. Aging and posture control: changes in sensory organization and muscular coordination. International Journal of Aging and Human Development. 1986;23(2):97–114. doi: 10.2190/vxn3-n3rt-54jb-x16x. [ DOI ] [ PubMed ] [ Google Scholar ]
+28. Kanekar N., Aruin A. S. The effect of aging on anticipatory postural control. Experimental Brain Research. 2014;232(4):1127–1136. doi: 10.1007/s00221-014-3822-3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+29. Bisdorff A. R., Bronstein A. M., Wolsley C., Gresty M. A., Davies A., Young A. EMG responses to free fall in elderly subjects and akinetic rigid patients. Journal of Neurology, Neurosurgery & Psychiatry. 1999;66(4):447–455. doi: 10.1136/jnnp.66.4.447. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+30. Viano D. C., Casson I. R., Pellman E. J. Concussion in professional football: Biomechanics of the struck player - Part 14. Neurosurgery. 2007;61(2):313–327. doi: 10.1227/01.NEU.0000279969.02685.D0. [ DOI ] [ PubMed ] [ Google Scholar ]
+31. Collins C. L., Fletcher E. N., Fields S. K., et al. Neck strength: a protective factor reducing risk for concussion in high school sports. Journal of Primary Prevention. 2014;35(5):309–319. doi: 10.1007/s10935-014-0355-2. [ DOI ] [ PubMed ] [ Google Scholar ]
+32. Choi W. J., Robinovitch S. N., Ross S. A., Phan J., Cipriani D. Effect of neck flexor muscle activation on impact velocity of the head during backward falls in young adults. Clinical Biomechanics. 2017;49:28–33. doi: 10.1016/j.clinbiomech.2017.08.007. [ DOI ] [ PubMed ] [ Google Scholar ]
+33. Eckner J. T., Goshtasbi A., Curtis K., et al. Feasibility and effect of cervical resistance training on head kinematics in youth athletes: a pilot study. American Journal of Physical Medicine & Rehabilitation. 2018;97(4):292–297. doi: 10.1097/PHM.0000000000000843. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+34. Schmidt J. D., Guskiewicz K. M., Blackburn J. T., Mihalik J. P., Siegmund G. P., Marshall S. W. The influence of cervical muscle characteristics on head impact biomechanics in football. The American Journal of Sports Medicine. 2014;42(9):2056–2066. doi: 10.1177/0363546514536685. [ DOI ] [ PubMed ] [ Google Scholar ]
+35. de Labra C., Guimaraes-Pinheiro C., Maseda A., Lorenzo T., Millán-Calenti J. C. Effects of physical exercise interventions in frail older adults: a systematic review of randomized controlled trials. BMC Geriatrics. 2015;15:p. 154. doi: 10.1186/s12877-015-0155-4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+36. Gschwind Y. J., Kressig R. W., Lacroix A., Muehlbauer T., Pfenninger B., Granacher U. A best practice fall prevention exercise program to improve balance, strength / power, and psychosocial health in older adults: study protocol for a randomized controlled trial. BMC Geriatrics. 2013;13(1):105–117. doi: 10.1186/1471-2318-13-105. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+37. Schonnop R., Yang Y., Feldman F., Robinson E., Loughin M., Robinovitch S. N. Prevalence of and factors associated with head impact during falls in older adults in long-term care. Canadian Medical Association Journal. 2013;185(17):E803–E810. doi: 10.1503/cmaj.130498. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+Associated Data
+This section collects any data citations, data availability statements, or supplementary materials included in this article.
+Data Availability Statement
+The data used to support the findings of this study are restricted by the University of Illinois at Urbana-Champaign Institutional Review Board in order to protect participants' confidentiality. Data are available from Jacob Sosnoff (jsosnoff@illinois.edu) for researchers who meet the criteria for access to confidential data.
+Articles from BioMed Research International are provided here courtesy of Wiley
+ACTIONS
+View on publisher site
+PDF (918.4 KB)
+Cite
+Collections
+Permalink
+PERMALINK
+Copy
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+Cite
+Copy
+Download .nbib
+.nbib
+Format:
+AMA
+APA
+MLA
+NLM
+Add to Collections
+Create a new collection
+Add to an existing collection
+Name your collection
+*
+Choose a collection
+Unable to load your collection due to an error
+Please try again
+Add
+Cancel
+Follow NCBI
+NCBI on X (formerly known as Twitter)
+NCBI on Facebook
+NCBI on LinkedIn
+NCBI on GitHub
+NCBI RSS feed
+Connect with NLM
+NLM on X (formerly known as Twitter)
+NLM on Facebook
+NLM on YouTube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov
+Back to Top

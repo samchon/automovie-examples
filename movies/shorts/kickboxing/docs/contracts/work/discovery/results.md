@@ -19,6 +19,7 @@ The read-only earlier production was read only for its decisions. It supplies no
 | --- | --- |
 | Before bulk brief writing | Run on 2026-11-13; the breakdown below |
 | 1. After the brief | Run on 2026-11-13 against the completed brief; findings under [after the brief](#after-the-brief) |
+| Screenplay construction | Run on 2026-11-13 against the complete draft; findings under [the screenplay](#screenplay) |
 | 2. Before composition | Open: no composition is commissioned ([project context](../../../../PROJECT.md#commissioned-scope)) |
 | 3. After delivery review | Open: no delivery is commissioned |
 
@@ -120,5 +121,33 @@ Author inspection of the brief then found three more needs of the same kind, eac
 - **The commission's clinch break under a one-knee rule.** A lawful clinch ends without a command, so the commission's clinch break needs a lawful occasion. That occasion is the accidental tie-up. Owner: [clinch](../../../body/brief/world/bout.md#clinch), with the procedure in the [referee's break](../../../body/brief/cast/referee.md#clinch-break).
 - **A readable count on faceless bodies.** The count is shown by voice and an arm stroke, not by finger counting. Owner: [referee's signals](../../../body/brief/cast/referee.md#signals).
 - **The doctor's way in against the winner's corner.** The doctor must not have to pass the winner. Owner: the ring's [corner order](../../../body/brief/sets/ring.md#corners).
+
+No new user-owned element was found, and no two fixed conditions conflict.
+
+## The screenplay {#screenplay}
+
+Screenplay construction, run on 2026-11-13, read the complete draft of `docs/body/screenplay/kickboxing.md` for audiovisual form choices and recurring narrative conditions that no owner held. Each one found now has an owner.
+
+### Form choices found and owned {#screenplay-form}
+
+| Choice | How it functions here | How it fails | Owner |
+| --- | --- | --- | --- |
+| One uncut take from the finishing kick's chamber to 180 | The kick, the fall, the count and the ending play as one continuous, real-time event the audience cannot look away from | A cut or a jump in time between the chamber and 180 | The [camera record's cut rules](../../../body/brief/cinematography/camera.md#cuts), realized in the screenplay from [s10-b03](../../../body/screenplay/kickboxing.md#s10-b03) to [s12-b04](../../../body/screenplay/kickboxing.md#s12-b04) |
+| Cuts only at resets | The few cuts land where broadcast cuts land, so the round reads as observed, not edited | A cut inside an exchange | [Camera record](../../../body/brief/cinematography/camera.md#cuts); the screenplay's cuts at [s04-b02](../../../body/screenplay/kickboxing.md#s04-b02) and [s08-b03](../../../body/screenplay/kickboxing.md#s08-b03) |
+| Audience access to the plan through Benlloch's attention | The audience learns the tell when he does: his head turns to Visser's left side after each drop, and his corner's sign confirms it | The drop shown without anyone seeing it, or Visser seeming to know | [Benlloch's knowledge](../../../body/brief/cast/benlloch.md#knowledge); beats [s04-b03](../../../body/screenplay/kickboxing.md#s04-b03), [s07-b02](../../../body/screenplay/kickboxing.md#s07-b02), [s08-b03](../../../body/screenplay/kickboxing.md#s08-b03) |
+| The count as separate spoken numbers, each with its arm stroke | Each second of the count is a perceptible anchor the picture and sound share | A number lost under the crowd, or a count summarised | [Commission count](../../../instructions/commission.md#count); [s11-b03](../../../body/screenplay/kickboxing.md#s11-b03), [s12-b01](../../../body/screenplay/kickboxing.md#s12-b01) |
+| No music, no commentary, the referee's words the only speech | The ring's own sounds and the crowd carry the round | Any voice or score outside the palette | [Ring sound](../../../body/brief/sound/ring-sound.md#palette); every beat's sound record |
+
+### Recurring narrative conditions {#screenplay-conditions}
+
+- **The tell's visible progress.** Each landed right body kick moves the cover one stage on, and the screenplay must never show a stage go backwards. Owner: [Visser's tell](../../../body/brief/cast/visser.md#tell). Its smallest honest host is the screenplay's population of beats in which Benlloch's right knee rises; author inspection found one reversal and repaired it.
+- **Costs that carry forward.** A landed blow's cost lasts beyond its beat. Owners: the two state records ([Benlloch](../../../body/brief/cast/benlloch.md#state), [Visser](../../../body/brief/cast/visser.md#state)). Inspection found one cost cancelled in the next beat and repaired it.
+- **Everyone present responds.** The referee in every beat, and the ringside people whenever a wide frame holds them. Owners: [the referee](../../../body/brief/cast/referee.md#conduct) and [ringside](../../../body/brief/crowds/ringside.md).
+
+No new work contract is adopted: each condition is asked by the shared screenplay and narrative contracts, through the owners named.
+
+### Upstream gap found by the screenplay {#screenplay-upstream}
+
+The ring record named its corners' order without saying which way it runs. The finish's fall to the right side depends on it, so the record now fixes the order as anticlockwise seen from above, in a new decision, [seen from above](../../../body/brief/sets/ring.md#handedness), citing the beat that established it.
 
 No new user-owned element was found, and no two fixed conditions conflict.
