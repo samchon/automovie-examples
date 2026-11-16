@@ -4,6 +4,6 @@ Each brief H2 answers as one facet of its subject, owning the anchored H3 decisi
 
 Statements: [statements/principles/brief.md](../statements/principles/brief.md).
 
-## Does the record settle a decision the films need? {#needed-decisions}
+## Needed decisions
 
-Does it name its subject and settle a value, scope and the conditions, limits or exceptions that affect use, specifically enough that a screenplay author or reviewer can hold the films to it? A screenplay that must invent a decision, or write past the representation's limits, has no basis to hold to.
+Does it name its subject and settle a value, its scope and the conditions, limits or exceptions that affect use, specifically enough that a screenplay author or reviewer can hold the films to it? A decision left open is invented by each screenplay that needs it, and the films stop agreeing.

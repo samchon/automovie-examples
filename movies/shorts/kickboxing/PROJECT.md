@@ -1,56 +1,45 @@
 # Project
 
-A screenplay for a 180-second kickboxing short: one championship round between two equal fighters, which a habit one of them learns during the round decides. The brief's [work record](docs/body/brief/world/work.md) owns the audience and the intended experience, and the [commission](docs/instructions/commission.md) holds the owner's binding rulings.
+A new English screenplay for a 180-second kickboxing short, written from the preserved [commission](docs/instructions/commission.md). Two equal championship fighters contest one continuous round; a defensive habit acquired during the round decides the finish.
 
-## Commissioned scope {#commissioned-scope}
+## Current text status
 
-The commissioned output is the screenplay only, `docs/body/screenplay/kickboxing.md`, complete when its text passes the [writing workflow](../../../.agents/skills/story/workflow.md#completion). No source, test, entity, motion, render or other media is owed.
+The [complete screenplay](docs/body/screenplay/kickboxing/010-the-round.md) and three cast brief records are delivered with the short narrative pass closed. The author received the entire [final integrated review](.cache/submissions/rewrite-review-final.md) and both current [brief](docs/review/draft/brief/verdict/index.md) and [screenplay](docs/review/draft/screenplay/verdict/index.md) verdicts: zero supported body findings across all fifteen H2 units and thirty-six beats, with zero accept/decline decisions or manuscript repairs. All four creative files retain their submitted bytes. The final review's documented isolated-reader method repair is the reliance basis; the earlier incomplete method record remains historical.
 
-The scaffold's source, tests and configuration stay as the scaffold created them, because no source is owed.
+The separate answerer's six detached files and the enabled-stage 63/63 evidence result are retained. The coordinator closed both story construction stages to `disabled`; the [final closed-stage evidence report](.cache/rewrite-close-evidence.txt) records the current graph check. The [completion handoff](.cache/submissions/rewrite-complete.md) identifies the exact edition and author receipt. No movie or media delivery is owed; actual motion, support, reach, collision, occlusion, small-detail legibility, timing and sound remain unobserved.
 
-### Outside the current scope {#outside-the-current-scope}
+The unchanged [compiler limitations](.cache/validation-diagnostics.md) prevent a fully validated engineering claim: 4,537 TS1484 errors from source-linked dependency type imports under `verbatimModuleSyntax`, nine TS6142 errors from viewer TSX without a JSX setting, and TS2724 for the starter's `mountAutoMovieInspectorPage` API mismatch. Tests exit during compilation before execution. These known failures were not rerun or repaired for the text handoff.
 
-The earlier kickboxing production's commission, in the read-only reference `D:\github\samchon\automovie@scaffold\.references\kickboxing-legacy`, also ruled on work this production does not make now. The user adopted only its story rulings, so these stay outside the current scope until the user commissions them:
+## Commissioned scope
 
-- the complete 180-second direct 3D film of issue 3040, with runnable source, the inspector page, playback review and a decoded final video;
-- the motion ruling that during every round kick the kicking-side hand reaches forward at the protective head line while the opposite hand guards, through chamber, delivery, recoil and replant;
-- the boundary that the production owns officiating policy while the Human package owns reusable anatomy and motion;
-- the video-generation prompts that would restyle a render into live action.
+The output is a complete screenplay with its brief, necessary research, narrative evidence and independent review under the current [short route](../../../.agents/skills/story/workflow/short.md). This commission ends at the text. Source implementation, motion programming, renders, generated media and a soundtrack are outside its scope.
 
-The screenplay is written so that a later film can realize it, but nothing here commissions or approves that film.
+The screenplay is authored afresh. Only `docs/instructions` carries forward creative authority; former bodies, studies, answers and verdicts are not inputs or approvals. The coordinator retained them outside the production for benchmark provenance.
 
-## Representation {#representation}
+## Story conditions
 
-The screenplay is written for the scaffold's representation: every person is a polygon man drawn from the Human package's body, and every other subject is the simplest form that identifies it. No detail option is selected, because no delivery is commissioned. The brief's [work record](docs/body/brief/world/work.md#representation) states what this representation cannot show and how the screenplay writes within it.
+The preserved commission owns the exact events, time anchors, picture shape, tone, language, sound, audience knowledge and delegated choices. It specifies 180 seconds and landscape 16:9 at 1280 by 720. No video delivery profile is needed for this text commission.
 
-## Delivery profile {#delivery-profile}
+People use the scaffold's polygon-man representation and other subjects use identifiable coarse forms. Performance, posture, distance, head direction and sound must carry what a drawn face cannot show.
 
-No video is delivered now. The story conditions the screenplay is written to:
+## Approach
 
-| Film | Running time | Frame |
-| --- | --- | --- |
-| `kickboxing` | 180.000 seconds, one continuous film ([commission](docs/instructions/commission.md#one-round)) | Landscape 16:9, 1280 × 720 ([commission](docs/instructions/commission.md#frame)) |
+The workspace folder fixes the short route. The workflow writes the brief and the entire screenplay as a connected draft, without an intermediate outline, treatments or scripts. The screenplay is one continuous ring scene, with the commission's twelve fifteen-second H2 phases and H3 exchange beats. Its headings preserve the commissioned form while its scene file follows the current layout.
 
-Frame rate, container, codec, colour and caption tracks are set when a film is commissioned.
+The author checks the completed draft as a whole before evidence. A separate evidence answerer then handles the brief and screenplay construction answers, and one fresh reviewer reads the whole brief and screenplay. When findings reach the author, the story stages return to disabled; the author decides every finding and repairs accepted causes together, which closes the short pass. Research studies have no research evidence stage on this route.
 
-## Adopted approach {#adopted-approach}
+## Execution
 
-- Story route: the short route, which the workspace folder `movies/shorts/kickboxing` fixes: the brief, with the research its decisions draw on, then screenplay construction, then the screenplay's expression pass.
-- Who writes the screenplay: this workflow, the default; the agent writes it through the route's narrative passes.
-- Each narrative pass runs through separate roles in separate contexts: the author writes and repairs the body, an evidence answerer writes the construction answers, and a fresh independent reviewer reviews each round.
-- Sound: the screenplay names each shot's sound for a later film; no soundtrack is commissioned.
-- No control channels, engine feedback, capture or render path is adopted, because no film is commissioned.
+The coordinator launches each author, answerer and reviewer as a separate saved CLI session under the repository's production-campaign skill. The configured CLI defaults are used and the actual session and model are confirmed from their records. An observer watches the runs at the campaign's fifteen-minute interval and revives only proven failures.
 
-## Operating constraints {#operating-constraints}
+All shell commands use PowerShell. Workers may change only their assigned production paths, never Git state, shared skills, other productions or library packages. The coordinator owns configuration and shared scaffold installation. Append execution events to `.cache/run-record.md` and keep logs and temporary notes in `.cache/`.
 
-- Shell commands run in PowerShell only.
-- Agents do not stage, commit, push or otherwise change Git state; the coordinator does.
-- Each run appends its start, submission and end to the ignored run record `.cache/run-record.md`.
-- The earlier production supplies decisions to assess, never text.
+## Authority
 
-## Authority and open choices {#authority}
+The user commissioned a complete rewrite under the current scaffold, preserving `docs/instructions`. Fixed and delegated creative choices in that directory remain in force. No new creative question is required for an element already fixed or delegated. A consequential uncovered choice is reported when discovered.
 
-- User-fixed: every ruling in the [commission](docs/instructions/commission.md), including the user's confirmation on 2026-11-13 of where the finish lands, recorded under its [finish](docs/instructions/commission.md#finish) section.
-- Decided within delegation: the language and the direction, recorded in the commission's [language](docs/instructions/commission.md#language) and [direction](docs/instructions/commission.md#direction) sections; who the men are, which the user delegated in the commission's [people](docs/instructions/commission.md#people) section; and the brief's decisions.
-- Answered by the user on 2026-11-13, round 1 of [asking the user](../../../.agents/skills/story/planning/requirements.md#asking-the-user): the [frame](docs/instructions/commission.md#frame), the [people](docs/instructions/commission.md#people) (delegated), the [tone](docs/instructions/commission.md#tone) and the [venue and crowd](docs/instructions/commission.md#venue). No story element remains open.
-- Open: the delivery profile's technical tracks, until a film is commissioned.
+## Newly adopted creative decisions
+
+The fresh cast is [Owen Vale](docs/body/brief/cast/owen-vale.md), the red-corner patient kicker; [Marek Sokol](docs/body/brief/cast/marek-sokol.md), the blue-corner pressure fighter; and [Daniel Mensah](docs/body/brief/cast/daniel-mensah.md), the referee. The cast records own their delegated identities and styles. The single [ring scene](docs/body/screenplay/kickboxing/010-the-round.md) owns the fight, the learned habit and all scene-only venue, camera and sound decisions. Its finish uses a running ringside view that continues through the kick, the right-side fall and the count, keeping the relationship visible.
+
+The [fresh practice study](docs/research/kickboxing/round-practice.md) records the current rulebook, professional activity analysis and specialist kick source. The [single discovery](docs/contracts/work/discovery/results.md) maps the commission without adding requirements. These decisions belong to the delivered text; its current review and validation state is recorded above.

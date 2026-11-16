@@ -1,29 +1,20 @@
 ---
 name: video
-description: Chooses the video generation model for a production, plans each shot's requests within that model's limits, writes its prompts, and submits, inspects and adopts the generated takes. Use before generating video from a motion hint, when choosing or changing a video model, when writing a video generation prompt, and when adopting or rejecting a take.
+description: Turns a production's motion hint into generated video, choosing the model with the user, planning each scene's requests and how closely each follows the hint, writing their prompts, submitting, inspecting and adopting takes, and finishing them for assembly. Use before generating video from a motion hint, when choosing or changing a video model, when planning or writing a video generation request, when adopting or rejecting a take, and when finishing accepted takes.
 ---
 
 # Video
 
-Video is generated only when the commission calls for it; a motion hint or a direct 3D film never silently requires a generator.
+A video model turns the motion hint into finished picture and, when it can, sound. Generate video only when the commission calls for it; a motion hint or a direct 3D film never silently requires a generator. Generate takes only from a hint that passed [segment review](../motion/segment-review.md) and a screenplay whose review has closed, or that no narrative pass reviews, because a repair to either discards the takes made from it.
 
-A video model turns the motion hint into finished picture and, when it can, sound. What it accepts decides how the hint is prepared: some models edit or restyle the hint video, some read it only as a reference for motion and camera, open models can follow pose or depth passes exactly, and others accept only still frames.
+The model's inputs decide how the hint is prepared, and its limits on length, frame rate, references and prompt size decide how scenes become requests, so video work runs in this order:
 
-Its limits on length, frame rate, references and prompt size decide how scenes become requests, so choose the model before splitting scenes into requests or writing prompts:
-
-1. Choose the model with the user from [diffusion models](diffusion.md), and record it in [project context](../production/project-context.md).
-2. [Read its documentation](#read-the-model) for every value the plan depends on.
-3. [Split each scene into requests](#plan-the-requests) within those limits.
-4. Prepare canon references and shot frames under [image](../image/SKILL.md).
-5. Write each request's prompt under [prompts](prompts.md), with the sound decided under [audio](../audio/SKILL.md).
-6. Submit, inspect and adopt takes under [generation](generation.md).
-
-## Read the model {#read-the-model}
-
-Read the chosen model's current documentation for its input and output lengths, frame rate and frame grid, sizes, the controls and references it accepts with their roles, prompt length, negative prompt, seed and sound. The model decides which controls are used, and this step is the one place its input contract is verified.
-
-## Plan the requests {#plan-the-requests}
-
-Render each request's hint and control channels at the model's frame rate, frame grid and size under [control channels](../motion/control-channels.md).
-
-When a model works in segments, give each segment the previous segment's accepted last frames as its reference input, so motion continues across the seam. Give it the canon references with them, because identity and color drift with every segment chained from generated frames.
+1. Choose the model with the user and read its documentation under [video diffusion](diffusion/SKILL.md).
+2. Write the [shared description](diffusion/prompts.md#shared-description).
+3. Prepare the canon references under [image](../image/SKILL.md).
+4. Plan each scene's [requests](requests.md).
+5. Prepare any shot frame a request takes under [image](../image/conditioning.md#shot-frames).
+6. Decide each request's sound under [audio](../audio/generated-sound.md).
+7. Write each request's [prompt](diffusion/prompts.md).
+8. Submit, inspect and adopt takes under [generation](generation.md).
+9. Repair, upscale, conform and match the accepted takes under [finishing](finishing.md).

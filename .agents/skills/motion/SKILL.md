@@ -1,42 +1,39 @@
 ---
 name: motion
-description: Programs deterministic scene performance, staging, camera, timing and physical responses by end-effector goals, composing the installed motion vocabulary and writing a law only for what is not a person. Use when composing or authoring actions, interactions, consequences or scene composition, accepting catalog cases, reviewing segments, or rendering a motion hint and its control channels.
+description: Programs a scene's deterministic performance, staging, camera and timing, composing what each person and group does from the installed motion vocabulary and writing motion code only for what it cannot express. Use when composing a performance, repairing a refusal, extending the vocabulary, accepting catalog cases, staging or reviewing a segment, choosing a physical mode, retargeting a clip, generating or tracing motion with a model, or rendering a motion hint and its control channels.
 ---
 
 # Programmed motion
 
-Realize the screenplay's performance through code. Read [project context](../production/project-context.md), the final screenplay and its [research](../story/planning/research.md) first. A single moving instance needs only its promised behavior; a whole-video commission needs its complete progression.
-
-Work in this order, because each step can only use what the one before settled:
-
-1. Study what [when to study](../story/planning/research.md#when-to-study) assigns to code.
-2. Start from the coarse entities [entity work](../development/entities.md#coarse-first) builds.
-3. [Compose](#compose-the-vocabulary) each person's performance from the installed motion vocabulary.
-4. [Extend](extend.md) only for what composing cannot stage.
-5. Accept every entity and motion module in its [catalog cases](catalog-cases.md).
-6. [Compose the film](#compose-the-film) segment by segment.
-7. Deliver a commissioned [detail option](../development/entities.md#detail) last.
-
-## Compose the vocabulary {#compose-the-vocabulary}
-
-A person's act is composed from the installed motion vocabulary, as its README and public types give it. The package owns its actions with their studies and checks, so motion code for a person written in the production duplicates that work without its checks, and the vocabulary cannot perform it.
+Realize the screenplay's performance through code: what each person does, the staging, the camera and the timing. Read [project context](../production/project-context.md), the final screenplay and its [research](../story/planning/research.md) first. A single moving instance needs only its promised behavior; a whole-video commission needs its complete progression.
 
 | Task | Read |
 | --- | --- |
-| Turn a beat into a composition | [Compose](compose.md) |
-| The vocabulary refuses a composition | [Refusals](refusals.md) |
-| A beat needs a movement the vocabulary seems to lack, or what is not a person | [Extend](extend.md) |
+| Compose what each person or group does in a beat, with the forces on them | [Composing a performance](compose/composition.md) |
+| Repair a refusal from an installed package | [Refusals](compose/refusals.md) |
+| Extend the vocabulary for an action or a moving body it lacks | [Vocabulary extension](laws/extension.md) |
+| Design, vary or verify a law | [Motion laws](laws/SKILL.md) |
+| Accept an entity or a motion module alone | [Catalog cases](catalog-cases.md) |
+| Stage scenes: blocking, everyone present, camera and light | [Staging](staging.md) |
+| Review a finished segment before extending it | [Segment review](segment-review.md) |
+| Map film time onto the performance, or allow seeking and split renders | [Frame evaluation](frame-evaluation.md) |
+| Choose a scene's physical mode, or solve a body no package moves | [Physical feedback](physical-feedback.md) |
+| Use a recorded, generated or imported clip, or a changed rig | [Retargeting](retargeting.md) |
+| Generate or refine motion with a model, or trace it from footage | [Motion diffusion](diffusion/SKILL.md) |
+| Render the motion hint's control channels | [Control channels](control-channels.md) |
 
-[Source layout](../development/source-layout.md#how-the-parts-work-together) says how a cast entity's capabilities carry those actions into a scene.
+## The motion vocabulary
 
-When a vocabulary action misbehaves in a case, hand the user the case and its numbers under [installed packages](../development/reuse.md#installed-packages) rather than patching it in the production.
+Whatever a person or a group does is composed from the installed motion vocabulary, on the objects [entity work](../development/entities.md#objects) takes from the installed archetypes. The vocabulary fits each action to the performer's own body, moves that body by the forces on it, refuses what it cannot do and reports its own physical bounds, and the packages move what people use and ride; motion code a production writes does none of these. So the production writes code that moves a body only to extend the vocabulary, retargets motion the commission supplies as a clip, and generates motion with a model only where the user chooses it.
 
-## Compose the film {#compose-the-film}
+## Order
 
-Compose the film from accepted cases through their entity API and the screenplay alone, one short contiguous segment scene by scene under [staging](staging.md) and [frame evaluation](frame-evaluation.md). Pass [segment review](segment-review.md) before extending from a segment's accepted ending.
+Work in this order, because each step uses what the one before settled:
 
-A defect the film shows in a body, contact or behavior goes back to its module and its case, as the [composition contract](../contracts/development/composition.md#composition-only) requires.
-
-## Other resources
-
-Use [retargeting](retargeting.md) for external clips or changed rigs. Render the motion hint and its [control channels](control-channels.md) from the accepted performance, and hand scene output and its timing to [assembly](../production/assembly.md).
+1. Study what [when to study](../story/planning/research.md#when-to-study) assigns to code.
+2. Build the coarse entities under [entity work](../development/entities.md#coarse-first).
+3. Compose each person's and group's performance and repair any refusal.
+4. Extend the vocabulary only for what composing cannot express.
+5. Accept every entity and motion module alone in its catalog case.
+6. Stage segment by segment, extending from one only after it passes segment review.
+7. Deliver a commissioned [detail option](../development/entities.md#detail) last.
