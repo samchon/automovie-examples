@@ -1,0 +1,889 @@
+{
+  "scaffoldRootBase": "f1270c68ece39f4c716ba436abae4f167aab7bc2",
+  "scaffoldIncludes": "The catalog-cases clause committed in the root benchmark delivery",
+  "examplesSource": "f37b3da6dfe48eaf402ff6cf660d4a24b5a0451b",
+  "sdk": "Published AutoMovie 0.2.0 with the recorded patches, without local source overrides",
+  "installation": "Completed pnpm install at the examples workspace root",
+  "runtime": "Node 22.23.2; pnpm 12.18.0; Windows x64",
+  "instructionFiles": [
+    {
+      "path": ".agents/skills/documentation/SKILL.md",
+      "sha256": "2abd873a60b2bff017a9b1bd7fc5b76b2d19da4e9db6a0d148ba2bdbe9738934"
+    },
+    {
+      "path": ".agents/skills/documentation/writing.md",
+      "sha256": "36fd586b91d722f3f6f34b09bcdaabff8a75a72b9e67bec460213e88a91c4a91"
+    },
+    {
+      "path": ".agents/skills/prompting/SKILL.md",
+      "sha256": "57f42e49b41818a1588e6287d874ecf0b474a1f29b9967a6a970027d89c28384"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/conditioning.md",
+      "sha256": "a446dc3d463116fe644f38fb75a4e1cc60e05319e838673e7caa005a65ac0a5d"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/crafting/SKILL.md",
+      "sha256": "17c529e31f19fffdd2fc17f5360af89432c9aaaa5f3482f16b570eb6ebcc96ff"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/crafting/construction.md",
+      "sha256": "9e710f1bad6bfd507cd0f37d8ac53e5b6c76f24f5d06ebf90ef03dacd0a9fbb5"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/crafting/lofting.md",
+      "sha256": "a982e5f42bf937d64afdacb94972137e807feb1f232402eec1ef3038c0fdac4d"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/crafting/recovery.md",
+      "sha256": "4f77b8c2633875aa4019cda233ee331e38d4a89bf84940ee77cbb20285824019"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/inspection.md",
+      "sha256": "1a93657627b46b18e6a0c8be41b4e67126b7030d75dd052ac7c2843bfe12a06f"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/modularization.md",
+      "sha256": "299149dd06e412946645fa33882cbab9c20510fa49458b6c6653322879c52e0b"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/rigging.md",
+      "sha256": "b74842dfe1901f1339549a121d64c36f896eeacc4e962de3fac2a1ad2333cb28"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/sources.md",
+      "sha256": "3c97bf5020962c1b50c2a1e0029866979e84231a6d360160b553c6f430c319c6"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/SKILL.md",
+      "sha256": "e620823cac7e3e389d4a30b12b6a785f9b04d4b814c700dbca907fc6a71deff4"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/coarse-forms.md",
+      "sha256": "2ff559ae98aa0a5f4029e1b9d3dd35d00fb7533d1a02befd7567396a6d442758"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/diffusion/image-hints.md",
+      "sha256": "4a6689181c1ee3e330b103b06949cc35337c637f2c0474be77ae0623e6d15ed9"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/diffusion/models.md",
+      "sha256": "5f87bb19e592c65c3cd76047527aed38a82b2f58b6feaec3396e931556ba9484"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/diffusion/prompts.md",
+      "sha256": "da34d17078dbb901f544747ec689a00a12b1d4d58f22954c4afba7a234c8ecd7"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/diffusion/request.md",
+      "sha256": "65fbea25fe32bdf1d2d1c819006c55308507a2162d7e009fbe88fa986435849a"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/diffusion/shape-hints.md",
+      "sha256": "ba6bbc4207ebb440dafd8d81bf41489763dcbbc61a97453b858ef863e26c7fd8"
+    },
+    {
+      "path": ".agents/skills/3d-modeling/diffusion/SKILL.md",
+      "sha256": "853bde1470776a29238b458158aea48974b9a5750609863a8e6b1a28d8cb6df0"
+    },
+    {
+      "path": ".agents/skills/audio/SKILL.md",
+      "sha256": "a48ecfcec42e09a2a71e2a22c1a86e5b014fcbd06c8bebad4f9424299772ed46"
+    },
+    {
+      "path": ".agents/skills/audio/acquisition.md",
+      "sha256": "8d8929e54eb0d86b2dcfe9c9dffc1aea01a68a02535851e8b92f3ad4282caea7"
+    },
+    {
+      "path": ".agents/skills/audio/diffusion/SKILL.md",
+      "sha256": "cdc688b5b2d9b6f5f5dab365ea6f5e7bf45433c7b906a180dcd2478b2a73291f"
+    },
+    {
+      "path": ".agents/skills/audio/diffusion/cloning.md",
+      "sha256": "f25d2c3f13bfee0a38da09e5ce659f1cbf15ff29f57da295436d2eaad47df9dc"
+    },
+    {
+      "path": ".agents/skills/audio/diffusion/models.md",
+      "sha256": "0b2efb4de236c36727ece8cdd82872859e961cb46eea2d892becfd991220fd92"
+    },
+    {
+      "path": ".agents/skills/audio/diffusion/prompts.md",
+      "sha256": "7261b41fccd5b603b98d4f8103398f7aff7cc62182e753f03ddfce246854a126"
+    },
+    {
+      "path": ".agents/skills/audio/film-sound.md",
+      "sha256": "f22571fcf12e64a423b27920cc9faae6757639843eabb2ef469d74edaac02603"
+    },
+    {
+      "path": ".agents/skills/audio/generated-sound.md",
+      "sha256": "abc447322146e54d4dffda89654dd77a02cac60db6aa2426c486c829b2a6f89e"
+    },
+    {
+      "path": ".agents/skills/audio/sound-effects.md",
+      "sha256": "e2a88625e86d8af6e73c0c4f425d9567a0595d32bc516ea43be40918bf29c3af"
+    },
+    {
+      "path": ".agents/skills/audio/soundtrack.md",
+      "sha256": "25831a792025a4d43040237bfd721aee0d681c68c205161304917a97c628c04f"
+    },
+    {
+      "path": ".agents/skills/contracts/SKILL.md",
+      "sha256": "07733793f483ca82e97dec1bccfe48bfe54ecb1f1ff3eaf7b5274f8adcc8086c"
+    },
+    {
+      "path": ".agents/skills/contracts/development/common.md",
+      "sha256": "0896ea1286dc62010f3ae0bed91c49d7cc37b837b42e81dc750ab6fda4659daa"
+    },
+    {
+      "path": ".agents/skills/contracts/development/design.md",
+      "sha256": "18ee50cfbed3266661de7b543674abfc60970eec68881c5343e026ab720f625f"
+    },
+    {
+      "path": ".agents/skills/contracts/development/implementation.md",
+      "sha256": "db2e6c797cc5dcf6ba6e4a5297692151c27dd828a6133f24777f07ec43184ea4"
+    },
+    {
+      "path": ".agents/skills/contracts/development/testing.md",
+      "sha256": "c9083f60c4d6277fe9d1c5e342267b6377570fdc845a562fddcc2ac23ed0ef1c"
+    },
+    {
+      "path": ".agents/skills/contracts/development/SKILL.md",
+      "sha256": "173abdd3309613a960d3f5171150fb753d88d06338241a08fbb0cc66b94a4bf9"
+    },
+    {
+      "path": ".agents/skills/contracts/development/behaviors.md",
+      "sha256": "357333e433d868d975d7d5186cb5ce1d57da8702c8ce498979d850f7b8ae2adf"
+    },
+    {
+      "path": ".agents/skills/contracts/development/composition.md",
+      "sha256": "6085a53ad616e41e804f75f7a93293baf7b66a1b592019db1d900de02be9fde4"
+    },
+    {
+      "path": ".agents/skills/contracts/development/entities.md",
+      "sha256": "64d6f796148d54409e071ce09ece29709687ce6e541e0b5ff7d08605407c9677"
+    },
+    {
+      "path": ".agents/skills/contracts/development/statements/behaviors.md",
+      "sha256": "c3fac6f16b4ba9161aef4f7becc521f1e85c103087a32f53dcb06b9c49198454"
+    },
+    {
+      "path": ".agents/skills/contracts/development/statements/composition.md",
+      "sha256": "69726ff4f5183085687ba3fab65601089452d6a8c6c4236f5344652fc3f14fd7"
+    },
+    {
+      "path": ".agents/skills/contracts/development/statements/entities.md",
+      "sha256": "770f308a49191f0b5985eafd4253a706a5fbc42d5d420e64a8afe8f3bdd7f80d"
+    },
+    {
+      "path": ".agents/skills/contracts/story/SKILL.md",
+      "sha256": "722539258f57ce1d2587899cf75f8c67768998aa0e4663863d1dcfa64fca1aa3"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/discovery/brief.md",
+      "sha256": "8a38b6d864758254f1e211ad822045e660b73b8d2cef1caa47c0910444e1090f"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/discovery/common.md",
+      "sha256": "98873018e1a4073f56c60973666c455dafe098d2a95862eff7d0cda6a479a072"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/discovery/narratives.md",
+      "sha256": "937a9ce3957c9a307e2a5f06be68e4445b5b1a704c514458e17fe42a42b952fe"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/discovery/screenplay.md",
+      "sha256": "908ea8c3b4a576799e64e5f3f9cb648662a2c69c9eb9689e1fbb993941641a52"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/discovery/scripts.md",
+      "sha256": "41fe2a5beb769482bafabcf6fb5da4e20b29372c37c0463fed4dfbeff71d93a7"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/discovery/settings.md",
+      "sha256": "e13a388e02d6b7256a57794e452e9c530960f8fab86c0f3adbcc4f64d05f8ebe"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/discovery/treatments.md",
+      "sha256": "854f2441698400059e0679b40c380cb264bc08fd394a01f6d9c964d970fc162d"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/naturalness/common.md",
+      "sha256": "efe7e436a530cc487714f70182af6326387f2e01ad4d70a985f859e82cf8444f"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/naturalness/obligations/common.md",
+      "sha256": "8b9af196720a3dcadeadf0a68dc6633358a8a7c8f131c85e82bd90045976f4d5"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/naturalness/obligations/realized.md",
+      "sha256": "f7007050783aaed851342f74bf100512bde9f34c8259edab7defc9734c37b20b"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/naturalness/obligations/scripts.md",
+      "sha256": "78b645f5d95d7a1f0e694025785f284fa82c968ca5401b73bb4ade82863d1570"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/naturalness/realized.md",
+      "sha256": "9523cff048a69a5e752e1d193b18e56f8b315db4f06abfe1f2a211211a43f68c"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/naturalness/scripts.md",
+      "sha256": "43e6e499f2d14635ab7890d02048d838cd1bb5c21e122ad8a5272db4584893cf"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/obligations/brief.md",
+      "sha256": "a303013eed2232ae7c24e1a4d763555c26676fd814bc1fda34d58f135fdfa00e"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/obligations/common.md",
+      "sha256": "5f097061c926d6f3dce262dc4ff5d01b84a91953b4cedfc6b9b58b6ceb1d9f72"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/obligations/index.md",
+      "sha256": "5898299e9a6d2499ac8fb1e866563f9d3d53a07ffe21226db2810ee6ceed90c9"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/obligations/narratives.md",
+      "sha256": "1a6181f3a22efad0c1d6beaed8cf266784fce25c43c9647e7b5d363d18a23ec3"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/obligations/review.md",
+      "sha256": "0032ee9c716de055cc8dab6d1cdcd2c6f944d1f04998fcf06ded3b2876c7f1d7"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/obligations/screenplay.md",
+      "sha256": "d5fbf14918323e3267ae6bf42cfecc0f5e178f7d2c24b5b6adc88beeba61a176"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/obligations/scripts.md",
+      "sha256": "6a088c2f75d94183d893c27b8a3b980e9725596cdebcc373fbc5f019a45b114e"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/obligations/settings.md",
+      "sha256": "c15a15839cfd9732728ff132043aaa32c2f8ff3c033fc625240cda9ac54eb8f4"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/obligations/treatments.md",
+      "sha256": "f18590465e3f7eb42cad4f5e92b54dee205b74b022a356348a8b3f396c009428"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/principles/brief.md",
+      "sha256": "197bdc3977b3b907e45f6a5ffd73708f648c2994377212e0e4350dc75fadf41b"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/principles/common.md",
+      "sha256": "39d9bef55e5896c26be97ec0aeb706495fa22ef018dff5524a2e6008b0126993"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/principles/index.md",
+      "sha256": "94e74742b5a537cd9eb5fa2d2ebb880495b799966d2a767b3bad5a0d0e42180d"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/principles/narratives.md",
+      "sha256": "4d4f323acce14bcc548d60432b82a3c25532fe69c633e1e4bbdca5526f228bc1"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/principles/realized.md",
+      "sha256": "919d80788718dc168158651c3cf729c769c1c7b7f21139c5c7dfbce2fb397d10"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/principles/research.md",
+      "sha256": "badfb46068597a2c3b358968b9031e3c06bbff3023fd433e8431bef9d936580c"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/principles/review.md",
+      "sha256": "d408f10f4324cb7e37560664407a0a6211e66fd267399b8c646f6ce0f6e464d1"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/principles/screenplay.md",
+      "sha256": "a520847e11b3ea1535ea8c8dd2cead6007fbb8aef538fc2fb1daa2800e716380"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/principles/scripts.md",
+      "sha256": "4dfdedd6bbb8cfad4cacfbf6714bc98fb94a64d8ed22383eeb20ca92658dc84a"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/principles/settings.md",
+      "sha256": "542684149b0506aec8851d6867ec6c0d0bc352c66e4a3bc6581fd8d885efb082"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/principles/treatments.md",
+      "sha256": "14590310d272ef9ea5cfd3f936bc48589cc2038bcea0c2b80032b1dd6ac533db"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/discovery/brief.md",
+      "sha256": "28ed6ecbde8f686008ea62679a7d7964a6f16f5f4091345d6c49945ead22ad93"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/discovery/common.md",
+      "sha256": "141256340dd22ba92ea23c884b994ac1aff17bf93407026203dc6eaf9a675c90"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/discovery/narratives.md",
+      "sha256": "3ae9587f2687dd7fb6628f5543f7c3da02108c38e6abb0648b9b5f0ea20de3fb"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/discovery/screenplay.md",
+      "sha256": "159f31c85eb49cddad5d3a88169e87d1f6406cb36ff4ad5b980b98f99cb012cb"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/discovery/scripts.md",
+      "sha256": "fdb67ff92d8c11cefc524f590d08c2d33b584312a9ef26fb364ca1b575f30e7d"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/discovery/settings.md",
+      "sha256": "d6790a3b5f83665c54b4a40be6aacac8d18f62dab06f9420b872208aa0778e90"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/discovery/treatments.md",
+      "sha256": "3dbf5705e9be763954838f4a78d2f9f6379f85ad0d196f2b77407e7ab2c5f8d5"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/naturalness/common.md",
+      "sha256": "1da86630dd3f0c10872662f23d0132a77f0ad9ac458602e722107a17b393b9f8"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/naturalness/obligations/common.md",
+      "sha256": "4f07b8a238d14e3f91322b5d83b323818b3db66d9a22f893b1832d50cfc27565"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/naturalness/obligations/realized.md",
+      "sha256": "a06488aed82364337976ab94a492783333795cf88dff7ab8fda6722584a8efed"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/naturalness/obligations/scripts.md",
+      "sha256": "b9ad1cc31df2ece304b9f2e6443a82fb63d59e480c641179c70e43c5fb03b037"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/naturalness/realized.md",
+      "sha256": "ebdf25afde712e197f48556fbe746f599b4b59a4a1ae016174852fcf6a671dc4"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/naturalness/scripts.md",
+      "sha256": "540b00907b38a1f81b9869d6613a2db508137bd871eddeab765e366e801a80fb"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/obligations/brief.md",
+      "sha256": "3a39612c307ba46de09d507e3217fd5eeb296b55679c7a17dd4c796a7f852301"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/obligations/common.md",
+      "sha256": "aa9493d159d5b53d37911ca32743e513d9b1d08506d1029e905d43b0889380a4"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/obligations/index.md",
+      "sha256": "fad84ec63ea22863dc222695f9f9a156b8a47a660b38f17bac8b3a059c87882f"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/obligations/narratives.md",
+      "sha256": "586cac527c28fce217ac41489c25f3643927d68a3c072d67b6bc44004bc41b0f"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/obligations/review.md",
+      "sha256": "73c6eeba04c01780b10333fd8d28830261b7e98cd9dd22c2c2d01dcced409aa4"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/obligations/screenplay.md",
+      "sha256": "abfa68dbd0ac8a1106551e1395744a54aeafa48ac933490a6add05a70edbfb30"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/obligations/scripts.md",
+      "sha256": "4be6f2ba9d872b6727d5b782f29abad7794293f58f39a9606bceebe46387d8fc"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/obligations/settings.md",
+      "sha256": "ac6ae7d1f3f6872116465a0f7d8a04159a66a6d6ad5447d3a45da1aa2ca29822"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/obligations/treatments.md",
+      "sha256": "db13414ccdddea7ae1772f9d34338778ce5e097a977c5a34d62c0b52ee72b672"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/principles/brief.md",
+      "sha256": "ca158270fb2492c577d9d2efdb532ffa4d8203824c8895512193efa6d9ae6d7d"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/principles/common.md",
+      "sha256": "a2f02efa8f0e2d3bcf7cb72285e6da90d8ddfb97f4eb2a25ad8dbccf25318d53"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/principles/index.md",
+      "sha256": "2d6dcd27154d5b6141cf6485b1339849f25cf4f0bda9647e95d589c6ffadd84c"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/principles/narratives.md",
+      "sha256": "0b788bdc8fbea11bb49522a7adfe900758474775873ac3bac42f171014185dc3"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/principles/realized.md",
+      "sha256": "8df802976973188e37dd6db6dd563a0e1a3cd8825368782969a1fcf4d9512030"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/principles/research.md",
+      "sha256": "9d6cfeea7762a558bcbbe5e23188cea3ad5469456ea1479b6ad74bee88895524"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/principles/review.md",
+      "sha256": "fc915213691febead6b216c806596810936d361ab4cef4eeb1e0380b3d1d1901"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/principles/screenplay.md",
+      "sha256": "297a2764aab89cdb50bdbb91dfad501e4afbb6b7b12ddace787f45c92d42a18e"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/principles/scripts.md",
+      "sha256": "dfb2eef2a5cfe74138d16892712d0a40f4c3a5ea67474fb60cf058b8fbac1a6b"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/principles/settings.md",
+      "sha256": "2ebf10ae11d6d881a4c0b558832e901c647d6c0a61be266913f6cf82fba12858"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/principles/treatments.md",
+      "sha256": "fcd184ec090b22171df26dac8e8c8ced7c9791009489fc692686eb132318379c"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/upstream/screenplay.md",
+      "sha256": "5fcaf32381db87d7f894b1c2b9c3335fa5435f2853798bce262b83fe351c92ba"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/upstream/scripts.md",
+      "sha256": "0c816a2d3a8d4232ec510ebcdd28f285aab16af8dbde5553ea8aaa52ac403516"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/statements/upstream/treatments.md",
+      "sha256": "f8f97b70c517b4c29a384790ab0a11bdbb98fb78d600c091a91296e5a7b2c59b"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/upstream/screenplay.md",
+      "sha256": "365d8f4819941e57bfcc5cfb542cb8a4b189e66d5b30370fabcb44ac5d43ba52"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/upstream/scripts.md",
+      "sha256": "8f64127df8d451514a5f7e52e42ca925f0c8adf1c63a7f84ce086c846d36518f"
+    },
+    {
+      "path": ".agents/skills/contracts/story/shared/upstream/treatments.md",
+      "sha256": "10e95c60cf2b8adf0d54821afaaecd41570fa7cc820e0d0c69f4ea7910458c39"
+    },
+    {
+      "path": ".agents/skills/development/repair.md",
+      "sha256": "01ded6a0030b2b8df98e34cf9528d65863220cb3ffd5aaa0ab63cd531c29291a"
+    },
+    {
+      "path": ".agents/skills/development/SKILL.md",
+      "sha256": "baad1820aaedea1038b9a7b62c18c32e91233d824b297ae47e5f26d7ce8b2333"
+    },
+    {
+      "path": ".agents/skills/development/entities.md",
+      "sha256": "46389068e10805562fe0064e52f52dc2393d27f1c5a0b2f3dbf9af71011c658d"
+    },
+    {
+      "path": ".agents/skills/development/reuse.md",
+      "sha256": "12f4525c0adeb093f9549f5d698fa73a14223bf6e6ceff9372d2fdb8c5755659"
+    },
+    {
+      "path": ".agents/skills/development/source-layout.md",
+      "sha256": "b9660cb58aa56a0623431fec4ea9bc88209dfc8b176d03f5454c26e0c4a5dee9"
+    },
+    {
+      "path": ".agents/skills/development/testing.md",
+      "sha256": "61b431408c247476d3b31d182e8a6473cd2644207600c82d8bf1f196e84fa60a"
+    },
+    {
+      "path": ".agents/skills/evidence/SKILL.md",
+      "sha256": "f331db58c977b01c688072c3cbccedd334cab115c1cdd00f8d4bb590b0199f9c"
+    },
+    {
+      "path": ".agents/skills/evidence/adoption.md",
+      "sha256": "d5d7a17ead59c5189dc5a17487c5aa6a270af5d4adfab81090a67c396804e7ad"
+    },
+    {
+      "path": ".agents/skills/evidence/answering.md",
+      "sha256": "fc42ade8a1742362830f4230d4e54d243e8c34392a057bbf6ce6442daf137c7c"
+    },
+    {
+      "path": ".agents/skills/evidence/configuration.md",
+      "sha256": "a9ed4127f049e530cbe1ce370cf2edf507218a502ef742b55600be604d48b894"
+    },
+    {
+      "path": ".agents/skills/image/SKILL.md",
+      "sha256": "974cc9c97d18e531d4cf883593a0d6afcb962bec9bb1943d46483ebfa23cdc3a"
+    },
+    {
+      "path": ".agents/skills/image/canon-references.md",
+      "sha256": "c62ab8c12c0d86154220c0006627a2a90dbec54b94e29ecc56923cf4e5f29bad"
+    },
+    {
+      "path": ".agents/skills/image/diffusion/SKILL.md",
+      "sha256": "509e5523f9ef209411bb08a8bdcf9462717a7a26e039ba1994f95e376810121a"
+    },
+    {
+      "path": ".agents/skills/image/diffusion/conditioning.md",
+      "sha256": "cb286b91282e04bab4d4018fdef7ff54e90be1ed7a0a0970c6900677d62e4aba"
+    },
+    {
+      "path": ".agents/skills/image/diffusion/consistency.md",
+      "sha256": "7400db4b6b8bf29ad994529cd81658ce363c073593608d51ae8e9eb3b89a8040"
+    },
+    {
+      "path": ".agents/skills/image/diffusion/editing.md",
+      "sha256": "b92647cafc3076ad9ced372713b5c0c1e0f82040a38c74f6f47c99902f6b01af"
+    },
+    {
+      "path": ".agents/skills/image/diffusion/finishing.md",
+      "sha256": "f4f5244942e294534fd0f19fcc9d4e2a1cfdf99d4ee9b055fed5f8c2427fc536"
+    },
+    {
+      "path": ".agents/skills/image/diffusion/models.md",
+      "sha256": "c8dd23f9e065030d526ab1b83306b5798c3147ec86e5b8a5daa855b480b719f9"
+    },
+    {
+      "path": ".agents/skills/image/diffusion/prompting.md",
+      "sha256": "4db01b78b929b83a251e7ae6de659b69200726d3ccc7abea66a50aa11e182ec2"
+    },
+    {
+      "path": ".agents/skills/image/turnaround-views.md",
+      "sha256": "1fb83fa1c40b39e8b82b37e325aefa76739c874fd1f1de2ad8415eb48c3ebb97"
+    },
+    {
+      "path": ".agents/skills/motion/SKILL.md",
+      "sha256": "5a53cdd8bc37f94723ecb22110d15082093aac3f97616a774427b428fe28b0d9"
+    },
+    {
+      "path": ".agents/skills/motion/catalog-cases.md",
+      "sha256": "3cd39ccce348e68463495f7e660a7a9241c8418d427b38bee2da962b04cb4e8f"
+    },
+    {
+      "path": ".agents/skills/motion/compose/composition.md",
+      "sha256": "37dc91f57dc40b0574bd8733feadb8cec437ba33398242fc3a8d0119d210bb5c"
+    },
+    {
+      "path": ".agents/skills/motion/compose/refusals.md",
+      "sha256": "95f01c2350b37a27742a5591d8776f0ba308a0b59f4f3f48ed818559f72faa50"
+    },
+    {
+      "path": ".agents/skills/motion/control-channels.md",
+      "sha256": "6b10a0df59769e9e11ec1e8353a960a29e91971519aece1882df9d34bbf0d369"
+    },
+    {
+      "path": ".agents/skills/motion/diffusion/SKILL.md",
+      "sha256": "956b1a971c5f6920588ac41fc72e85b320831ac6ec40dbed0eba7d6d27aa33be"
+    },
+    {
+      "path": ".agents/skills/motion/diffusion/clips.md",
+      "sha256": "a28a82f49a6c4f1ab0b5a3255c458e07d98f861354608fc142b1536fabc3ac7a"
+    },
+    {
+      "path": ".agents/skills/motion/diffusion/hints.md",
+      "sha256": "2f8249389c9d59f2da114339538f89519a9732b3ab100ebdc5cb8af18f5ea62d"
+    },
+    {
+      "path": ".agents/skills/motion/diffusion/models.md",
+      "sha256": "26765d4ec3336fe50c9dfc151ad8bb7c495bb7badcb8e3a420deb535868f26c9"
+    },
+    {
+      "path": ".agents/skills/motion/diffusion/tracing.md",
+      "sha256": "2413cc6018df0904215295572d52658486a0e403d7ee260994dae2bf64571903"
+    },
+    {
+      "path": ".agents/skills/motion/frame-evaluation.md",
+      "sha256": "da1e8e7c0227d69e7c1396eb8eb0046fbc285011cc416c52e6829e3cbe305eab"
+    },
+    {
+      "path": ".agents/skills/motion/laws/authoring.md",
+      "sha256": "5bbfc8933ad8f5e72894a25d3c24e597b9c1cd132e7c988159184151d9baa9be"
+    },
+    {
+      "path": ".agents/skills/motion/laws/contacts.md",
+      "sha256": "2d9d705654d88dd4d9aebd8374793577fc6bbcf95639164c5cab297559217226"
+    },
+    {
+      "path": ".agents/skills/motion/laws/declaration.md",
+      "sha256": "fc9ed8874b06a7a513c8740fc355067e3d2af785674e7edeb6e30c26f1f8c7e7"
+    },
+    {
+      "path": ".agents/skills/motion/laws/transitions.md",
+      "sha256": "1b26a6c53752abd2aa03adf8898007538436e6f9a1af7533eb5a46bc2c19c6f9"
+    },
+    {
+      "path": ".agents/skills/motion/laws/variation.md",
+      "sha256": "cb3e1d0ac16ee80afb9fb501552f2f39cb6d1195f667e28e14c708c10ed72bd2"
+    },
+    {
+      "path": ".agents/skills/motion/laws/verification.md",
+      "sha256": "94674464f6ea2fb6aeb832e21a8506dea3e7451781fb5348c0b24689f9bacc65"
+    },
+    {
+      "path": ".agents/skills/motion/laws/SKILL.md",
+      "sha256": "388739a1f1375f636cfa0472408ea6e4fbb106af9201c0c697edf4ca94d5737b"
+    },
+    {
+      "path": ".agents/skills/motion/laws/extension.md",
+      "sha256": "959db82aeb226e2021cd386bbf9e565c6beec1fbacedf990172097b00f443c02"
+    },
+    {
+      "path": ".agents/skills/motion/laws/method-references.md",
+      "sha256": "ed277a96a53924369cc2413623c3542dc3d4537895cc9d8f4dade616eb5407b2"
+    },
+    {
+      "path": ".agents/skills/motion/physical-feedback.md",
+      "sha256": "01d58926fff07ecb2e87262a94addcc44fbfbc2ac93ec9e9a4950b21377fab85"
+    },
+    {
+      "path": ".agents/skills/motion/retargeting.md",
+      "sha256": "7db14d5dfe47eb22438c032a823b6fe48351980412dd020685ac09ea0ae44863"
+    },
+    {
+      "path": ".agents/skills/motion/segment-review.md",
+      "sha256": "d037336ba6e2d1f76da2ab142541e9f723edfb7c1ab0ff038fafc70db5fa4f74"
+    },
+    {
+      "path": ".agents/skills/motion/staging.md",
+      "sha256": "9f4e4b72cb8f0255ea6d273e00224caea2adb71bb910edf3cf9490569054e750"
+    },
+    {
+      "path": ".agents/skills/production/SKILL.md",
+      "sha256": "5703b7dd58c2c3ec12182fe5ba72c5dcef2c6ee7d6ba7ebf2b154806a58a62eb"
+    },
+    {
+      "path": ".agents/skills/production/assembly.md",
+      "sha256": "2da3165eb16ed89fe4655ff67ead7692e0ccca96e51bde0d3281a384cf461e83"
+    },
+    {
+      "path": ".agents/skills/production/captions.md",
+      "sha256": "7cde65f9608424a27a3b24752e6014b6c4b7d1873f840c7255358fde247f4f7d"
+    },
+    {
+      "path": ".agents/skills/production/media-records.md",
+      "sha256": "830a58e4356c9bc3bfbf40229bb11f7aab2cbfad1294c5ee816f2f9533b4a67e"
+    },
+    {
+      "path": ".agents/skills/production/project-context.md",
+      "sha256": "07348c04689a385efe498cbd04e9c86b1ae4bfd3b460424a6770be0ae4e2069e"
+    },
+    {
+      "path": ".agents/skills/production/reorganization.md",
+      "sha256": "0d535c64194e6468a3b67179e00a651adde4b973d62aab99fb9219db9206c171"
+    },
+    {
+      "path": ".agents/skills/production/stage-caches.md",
+      "sha256": "310574942e5fb1521fc1604b182b35c93d5b4bec075d20dde5d4a1f5802a139d"
+    },
+    {
+      "path": ".agents/skills/production/sustained-runs.md",
+      "sha256": "2a3e452badad12379424d7e9f7f133ffc355851ab48a337ea84dd0b17fa81d98"
+    },
+    {
+      "path": ".agents/skills/production/workflow.md",
+      "sha256": "c3731502439fc946b5baa0b4080920f9c0e09f8c6a51d3047edce32231b3dd83"
+    },
+    {
+      "path": ".agents/skills/review/SKILL.md",
+      "sha256": "6b1b597de0da096ee06bf43e90756ccb5d1b509591261a415199266559c63bca"
+    },
+    {
+      "path": ".agents/skills/review/delivery-review.md",
+      "sha256": "c96f416b791f454ea9b003a5cdc9dc102d65f01c2985ff3664e2d2dd3a7f448c"
+    },
+    {
+      "path": ".agents/skills/review/estimation.md",
+      "sha256": "cc40a77d6899c92191404242534d3ef51b89891392cfb64444e38a8928c384f5"
+    },
+    {
+      "path": ".agents/skills/review/independent-reading.md",
+      "sha256": "ca97cc19f6fee39f007bfeeed985d10ec8c85926e9668d682dc9415bd484909e"
+    },
+    {
+      "path": ".agents/skills/review/narrative-rounds.md",
+      "sha256": "58252bf7eaae25d1b3469d2e10db77fd8cc171bdf68f5216a7a7e0571db4e07d"
+    },
+    {
+      "path": ".agents/skills/review/source-review.md",
+      "sha256": "1f4543d85213220d0327deb6557492de50d49803e6fa17d57abc99e834cdf0bf"
+    },
+    {
+      "path": ".agents/skills/story/SKILL.md",
+      "sha256": "1ba90694a95a02e42802b1c54349b97aed235b11c8a0572a7b94e901cdb91fcb"
+    },
+    {
+      "path": ".agents/skills/story/answers.md",
+      "sha256": "56cc9947dd29dc0cc477720439ab2a8cb8bf9d8dee5c2c08b09d19ef675fac32"
+    },
+    {
+      "path": ".agents/skills/story/correction/inspection.md",
+      "sha256": "e5ff689d0de61da3ee47fd73918ff401b7a722447f2dfdced267de5e0207b7df"
+    },
+    {
+      "path": ".agents/skills/story/correction/repair.md",
+      "sha256": "d284a7e2b6e7e0f9fe03306deed1395ad1bffc952df00df339ea76415c7cb403"
+    },
+    {
+      "path": ".agents/skills/story/document-layout.md",
+      "sha256": "d2ae4edc15396a22eac3fe906016b9cc7f8d0d607aa4e63c699c1bc8752b5ddf"
+    },
+    {
+      "path": ".agents/skills/story/layers/SKILL.md",
+      "sha256": "00284d8ea92384d5201a000e0044791730326bd166e7c1e9df5c2d1cba1c686f"
+    },
+    {
+      "path": ".agents/skills/story/layers/brief.md",
+      "sha256": "8988a136006cb7e82fb11356015f974e3795e619b1fd6590b0f7324922091686"
+    },
+    {
+      "path": ".agents/skills/story/layers/notation.md",
+      "sha256": "5c713e14d4e23019f7075d9e6965477e7fa9c49538730146e7fb40e9829b32b3"
+    },
+    {
+      "path": ".agents/skills/story/layers/screenplay.md",
+      "sha256": "3226d0e532125c3e15682c3f83ae443a393ecafcb2bbddbb05c9c70984900037"
+    },
+    {
+      "path": ".agents/skills/story/layers/scripts.md",
+      "sha256": "374c715dcf3ef905c84f00baa173b52efa79fa3d38e587815fc30eecec3b7068"
+    },
+    {
+      "path": ".agents/skills/story/layers/settings.md",
+      "sha256": "1220f51f3e1031435a15bb2ba9c866c891c644a6b5642172f5cd59a8221d64a0"
+    },
+    {
+      "path": ".agents/skills/story/layers/shots.md",
+      "sha256": "41769593f90d2ebdaa3265e19f0f4f558971b514f12a13d38d8725f04d183f17"
+    },
+    {
+      "path": ".agents/skills/story/layers/treatments.md",
+      "sha256": "068f933a3c2fc54dff83952a8cab4feb3f70f51b575c06db7725ccbb2b9bea78"
+    },
+    {
+      "path": ".agents/skills/story/planning/SKILL.md",
+      "sha256": "3e7bf7cee23dbded35faa84b00fa7ead9944e887abfff625e0bbfbaa860790cf"
+    },
+    {
+      "path": ".agents/skills/story/planning/direction.md",
+      "sha256": "7cb00754b8797f6efd084ffc00dda37af89b17b9800ff12a7d1b6d441d583b57"
+    },
+    {
+      "path": ".agents/skills/story/planning/discovery.md",
+      "sha256": "27891b0c7e0bd42f4efc627230595e17a023413ec016b8e5b73efe480c4b7e32"
+    },
+    {
+      "path": ".agents/skills/story/planning/requirements.md",
+      "sha256": "3b44e9d9ab7c71f9309d5b839065ea0c79e7729002ae46a7dcb9f134e30969e2"
+    },
+    {
+      "path": ".agents/skills/story/planning/research.md",
+      "sha256": "c3cd7347cb6682e7dce06a8c597e37978f8a57b7295bbe41f784d1fd0b7beeb0"
+    },
+    {
+      "path": ".agents/skills/story/workflow/SKILL.md",
+      "sha256": "19b87a52aafa4460241502c2253b91adfebbcc681c705294d0c42e81c671e91b"
+    },
+    {
+      "path": ".agents/skills/story/workflow/long.md",
+      "sha256": "24f8cb5b2181e5d41c49c2471844296631e4311fa3ffa33844d5249a93a1d2c0"
+    },
+    {
+      "path": ".agents/skills/story/workflow/routes.md",
+      "sha256": "fa20af9cb25b1755b6adf68f3f85785fad6fcf6474abe9610dc0da4e10a51d56"
+    },
+    {
+      "path": ".agents/skills/story/workflow/short.md",
+      "sha256": "99996151811864c76d6e5e380afbced2377c87eab9b076546c7b535f715542db"
+    },
+    {
+      "path": ".agents/skills/video/SKILL.md",
+      "sha256": "b1110125f93202561c23092e4bc6a4894737addc205a25f282e039ad03c91aaf"
+    },
+    {
+      "path": ".agents/skills/video/diffusion/SKILL.md",
+      "sha256": "2b8a23305ac1bd4038a59ec036e121c7f2c49ee9d7230defbb885af0c3534611"
+    },
+    {
+      "path": ".agents/skills/video/diffusion/continuity.md",
+      "sha256": "9897e040e9286209fafd937181da91bf86a5b09f54b2fecbe1ce441252a84124"
+    },
+    {
+      "path": ".agents/skills/video/diffusion/hints.md",
+      "sha256": "0e6383315c8db9e359a1ed0803a0f40a5c0cb5285536356da5490c3e0b04c0da"
+    },
+    {
+      "path": ".agents/skills/video/diffusion/models.md",
+      "sha256": "6e9dc4076ec36ea6650737fc126024adc4b0134208fdd177d456db225e93694f"
+    },
+    {
+      "path": ".agents/skills/video/diffusion/prompts.md",
+      "sha256": "fa7173fa767081277d148e7b5a81ae815b96dd0eddac8172c43817f1f8a0692f"
+    },
+    {
+      "path": ".agents/skills/video/direct-film.md",
+      "sha256": "1ef58ee4f198c6c6cec2308343cf1d01a867d04b36d7da74775b0c5f3bf62aee"
+    },
+    {
+      "path": ".agents/skills/video/finishing.md",
+      "sha256": "a565e37ac76ca6f70862861b1933f31886c6e3b386c3824789b0d0a8f3002da2"
+    },
+    {
+      "path": ".agents/skills/video/generated-film.md",
+      "sha256": "c8f4899e3575bd545e7cfaa345ba51e9dde8cc126c2aa863604ab029fb403cb5"
+    },
+    {
+      "path": ".agents/skills/video/generation.md",
+      "sha256": "36cadf6f766e6e6d55864236c041769c4def166e42e155b0ae506935b1b983c3"
+    },
+    {
+      "path": ".agents/skills/video/requests.md",
+      "sha256": "1807453416770b7c20aa699bc61093d2d8235c8d05cc7623cf7f3536f7ab6508"
+    },
+    {
+      "path": ".agents/skills/visual-debugging/capture.md",
+      "sha256": "a8d596c8ecc42ef10fa62650e8873be8c3bb07a0cd0c821331beb1c1bcb1057b"
+    },
+    {
+      "path": ".agents/skills/visual-debugging/comparison.md",
+      "sha256": "eca342516247bf161ee4f2fc76452582d31fcd963681119c030feb274dd4583f"
+    },
+    {
+      "path": ".agents/skills/visual-debugging/correction-rounds.md",
+      "sha256": "66c96ffd501ccd022e64c4dab099b78616dd396972c2a07d63e2348252a34764"
+    },
+    {
+      "path": ".agents/skills/visual-debugging/passes.md",
+      "sha256": "4ffa3441dfb434c13a6055a1e28a287cc32f656ad4d07eccc680f46c408637c3"
+    },
+    {
+      "path": ".agents/skills/visual-debugging/rendering-cost.md",
+      "sha256": "0bbb2926fa169512a755340fac832fd3fae63ea8bdf72846ac73cb59f005fceb"
+    },
+    {
+      "path": ".agents/skills/visual-debugging/SKILL.md",
+      "sha256": "073a82a5cadd70b5bab5201b86e35fd108483e83e0a62ec835dece0076e2b8b9"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "25a1ad50f5ad8145f6af39ffa6aa20d142cf234aa8b946e44a029a81e2377636"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49"
+    }
+  ],
+  "patches": [
+    {
+      "path": "patches/@automovie__motions@0.2.0.patch",
+      "sha256": "92edb2151b7121ffa5f7dcfad1384b57834376159d5be9949c82187969b4e4bf"
+    },
+    {
+      "path": "patches/@automovie__render@0.2.0.patch",
+      "sha256": "524f0c250f4f24949f717145104fd3ab0f72a4dd0338d4fc435d00a7e5df0dd6"
+    }
+  ],
+  "removed": [
+    ".agents/skills/image/conditioning.md",
+    ".agents/skills/image/consistency.md",
+    ".agents/skills/image/editing.md",
+    ".agents/skills/image/finishing.md",
+    ".agents/skills/image/models.md",
+    ".agents/skills/image/prompting.md"
+  ],
+  "scaffoldRootDelivery": "7a6aea200a4060106d3df263f9257d873549fdcc"
+}

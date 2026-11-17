@@ -1,0 +1,18 @@
+{
+  "record": "media/automovie/kickboxing/frames/accepted/native-limits-001/record.json",
+  "recordSha256": "86656da6345002751b71f0c876a34d922775aafee19b170bd7daff22664428a5",
+  "state": "complete",
+  "cells": 1498,
+  "failed": 0,
+  "sheets": 54,
+  "allSheetsRead": true,
+  "fullSizeFramesRead": [
+    4500,
+    5399
+  ],
+  "matchesSourceFrameSelection": true,
+  "frameSelectionSha256": "c710d42d0448a3ab366ca04fd01ba3707a0f1b86dd95df62967f1168243c6ab0",
+  "deliveredFile": "media/automovie/kickboxing/videos/film-with-effects.mp4",
+  "deliveredSha256": "20c87499a012cc75fd469082ce997d6309dbd1dce1b0df1ff81520a34ea2dd8b",
+  "limits": "Known native motion/staging defects remain visible; stills establish neither continuous playback nor listened sound."
+}

@@ -1,6 +1,6 @@
 # Native pose discontinuities
 
-The complete source inspection `whole-round-001` drew 2996/2996 cells at 1280 by 720 through the film and fixed high-oblique views. All 125 sheets and the full-size examples below were read. These are observations of the installed native performance, retained under the user's instruction to complete the film with the package's limitations. They are not accepted athletic motion.
+The complete source inspection `whole-round-001` drew 2996/2996 cells at 1280 by 720 through the film and fixed high-oblique views. All 125 sheets and the full-size examples below were read. These are observations of the installed native performance, retained under the user's instruction to complete the film with the package's limitations. They are not accepted athletic motion. The owner report is [#3576](https://github.com/samchon/automovie/issues/3576).
 
 ## Identity and reproduction
 
@@ -32,6 +32,6 @@ The arm excursion is related in appearance to the already closed [#3400](https:/
 
 ## Other production observations
 
-Standing exchanges concentrate near the centre and northwest quadrant; the written red and blue corner visits are not realized. The current production composes relative stance steps, which do not establish those world landmarks. Official travel also crosses the fighting area and briefly obscures the fighters near 60–63 and 109–110 seconds. These are production staging limitations; the inspection does not assign them to an SDK defect.
+Standing exchanges concentrate near the centre and northwest quadrant; the written red and blue corner visits are not realized. The current production composes relative stance steps, which do not establish those world landmarks. Official travel also crosses the fighting area and briefly obscures the fighters near 60–63 and 109–110 seconds. In the ending he kneels at a separate landmark and does not establish the authored supporting contact with the fallen fighter. These are production staging limitations; the inspection does not assign them to an SDK defect.
 
 The original closing camera lost the winner during his neutral-corner stay. The production camera now reframes to the whole ring before that stay, without changing the native poses. The affected 133–180 second capture `closing-framing-002` completed 554/554 cells; all 24 sheets were read and retain the winner, fallen fighter and official through the ending. This repairs the framing, without accepting the motions. The existing seated/supine lie-down and head-count fallback remain disclosed in the [delivery record](kickboxing.md).

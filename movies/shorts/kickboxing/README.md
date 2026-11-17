@@ -13,7 +13,11 @@ pnpm run evidence
 pnpm test
 ```
 
-The project starts with instructions, contracts and a working inspector page over an empty starter film; passing checks do not complete a production. Start with [production](../../../.agents/skills/production/SKILL.md) for the requested output and [story](../../../.agents/skills/story/SKILL.md) for creative work. Default lint and evidence check ordinary TypeScript source and tests, and [evidence configuration](../../../.agents/skills/evidence/configuration.md) adds the narrative scope and stages to the same configuration.
+The project starts with instructions, contracts and a working inspector page over an empty starter film. Passing checks do not complete a production.
+
+Read the [production workflow](../../../.agents/skills/production/workflow.md) for the stages, their handoffs and the skills that own them.
+
+Default lint and evidence check ordinary TypeScript source and tests. [Evidence configuration](../../../.agents/skills/evidence/configuration.md) adds the narrative scope and stages to the same configuration.
 
 ## Films and the inspector
 
@@ -23,13 +27,13 @@ Each delivered video is one film in `src/composition/films/`, registered in `src
 
 ## Stills
 
-Run `pnpm run review:setup` once to install the browser. `pnpm run capture --subject <film> [request]` runs `automovie capture --module src/subjects.ts`: it draws each planned still of the film through the delivery render's draw function and writes the stills, contact sheets and a record into `media/capture/<film>/`, as the [render README](https://github.com/samchon/automovie/tree/master/packages/render#capture) describes, exiting non-zero when a cell could not be drawn. `--file <video>` captures an encoded file's own frames around its cuts instead of a film.
+Run `pnpm run review:setup` once to install the browser. `pnpm run capture --subject <film> [request]` runs `automovie capture --module src/subjects.ts`: it draws each planned still of the film through the delivery render's draw function and writes the stills, contact sheets and a record into `media/capture/<film>/`, as the [render README](https://github.com/samchon/automovie/tree/master/packages/render#capture) describes, exiting non-zero when a cell could not be drawn. `pnpm exec automovie capture --file <video>` captures an encoded file's own frames around its cuts instead of a film.
 
 The request takes the inspector address's keys, each written with `--` before it. The [render README](https://github.com/samchon/automovie/tree/master/packages/render#request-keys) lists every key with what it asks for and the requirement it serves, including marks, rounds, comparisons and the options that select exact frames or seconds.
 
 ```bash
 pnpm run capture --subject catalog --from 12 --to 14 --events 13.1 --views "right;three-quarter@ortho"
-pnpm run capture --file media/automovie/<film>/videos/film.mp4 --from 60 --to 70
+pnpm exec automovie capture --file media/automovie/<film>/videos/film.mp4 --from 60 --to 70
 ```
 
 ## Render and playback
@@ -42,6 +46,16 @@ With `pnpm run dev` running, `pnpm run review --url <inspector-address> --second
 
 ## Physical performance
 
+For this film, run `pnpm run film:bake` to generate native motion from the installed SDK, then select `kickboxing` in the inspector or run `pnpm run render --subject kickboxing --backend gpu`. The bake retains principal poses at every 30 fps delivery frame and peripheral background clips in `media/automovie/kickboxing/native-motion.json`, with source, installed-code and output digests beside it. Browser mounts read this result through the SDK's motion sampler. Run the bake again after changing choreography or updating the SDK; these are computed outputs, not replacement action code. Known contact and performance limits are recorded in [#3574](https://github.com/samchon/automovie/issues/3574) and [#3517](https://github.com/samchon/automovie/issues/3517).
+
+Current SDK arm gestures refuse the official's pointing/counting composition. The available film uses standing head pulses for the count and a head shake for the result, while retaining the original arm inputs. After repairing the SDK, retry them with `pnpm run film:bake --official-pointing --official-arm-count`. The manuscript stays unchanged. Voice generation remains excluded.
+
+The completed limited edition is `media/automovie/kickboxing/videos/film.mp4`, with a procedural-effects version beside it as `film-with-effects.mp4`. The [delivery record](docs/acceptance/kickboxing.md) owns actual measurements, remaining motion/staging defects and regeneration details. Audio and video stay outside Git; `media/manifest.json` records their identities and provenance.
+
+The current workspace retains all 5400 native PNG frames in `.cache/film-production/whole-film-001/frames`, with `checkpoint.json` beside them. The [assembly receipt](docs/acceptance/assembly-receipt.json) records their digests and actual encoding arguments, so another encode can reuse those frames. The stock CLI has no automatic frame-resume workflow; [#3577](https://github.com/samchon/automovie/issues/3577) records that gap. A change to motion, camera or the SDK invalidates the corresponding saved frames.
+
+`pnpm exec ttsx --no-plugins --cache-dir node_modules/.cache/ttsx-round-capture -P tsconfig.json src/executable/captureRound.ts whole-round-001` captures the complete film in the delivered view and a fixed high view, with consecutive frames around its native contacts, replants, counting strokes and phase boundaries.
+
 [Physical feedback](../../../.agents/skills/motion/physical-feedback.md) chooses each scene's physical mode; the installed Engine's README and public declarations own its profiles, simulation, checkpoints, archives and audits.
 
 `pnpm run physics <input-module.ts> <output.amphys> [maximum-bytes]` computes a simulated performance once from a Node module exporting `createPhysicalInput()` and writes the archive with its JSON manifest, 256 MiB at most by default. Keep the archive as a [stage cache](../../../.agents/skills/production/stage-caches.md) under `.cache/` and regenerate it after changing physical inputs; playback, seeking and capture read it through the Engine's physical playback, which checks it against the current input's identity.
@@ -50,16 +64,7 @@ Supply `IFilmProduction.performance` from the displayed state: `src/markFilmProd
 
 ## Make a motion hint
 
-A motion hint is made in these steps:
-
-1. Adopt the request in [PROJECT.md](PROJECT.md), recording its output boundary and the intended execution and capture path under [project context](../../../.agents/skills/production/project-context.md).
-2. Write the screenplay along its [writing route](../../../.agents/skills/story/workflow/SKILL.md), by the [writer the user chooses](../../../.agents/skills/story/workflow/routes.md#who-writes-the-screenplay); when the agent writes the story, [ask the user](../../../.agents/skills/story/planning/requirements.md#asking-the-user) about it first. The route sets the layers before the [screenplay](../../../.agents/skills/story/SKILL.md) and when evidence, independent review and a short's film draft run.
-3. Build the coarse entities under [entity work](../../../.agents/skills/development/entities.md) and accept every module in its [catalog cases](../../../.agents/skills/motion/catalog-cases.md). Take the objects people use from the installed archetypes and what people do from the installed motion vocabulary, and write laws, interactions and consequences, with their tests, only for what the packages lack.
-4. Compose every required main scene from the accepted modules under [motion](../../../.agents/skills/motion/SKILL.md) and [staging](../../../.agents/skills/motion/staging.md), in the folders [source layout](../../../.agents/skills/development/source-layout.md) gives, with each shot's sound described for the video prompt under [audio](../../../.agents/skills/audio/SKILL.md).
-5. Prepare the [control channels](../../../.agents/skills/motion/control-channels.md) from the same performance, with the frame and camera mapping of time-matched channels aligned. Use the supplied inspector, capture and render, or document the production's adopted replacement here.
-6. Assemble and encode the complete work through [assembly](../../../.agents/skills/production/assembly.md), inspect the actual output through [delivery review](../../../.agents/skills/review/delivery-review.md), and hand off what [assembly and handoff](../../../.agents/skills/production/assembly.md#repair-and-delivery) lists.
-
-Other outputs complete as [commissioned outputs](../../../.agents/skills/production/SKILL.md#commissioned-outputs) set, with their boundaries in `PROJECT.md`.
+Follow the [production workflow](../../../.agents/skills/production/workflow.md) for the requested output and its delivery checks.
 
 ## Commands
 
@@ -76,7 +81,7 @@ Other outputs complete as [commissioned outputs](../../../.agents/skills/product
 | `pnpm run render --subject <film>` | Export one film as a picture-only video |
 | `pnpm run review --url <address> --seconds <s>` | Record real-time playback of the running inspector page |
 | `pnpm run capture --subject <film> [request]` | Stills, sheets and a record of a film, with views, passes, marks and round comparison |
-| `pnpm run capture --file <video> [request]` | Stills of an encoded file's own frames, around its cuts |
+| `pnpm exec automovie capture --file <video> [request]` | Stills of an encoded file's own frames, around its cuts |
 
 The project uses ES modules with `verbatimModuleSyntax` and `isolatedModules`: mark type-only imports and exports with `type`, and keep each file transformable on its own.
 
