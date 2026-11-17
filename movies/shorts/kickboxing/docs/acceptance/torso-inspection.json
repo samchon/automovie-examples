@@ -1,0 +1,916 @@
+{
+  "bodyDigest": "7845045e9ad033a19a8248924f69ebb941214df3d829493ae87c1d44dd7c5bca",
+  "nativeDigest": "e131fecc7ebd2b950242ecb6065f7a013c44c934f7ed92ca6f21a4091e535032",
+  "comparisons": [
+    {
+      "breath": false,
+      "guards": 1,
+      "duration": 10,
+      "samples": [
+        {
+          "seconds": 0,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 1,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 2,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 3,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 4,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 5,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 6,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 7,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 8,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 9,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 10,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "breath": false,
+      "guards": 10,
+      "duration": 10,
+      "samples": [
+        {
+          "seconds": 0,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 1,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 2,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 3,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 4,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 5,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 6,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 7,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 8,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 9,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 10,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.807923952666346,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "breath": true,
+      "guards": 1,
+      "duration": 10,
+      "samples": [
+        {
+          "seconds": 0,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.350971119108356,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 2.437065451992376,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 1,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.3665171694006637,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 2.483703602869299,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 2,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.7220850576824396,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.5504072677146263,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 3,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.7885681218535243,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.7498564602278814,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 4,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.350971119108356,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 2.437065451992376,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 5,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.3665171694006637,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 2.483703602869299,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 6,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.7220850576824396,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.5504072677146263,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 7,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.7885681218535243,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.7498564602278814,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 8,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.350971119108356,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 2.437065451992376,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 9,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.3665171694006637,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 2.483703602869299,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 10,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.7220850576824396,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 3.5504072677146263,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "breath": true,
+      "guards": 10,
+      "duration": 10,
+      "samples": [
+        {
+          "seconds": 0,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.350971119108356,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 2.437065451992376,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 1,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.366517169400665,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 2.4837036028692987,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 2,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.2806782744167573,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 2.2261869179175795,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 3,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 3.2613224436039356,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 2.168119425479115,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 4,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 2.8043696100459456,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": 0.797260924805145,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 5,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 2.3629628267802634,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": -0.5269594249919018,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 6,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 2.277123931796357,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": -0.7844761099436214,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 7,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 2.2577681009835353,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": -0.8425436023820861,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 8,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 1.8008152674255453,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": -2.213402103056056,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 9,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 1.359408484159863,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": -3.537622452853103,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        },
+        {
+          "seconds": 10,
+          "joints": [
+            {
+              "bone": "spine",
+              "flexion": 1.2735695891759566,
+              "abduction": 0,
+              "twist": 0
+            },
+            {
+              "bone": "chest",
+              "flexion": -3.7951391378048225,
+              "abduction": 0,
+              "twist": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "film": [
+    {
+      "subject": "owen",
+      "bone": "spine",
+      "angles": [
+        {
+          "axis": "flexion",
+          "minimum": -21.416378558696767,
+          "maximum": 3.8078783922298993,
+          "samples": 4440,
+          "atMinus20": 0,
+          "atPlus35": 0,
+          "atPlus45": 0
+        },
+        {
+          "axis": "abduction",
+          "minimum": -0.0227818078095944,
+          "maximum": 0.9649129472661278,
+          "samples": 4440,
+          "atMinus20": 0,
+          "atPlus35": 0,
+          "atPlus45": 0
+        },
+        {
+          "axis": "twist",
+          "minimum": -12.000074800155511,
+          "maximum": 45,
+          "samples": 4440,
+          "atMinus20": 0,
+          "atPlus35": 0,
+          "atPlus45": 15
+        }
+      ]
+    },
+    {
+      "subject": "owen",
+      "bone": "chest",
+      "angles": [
+        {
+          "axis": "flexion",
+          "minimum": -20,
+          "maximum": 3.8077872713569114,
+          "samples": 4440,
+          "atMinus20": 3182,
+          "atPlus35": 0,
+          "atPlus45": 0
+        },
+        {
+          "axis": "abduction",
+          "minimum": -0.06834474142149335,
+          "maximum": 0.8923395533900967,
+          "samples": 4440,
+          "atMinus20": 0,
+          "atPlus35": 0,
+          "atPlus45": 0
+        },
+        {
+          "axis": "twist",
+          "minimum": -12.000068371630833,
+          "maximum": 35,
+          "samples": 4440,
+          "atMinus20": 0,
+          "atPlus35": 345,
+          "atPlus45": 0
+        }
+      ]
+    },
+    {
+      "subject": "marek",
+      "bone": "spine",
+      "angles": [
+        {
+          "axis": "flexion",
+          "minimum": -26.30397814429494,
+          "maximum": 3.80792337128717,
+          "samples": 4440,
+          "atMinus20": 0,
+          "atPlus35": 0,
+          "atPlus45": 0
+        },
+        {
+          "axis": "abduction",
+          "minimum": -0.03458460703696349,
+          "maximum": 1.09439665473994,
+          "samples": 4440,
+          "atMinus20": 0,
+          "atPlus35": 0,
+          "atPlus45": 0
+        },
+        {
+          "axis": "twist",
+          "minimum": -23.99980573165344,
+          "maximum": 45,
+          "samples": 4440,
+          "atMinus20": 0,
+          "atPlus35": 0,
+          "atPlus45": 2143
+        }
+      ]
+    },
+    {
+      "subject": "marek",
+      "bone": "chest",
+      "angles": [
+        {
+          "axis": "flexion",
+          "minimum": -20,
+          "maximum": 3.8079222085288182,
+          "samples": 4440,
+          "atMinus20": 2844,
+          "atPlus35": 0,
+          "atPlus45": 0
+        },
+        {
+          "axis": "abduction",
+          "minimum": -0.1037520117744314,
+          "maximum": 1.8112019371541865,
+          "samples": 4440,
+          "atMinus20": 0,
+          "atPlus35": 0,
+          "atPlus45": 0
+        },
+        {
+          "axis": "twist",
+          "minimum": -23.99980573165344,
+          "maximum": 35,
+          "samples": 4440,
+          "atMinus20": 0,
+          "atPlus35": 2498,
+          "atPlus45": 0
+        }
+      ]
+    }
+  ]
+}

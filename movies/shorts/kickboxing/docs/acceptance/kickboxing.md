@@ -2,7 +2,9 @@
 
 ## Status
 
-The user accepted the installed motion package's limitations and requested a complete direct polygon-man film on 2026-11-17. That edition is complete as a 180-second MP4, with both picture-only and procedural-effects files. Source inspection and the actual encoded-file inspection completed. This does not accept exact screenplay realization or elite competitive motion. Continuous playback and listening remain unobserved.
+The user rejected the delivered film's visual quality after identifying rigid trunks and elongated gloves. The retained edition is technically complete as a 180-second MP4, with both picture-only and procedural-effects files; it has no quality acceptance. Earlier source and encoded-file inspection missed those decisive appearance failures. Continuous playback and listening remain unobserved. A box remains an acceptable glove: the user requests approximately cubical proportions, not rounded detail. No corrected film has been produced in the current investigation.
+
+Ten full-size encoded frames were reopened at 0, 4, 10, 21.933333, 35, 49.933333, 65, 95, 150 and 179.966667 seconds. The retained native body is already extended and often twist-saturated; the current [controlled reproduction](torso-issue.md) and [measurements](torso-inspection.json) establish breathing-induced flexion drift across action entries. This is reported in [#3597](https://github.com/samchon/automovie/issues/3597). The user again requested issues rather than motion-package repairs. The film's twist saturation is observed separately and its exact cause is not yet isolated.
 
 | Delivered file | Bytes | SHA-256 |
 | --- | --- | --- |
