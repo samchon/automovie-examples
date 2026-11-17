@@ -18,15 +18,15 @@ DANIEL
 
 Fight!
 
-Both men step forward. Their lead gloves meet with a padded tap. Marek draws his left glove back and immediately jabs Owen's right glove, drives a right straight against the closed guard and swings his right shin towards the outside of Owen's lead thigh. Neither returns to his starting position after the touch.
+Both men step forward. Their lead gloves meet with a padded tap. Marek draws his left back and immediately jabs Owen's left glove, drives a right straight into the closed guard and swings his right shin towards the outside of the lead thigh. Neither returns to his starting position after the touch.
 
-Owen raises his left knee and turns the shin out. The kick cracks against it. As Marek draws the leg home, Owen puts his checking foot down and sends a right straight against Marek's returning left glove. Marek's head moves behind the glove; his right foot lands under him. Daniel steps northeast around the pair, watching the replant and counter.
+Owen raises the left knee and turns the shin out. The kick cracks against it. As the shins separate, Owen puts the checking foot down towards Marek, closing the space the kick has occupied. His right straight reaches Marek's left glove as the blue right foot returns beneath its owner. Marek draws his head behind the glove and restores his stance rather than trying to punch from the returning leg. Daniel steps northeast around them, watching the checking replant become the countering step.
 
 - Cast: Owen, Marek, Daniel; the timekeeper begins the round.
-- Intent: Marek turns courtesy into pressure; Owen checks and answers; Daniel clears the lane and observes.
-- Outcome and reaction: the [actual glove touch](../../../instructions/commission.md#glove-touch) runs directly into a combination, check and guarded counter. Both recover to their left-leading bases.
+- Intent: Marek turns courtesy into pressure; Owen checks and steps into a counter; Daniel clears and observes the exchange.
+- Outcome and reaction: the [actual glove touch](../../../instructions/commission.md#glove-touch) runs directly into work. Owen restores punching distance after the check; Marek's guard receives the counter while his feet recover, as the [range study](../../../research/kickboxing/competitive-exchanges.md#checking-and-range) distinguishes.
 - Start: 0, true opening anchor; the exchange plays to about 5 s.
-- Sound: the bell's decay runs beneath padded taps and the sharper shin collision.
+- Sound: the bell's decay runs beneath padded contacts and the sharper shin collision.
 
 ### The open body line {#p01-b02}
 
@@ -40,6 +40,7 @@ Marek dips towards the body. Owen brings both elbows in. The dip becomes a jab a
 - Start: about 5 s, provisional, continuing to 10 s.
 - Space: centre to the southwest quarter, short of the red corner.
 - Camera: follow the retreat left, retaining Daniel beyond the space between the men.
+- Staging: Marek's northward slip develops into pressure from Owen's north-northeast, so Owen faces that way during his southwest back-left retreat with red behind his left shoulder; the camera's westward follow keeps the turned line oblique.
 
 ### An exit closed {#p01-b03}
 
@@ -55,6 +56,7 @@ Owen's weight rocks onto the rear foot. He replaces the lead foot without crossi
 - Start: about 10 s, provisional; this pressure carries through 15 s.
 - Space: the red-corner approach; Owen remains clear of the ropes rather than hanging on them.
 - Sound: a thigh thud, Owen's forced breath and the scrape of his rear sole taking the weight.
+- Staging: Marek closes Owen's westward exit from its north and interior side, leaving Owen facing him with red still behind the left shoulder.
 
 ## CONTINUOUS | 15-30 s {#p02}
 
@@ -72,31 +74,33 @@ Owen sidesteps north along the west ropes, away from the red pad. Marek turns on
 - Start: 15 s phase anchor; internal timing provisional, to about 20 s.
 - Space: red corner to the lower west ropes.
 - Camera: truck north with the exit, maintaining a full oblique view through their visible turn.
+- Staging: Owen's pivot takes him onto Marek's rope side and north past red, while Marek turns after him from the centre side.
 
 ### The first right body kick {#p02-b02}
 
-Owen stops giving ground. His jab taps Marek's right glove upwards; his left hook taps it again as the lead foot steps out. Marek loads a right straight. Owen has already transferred his weight onto the left leg.
+Owen stops giving ground. His jab taps Marek's right glove upwards; the left hook taps it again. As that hand returns, Owen sets the left foot out and lets his head travel back behind his raised left glove.
 
-His folded right knee rises in front and turns across. The left forefoot pivots; the lower right shin swings into Marek's left ribs. Marek's left glove is still beside his cheek. His elbow descends as the kick arrives, too late to close the body line. The right punch never leaves his shoulder.
+Marek starts the right straight at the head that was close enough for those punches. Owen's folded right knee is already rising. The left forefoot turns and the lower shin swings into Marek's left ribs. Marek's right reaches Owen's left glove, knocking it against the side of his head as the kick arrives. The body contact cuts Marek's breath and ends the drive behind his punch. His left elbow descends too late to close the ribs.
 
-Marek blows out a rough breath and brings his left elbow over the struck side. Owen folds the kicking leg back and plants it behind his left. Marek answers with a jab onto Owen's right glove as Owen moves off the rope line. Daniel shifts sideways to see the body contact and the return.
+Owen folds the kicking leg back and puts the right foot behind the left. His head stays protected during the return. Marek gathers his weight and follows with a jab onto Owen's right glove as Owen moves off the rope line. Daniel shifts sideways to retain both contacts and the replant.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Owen earns a right body kick with his hands; Marek intends to punch over them; Daniel seeks the side of the contact.
-- Outcome and reaction: the kick interrupts Marek's launch and breath. The left arm descends after contact; no anticipatory drop has yet appeared.
+- Intent: Owen makes a body opening with his hands; Marek punches the exposed moment between hand attack and kick; Daniel follows the competing targets.
+- Outcome and reaction: the first body kick lands and interrupts Marek's breath. His counter reaches Owen's guard rather than disappearing from the exchange. The left arm comes down after impact; no anticipatory drop has yet appeared.
 - Start: about 20 s, provisional, to 26 s.
-- Space: west side, with open canvas behind Owen after his step.
-- Sound: the body-kick thud stands apart from the preceding padded hand contacts.
+- Space: west side; Owen's support-foot placement opens the kicking line while his head withdraws from its earlier punching position.
+- Sound: a padded guard knock overlaps the lower body-kick thud, followed by Marek's shortened exhale.
+- Staging: After recovering the right kick, Owen moves north and inward from the west ropes while Marek remains on his centre side.
 
 ### The answer to the ribs {#p02-b03}
 
-Marek brings Owen's hands back up with a left-right against the guard. A left hook follows at body height. Owen clamps the right elbow down; the punch knocks it inward. Marek pivots on his left foot and whips a right low kick onto Owen's lead thigh.
+Marek follows Owen's recovered kicking leg with a left-right into the high guard. A left hook follows at body height. Owen clamps the right elbow down; the punch knocks it inward. Marek pivots on his left foot and whips a right low kick onto Owen's lead thigh.
 
 Owen's left foot shifts under the contact. He returns it to line, jabs Marek's head guard and steps north along the west side. Marek takes the inside of that movement, shoulders lifting with harder breaths. Daniel sidesteps beyond their line so that neither fighter hides the other's legs.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Marek makes Owen pay for the body kick; Owen uses a jab to keep the next entry outside; Daniel retains the side view.
-- Outcome and reaction: Marek's pressure survives the landed kick. Owen has an exit from the corner, with a lead leg that now takes more care to replace.
+- Intent: Marek attacks the recovery and then the supporting leg; Owen uses a jab to cover the next step; Daniel retains the side view.
+- Outcome and reaction: the landed body kick has not ended Marek's pressure. Owen carries the guard contact into another defended body shot and a clean thigh contact, gaining an exit from red with a lead leg that takes more care to replace.
 - Start: about 26 s, provisional, carrying to 30 s.
 - Space: north along the west ropes; Marek remains nearer centre.
 
@@ -104,14 +108,15 @@ Owen's left foot shifts under the contact. He returns it to line, jabs Marek's h
 
 ### The inside route {#p03-b01}
 
-Owen jabs Marek's right glove and starts a right round kick towards his left thigh. Marek lifts the left shin into it. The dry check stops the kick. Marek puts that foot down and immediately drives a right straight into Owen's high gloves, then a left hook into the right ribs before Owen's elbow finishes returning.
+Owen jabs Marek's right glove and starts a right round kick towards his left thigh. Marek lifts the left shin into it. The dry check stops the kick. Once the legs separate, Marek puts the checking foot forward into the retreating kick's space and drives a right straight into Owen's high gloves. A left hook reaches the right ribs before Owen's elbow finishes returning.
 
-Owen contracts around the body contact while keeping his feet apart. Marek advances with a jab and right straight into the closing gloves. Owen punches the front of Marek's chest with a short left straight and steps his rear foot north. Marek takes the inside diagonal first. Daniel moves with them along the open centre side.
+Owen contracts around the body contact while keeping his feet apart. Marek links another jab and right straight through a short following step; both hit the closing gloves. Owen punches the front of Marek's chest with a short left straight and starts his lead foot north along the ropes. Marek takes the inside diagonal first. Owen gathers the rear foot behind the lead rather than crossing through the closed route. Daniel moves with them on the centre side.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Owen interrupts pursuit with a low kick; Marek checks, counters and closes the inside route; Daniel watches the compressed exchange.
-- Outcome and reaction: the check produces an immediate counter. Owen loses an inhalation to the body hook and remains at the west side despite his chest punch.
+- Intent: Owen interrupts pursuit with a low kick; Marek checks, restores hand range and closes the exit; Daniel watches the compressed work.
+- Outcome and reaction: the counter is enabled by the checking foot's forward placement. Owen loses an inhalation to the body hook and cannot turn the chest punch into a clear escape.
 - Start: 30 s phase anchor; internal timing provisional, to about 36 s.
+- Space: west ropes, Marek inside Owen's attempted northward route.
 - Sound: shin contact gives way to padded impacts and Owen's broken exhale.
 
 ### One knee and release {#p03-b02}
@@ -127,6 +132,7 @@ Owen exhales against the impact and places his right foot back under his weight.
 - Outcome and reaction: one knee jars Owen's arms and breath. Marek releases before the official intervenes, following the [clinch limit](../../../research/kickboxing/round-practice.md#rules-and-procedure). Neither man throws or sweeps the other.
 - Start: about 36 s, provisional, to 42 s.
 - Camera: follow into an oblique full view that leaves the knee, both bases and Daniel's approaching hands visible.
+- Staging: Owen's roll seeks Marek's northern, own-right side, and the resulting shoulder jam occupies the northbound rope-side exit with Marek still inside.
 
 ### The referee makes room {#p03-b03}
 
@@ -144,6 +150,7 @@ Daniel looks from one man to the other and withdraws towards centre. Owen immedi
 - Start: about 42 s, provisional, to 45 s.
 - Space: the west half opens towards the northwest quarter.
 - Sound: Daniel's command, Owen's long breath and the single jab tap.
+- Staging: On Daniel's withdrawal, Owen's jab covers a northeast diagonal off the west ropes, with Marek yielding only a short centreward step.
 
 ## CONTINUOUS | 45-60 s {#p04}
 
@@ -164,65 +171,70 @@ Marek replaces his lead foot and faces him again. Owen's hands are already back 
 
 ### The second body kick {#p04-b02}
 
-Owen doubles the jab. The first brushes Marek's forehead as he leans back; the second meets his right glove. Owen's right knee rises. Marek's left elbow starts down before the leg swings.
+Owen doubles the jab. The first brushes Marek's forehead as he leans back; the second meets his right glove. Owen sets the left foot and raises the right knee. Marek's left elbow starts down before the leg swings.
 
-Owen pivots through the body kick. Marek's elbow has lowered but leaves a gap in front of it; the lower shin clips forearm and then the front edge of the left ribs. Marek contracts around the contact. Owen recoils and plants the right foot.
+Owen pivots through the body kick with his left glove beside his head. Marek's elbow has lowered but leaves a gap in front of it; the lower shin clips forearm and then the front edge of the left ribs. Marek contracts around the contact and steps after Owen as the red leg recoils. His left hook catches Owen's raised right forearm before Owen has completed the return.
 
-Marek immediately hooks left at the head, striking Owen's raised right forearm, and sends a right straight after him. Owen's rear foot takes him back and the lead foot follows; the straight passes short. Daniel adjusts north of their shoulders to retain a view of the partial block and reply.
+Owen puts the right foot beneath him and gives ground with it, the left following. Marek gathers his rear foot with the pursuit and sends the right straight after the moving head. Owen's head continues back with his feet; the punch passes short. Marek brings the right home rather than reaching after it. Daniel adjusts north of their shoulders to retain the partial block, guard contact and withdrawal.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Owen raises the guard before returning to the body; Marek closes that line early and punches the recovery; Daniel watches both contacts.
-- Outcome and reaction: the second kick still costs Marek breath, but the left arm now moves before contact. Owen has to leave the hand range Marek contests.
+- Intent: Owen raises the guard before returning to the body; Marek protects the ribs and enters against the recoil; Daniel watches both levels.
+- Outcome and reaction: the second kick costs Marek breath, but his left arm now moves early. His first counter reaches the guard; the following straight loses a target that moves during the pursuit. Owen must recover the leg and leave the contested hand range.
 - Start: about 49 s, provisional, to 56 s.
-- Sound: a forearm knock and lower torso thud, followed by Marek's abrupt effort breath on the reply.
+- Sound: forearm and torso impacts are followed by the hook's padded knock and the breath of the missed straight.
+- Staging: Owen's recovered-leg withdrawal stays on open northwest canvas, short of the north ropes.
 
 ### A lower shield {#p04-b03}
 
-Marek advances behind a jab onto Owen's left glove, a right straight against the guard and a left hook that glances off the turning right glove. Owen takes the hook on a small outward step, then raises his right knee again.
+Marek advances behind a jab onto Owen's left glove, a right straight against the guard and a left hook that glances off the turning right glove. Owen takes the hook on a small outward step, sets his support and raises the right knee again.
 
-Marek's whole left forearm drops towards the ribs. The left glove leaves his cheek before Owen extends the kick. The shin lands on that low forearm with a solid knock. Marek gives a short step and sends a right straight back; it falls short as Owen withdraws behind both gloves and replaces the kicking foot.
+Marek's whole left forearm drops towards the ribs. The glove leaves his cheek before Owen extends the kick. The shin lands on that low forearm with a solid knock. As the leg recoils, Marek follows it with his lead foot and drives a right straight onto Owen's left glove. The glove presses against Owen's cheek; his head moves back behind it while the right foot comes down to restore his base.
 
-Owen's head remains directed towards Marek's exposed left cheek through his recovery. Marek restores the left glove only after the leg is down. Daniel shifts beyond Marek's rear shoulder, keeping the next lane clear.
+Owen's head remains directed towards Marek's left side. Marek restores the left glove after the leg is down and draws his punching hand home. Daniel shifts beyond the rear shoulder to keep their next lane clear.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Marek protects the body earlier; Owen repeats the threat and attends to the changed guard; Daniel adjusts to their drift.
-- Outcome and reaction: the third body kick is blocked. The useful protection now carries a full left-arm drop at the rising knee, while Marek's right still threatens the return.
+- Intent: Marek protects the body early and steps into the recovery; Owen repeats the threat, guards the answer and attends to the changed left arm; Daniel follows the entry.
+- Outcome and reaction: the third body kick is blocked and Marek's counter reaches the head guard. The low defence has worked for him, while exposing the same left-side opening to Owen.
 - Start: about 56 s, provisional, to 60 s.
-- Space: north of centre, clear of the corner.
-- Camera: keep the right-knee lift and departing blue glove on distinct outlines within the full paired view, giving the [audience its access](../../../instructions/commission.md#direction) to the developing pattern.
+- Space: north of centre, clear of the corner; Marek's following step closes the space behind the recoiling kick.
+- Camera: keep the right-knee lift, low blue glove and answering right distinct within the full paired view, preserving the [audience's access](../../../instructions/commission.md#direction) to the developing pattern.
+- Sound: a solid forearm knock is followed by the shorter padded impact against Owen's head guard.
+- Staging: Owen's outward step carries him towards open north-centre, while Marek remains on the southeast/interior side and closes after the kick.
 
 ## CONTINUOUS | 60-75 s {#p05}
 
 ### Marek gives ground {#p05-b01}
 
-Owen steps behind a jab, right straight and left hook. Marek parries the jab outwards with his right glove, blocks the straight with his left and bends under the hook. His knees carry his head below it and back up as he steps northeast.
+Owen meets the return of Marek's punching hand with a jab and follows with a right straight and left hook. Marek parries the jab outwards with his right glove, blocks the straight with his left and bends under the hook. His knees carry his head below it and back up as he steps northeast.
 
-Owen's following right straight brushes the left glove. His lead left round kick reaches the inside of Marek's right thigh as Marek settles. Marek turns the knee into the contact and widens his next plant. The blue pad appears behind him.
+Owen's following right straight brushes the left glove. His lead left round kick reaches the inside of Marek's right thigh as Marek settles. Marek turns the knee under the contact and widens his next plant. The blue pad appears behind him.
 
-Owen follows with another jab onto Marek's right glove. Marek drives that hand back as a straight into the red guard, stopping the advance. As Owen regains his guard, Marek steps off the pad's line and breathes out. Daniel takes the open northern route around them.
+Owen follows with another jab onto Marek's right glove. Marek drives that hand back as a straight into the red guard. Owen checks his advance and restores both hands. Marek steps off the pad's line while taking a breath; Daniel takes the open northern route around them.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Owen carries his space into an attack; Marek parries, rolls and arrests the pursuit; Daniel watches the low contact and counter.
-- Outcome and reaction: Owen moves Marek towards blue, but Marek stops him before reaching the pad and retains a way out.
+- Intent: Owen attacks the counter's recovery rather than waiting for a reset; Marek parries, rolls and arrests the pursuit; Daniel watches the low contact and return.
+- Outcome and reaction: Owen briefly takes initiative through the opening between Marek's attacks. Marek's defence and guarded counter stop him before blue and preserve a way out.
 - Start: 60 s phase anchor; internal timing provisional, to about 67 s.
 - Space: north half towards blue, Owen on Marek's centre side.
-- Camera: truck right with them; retain the blue pad behind Marek long enough to establish the threatened corner.
+- Camera: truck right with them; retain the blue pad long enough to establish the threatened corner.
+- Staging: Marek's off-pad step opens the east-side lane and leaves him east-northeast of Owen, facing west-southwest with blue behind him.
 
 ### A check turns the pursuit {#p05-b02}
 
 Owen paws a jab against the blue gloves, brings his right foot closer and snaps the lead left shin towards the inside of Marek's right thigh again. Marek raises his right shin to check it.
 
-Marek puts that foot down outside Owen's lead foot and hooks left from the new base. The glove catches a glancing edge of jaw before Owen's right forearm closes. A right straight follows into the joined gloves; the next left hook at the body strikes Owen's right elbow.
+Marek returns that rear foot behind his left, then takes the lead foot forward as Owen recoils. From the restored, left-leading base he hooks left at Owen's head. The glove catches a glancing edge of jaw before the right forearm closes. A right straight follows into the joined gloves; the next left hook at the body strikes Owen's right elbow.
 
-Marek pivots towards his own left and leaves the blue-corner approach down the east side. Owen turns with him, preserving the gap rather than allowing Marek behind his shoulder. Daniel moves back towards centre to clear their path.
+Marek turns towards his own left, bringing the rear foot with the turn, and leaves the blue approach down the east side. Owen turns with him, keeping Marek in front. Daniel moves towards centre to clear their path.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Owen repeats the inside kick to hold Marek there; Marek checks, counters and turns out; Daniel clears the new direction.
-- Outcome and reaction: the check earns an immediate counter and escape. Marek takes initiative while Owen restores the displaced head guard.
+- Intent: Owen repeats the inside kick to hold Marek there; Marek checks, rebuilds the stance and steps into a countering exit; Daniel clears the new direction.
+- Outcome and reaction: the rear-leg check does not become an accidental stance switch. Marek restores range with the lead step, lands the glancing counter and takes initiative while Owen repairs his guard.
 - Start: about 67 s, provisional, to 72 s.
-- Space: northeast approach to east side; the feet turn and replace without crossing or sweeping.
-- Camera: follow the visible turn south, keeping a lateral gap between the complete figures.
+- Space: northeast approach to east side; the right checking foot returns behind the lead before the advancing counter and turn.
+- Camera: follow the visible turn south, preserving the lateral gap between the complete figures.
 - Sound: shin collision, a clipped glancing slap and Marek's effort breath on the body hook.
+- Staging: Marek's left turn is shallow towards southwest as he leaves blue southwards along the east side, keeping Owen in his inward front-right sector throughout.
 
 ### The head comes back {#p05-b03}
 
@@ -237,23 +249,25 @@ Daniel follows from centre, watching the withdrawn target and Marek's returning 
 - Outcome and reaction: Marek's hook and low kick miss, but Owen has had to yield ground and load the rear leg to make them miss. Both finish balanced on the east half.
 - Start: about 72 s, provisional, to 75 s.
 - Sound: the padded chest contact is followed by breath and the kick's passage through empty air.
+- Staging: Owen yields inward during Marek's following punches, leaving Marek east of him before the next right-knee cue.
 
 ## CONTINUOUS | 75-90 s {#p06}
 
 ### The useful low arm {#p06-b01}
 
-Marek shows a left jab without extending it. Owen's right glove twitches out; Marek drives the real right straight onto the closing guard and hooks left at the body. Owen catches it on the elbow, turns his shoulder and jabs Marek's right glove away from his face.
+Marek shows a left jab without extending it. Owen's right glove twitches out; Marek drives the real right straight into the closing guard and hooks left at the body. Owen catches it on the elbow, turns his shoulder and jabs Marek's right glove as it returns.
 
-Owen puts the left foot outside and raises the right knee. Marek drops his left glove immediately, laying the forearm across his left ribs. The body kick thumps into it. Marek exhales hard but holds his feet, then sends a right straight at Owen's head during the recoil. Owen catches it on the left glove and plants his right foot behind him.
+Owen sets his left foot out and raises the right knee. Marek drops his left glove immediately, laying the forearm across the ribs. The body kick thumps into it. Marek exhales, holds the block and takes his lead foot towards Owen as the shin comes away.
 
-Daniel moves east for the side view of the low forearm. Marek's left hand returns to his cheek only after Owen has both feet down.
+His right straight reaches Owen's left glove during the recoil. Owen keeps that glove beside his head; the contact moves his guard and upper body back together. He brings the right leg promptly beneath him and plants before giving more ground. Marek brings the rear foot with his entry, remaining close enough to follow with his hands. Daniel moves east to see the low block and the occupied head line.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Marek's feint maintains pressure; Owen returns to the body; Marek anticipates that target; Daniel tracks the block and counter.
-- Outcome and reaction: the low left arm stops the kick. Its early departure from the head is tied to the rising right knee, fulfilling the developing [learned tell](../../../instructions/commission.md#tell).
+- Intent: Marek feints to retain pressure, protects the expected body target and enters on the return; Owen kicks, guards and recovers; Daniel tracks the linked actions.
+- Outcome and reaction: the learned low left arm stops the kick, and the following step makes Marek's right a real guard contact. The [tell](../../../instructions/commission.md#tell) is tactically useful before Owen exploits it. That same entry now denies Owen room for an immediate second kick.
 - Start: 75 s phase anchor; internal timing provisional, to about 81 s.
-- Space: east half, Marek east of Owen and Daniel beyond their northern shoulders.
-- Sound: a forearm knock and Marek's answering breath replace the earlier clean ribs thud.
+- Space: east half, Marek east of Owen; the hand range closes through Marek's step after the body contact.
+- Sound: the forearm knock leads into a padded head-guard impact and both men's recovery breaths.
+- Staging: Daniel reaches his east-side view around the northern end of the pair, leaving the kick-and-counter lane unobstructed.
 
 ### The distance disappears {#p06-b02}
 
@@ -268,6 +282,7 @@ Owen answers with a short left to the body, caught on Marek's right elbow, and t
 - Outcome and reaction: Marek's five-punch chain costs Owen body contact and breath. Owen reaches close range through his own guarded answer.
 - Start: about 81 s, provisional, to 86 s.
 - Camera: follow the compressing pair in full view, leaving Daniel at the clear end of the frame.
+- Staging: Owen's attempted left exit is north across Marek's front, and Marek's lead step closes that lane before Owen comes inside.
 
 ### Owen takes his knee {#p06-b03}
 
@@ -282,52 +297,55 @@ Owen holds the left glove a little forward. Marek inches towards it behind his r
 - Outcome and reaction: one knee and immediate release end the second clinch. The acquired left-arm response appears at the knee rise even here. Neither fighter has stopped attending to the other during the separation.
 - Start: about 86 s, provisional, to 90 s.
 - Space: away from the east side towards centre, with the south route beyond Owen's rear shoulder.
+- Staging: Owen separates west towards centre with Marek still east of him, leaving the south route on Owen's own right behind his right shoulder.
 
 ## CONTINUOUS | 90-105 s {#p07}
 
 ### High hands, low answer {#p07-b01}
 
-Marek flicks his left shoulder as though to jab. Owen lifts the right glove; Marek turns a right low kick into the outside of the lead thigh instead. Owen unloads that leg late. The shin lands and his left foot needs a second placement to settle.
+Marek flicks his left shoulder as though to jab. Owen lifts the right glove; Marek turns a right low kick into the outside of the lead thigh instead. Owen unloads the leg late. The shin lands and the left foot needs a second placement to settle.
 
-Marek replants and follows with a jab, right straight and left hook. Owen parries the jab and blocks the straight. He shifts his head back over the rear leg as the hook passes, then drives from that foot as Marek follows. His right straight grazes the outside of Marek's left glove and cheek.
+Marek replants and follows with a jab, right straight and left hook. Owen parries the jab and blocks the straight. He shifts his head back over the rear leg as the hook passes, keeping Marek in front of him. Before sending his right, he sets the lead foot apart from the rear and lets it take the returning weight. Marek's pursuit brings his left glove and cheek onto the glancing straight.
 
-Marek lifts the left shoulder, restores the glove and jabs Owen's forehead guard. Owen's lead foot lands deliberately beneath the counter rather than springing straight into another turn. Daniel follows north of their line as they drift south of centre.
+Marek lifts the shoulder, closes the glove and jabs Owen's forehead guard. Owen remains behind his hands for the next breath instead of springing into another turn. Daniel follows north of their line as they drift south of centre.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Marek opens the leg with a high feint; Owen recovers through a guarded withdrawal and counter; Daniel watches the lead foot bear weight again.
-- Outcome and reaction: the kick makes Owen's first placement uncertain, but he still earns a supported answer. Marek's following jab prevents him owning the next entry for free.
+- Intent: Marek opens the leg with a high feint and follows the reaction; Owen uses a rear-supported withdrawal and a completed lead plant to counter; Daniel watches the support recover.
+- Outcome and reaction: Owen's answer reaches an advancing opponent. The thigh contact still costs him an extra placement and a guarded breath; the counter does not restore his earlier light movement. Marek's jab keeps the next entry contested.
 - Start: 90 s phase anchor; internal timing provisional, to about 95 s.
-- Sound: the thigh impact is followed by two scraping placements and the shorter breath of Owen's counter.
+- Sound: thigh impact, scraping placements, a short countering exhale and the tap of Marek's return jab.
 
 ### The approach stopped {#p07-b02}
 
-Marek steps behind another jab. Owen turns it aside with his right glove, settles over the rear foot and lifts the lead knee. The ball of his left foot reaches the front of Marek's abdomen before Marek's following right straight can reach his head.
+Marek steps behind another jab. Owen turns it aside with his right glove, settles over the rear foot and lifts the lead knee. The ball of his left foot meets the front of Marek's abdomen before the following right straight reaches the head.
 
-Marek's breath comes out and the straight falls short. Owen folds the kicking knee back and sets the left foot down on a diagonal towards the south half. His right foot follows, restoring the stagger. Marek takes a short step to gather his weight and turns after him rather than lunging across the gap.
+Marek's breath comes out and the straight falls short of the withdrawing target. Owen folds the kicking knee back and replaces the left foot ahead of the right. From that restored base he moves the right foot towards the south half, then brings the left with it, keeping space between them.
 
-Owen jabs Marek's right glove as the guard comes round. Both continue south with their heads directed at one another. Daniel walks the open arc beyond their feet.
+Marek gathers his weight and turns after him. His next jab comes with a lead step and strikes Owen's right glove. Owen continues south behind that guard rather than reaching back across the gap for a reply. Daniel walks the open arc beyond their feet.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Marek closes behind his hands; Owen intercepts the approach and uses the separation to change route; Daniel follows the new lane.
-- Outcome and reaction: the lead push kick costs Marek breath and interrupts the straight. Owen gains a southward exit by making the approach stop, then replanting to the side.
+- Intent: Marek closes behind his hands; Owen intercepts the moving approach and uses the interruption to change route; Daniel follows the new lane.
+- Outcome and reaction: the push kick interrupts the right straight. Owen recovers the kicking leg before the rightward sidestep, gaining an exit without crossing or narrowing the base. Marek then restores hand range and contests the continuing movement.
 - Start: about 95 s, provisional, to 101 s.
 - Space: centre into the south half, clear of both side ropes.
-- Camera: follow the diagonal replant and Marek's visible turn, retaining the space opened by the kick.
+- Camera: follow the kick's separation, completed replant and diagonal movement in the same full view.
+- Sound: body contact and Marek's exhale give way to gathering steps and the returning jab's padded tap.
 
 ### The red corner returns {#p07-b03}
 
 Marek steps diagonally across the southward exit. A right straight strikes Owen's left glove; a left hook knocks the right forearm; another right straight at the body meets the braced left elbow. Owen gives ground southwest.
 
-Owen jabs the blue gloves and whips a lead left round kick into the inside of Marek's right thigh. Marek bends that leg under the contact and returns a right low kick. Owen folds his kicking leg back and puts the foot farther behind its former position; Marek's shin passes short.
+Owen jabs the blue gloves and whips a lead left round kick into the inside of Marek's right thigh. Marek takes the contact on a bent leg and returns a right low kick. Owen folds his left knee back and draws the hip over his supporting right leg; Marek's shin passes across the place the lead thigh has left.
 
-Marek replaces the right foot and advances again. Owen faces him with the red pad behind his left shoulder. Daniel checks that pad, then comes round the west side of the narrowing lane.
+As the kick passes, Owen puts the left foot down ahead of his right. He then retreats with the rear foot first and the lead following, preserving the stance. Marek replaces his right foot and advances again. The red pad comes behind Owen's left shoulder. Daniel checks it and moves round the west side of the narrowing lane.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Marek cuts off the exit; Owen attacks the planted leg and withdraws his own from the answer; Daniel follows the approach to red.
-- Outcome and reaction: Owen's low kick interrupts a step but does not reverse the pressure. He has to surrender the ground that keeps the answering kick off his sore thigh.
+- Intent: Marek cuts off the exit and answers the low kick; Owen withdraws the target and gives the ground needed to restore his stance; Daniel follows the approach to red.
+- Outcome and reaction: Owen's contact interrupts a step but does not reverse the pressure. His lead leg returns in front rather than dropping into an unintended stance switch. Avoiding the answering kick costs him the remaining exit.
 - Start: about 101 s, provisional, to 105 s.
 - Space: southwest quarter, approaching red again.
-- Sound: the low contact and missed answer leave both men's breathing audible between bursts.
+- Sound: low contact, the missed shin's passage and the shorter retreating steps leave both men's breathing audible.
+- Staging: After cutting the southbound exit, Marek pursues from Owen's north-northeast, and Owen turns towards him as he yields southwest with red behind his left shoulder.
 
 ## CONTINUOUS | 105-120 s {#p08}
 
@@ -345,34 +363,35 @@ Daniel clears Owen's exit, then moves beyond Marek's rear shoulder. Owen's rear 
 - Start: 105 s phase anchor; internal timing provisional, to about 110 s.
 - Space: red approach to the west half.
 - Camera: truck north with Owen, retaining the red pad behind him until the exit is clear.
+- Staging: Owen's northbound escape passes on Marek's rope side, after which both turn across the west half with Marek still nearer centre.
 
 ### The feint that lands {#p08-b02}
 
-Owen nudges a jab against Marek's right glove. He bears his weight on the left foot and brings the folded right knee up on the body-kick line.
+Owen nudges a jab against Marek's right glove, bears his weight on the left foot and brings the folded right knee up on the body-kick line.
 
-Marek's left glove and elbow drop together towards the ribs. His right starts forward to catch the expected recovery. Owen does not extend the leg. He lowers the right foot behind him, touches the incoming right aside with his left glove and drives his own right straight over the lowered blue forearm.
+Marek's left glove and elbow drop towards the ribs. He takes his lead foot towards Owen and starts the right straight at the expected return of the kicking leg. Owen does not extend the leg. He puts the right foot behind the left, turns the incoming right aside with his left glove and sends his own right straight over the lowered blue forearm. Marek's entry has brought his head into that answer.
 
-The red glove glances across Marek's left cheek before the left hand returns. Marek's head turns, his feet widen and the glove snaps up late. Owen restores his punching hand while keeping his head towards that same left side. Daniel moves sideways with the contact, preserving his view of the recovering bases.
+The red glove glances across the left cheek before Marek gets the left hand back. Marek's head turns, his feet widen to contain the step and the glove snaps up late. Owen restores his punching hand while keeping his head towards the same left side. Daniel moves with the contact, retaining both recovering bases.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Owen tests the knee cue without a kick; Marek commits to body protection and an active counter; Daniel follows the competing hands.
-- Outcome and reaction: the feint makes no contact; the following straight lands. Owen and the audience receive visible confirmation of the [learned opening](../../../instructions/commission.md#tell).
+- Intent: Owen tests the body cue without a kick; Marek closes to counter the recovery; Daniel follows the competing hands and feet.
+- Outcome and reaction: the feint makes no contact and the following straight lands. The [learned opening](../../../instructions/commission.md#tell) is exposed by an active body defence and entry, not by Marek standing still. Owen's parry and replant defeat the attempted counter.
 - Start: about 110 s, provisional, to 116 s.
-- Space: west of centre; Marek's counter keeps him in punching reach during Owen's replant.
-- Camera: hold the full paired view through knee rise, glove drop, replant and punch, without an insert.
-- Sound: the expected body-kick thud is replaced by a sharper glancing glove slap.
+- Space: west of centre; Marek's lead step brings the men into punching range while Owen replaces the unextended leg.
+- Camera: hold the full paired view through knee rise, blue entry, parry, replant and punch, without an insert.
+- Sound: the expected body-kick thud is replaced by a glancing glove slap and Marek's containing footfall.
 
 ### Marek takes back the next beat {#p08-b03}
 
 Marek drives a jab against Owen's guard and hooks left at the body. Owen's right elbow arrives late; the glove reaches the ribs and cuts off the inhalation. Marek sends a right straight into the high guard and turns a right round kick towards the lead leg.
 
-Owen raises his left shin into it. He puts the checking foot down and immediately jabs Marek's head guard. Marek catches it with the right glove and steps after him, shoulders already turning for the next punches. Daniel advances on the centre side, following the shin contact back to the guarded heads.
+Owen raises his left shin into it. As the legs separate, he puts the checking foot down towards Marek and jabs the returning head guard. Marek catches it with the right glove, gathers the kicking foot and immediately steps after him, shoulders turning for the next punches. Daniel advances on the centre side, following the shin contact into the new hand range.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Marek punishes the time Owen spent testing the cue; Owen checks and counters to interrupt the rush; Daniel watches both levels.
-- Outcome and reaction: the successful trick has not made Marek passive. Owen has knowledge of the opening and another body contact to carry with it.
+- Intent: Marek punishes the time spent testing the cue; Owen checks and steps into a jab to interrupt him; Daniel follows both levels.
+- Outcome and reaction: the check has a range-restoring replant and a guarded counter. Marek has already made Owen pay at the body and does not surrender the next approach after catching the jab.
 - Start: about 116 s, provisional, through 120 s.
-- Sound: Owen's arrested breath precedes a shin clack and the dry tap of his counter jab.
+- Sound: Owen's arrested breath precedes the shin clack, counter tap and renewed following steps.
 
 ## CONTINUOUS | 120-135 s {#p09}
 
@@ -391,6 +410,7 @@ Marek comes after him with the left hand restored beside the cheek. Daniel moves
 - Space: west half towards northwest, away from red.
 - Camera: follow the complete retreat; the lead-leg reaction stays in view alongside the head and body work.
 - Sound: the crowd swells under the chain, then Owen's rough recovery breath comes through it.
+- Staging: Marek pursues Owen's northwest retreat from the southeast/interior side, with Owen turning his guard towards him throughout.
 
 ### The pursuer has to turn {#p09-b02}
 
@@ -407,16 +427,17 @@ Owen stays behind that glove while Marek brings his rear foot back under the sta
 - Space: northwest quarter, with centre behind Marek. Owen remains west of him after both men face one another again.
 - Camera: follow the sideways replant in full view, showing the leg withdrawal that makes it possible.
 - Sound: a missed kick has breath and movement; the returning jab taps the guard, followed by the softer friction of their gathering steps.
+- Staging: Owen slips towards the south/southwest side of the pursuit line, then uses the northward kicking replant as Marek turns inward to restore their west-east relationship.
 
 ### The lead foot holds {#p09-b03}
 
-Marek doubles the jab against Owen's gloves and arcs his right shin at the lead thigh. Owen lifts the left shin to meet it. He puts that foot down, bears his weight over it and sends a right straight onto Marek's left glove, then a left hook into the right forearm.
+Marek doubles the jab against Owen's gloves and arcs his right shin at the lead thigh. Owen lifts the left shin to meet it. Once the kick clears, he puts that foot forward beneath his weight and sends a right straight onto Marek's left glove, then a left hook into the right forearm.
 
-Marek takes half a step to recover the kicking foot and jabs back into the red guard. Owen restores the right foot under his hip without chasing him. He takes a full breath and keeps his head towards Marek. Daniel slows with them, turning his trunk to retain the view of the replant.
+Marek gathers the kicking foot and jabs back into the red guard. Owen lets his weight return between his feet, bringing the right beneath his hip without chasing. The left sole stays on the canvas through his next full breath. Daniel slows with them, retaining the checking foot's placement and the reply in his view.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Marek attacks the leg that has given ground; Owen checks and answers from its replant; Daniel watches the renewed base and reply.
-- Outcome and reaction: Owen earns one position his lead foot can hold. Marek retains the centre-side approach but cannot continue straight through him.
+- Intent: Marek attacks the leg that has given ground; Owen restores countering range with the checking foot and then keeps his base; Daniel watches support and return.
+- Outcome and reaction: Owen holds one position through an exchange instead of yielding it. He does not bounce into another attack from the taxed leg. Marek's jab still occupies his head guard and preserves the centre-side threat.
 - Start: about 132 s, provisional, to 135 s.
 - Sound: shin contact and padded counters give way to Owen's longer inhalation.
 
@@ -437,60 +458,61 @@ Owen's rear heel settles after the straight. He moves north with short steps; Ma
 
 ### Making the lane {#p10-b02}
 
-Marek steps in with a left hook towards Owen's body. Owen sets the right elbow over the ribs and turns with the contact. Marek's right straight follows at the head; Owen's left glove turns it aside.
+Marek steps in with a left hook towards Owen's body. Owen puts the right elbow over the ribs and turns with the contact. Marek's right straight follows at the head; Owen's left glove turns it aside.
 
-Owen takes the rear right foot back and towards his own right, southwest across the canvas. The lead left foot follows without crossing. Marek's next left hook passes in front of Owen's chest before the withdrawal is complete.
+Owen takes the rear right foot back and towards his own right, southwest across the canvas. The lead left follows without crossing. Marek's next left hook at the head passes in front of the withdrawing guard.
 
-Marek turns towards his own left and replaces the lead foot to face Owen again. Owen has moved onto the south side of the old approach, not behind him. They remain orthodox: Owen west-southwest of Marek, facing east-northeast; Marek faces west-southwest. Owen's left foot finishes ahead of his right on the new line.
+Marek turns towards his own left and replaces the lead foot to face Owen again. Owen has moved onto the south side of the old approach. They remain orthodox: Owen west-southwest of Marek, facing east-northeast; Marek faces west-southwest. Owen's left foot is still ahead of the right.
 
-Marek edges forward with both gloves high. Owen gives only the distance the hands need, then stops with room for the right body kick. Daniel stays northeast of them, outside the open canvas to Marek's right.
+Marek follows the new line with his lead foot, both gloves high. Owen matches the approach with another short rear-foot-first withdrawal instead of settling at a fixed spot. Daniel tracks them from northeast, clear of the space to Marek's right.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Marek compresses the range with a body-head-hook chain; Owen blocks, parries and leaves the hand range on a diagonal; Daniel clears the new line.
-- Outcome and reaction: the last hook misses. Marek turns with Owen and remains a live opponent. The new lane comes from Owen's supported withdrawal and the resulting kicking distance, not an unseen position behind Marek.
+- Intent: Marek compresses the range with a body-head-hook chain and follows its escape; Owen blocks, parries and changes line while preserving a base; Daniel clears and observes the continuing approach.
+- Outcome and reaction: the last hook misses a moving target. Hand range opens on Owen's withdrawal, but Marek is already trying to make it up. Owen has earned a line and an opportunity to kick, not an uncontested turn against a stationary opponent.
 - Start: about 140 s, provisional, to 146 s.
-- Space: Marek remains just northwest of centre. Owen stands west-southwest, outside the reach of an unaccompanied head punch but within his established right-kick range. The farthest neutral corner is southeast.
-- Camera: complete the move to southeast, looking from Marek's left-rear three-quarter side. Rise just above head height to retain the feet and the canvas beyond his knees. From this foot-end angle the hips lie in front of the upper trunk in depth if Marek goes down; his right-side landing strip is clear of Owen and Daniel. Keep this view running through the kick and fall.
-- Sound: the short contacts and diagonal steps settle into hard breathing as both men rebuild their bases.
+- Space: northwest of centre, Owen west-southwest of Marek. Both face one another on the new line. The gap is changing with their feet; the farthest neutral corner remains southeast.
+- Camera: complete the action-motivated move to southeast, from Marek's left-rear three-quarter side. Rise just above head height, retaining both full figures and the canvas beyond his knees. Hold the foot-end bearing as the pair advances and withdraws across the frame; do not move the fighters onto a mark for it. This prepares the lower-body view of a right-side fall while keeping the left-side head target visible, following the [joint camera/action plan](../../../research/kickboxing/competitive-exchanges.md#camera-and-performance).
+- Sound: contacts and diagonal steps remain linked to the hard breathing rather than ending in a silent reset.
 
 ### The same beginning {#p10-b03}
 
-Marek probes with a jab. Owen meets it with his right glove held a little ahead of his head. The gloves tap in the gap; Marek would need another step to reach the head. He draws the left glove home and keeps the right ready.
+Owen meets the advancing guard with a left jab onto Marek's right glove and a short right straight at the head. Marek catches the right on his raised left glove and follows the withdrawing red fist with a jab, stepping in behind it.
 
-Owen's left foot holds its place on the new line. His weight comes over it and the folded right knee rises in front on the familiar body-kick route.
+Owen receives that jab on his returning right glove while taking the rear foot back. The lead foot follows and sets apart from it; he completes that placement before lifting the right leg. Marek's lead step occupies the ground Owen has left. The space between their hips remains open as their hands meet.
 
-Marek's left glove and elbow drop towards the ribs. He sends the right straight at the expected recovery. It passes short as Owen leans his torso away over the planted left leg.
+Owen's weight comes over the planted left foot and the folded right knee rises on the familiar body-kick route. Marek's left forearm drops towards the ribs. He gathers his rear foot with the entry and drives the right straight at Owen's head during the lift, before the expected kick can recover.
 
-Owen keeps pivoting on the left forefoot. The right hip rolls over, the knee turns inward and down, and the foot points. The lower leg passes above the lowered blue forearm and begins its descending arc. Marek starts his left glove back up beneath it.
+Owen keeps the left glove beside his head and turns the forearm into the punch. The impact presses the glove against his cheek as his head and trunk lean away behind it. His left support stays beneath the turning body. The right hip continues over, the knee rolls inward and down, and the pointed foot passes above Marek's lowered arm. Marek begins to bring the left glove back up beneath the descending leg.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Owen recreates the body cue from the range he has earned; Marek protects the body and counters; Daniel tracks the changing path from clear ground.
-- Outcome and reaction: the learned response opens the high lane while the right-hand answer misses. The [Brazilian kick](../../../research/kickboxing/round-practice.md#changing-the-right-kick) remains one continuous action, with no intervening replant or second launch.
-- Start: about 146 s, provisional; the leg reaches the exact 150.000 contact in the next section.
-- Camera: hold the southeast three-quarter view. Marek's exposed left-side target, Owen's supporting foot and the descending leg share the frame with both heads and both men's feet. The camera does not seek a closer insert as the path changes.
-- Sound: padded contact gives way to a pivoting sole scrape and Owen's forceful exhale.
+- Intent: Owen links a hand attack, guarded withdrawal and the body-kick cue; Marek follows into real countering range and attacks the one-leg interval; Daniel tracks the competing head and body lines.
+- Outcome and reaction: Marek's right reaches the guard rather than failing from a distance he has already tested. Owen's forearm protection, head withdrawal and maintained hip space keep it off the head while the learned low left arm opens the high route. The [moving-range exchange](../../../research/kickboxing/competitive-exchanges.md#moving-range) continues into one [Brazilian kick](../../../research/kickboxing/round-practice.md#changing-the-right-kick), without a second launch or intervening replant.
+- Start: about 146 s, provisional; the descending leg reaches the exact 150.000 contact in the next section.
+- Space: the same west-southwest/east-northeast line. Marek enters as Owen yields; his foot does not arrive beside Owen's support foot. Both men retain their opposing facings as the punch reaches the high guard and the kick changes height.
+- Camera: follow their short translation while holding the prepared southeast three-quarter bearing. Keep both heads, the left-side target, Owen's supporting foot and both bases together. The change of kick height plays within the complete paired view.
+- Sound: the jab and caught straight are followed by the closer guard impact, pivoting sole friction and Owen's forceful exhale.
 
 ## CONTINUOUS | 150-165 s {#p11}
 
 ### Contact and the right-side fall {#p11-b01}
 
-At **150.000**, Owen's right instep and adjoining lower shin descend over Marek's lowered left arm. They land below and just behind his left ear lobe, on the lateral junction of jaw and neck. The southeast view shows that side contact, clear of the rear skull. One hard, flat crack.
+At **150.000**, Owen's right instep and adjoining lower shin descend over Marek's lowered left arm. They land below and just behind the left ear lobe, on the lateral junction of jaw and neck. The southeast view retains that side contact, clear of the rear skull. One hard, flat crack.
 
-Marek's head turns to his right. His right foot steps out towards his own right, north-northwest, but the knee folds before the step can bear him. The right knee separates from the left in the image; clear canvas remains beyond it. His left heel lifts as the hips descend rightwards.
+Marek's punching hand comes off Owen's guard as the right recoils. His head turns to his own right. He tries to put the following right foot beneath the turning body; it lands out to his right, north-northwest, but the knee folds before the step can hold him. The left heel lifts as the hips sink rightwards.
 
-Owen folds his kicking knee back out of the falling man's space, puts the right foot beneath his hip and withdraws west-southwest along his own approach. His gloves stay at head height in guard. The canvas beside Marek's right leg remains open.
+Owen folds his kicking knee back out of Marek's space and brings the right foot down behind the left. His left heel settles from the pivot; the returning right leg takes weight before he withdraws west-southwest with a short rear-foot-first step. Both gloves remain at head height. He leaves the canvas beside Marek's right leg clear.
 
-Marek's outer right thigh meets that canvas, then the right hip. From the foot-end angle, the descending chest is beyond these first landings rather than across them. His right ribs and shoulder follow. The right arm stays bent in front of him; it does not become a locked post beneath his weight. His head follows the shoulder down. The legs fold, the left settling a little ahead of the right, and the cloth comes to rest with him on his right side.
+Marek's outer right thigh reaches that canvas, then the hip. The foot-end view follows these landings with the descending chest beyond them. His right ribs and shoulder settle next. The right arm remains bent in front rather than locking beneath his weight; the head follows the shoulder down. His legs fold, the left settling a little ahead of the right, and the cloth comes to rest with him on his right side.
 
-Daniel has held outside the falling body's path. He now comes towards the head end, an open palm sending Owen away while his head stays directed towards Marek. The crowd breaks into a wordless roar. Owen takes another backward step and follows the official's signal.
+Daniel has stayed outside the recovery step and fall. Once the shoulder settles, he approaches the head end and sends Owen away with an open palm, keeping his head directed towards Marek. The crowd breaks into a wordless roar. Owen takes the next short backward step under the official's signal.
 
 - Cast: Owen, Marek, Daniel.
-- Intent: Owen completes the high change and withdraws; Marek attempts a recovery step; Daniel protects the space and approaches the fallen man.
-- Outcome and reaction: the [commissioned contact](../../../instructions/commission.md#finish) ends the standing exchange. The [articulated right-side fall](../../../instructions/commission.md#fall) follows the [qualitative fall sequence](../../../research/kickboxing/round-practice.md#fall-and-closing), from failed support through thigh, hip and upper-body settlement. No injury mechanism or downed attack is introduced.
+- Intent: Owen completes the high change, regains two-foot support and withdraws; Marek attempts a recovery step after his counter; Daniel protects the space and approaches the downed man.
+- Outcome and reaction: the [commissioned contact](../../../instructions/commission.md#finish) ends the contested standing exchange. The [articulated right-side fall](../../../instructions/commission.md#fall) retains failed support, thigh/hip contact, upper-body settlement and rest under the [qualitative sequence](../../../research/kickboxing/round-practice.md#fall-and-closing). No injury mechanism or downed attack is introduced.
 - Start: 150.000 contact, true anchor; withdrawal, fall and Daniel's approach play to about 153 s, provisional.
-- Space: Marek falls north-northwest onto his own right side, northwest of centre. Owen withdraws west-southwest; Daniel approaches the head only after the shoulder settles.
-- Camera: ease wider while holding the southeast foot-end bearing and raised three-quarter view. Keep the separated knee, first thigh/hip landing and following shoulder in the open canvas between the other two men. No cut, orbit to the opposite side, replay or speed change interrupts the kick and fall.
-- Sound: the crack is followed by the heavier hip/canvas impact and softer upper-body settlement beneath the crowd; Owen's withdrawal has distinct footfalls.
+- Space: Marek remains northwest of centre and falls onto his own right side. Owen withdraws along the approach to west-southwest; Daniel enters from clear ground after the landing.
+- Camera: ease wider while retaining the southeast foot-end bearing and raised three-quarter view. Follow the actual recovery step through thigh, hip and shoulder settlement in the canvas gap between the other men. The approach, punch, kick and fall remain uninterrupted, with no opposing-side orbit, insert, replay or speed change.
+- Sound: the crack leads to the heavier hip/canvas impact and softer upper-body settlement; Owen's returning foot and guarded withdrawal remain audible beneath the crowd.
 
 ### The far corner {#p11-b02}
 
@@ -519,6 +541,7 @@ Owen reaches the southeast pad and turns to face centre. Daniel sees him settle,
 - Space: Owen crosses to southeast, leaving Marek and Daniel northwest of centre. Daniel does not step over the folded legs.
 - Camera: ease back towards the south apron, remaining west of the southeast pad. Compose Owen's complete standing figure at the right of the wide image, Marek's body across the left and Daniel beside its head end, with open canvas separating the outlines. The pad stays visible behind Owen. Hold this arrangement for the count.
 - Sound: Daniel's commands carry above the wordless crowd; Owen's successive canvas footfalls lead to his corner stop. No number or bell sounds yet.
+- Staging: Owen's southeast neutral-corner route crosses open centre south of Marek's folded feet, while Daniel remains at the head end.
 
 ### One through Seven {#p11-b03}
 

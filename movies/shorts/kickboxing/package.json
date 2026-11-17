@@ -16,12 +16,14 @@
     "dev": "vite",
     "build": "vite build",
     "render": "automovie render --module src/subjects.ts",
+    "film:bake": "ttsx --no-plugins --cache-dir node_modules/.cache/ttsx-round-bake -P tsconfig.json src/executable/bakeRound.ts",
     "capture": "automovie capture --module src/subjects.ts",
     "review": "automovie review",
     "review:setup": "playwright-core install ffmpeg chromium-headless-shell",
     "physics": "ttsx --cache-dir node_modules/.cache/ttsc -P tsconfig.json src/executable/physics.ts"
   },
   "dependencies": {
+    "@automovie/archetypes": "catalog:automovie",
     "@automovie/engine": "catalog:automovie",
     "@automovie/human": "catalog:automovie",
     "@automovie/ingest": "catalog:automovie",
