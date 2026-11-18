@@ -8,6 +8,8 @@ Six screenplays are in production as direct 3D films using the AutoMovie 0.3.0 c
 
 The [film tools](docs/direct-3d-tools.md) restore the offline English voices and Windows video probe used for these editions.
 
+The [benchmark notes](docs/benchmarks/0.3.0-direct-3d.md) record what people could follow on screen, where a cut sent its screenplay back to the writer and which SDK capabilities the production exercised.
+
 ## Screenplays
 
 | Production | What to read |
