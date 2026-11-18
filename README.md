@@ -4,7 +4,7 @@ This workspace holds example films used to evaluate AutoMovie. Productions share
 
 ## Film production
 
-Six screenplays are in production as direct 3D films using the AutoMovie 0.3.0 checkout. [Kickboxing](movies/shorts/kickboxing/PROJECT.md) and [두 번째 손](movies/shorts/slam-dunk/PROJECT.md) run three minutes each. The four films on [the Great St Bernard road](movies/shorts/sword/PROJECT.md) share a cast brief and each have their own director, one-minute timeline and render.
+Six screenplays are in production as direct 3D films using the AutoMovie 0.3.0 checkout. [The Round](movies/shorts/kickboxing-direct-3d/PROJECT.md) and [두 번째 손](movies/shorts/slam-dunk/PROJECT.md) run three minutes each. The four films on [the Great St Bernard road](movies/shorts/sword/PROJECT.md) share a cast brief and each have their own director, one-minute timeline and render.
 
 ## Screenplays
 

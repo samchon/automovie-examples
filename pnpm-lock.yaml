@@ -381,6 +381,88 @@ importers:
         specifier: catalog:vite
         version: 5.4.21(@types/node@22.20.5)
 
+  movies/shorts/kickboxing-direct-3d:
+    dependencies:
+      '@automovie/archetypes':
+        specifier: catalog:automovie
+        version: link:../../../../packages/archetypes
+      '@automovie/engine':
+        specifier: catalog:automovie
+        version: link:../../../../packages/engine
+      '@automovie/human':
+        specifier: catalog:automovie
+        version: link:../../../../packages/human
+      '@automovie/ingest':
+        specifier: catalog:automovie
+        version: link:../../../../packages/ingest
+      '@automovie/interface':
+        specifier: catalog:automovie
+        version: link:../../../../packages/interface
+      '@automovie/motions':
+        specifier: catalog:automovie
+        version: link:../../../../packages/motions
+      '@automovie/recovery':
+        specifier: catalog:automovie
+        version: link:../../../../packages/recovery
+      '@automovie/render':
+        specifier: catalog:automovie
+        version: link:../../../../packages/render
+      '@automovie/viewer':
+        specifier: catalog:automovie
+        version: link:../../../../packages/viewer
+      playwright-core:
+        specifier: catalog:media
+        version: 1.65.0
+      react:
+        specifier: catalog:react
+        version: 19.3.1
+      react-dom:
+        specifier: catalog:react
+        version: 19.3.1(react@19.3.1)
+      three:
+        specifier: catalog:three
+        version: 0.186.1
+    devDependencies:
+      '@automovie/evidence':
+        specifier: catalog:automovie
+        version: link:../../../../packages/evidence
+      '@nestia/e2e':
+        specifier: catalog:samchon
+        version: 12.1.0
+      '@ttsc/lint':
+        specifier: catalog:samchon
+        version: 0.37.1(ttsc@0.37.1(typescript@7.0.2))
+      '@types/node':
+        specifier: catalog:utils
+        version: 22.20.5
+      '@types/react':
+        specifier: catalog:react
+        version: 19.3.0
+      '@types/three':
+        specifier: catalog:three
+        version: 0.186.0
+      '@wrtnlabs/evidence':
+        specifier: catalog:samchon
+        version: 0.8.2(ttsc@0.37.1(typescript@7.0.2))
+      automovie:
+        specifier: catalog:automovie
+        version: link:../../../tools
+      ffmpeg-static:
+        specifier: catalog:media
+        version: 5.3.0
+      playwright:
+        specifier: catalog:media
+        version: 1.65.0
+      ttsc:
+        specifier: catalog:samchon
+        version: 0.37.1(typescript@7.0.2)
+      typescript:
+        specifier: catalog:typescript
+        version: 7.0.2
+      vite:
+        specifier: catalog:vite
+        version: 5.4.21(@types/node@22.20.5)
+
   movies/shorts/malfoy:
     dependencies:
       '@automovie/archetypes':
