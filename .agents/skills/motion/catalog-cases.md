@@ -1,13 +1,31 @@
 # Catalog cases
 
-An entity or a motion module is accepted alone, in the catalog, before any film composes it.
+Accept each entity and reusable motion module in the catalog before composing it into a film.
 
-A catalog case plays one module alone: one action against one target, partner response and outcome, one movement, one official or bystander behavior, one fall, or one entity state the screenplay uses. Cases of one module differ only in parameters, so each module has one case composition that takes them, and the [catalog film](../development/source-layout.md#source) lists every case the screenplay uses in its own labeled interval.
+A case isolates one module with its target, partner response and outcome, and its variants are parameters of the same case composition.
 
-Capture each case's interval with the README's capture command, at the spacing [capture](../visual-debugging/capture.md#times) requires and from the views [verification](verification.md#look-at-the-frames) names. Review every still against the [performance study](../story/planning/research.md#performance-study) and the cast, prop and set records, repair each failing case at its module by cause and recapture it.
+The [catalog film](../development/source-layout.md#scenes-and-films) gives each required case a labeled interval and replays every case after a repair, so acceptance happens only there. A composition no registered film plays is scratch.
 
-Accept a person's case on three things together: the motion vocabulary's own report of its physical bounds is clean, a unit test asserts the value the act's [performance study](../story/planning/research.md#performance-study) gives it through the vocabulary's own measures, and no still shows a flaw. The vocabulary's README names the report and the measures. Numbers alone miss a pose that reads wrongly, and stills alone miss a hand a centimetre inside a hip.
+## Capture and review
 
-Accept any other case only when its checks pass and no still shows a flaw. Record every accepted case in the catalog's [acceptance record](../review/delivery-review.md#acceptance-record), so the next session knows which cases were accepted at which revision.
+Capture with the README command and add `joint` marks where available. Apply [motion judgment](judgment.md) against subject records and studies. Fix findings before recapturing or expanding.
 
-A rehearsal module the film registry does not list is scratch for work in progress. Acceptance happens only in the catalog film, because the catalog replays every case after a repair and a rehearsal does not.
+Resolve a case once on load. Audit it separately from loading, playback and capture. Reuse reports only with the same inputs and package versions.
+
+## What each case owes
+
+Every case is accepted only when no still shows a flaw. What else it owes depends on what it exhibits:
+
+| Case of | Also owes |
+| --- | --- |
+| Installed actions, composed as the vocabulary's README shows | Nothing |
+| A row or law the production registered, or a body it moves | Passing motion checks and a clean report |
+| Anything else the production wrote, such as an entity or a retargeted clip | Passing tests |
+
+[Testing](../development/testing.md) sets those tests and says why installed actions take none. The report is the vocabulary's own for the case, and its README names the report and its measures.
+
+A flaw that remains in an installed action is never corrected in the production; tell the user.
+
+## Record
+
+The author records each accepted case's revision and views in `docs/acceptance/catalog.md`. Compose only accepted cases. Reapprove a case after its module changes.

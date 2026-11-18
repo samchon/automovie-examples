@@ -1,27 +1,46 @@
 # Generation
 
-Takes are generated after the [video skill](SKILL.md) has chosen the model, planned the requests and written the prompts. Read the provider and setup authority in [project context](../production/project-context.md) and use the selected service's existing connector, CLI or API.
+Submit each planned [request](requests.md) once the generated film's prerequisites hold, then inspect and choose its takes. Use the provider and setup that [project context](../production/project-context.md) records, through the service's existing connector, CLI or API.
 
-## Prove one path first
+## Requests
 
-Before a batch, prove one representative request end to end on a case with the intended performance, contacts and identity continuity: the input, the generation, the download, and stills extracted from the downloaded file. Fix input or integration causes before multiplying them.
+### First path
 
-## Submit
+Before batching, prove one representative contact, performance and identity case through inputs, generation, download and extracted stills. Fix input and integration failures.
 
-Bind each request to its exact input bytes and source revision and record it under [media records](../production/media-records.md#records). Check the existing job state before retrying, since a retry can bill another job, and keep to the adopted cost and quality limits. A transient URL, seed or finished job is not a take: keep the downloaded original apart from its derivatives.
+### Submission
 
-## Inspect and choose
+Record each request with the exact input bytes and source revision under [media records](../production/media-records.md). Check the existing job before retrying. Respect cost and quality limits and retain downloaded originals separately.
 
-Extract stills from the take's file at the spacing [capture](../visual-debugging/capture.md#times) sets and check identity, positions, contacts, camera and motion against the hint's stills at matched times under [comparison](../visual-debugging/comparison.md). The user judges its sound and its continuous motion.
+Check the provider's content policy, including refusal billing and account limits. Describe the scripted movement and impact. Report a refused beat for the user's decision on allowed alternatives.
 
-Choose among takes for fidelity to the screenplay beat and the hint, never for an effect the screenplay did not decide. A take that loses action, identity or causality is repaired at the source, the request or the selection, never hidden by a cut.
+## Takes
 
-## Place takes in time
+### Inspection and choice
 
-Map a take's decoded timestamps and time base into the film; a nominal frame rate cannot place an action, especially at variable rates. Trimming, retiming and rebasing are different operations, and a shortest-stream option or silent padding must not hide lost material. [FFmpeg's filters](https://ffmpeg.org/ffmpeg-filters.html) document them.
+Generate the recorded number of takes and choose among them before changing the prompt. Where supported, choose among drafts and follow the model's documented path to a final take.
 
-A new take, trim or speed change requires rechecking its timing against its neighbors.
+Compare [extracted stills](../visual-debugging/capture.md#times) with matched hint frames under [comparison](../visual-debugging/comparison.md). Check contacts and outcomes first, then identity, placement, camera and motion. Choose for fidelity to the beat. Have the user judge playback and any commissioned sound.
 
-## Hand off
+Repair a take by its cause:
 
-Measure the accepted takes' actual timing and hand them with their source relationships and limits to [assembly](../production/assembly.md).
+| Flaw | Repair |
+| --- | --- |
+| Lost action, identity or causality | Repair the source, the request or the selection |
+| A local flaw in an otherwise right take | Repair it under [partial repair](finishing.md#partial-repair) |
+| A framing the takes keep losing | Change the hint's camera under [staging](../motion/staging.md) |
+| Drifting motion or camera | Set a stricter adherence or shorten the request |
+
+Preserve action, identity and causality through cuts. Repair framing in the hint's camera within the screenplay entry.
+
+### Placement in time
+
+Place takes by decoded timestamps and time base. Keep trims, retimes and rebases distinct. Preserve required material when aligning streams. Avoid truncation or silent padding that hides loss.
+
+Where an extension returns its input joined to the new part, place only the new part. An edit can return slightly shorter than its input, so measure it, and recheck a new take, trim or speed change against its neighbors.
+
+Choose each take's in and out frames on its own consecutive frames, because the model keeps the hint's timing only approximately, and record them against the take's available frames in its [record](../production/media-records.md#records).
+
+## Handoff
+
+Finish the accepted takes under [finishing](finishing.md), measure their timing and hand them with their source relationships and limits to [assembly](../production/assembly.md).

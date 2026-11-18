@@ -1,31 +1,15 @@
 # Source review
 
+Identify the requested judgment, scope, current inputs and recipient. Use a separate review context. Label any self-review and report an unavailable review or output as unperformed. Repeat source review until its scope closes.
+
 Read the whole requested change with its callers, inputs, consumers, error paths and tests, then check it against the [development contracts](../contracts/development/SKILL.md) its declarations answer.
 
-## Answers are true
+## Truth of answers
 
-Each answer states what the code actually does and claims no behavior, measurement or limit the code does not have. It cites what the code actually follows:
+Each answer states what the code does and claims no behavior, measurement or limit the code lacks. It cites what its [entities](../contracts/development/entities.md), [behaviors](../contracts/development/behaviors.md) or [composition](../contracts/development/composition.md) contract names for its respondent.
 
-| Declaration | Cites |
-| --- | --- |
-| Entity | The settings or brief fact it realizes, and the study its measurements follow |
-| Behavior | The study it follows |
-| Scene | The screenplay beat it realizes |
+Verify each answer against the [item's criteria](../contracts/items.md#items-and-statements), including any linked statements.
 
-Check each answer against its item's [statements](../contracts/SKILL.md#items-and-statements). A passing graph shows only that answers exist.
+## The actual consumer
 
-## Behavior is principled
-
-Values come from a requirement, study, measurement or named parameter. No constant is tuned to one case, no result is baked or fitted, no tolerance hides a gap, and no consumer is special-cased.
-
-## Tests verify behavior
-
-Each test exercises the behavior with independent expectations and distinguishing cases, and no test only checks repository arrangement.
-
-## The consumer works
-
-Run the checks that reach the actual consumer, including behavior that must stay unchanged. Visual and performance results come from stills under [visual debugging](../visual-debugging/SKILL.md) and [motion](../motion/SKILL.md), and listening results from the user under [audio](../audio/SKILL.md).
-
-## Report
-
-Report host or platform checks that could not run, and keep self-review labeled as self-review. Repairs go to [development](../development/SKILL.md).
+Verify affected and preserved behavior through the consumer. Judge visual and motion changes on stills at the [capture times](../visual-debugging/capture.md#times). Attribute playback and [listening observations](../audio/listening.md#user-listening) to the user. Report unavailable hosts or platforms. Route repairs to development.

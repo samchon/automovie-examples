@@ -4,10 +4,10 @@ One current verdict document answers for the complete declared review surface, i
 
 Statements: [statements/obligations/review.md](../statements/obligations/review.md).
 
-## Did this round inspect the entire current surface and every finding class? {#complete-current-round}
+## Complete current round
 
-Did the round read everything its kind requires under [narrative rounds](../../../../review/narrative-rounds.md), and collect every member of each finding class? Local passes, earlier clean snapshots or an exhausted review budget cannot establish the current state.
+Did the round cover the scope its review requires and locate every member of each finding class in this revision?
 
-## Is the verdict a truthful basis for the next round or delivery? {#round-accountability}
+## Round accountability
 
-Does the verdict record what was read, found, repaired and left open, so the next round or the delivery can rely on it? An earlier protection cannot excuse a current failure, and a partial pilot is no evidence for unmade episodes.
+Does the verdict record the inspected scope, findings, repairs and open items for the next round or delivery?

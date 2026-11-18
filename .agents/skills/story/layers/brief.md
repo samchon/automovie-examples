@@ -1,29 +1,13 @@
 # Brief
 
-A short's canon: the decisions its screenplays must keep true, written once and cited by every film, under the brief questions in the [story contracts](../../contracts/story/SKILL.md). The brief is prose for readers and never describes code.
+A short's brief holds the decisions its screenplays and commissioned references share. Write it after discovery, using the [research required for this layer](../planning/research.md#when-to-study).
 
-Read the [instructions](../planning/requirements.md#requirements) and finish [discovery](../planning/discovery.md) first, then work backward from the planned films to the decisions they need, studying what [when to study](../planning/research.md#when-to-study) assigns to the brief.
+## What it holds
 
-## Records
+Shorts can share one brief with many subject files. Give each individually cast character a record, even for a single scene. Describe the features and wardrobe that identify them. A crowd can remain a group.
 
-Give each subject one file in its domain, `docs/body/brief/<domain>/<subject>.md`, in the settings domains `world`, `cast`, `crowds`, `props`, `sets`, `cinematography` and `sound`.
-
-Keep the work's fixed conditions in `docs/body/brief/world/work.md`:
-
-- each film's running time and frame, in agreement with the [delivery profile](../../production/project-context.md);
-- the adopted representation and what it cannot show;
-- one line per film.
-
-Each file has one H1 naming the subject, an H2 per facet and an H3 per decision with an explicit anchor; screenplays cite a decision by its path and anchor, so never reuse or renumber one.
-
-Write only the facets the planned films use, and keep measurements out, under the [settings rule](settings.md#records).
-
-User-fixed interpretations are canon; report a conflict between an instruction and its source instead of changing it.
-
-Embed a subject's canon images, generated under [image](../../image/SKILL.md), from `media/diffusion/images/<domain>/`, as [settings](settings.md#records) records do.
+Include shared places, recurring props and subjects with commissioned appearance references. Use the [canon record layout](../document-layout.md#canon-records) and the [needed-decisions question](../../contracts/story/shared/principles/brief.md#needed-decisions) for each subject. The screenplay owns local action, camera and sound.
 
 ## Growth
 
-The brief grows from writing, as a series bible does. When a screenplay finds a brief decision missing, contradictory or unrealizable, repair the brief before writing from it under [upstream repair](../correction/repair.md#upstream-defects). When a decision one screenplay made must hold in another scene or film, add it here as a new anchored decision citing the establishing unit, under [closed passes](../correction/repair.md#closed-passes).
-
-Complete the brief's decisions, explanation and organization in [construction](../workflow.md#construction).
+The brief grows as the screenplay is written. After the pass closes, a decision of a kind the brief holds that one scene makes and another must keep is added under [concretization](../correction/repair.md#concretization).

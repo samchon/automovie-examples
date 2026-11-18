@@ -1,25 +1,23 @@
 # Frame evaluation
 
-The installed engine and renderer own frame schedules, trims, transitions and shot-local time; use them rather than reproducing their arithmetic in the host. A deterministic schedule does not make a stateful animation independent of its evaluation history.
+Use the installed engine and renderer to map film time to frame schedules, trims, transitions and shot-local time.
 
-## Map output time to performance
+## Output time and performance
 
 Keep output frame, output time, shot-local time and simulation time distinct, and give each shot in a transition its own local time and state.
 
-Compose action instances by their phase markers, carrying the exit pose, velocity, support and interaction state into the successor, and synchronize interacting participants and their sound to the same resolved contact event.
+Use [operators](compose/composition.md#operators) at named instants to carry pose, velocity, support and held objects into the next action. Sync participants and sound to the resolved contact.
 
-Verify the first and last frames, both sides of cuts and trim boundaries against the plan; a duration in seconds does not fix the encoded frame count.
+Verify the first and last frames and both sides of cuts and trims against the plan.
 
-## Separate sampling from retained state
+## Sampling and retained state
 
-A law evaluates from its plan and the requested time, as [laws](laws.md#plan-once-evaluate-by-time) requires.
+The installed packages evaluate every pose from the resolved plan and the requested time, and a production's own behavior does the same under the [deterministic evaluation](../contracts/development/behaviors.md#deterministic-evaluation) item.
 
-Before allowing seeking, retries or split renders, identify state the host still carries in springs, physics, callbacks, random draws or imported runtimes: seeded randomness draws from [identity-keyed streams](variation.md#draws-that-do-not-disturb-each-other), and retained state needs a repeatable update from a defined initial state or a supported cache, recovered before capturing a later frame.
+Before enabling seeks, retries or split renders, identify state retained across frames. Reset it to a defined initial state and update repeatably, or restore a supported cache before evaluating later frames.
 
-Choose simulation steps for solver stability, independent of display refresh, and sample results onto output times. Use supported lifecycle operations, never private-field resets.
+Choose simulation steps for solver stability, independent of display refresh, and sample results onto output times, as [Fix Your Timestep](https://gafferongames.com/post/fix_your_timestep/) explains. Use supported lifecycle operations, never private-field resets.
 
-## Verify the actual evaluation path
+## Verification
 
-Compare poses, transforms, contacts and pictures at matching times across sequential capture, a fresh restart, and seeking or split capture where promised, including settling and cut boundaries, through [testing](../development/testing.md) and a [comparison](../visual-debugging/comparison.md) of their stills. Record unsupported paths instead of claiming them.
-
-[Fix Your Timestep](https://gafferongames.com/post/fix_your_timestep/) explains separating simulation from display time.
+At matched times, compare pose, transforms, contacts and stills after sequential capture, restart and promised seeks or splits. Cover settling and cuts. Use [tests](../development/testing.md) and [still comparison](../visual-debugging/comparison.md). Report unsupported paths.

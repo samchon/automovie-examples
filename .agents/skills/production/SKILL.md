@@ -1,45 +1,18 @@
 ---
 name: production
-description: Keeps what belongs to the production as a whole and to no single task, namely its commissioned output, project context, sustained runs, stage caches, media records, reorganization and final assembly and handoff. Use when starting, resuming, restructuring or handing off a production; story, development, motion, image, video, audio and review own their own work.
+description: Keeps a production's scope, workflow, caches, media and assembly.
 ---
 
 # Production
 
-Carry the commission from its adopted scope to the handed-off output. Read the request and [project context](project-context.md) first, because the commissioned output decides which skills run and what completes the work.
-
-## Commissioned outputs {#commissioned-outputs}
-
-| Output | Complete when |
+| Read | For |
 | --- | --- |
-| Screenplay | Its text passes the [writing workflow](../story/workflow.md#completion); no source or media is owed |
-| Standalone asset | Its views and controls pass the asset part of [delivery review](../review/delivery-review.md); no narrative is owed |
-| Whole motion hint | Every main scene is programmed and the whole timeline is assembled; no generator is owed, and stills or pilot clips do not complete it |
-| Direct 3D film | The programmed film is rendered at its commissioned detail; no diffusion is owed |
-| Generated film | Accepted takes of the chosen video model are assembled; the motion hint behind them is a separate output |
-
-[Delivery review](../review/delivery-review.md) accepts each one, and a report discloses what was not produced.
-
-## Route the work
-
-Each task has one owner, in the [writing order](../story/workflow.md#route-and-parents):
-
-| Work | Owner |
-| --- | --- |
-| Canon, the screenplay and their research | [Story](../story/SKILL.md) |
-| Entities, source, integrations and tests | [Development](../development/SKILL.md) |
-| Performance, staging, camera and the motion hint's control channels | [Motion](../motion/SKILL.md) |
-| Generated images | [Image](../image/SKILL.md) |
-| The video model, its prompts and its takes | [Video](../video/SKILL.md) |
-| Sound | [Audio](../audio/SKILL.md) |
-| Judgment of the work | [Review](../review/SKILL.md) |
-
-This skill keeps what spans them:
-
-| Task | Read |
-| --- | --- |
-| Establish scope, the delivery profile, decisions and setup authority | [Project context](project-context.md) |
-| Run, observe or resume sustained work | [Sustained runs](sustained-runs.md) |
-| Cache and resume expensive stages | [Stage caches](stage-caches.md) |
-| Save generated, acquired and pipeline media with their records | [Media records](media-records.md) |
-| Reorganize the production | [Reorganization](reorganization.md) |
-| Assemble the film, render it once and hand it off | [Assembly and handoff](assembly.md) |
+| [Project context](project-context.md) | Taking the commission and recording its scope, decisions and delivery profile |
+| [Director](director.md) | Assigning work and deciding whether to accept it or return it for revision |
+| [Production workflow](workflow.md) | Following the stages for the commissioned output |
+| [Sustained runs](sustained-runs.md) | Running, observing or resuming sustained work |
+| [Stage caches](stage-caches.md) | Caching and resuming expensive stages |
+| [Media records](media-records.md) | Saving media and generation requests with their records |
+| [Captions](captions.md) | Writing and timing a film's caption tracks |
+| [Assembly and handoff](assembly.md) | Assembling the film, rendering it once and handing it off |
+| [Reorganization](reorganization.md) | Reorganizing the production |

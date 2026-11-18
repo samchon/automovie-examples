@@ -1,0 +1,197 @@
+{
+  "provider": "OpenAI",
+  "tool": "Codex built-in image generation",
+  "date": "2026-11-19",
+  "subjects": [
+    {
+      "subject": "owen-vale",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/owen-vale/full.png",
+          "sha256": "86acea7c9b6f923a4856e9c51521545962d2dbaac1372b249ba67179a1f25f28",
+          "inputSha256": null,
+          "outputId": "ed749540-56ae-400b-9189-93ce95e51bbb",
+          "prompt": "One real-looking live-action casting photograph for a fictional British championship kickboxer named Owen Vale, 29. Full-length front view including both bare feet with generous margin, subject in neutral standing pose, arms relaxed with gloves hanging at the sides. 180 cm, 80 kg, compact athletic frame, warm olive skin, close-cropped dark brown curls, oval face, heavy straight brows, clean-shaven. Bare chest and feet. Plain scarlet kickboxing shorts with a straight white waistband and matching red padded boxing gloves. Seamless matte mid-grey studio floor and backdrop, soft even flat light, actual individual anatomy and natural skin texture, ordinary neutral casting expression. One figure, one photograph only, no other people, no props, no brand, no lettering, no borders. Vertical full-length casting camera portrait, calm studio."
+        },
+        {
+          "file": "media/diffusion/images/cast/owen-vale/face.png",
+          "sha256": "1cbda9a33b6f4b05eb502a141debeddbf0d5fb6f299552d18109e6a8469f08e0",
+          "inputSha256": "86acea7c9b6f923a4856e9c51521545962d2dbaac1372b249ba67179a1f25f28",
+          "outputId": "7c0202c6-d44c-4b7e-a7e3-3cd855a14b49",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Owen Vale. Character design: 29, United Kingdom, 180 cm and 80 kg, compact athletic frame, warm olive skin, close-cropped dark brown curls, oval face, heavy straight brows, clean-shaven. Bare chest and feet. Plain scarlet shorts with straight white waistband and matching red gloves. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "marek-sokol",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/marek-sokol/full.png",
+          "sha256": "eb2ea263f5c1c59e1c764f67d486e28cb42368b9ad89973d1b8c03165a0cf96d",
+          "inputSha256": null,
+          "outputId": "769ea300-3348-45bb-8ab0-18e7f636c7b8",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Marek Sokol. Character design: 30, Czechia, 180 cm and 80 kg, equally athletic, fair freckled skin, short sandy-blond hair, broad square face, light brows, clean-shaven. Bare chest and feet. Plain royal-blue shorts with white waistband and matching blue gloves. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/marek-sokol/face.png",
+          "sha256": "cf313df882dec7a478eb62caa354c3736a69b29926de36977ef89eab0ae78ff7",
+          "inputSha256": "eb2ea263f5c1c59e1c764f67d486e28cb42368b9ad89973d1b8c03165a0cf96d",
+          "outputId": "43dbc609-8811-47e4-a781-56491b345247",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Marek Sokol. Character design: 30, Czechia, 180 cm and 80 kg, equally athletic, fair freckled skin, short sandy-blond hair, broad square face, light brows, clean-shaven. Bare chest and feet. Plain royal-blue shorts with white waistband and matching blue gloves. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "daniel-mensah",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/daniel-mensah/full.png",
+          "sha256": "81497d8ee5afbe5b5de607dadd1fb4cd30fa5eaa6fbe411c50e7c81b8439e75a",
+          "inputSha256": null,
+          "outputId": "9ccd4286-c6c5-42e8-aed0-3fa7b819d2ce",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Daniel Mensah. Character design: 46, Ghana, dark brown skin, shaved head, high cheekbones, tall and straight-backed. Charcoal short-sleeved polo, black trousers, black gloves and flat black shoes. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/daniel-mensah/face.png",
+          "sha256": "f7b048b3eec1c4955ec5de59bd6b07a1047006ed8abc58ea8b20b023bbde9a09",
+          "inputSha256": "81497d8ee5afbe5b5de607dadd1fb4cd30fa5eaa6fbe411c50e7c81b8439e75a",
+          "outputId": "cab9f41f-594a-4cdd-a8ae-f0fd91f99841",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Daniel Mensah. Character design: 46, Ghana, dark brown skin, shaved head, high cheekbones, tall and straight-backed. Charcoal short-sleeved polo, black trousers, black gloves and flat black shoes. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "pavel-havel",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/pavel-havel/full.png",
+          "sha256": "555e1fa8f53a0c8f8a965bec3047193d81147df6e81cc58b9048dcf34c8c7f9d",
+          "inputSha256": null,
+          "outputId": "6dff05c8-d7bd-41f3-87a1-033bc0d299ab",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Pavel Havel. Character design: 53, blue chief second. Broad-set, light skin, close silver beard and short silver hair. Royal-blue track jacket, completely white sleeves from shoulder to cuff, dark track trousers, plain black trainers. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/pavel-havel/face.png",
+          "sha256": "41633c78e8cbe2c442db43fb7f87b5567329e21e41d1fbd767f649a8b2529c24",
+          "inputSha256": "555e1fa8f53a0c8f8a965bec3047193d81147df6e81cc58b9048dcf34c8c7f9d",
+          "outputId": "434b6172-b458-4018-b19f-ec90ed26bfc3",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Pavel Havel. Character design: 53, blue chief second. Broad-set, light skin, close silver beard and short silver hair. Royal-blue track jacket, completely white sleeves from shoulder to cuff, dark track trousers, plain black trainers. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "maya-shah",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/maya-shah/full.png",
+          "sha256": "8e1d757a0d4566b6364a5eb50051e12af1c62a1d682ae93af70a2c1bd97d8a02",
+          "inputSha256": null,
+          "outputId": "c848179e-409d-4eaf-b675-2d4b6bb95fb1",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Maya Shah. Character design: 37, woman in yellow. Medium brown skin, blunt chin-length black bob. Sunflower-yellow long-sleeved crew-neck jumper, charcoal trousers, dark flat shoes. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/maya-shah/face.png",
+          "sha256": "33679637cb3280057e15db3ec180b017e06acc309447e347cb964acc77d19d9a",
+          "inputSha256": "8e1d757a0d4566b6364a5eb50051e12af1c62a1d682ae93af70a2c1bd97d8a02",
+          "outputId": "96d1f847-8326-41ee-a3e6-c37a8621b5af",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Maya Shah. Character design: 37, woman in yellow. Medium brown skin, blunt chin-length black bob. Sunflower-yellow long-sleeved crew-neck jumper, charcoal trousers, dark flat shoes. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "ruth-ellis",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/ruth-ellis/full.png",
+          "sha256": "5e97862a147fe03072d7db1cec5889841cf783414aa7aa7b58c1c52ed35bb520",
+          "inputSha256": null,
+          "outputId": "f41ae24d-211c-4a53-b04a-d150c92edf72",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Ruth Ellis. Character design: 62, Maya's neighbour. Fair skin, short silver curls. Plum cardigan over charcoal shirt, slate trousers, black shoes and bare hands. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/ruth-ellis/face.png",
+          "sha256": "d659326872d74bfa5d1bb86ece09446ea46d68fe1b687056c519ced93b878f87",
+          "inputSha256": "5e97862a147fe03072d7db1cec5889841cf783414aa7aa7b58c1c52ed35bb520",
+          "outputId": "f887d371-6fe1-425b-abfd-f000976d8fd1",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Ruth Ellis. Character design: 62, Maya's neighbour. Fair skin, short silver curls. Plum cardigan over charcoal shirt, slate trousers, black shoes and bare hands. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "alan-price",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/alan-price/full.png",
+          "sha256": "06694d07cb8231355f6b03ddb0a5c0cc762728342632667f255bfd7c1212bfb7",
+          "inputSha256": null,
+          "outputId": "865fa21c-6f62-4aba-894a-0aab87e6e076",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Alan Price. Character design: 58, timekeeper. Lean, light brown skin, receding dark-grey short hair and rectangular dark glasses. Mid-grey jacket over off-white shirt, black trousers and shoes. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/alan-price/face.png",
+          "sha256": "945c188b61c31cbad17e07bc1f1793b070926dc8026d7a8221cafba9a1995bd3",
+          "inputSha256": "06694d07cb8231355f6b03ddb0a5c0cc762728342632667f255bfd7c1212bfb7",
+          "outputId": "2be61a16-e009-453e-916d-4da91eb053a9",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Alan Price. Character design: 58, timekeeper. Lean, light brown skin, receding dark-grey short hair and rectangular dark glasses. Mid-grey jacket over off-white shirt, black trousers and shoes. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "jo-bell",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/jo-bell/full.png",
+          "sha256": "b5b6332048a8a1ee062e31f3dfe58d68cc5be2b3f1cf8d0c1dfa3f1f4f64cc76",
+          "inputSha256": null,
+          "outputId": "adb56cd5-a032-4e41-9151-0001022dedf3",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Jo Bell. Character design: 42, red chief second. Stout, brown skin, black hair tied in a short bun. Deep red track jacket with black sleeves, black track trousers and trainers. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/jo-bell/face.png",
+          "sha256": "fe89fe1aaf05d5d569ef8311e1f3e75dd3bef57d1f43cfc00c6d82a73d3cbb26",
+          "inputSha256": "b5b6332048a8a1ee062e31f3dfe58d68cc5be2b3f1cf8d0c1dfa3f1f4f64cc76",
+          "outputId": "08d92002-9bb8-4937-8d71-1141bb18a4fe",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Jo Bell. Character design: 42, red chief second. Stout, brown skin, black hair tied in a short bun. Deep red track jacket with black sleeves, black track trousers and trainers. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "ed-lane",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/ed-lane/full.png",
+          "sha256": "de01f8270cf1ec50e142e2465b0954fe786ffad7b1bb7d3d97d74f078d86c1f5",
+          "inputSha256": null,
+          "outputId": "7c68909d-3c23-470f-980f-c889b6e73843",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Ed Lane. Character design: 33, red assistant. Lanky, light skin, cropped copper hair. All-dark-red zipped track top, black track trousers and trainers. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/ed-lane/face.png",
+          "sha256": "d59a1cb831241c7a12ac8cebee663252808e5483fdd80207f85aeac74a0c50d8",
+          "inputSha256": "de01f8270cf1ec50e142e2465b0954fe786ffad7b1bb7d3d97d74f078d86c1f5",
+          "outputId": "0085aeee-746a-48c0-80e0-e09705898feb",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Ed Lane. Character design: 33, red assistant. Lanky, light skin, cropped copper hair. All-dark-red zipped track top, black track trousers and trainers. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "ivo-kral",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/ivo-kral/full.png",
+          "sha256": "e96e4a978ad9e14830d1c1ead3b4dbc3807224e169dd439f761f1f05691d9677",
+          "inputSha256": null,
+          "outputId": "0126b553-b97f-4ff0-a8d0-54334aa1ef28",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Ivo Kral. Character design: 34, blue assistant. Slim, fair skin, short dark hair. Solid navy track jacket and trousers, black trainers. Pavel alone has white sleeves. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/ivo-kral/face.png",
+          "sha256": "9d9bcca1ec9703b73774353d20405f2d6e40b5aa20d146215d4190bddd2a348b",
+          "inputSha256": "e96e4a978ad9e14830d1c1ead3b4dbc3807224e169dd439f761f1f05691d9677",
+          "outputId": "e8dc594d-5f38-40cc-8955-8e2e4f99270c",
+          "prompt": "A fictional member of an independent contemporary British ringside live-action production. Unbranded clothing, plain colours. Ivo Kral. Character design: 34, blue assistant. Slim, fair skin, short dark hair. Solid navy track jacket and trousers, black trainers. Pavel alone has white sleeves. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    }
+  ]
+}

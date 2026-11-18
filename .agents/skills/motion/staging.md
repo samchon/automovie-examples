@@ -1,29 +1,39 @@
 # Staging
 
-Staging turns screenplay beats into scene compositions, and returns whenever blocking, cameras or continuity change. [Entity work](../development/entities.md) chooses representations, [frame evaluation](frame-evaluation.md) owns time sampling and the screenplay owns every edit decision.
+Staging turns screenplay beats into scene compositions, and returns whenever blocking, cameras or continuity change. The screenplay owns every edit decision.
 
-## Decide the observable performance
+## Reading the scene
 
-Read each scene and its beat records in context: the required action or change, who starts it, the intended reaction and the resulting state, with consequential props, supports, entrances and exits. Silence, stillness or an off-screen event can be the decision.
+Read each beat's action, initiator, reaction, result, props, supports and entrances or exits, including authored silence, stillness and off-screen action. Map beats to setups as needed and cite them under [composition](../contracts/development/composition.md).
 
-One beat may need several camera setups and one setup may span several beats; each scene cites the beats it realizes under the [composition contract](../contracts/development/composition.md).
-
-## Block one coherent space
+## Blocking
 
 Stage in the set's zones and landmarks, never in coordinates: each beat's spatial change moves its participants between them through entity capabilities, and the set entity resolves where that is.
 
-Program anticipation, action, reaction, pauses and result through interactions, [physical feedback](physical-feedback.md) and [retargeting](retargeting.md). Program everyone present as [living scene](../contracts/development/composition.md#living-scene) asks, so an official repositions, a crowd reacts and a partner keeps reading the action.
+Compose each person's actions, reactions, pauses and outcomes with the installed operators. Use the action's preparation and follow-through. Add anticipation only where the screenplay decides it.
 
-Each entity has one transform owner, so a clip, an attachment and a procedural driver never fight for the same state; a reach or scale mismatch is fixed at its owner, not by changing the outcome.
+Follow [living scene](../contracts/development/composition.md#living-scene) for every presence. Use scripted purposes and destinations or record a [concretization](../story/correction/repair.md#concretization). Move background performers behind the main action and quiet them at the focal moment under [DGA guidance](https://www.dga.org/the-guild/councils/west/western-adupm-council/committees-of-the-adupm-west/standing-ad-upm-committees/first-ad-committee/setting-background).
 
-## Direct the actual view
+Each entity has one transform owner, so a clip, an attachment and a procedural driver never fight for the same state. A reach or scale mismatch is fixed at its owner, never by changing the outcome.
 
-Cameras and lights are entities whose behavior follows the action: a camera frames subjects by relation, reframes as they move, follows motivated action and cuts where the screenplay's camera decisions and the cinematography research place it.
+## The view
 
-Keep spatial relations, screen direction, eye lines and reveal timing; deliberate discontinuity is valid when it serves the experience.
+Cameras and lights are entities whose behavior follows the action.
 
-Inspect subjects, contact and reaction at the delivered aspect and scale through the whole action, checking clipping, occlusion and competing detail in the actual camera frames rather than in subject bounds.
+Realize [shots and cuts](../story/layers/shots.md) with the installed camera types. Derive field of view from a decided lens. Report views the grammar cannot supply.
 
-## Carry state through the edit
+Light from the set and story day's sources. Keep direction and color continuous across cuts.
 
-Build contiguous segments and pass [segment review](segment-review.md), carrying each accepted ending into the next and checking both sides of the join, and hand accepted scenes to [assembly](../production/assembly.md).
+Inspect every shot at the delivered aspect and scale through the whole action, in the camera's frames rather than in subject bounds:
+
+- the subject the beat names reads at the decided size;
+- at the key action, the moving limb and the turned head stand clear of the torso and the background;
+- no head or limb is cut at a joint or crowded against the frame edge unless the shot intends it;
+- nothing clips or hides a contact or a reaction, and no detail competes with it;
+- screen direction, eyelines and light hold across each cut, apart from a discontinuity the screenplay decided.
+
+Fix framing within the beat's camera placement or revise its screenplay camera or space entry. Send lighting to the light entity and gaze, contact or penetration to the performing module.
+
+## Segments and handoff
+
+Build contiguous segments, pass each through [segment review](segment-review.md) with the accepted ending carried into the next and both sides of the join checked, and hand accepted scenes to [assembly](../production/assembly.md).

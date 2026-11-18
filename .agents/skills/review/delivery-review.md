@@ -1,65 +1,82 @@
 # Delivery review
 
-Identify the promised output from [project context](../production/project-context.md) and the [commissioned outputs](../production/SKILL.md#commissioned-outputs), and inspect that complete output yourself, with the unfiltered validation reports. Disclose what was not produced.
+Read the commission in [project context](../production/project-context.md) to identify the scope, current inputs and recipient. Use a [separate context](../story/workflow/routes.md#separate-contexts) for required narrative review and for media acceptance. Label any self-review and report unavailable reviews or outputs as unperformed. Inspect the complete commissioned output. Read required validation reports unfiltered after locking any independent recipient reading.
 
-## Narrative
+## Output reviews
 
-Check the required [passes and handoff](../story/workflow.md#completion), and lock your first response as a recipient before reading plans or evidence.
+### Narrative
 
-Then read every current body, frozen edition, contract and answer, and compare the beginning with its consequences and ending, part boundaries, promises and duration. A pilot establishes only its slice, and closed work keeps its [closed-pass boundary](../story/correction/repair.md#closed-passes).
+For [direct writing or a fixed screenplay](../story/workflow/routes.md#who-writes-the-screenplay), check text completeness against the commission and identify the delivered revision. Compare a fixed screenplay verbatim with the supplied text. Record the [handoff](#acceptance-record) without a narrative verdict.
 
-## Video
+When the route requires narrative passes, lock the first response as a recipient before reading plans or Evidence. Compare setups, consequences, ending, boundaries, promises and duration. Then check the [narrative records](#narrative-records) and record the [handoff](#acceptance-record).
 
-You judge a film on stills, in two passes that answer different questions:
+### Video
+
+Lock an audience response to the delivered picture before reading the screenplay or code. Judge a film on stills in two passes.
 
 | Pass | Stills come from | Shows |
 | --- | --- | --- |
-| Source | The film's source, drawn with the README's capture command | Pose, contact, staging, camera and timing at any second and from any view; it never opens the encoded file |
-| Artifact | The delivered or generated file itself, extracted at matched seconds as the README's section on stills from an encoded file gives | What the audience receives: every scene present, the raster, the transitions, the encode, and for a generated film the picture itself |
+| Source | The film's source | Pose, contact, staging, camera and timing |
+| Artifact | The delivered or generated file | Every scene, raster, transitions, encode and, if generated, the picture |
 
-Make both passes for every delivery claim, because an accepted source pass does not show that the file holds it.
+Use the README's capture commands to draw the source and extract the delivered file at matching times. For generated takes, match by the recorded request intervals, trims and conform mapping. Verify both views of the work before claiming delivery. Apply [measurement and comparison](#measurement-and-comparison) and record [acceptance](#acceptance-record).
 
-Review as an audience that has not read the plans, and lock that response before opening the screenplay or code, covering the opening, ending, middle and every join. A whole motion hint, as [commissioned outputs](../production/SKILL.md#commissioned-outputs) define it, carries staging, identity, camera, action and timing at its adopted representation, which polygon men and coarse forms do.
+Cover the entire film and all joins. Then check every beat, contact, support, facing, reaction, occlusion and continuity in the picture.
 
-Inspect contacts, support, facing, reactions, occlusion and continuity through the motion. Every screenplay beat reaches the picture through the scene that cites it; a function name or citation proves neither invocation nor visibility.
+Verify staging, identity, camera, action and timing on the adopted representation. Compare a hint's [control channels](../motion/control-channels.md) at matched frames.
 
-Check control channels at matched frames under [control channels](../motion/control-channels.md), and a selected generator's actual accepted inputs and takes under [generation](../video/generation.md). A finished direct 3D or generated film is judged by its own picture for preserved action, identity, continuity and audience effect, not by its conditioning.
+A selected generator is judged on its accepted inputs and takes under [generation](../video/generation.md).
 
-Measure the delivered file against the [delivery profile](../production/project-context.md) by reading the file: container, codec, dimensions, frame rate, frame count and duration. An encoder exit or a matching nominal duration is not a measurement.
+A finished direct 3D or generated film is judged by its own picture for preserved action, identity, continuity and audience effect, not by its conditioning, and a direct 3D film also for what [direct film](../video/direct-film.md#what-to-look-for) lists.
 
-Take runtime from performed and measured timing, never page or word count. What only playback shows, such as smoothness, synchronization and sound, the user watches and hears: ask for it, and record what the user reported.
+Ask the user for what only playback shows, and record each report against its film time so the repair can find the frames.
 
-## Measure and compare {#measure-and-compare}
+For a film with narrative passes, check the [narrative records](#narrative-records) after locking the audience response.
 
-Review the picture densely before any delivery claim, so a flaw anywhere in the film reaches you before its audience. Cut the film into review segments, each one capture of a stretch of the film with the README's capture command, and inspect every segment on its contact sheets at the capture's default spacing. With motion already accepted in its [catalog cases](../motion/catalog-cases.md), this pass judges staging, camera and timing.
+### Measurement and comparison
 
-The default spacing skips frames, so around every contact, cut and join add the film's own consecutive frames, as [capture](../visual-debugging/capture.md#times) requires. The README owns the window, the default spacing and the options that select exact frames.
+Inspect all review segments on contact sheets. Use consecutive frames around contacts, cuts and joins under [capture](../visual-debugging/capture.md#times). The README defines the capture options.
 
-Repeat the pass on every segment a fix touches.
+With motion already accepted in its catalog cases, this pass judges staging, camera and timing under [motion judgment](../motion/judgment.md). Repeat it on every segment a fix touches.
 
-Study what [when to study](../story/planning/research.md#when-to-study) assigns to delivery review, and measure the research's targets for what a viewer sees where the viewer sees them, on the displayed bodies and camera in those stills; the resolved schedule only plans them. Targets for what a viewer hears are measured on the decoded audio and confirmed by the user's listening.
+Use [when to study](../story/planning/research.md#when-to-study) to assign research. Measure visible targets on output stills and audible targets on decoded audio. Confirm commissioned sound under [listening](../audio/listening.md).
 
-A capture replaces its previous run unless the run names a round, so keep an accepted delivery's contact sheets and measures under the film's [media records](../production/media-records.md) folder by its delivered revision.
+Measure the delivered file against the [delivery profile](../production/project-context.md#the-delivery-profile). Read its tags and measure frame count. Measure loudness by the recorded method for a film with sound.
 
-Every delivery claim after the first sets each segment's sheets and measures beside the previous delivery's at matched times under [comparison](../visual-debugging/comparison.md), as review tools compare versions ([Flow Production Tracking](https://help.autodesk.com/cloudhelp/ENU/SG-Tutorials/files/SG_Tutorials_tu_collaborative_review_html.html)). A regression holds delivery until it is repaired or the owner accepts it.
+Derive runtime from performed and measured timing.
 
-## Acceptance record {#acceptance-record}
+Keep accepted sheets and measures under [media records](../production/media-records.md#files). Compare each segment at matched times with the previous delivery under [comparison](../visual-debugging/comparison.md). Repair regressions or obtain the owner's acceptance.
 
-Record acceptance in `docs/acceptance/<film>.md`, one tracked file per film, so a later revision is accepted against the same list:
+### Assets
 
+For commissioned [appearance references](../image/canon-references.md), open every promised view from its subject record. Check it against the description and record which views the user accepted.
+
+For a visual asset, test promised views and controls in its consumer. Check shape, contact, deformation and movement where they apply under [form inspection](../3d-modeling/inspection.md) and [commissioned uses](../development/entities.md#inspection-and-handoff).
+
+For audio, follow [listening](../audio/listening.md). Record the applicable checks with the [asset handoff](#acceptance-record).
+
+## Narrative records
+
+Confirm the required passes' [closure](../story/workflow/routes.md#completion). For stages still enabled, the delivery reviewer checks current bodies, contracts and answers. Verify closed passes from their reviews and available validation results under [closed-pass rules](../story/correction/repair.md#closed-passes). Limit pilots to the inspected slice.
+
+These records are for delivery review. The [independent narrative reader](independent-reading.md#reading-as-the-recipient) receives the body without author answers.
+
+## Acceptance record
+
+Record the revision, output identities, checks, observations and remaining limits. Keep this record with the handoff for a screenplay-only delivery or standalone asset.
+
+For a film or whole motion hint, keep one `docs/acceptance/<film>.md` across revisions. Include:
+
+- technical file completion;
+- the separate verdict on the depicted practice;
+- rejected requirements and any exclusion the user adopted;
 - the checklist: every scene and beat seen, on-model entities, contacts, presences, camera and continuity;
-- the observations and the [measures](#measure-and-compare);
-- the revision, the views and the passes reviewed;
+- the measures;
+- the views and passes reviewed;
 - what the user watched or heard, and what nobody did.
 
-The catalog film has its record too, `docs/acceptance/catalog.md`: one row per case with the revision and views at which it was accepted. A film composes only cases that record lists, and a module changed after its row was written is accepted again before a film relies on it.
+Record review observations here, outside [the graph](../contracts/items.md#outside-the-graph).
 
-The record holds review's observations. It answers no contract item, because [the graph](../contracts/SKILL.md#what-the-graph-does-not-hold) cannot establish what a picture shows.
+## Repairs
 
-## Assets
-
-Inspect a model or visual export through its intended consumer, required views and promised controls, and its shape, contact, deformation and motion by [form inspection](../3d-modeling/inspection.md) at the uses [entity work](../development/entities.md#inspect-and-hand-off) sets. Have the user listen to standalone audio as delivered.
-
-## Record and repair
-
-Record the revision, media and output identities, completed checks, observations and unverified limits, recheck [production coverage](../contracts/story/shared/discovery/common.md#requirement-ownership), and confirm the handoff carries what [assembly and handoff](../production/assembly.md#repair-and-deliver) lists. Repair media findings through their owners under the same section and inspect the affected output again; narrative changes follow [upstream repair](../story/correction/repair.md).
+For a film, confirm that the handoff carries the records required by assembly. Repair media findings through the owners that page names and inspect the affected output again; narrative changes follow [repair](../story/correction/repair.md).

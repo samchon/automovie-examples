@@ -1,11 +1,11 @@
 # Adoption
 
-Before adding a question, compare the request and adopted instructions with the existing contracts; most needs already have an owner. Creative user choices stay with [instructions](../story/planning/requirements.md#requirements), operating choices with [project context](../production/project-context.md), and an uncovered work requirement goes through [discovery](../story/planning/discovery.md).
+Check existing contracts before adding a question. Put creative choices in [instructions](../story/planning/requirements.md#requirements) and operating choices in [project context](../production/project-context.md). Discover uncovered work requirements through the story skill.
 
-A new question names one achievement, why its recipient needs it, its observable failure and the legitimate neighboring form it protects. Its checkable detail goes into [statements](../contracts/SKILL.md#items-and-statements) under the item, not into more questions.
+Add a condition to the existing [item](../contracts/items.md#items-and-statements) when it shares the same respondent, proof and repair owner. For a new item, state the achievement and why the recipient needs it. Give the statements its observable failure and the similar valid case.
 
 Give it the narrowest respondent that can establish it: a unit answers for itself, and a whole-work duty needs its population respondent.
 
-Put a production- or language-specific question in the production's `docs/contracts/work` or `docs/contracts/language` family, supplementing the shared questions rather than replacing them. Keep its statements in `docs/contracts/statements`, outside those two families, because the graph reads the documents under those two folders as contracts and respondents.
+Put production and language requirements in their own contract families. Follow [Document layout](../story/document-layout.md#documents) and keep statements outside the selected families.
 
-Adopt the question, its respondents and their [configuration](configuration.md) together, and update every consumer when you change, merge or retire one. Changes that touch closed narrative work follow [upstream repair](../story/correction/repair.md). Never weaken a question or narrow its population to hide a defect.
+Change the question, respondents, [configuration](configuration.md) and consumers together. Preserve the required judgment and population. Follow [repair](../story/correction/repair.md) for closed work.

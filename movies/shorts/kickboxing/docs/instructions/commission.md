@@ -1,10 +1,10 @@
 # Kickboxing commission
 
-The owner's binding rulings for this bout come from the earlier kickboxing production's commission, `docs/instructions/commission.md` in the read-only reference `D:\github\samchon\automovie@scaffold\.references\kickboxing-legacy`, adopted on 2026-11-11 by the user's instruction to make kickboxing anew through the regular workflow. The user adopted only the rulings that concern the story; this file holds them. The film, motion and video-prompt rulings of the same commission are recorded in [PROJECT.md](../../PROJECT.md#outside-the-current-scope) as outside the current scope. Each section quotes the owner's wording, then states how this production reads it. The earlier production's settings, screenplay and source were written under an older scaffold and supply decisions to assess, never text.
+The sections below preserve the earlier owner rulings and their original interpretations. The current screenplay uses the scope and reinterpretation boundaries of the [ringside edition](ringside-edition.md#scope). Its sport is described at ringside viewing distance. The current short retains the dramatic outcome and clock from the earlier finish.
 
 ## One round in 180 seconds {#one-round}
 
-User requirement. "180 seconds", from the bout's opening exchanges through the knockout and its aftermath, ending at 180. The film is one scheduled three-minute round that the knockout ends early; nothing outside that round is shown.
+User requirement. "180 seconds", from the bout's opening exchanges through the knockout and its aftermath, ending at 180. The film stays at ringside for 180 seconds. It shows the opening round of a multi-round bout, the knockout that ends the bout in that round and the immediate aftermath. The [rules study](../research/kickboxing/round-practice.md#rules-and-procedure) gives the scheduled match formats. The exact screen times belong to this commission.
 
 ## Two equal championship fighters {#fighters}
 

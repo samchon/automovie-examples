@@ -1,31 +1,35 @@
 # Research
 
-Study what the film must show truthfully: each practice, the conduct of officials and crowds, and how the genre is actually shot and heard. Settings or brief, screenplay beats, entity measurements and every production [behavior](../../motion/SKILL.md) cite the study.
+Study the practices, conduct and audiovisual conventions the film must depict. Cite each relevant study from settings or brief, beats, measurements and added laws.
 
-## When to study {#when-to-study}
+## Study scope
 
-Before choosing the [direction](direction.md), study only what could change it. Settings or a brief then studies each fact as it fixes it. The screenplay on a short, or the treatment or script that first names an action on long work, studies its law and outcomes; when [no narrative pass runs](../workflow.md#who-writes-the-screenplay), the code does. Code and delivery review study the measurements they program or measure.
+### When to study
 
-A value nothing written yet uses is not gathered, because its consumer often needs a different value when it is written.
+Study only what could change direction before choosing it. Afterwards, study values when a written decision needs them, at the depicted level.
 
-## What needs a study {#what-needs-a-study}
+On shorts, research where the brief, screenplay or code needs a fact. On long projects, settings own their facts, and the first treatment or script using an action studies its law and limits. With [no narrative pass](../workflow/routes.md#who-writes-the-screenplay), code owns these studies. Code and delivery review study their own measurements.
 
-Read the installed packages' READMEs before deciding what to study. A movement the motion vocabulary performs, everyday movement included, needs no production study: the screenplay names the action and the scenes compose it. Neither does a rule or table a package exports; a study records only where the production departs from it. Study what the packages do not carry: a specialist practice or its level and patterns, and what is not a person. A study that no behavior follows has no consumer, and the evidence graph reports it.
+### What needs a study
 
-## Performance study {#performance-study}
+Read the installed package READMEs first and use the [standard shot grammar](../layers/shots.md). Study decisions those sources do not cover.
 
-Study real practice at the depicted level, such as a sport, fight, dance, craft or procedure, and the broadcast or film practice of shooting it; an invented action studies its closest real analogue and states where it departs. Record what each consumer needs so none invents the practice: its laws, its outcome table, the patterns of top-level performance and the measurable targets for what a viewer sees and hears. The [depicted-practice question](../../contracts/story/shared/principles/research.md#depicted-practice) and its statements hold the study to them.
+Study needed movement sequences, timing, unsupported actions, forces, group outcome rates and bodies. Keep studies that a settings or brief record, screenplay beat, entity or law uses.
+
+### Performance study
+
+Study real practice at the depicted level, such as a sport or a craft, and the broadcast or film practice of shooting it; an invented action studies its closest real analogue.
+
+Start with density and distribution at the depicted level. Record needed rules, procedures and conventions under the [depicted-practice question](../../contracts/story/shared/principles/research.md#depicted-practice) and its statements.
 
 ## Sources
 
-Use originals: rulebooks, coaching and training texts, measured studies, analyses of real top-level performances and productions, official documentation and footage of qualified practitioners; search results only locate them.
+Use originals: rulebooks, coaching and training texts, measured studies, analyses of real top-level performances and productions, official documentation and footage of qualified practitioners. Search results only locate them.
 
-Read each passage in context and study footage as consecutive frames through its connected phases. Keep each value as a range from the depicted discipline and level with its unit, method and conditions; a value taken from another discipline or read from an adjective states its translation.
+Read passages in context and inspect consecutive frames across phases. Mark [traced measurements](../../motion/diffusion/tracing.md) as estimates. Record values, units and conditions. Verify each value against its source once, cross-check disputes and report gaps.
 
-Check each value against its source once, when it is written. Cross-check disputed claims and record what stays unavailable.
-
-Save permitted originals in `references/`, rights-unconfirmed ones in ignored `references/private/` and footage in ignored `media/acquired/videos/`, then open the saved files. Keep one `docs/research/index.md` naming each original's creator, URL, retrieval date, locator, rights and use, and write each study in `docs/research/<discipline>/<topic>.md`. A URL or an empty index is not a retained source.
+Retain and open study originals, studies and their index under [document layout](../document-layout.md#documents). Keep footage in ignored `media/acquired/videos/`. Index creator, URL, retrieval date, locator, rights and use.
 
 ## Use
 
-Test the adopted values in the real entity, behavior or sound and compare the result with the footage frame by frame. The study informs the work; [delivery review](../../review/delivery-review.md) measures its targets on the picture and judges what it produced.
+Test the adopted values in the real entity, behavior or sound, and compare the result with the footage frame by frame. The study informs the work; delivery review measures its targets on the picture and judges what it produced.

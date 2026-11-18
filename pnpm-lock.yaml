@@ -163,6 +163,74 @@ settings:
   excludeLinksFromLockfile: false
 
 catalogs:
+  automovie:
+    '@automovie/archetypes':
+      specifier: link:../packages/archetypes
+      version: link:../packages/archetypes
+    '@automovie/engine':
+      specifier: link:../packages/engine
+      version: link:../packages/engine
+    '@automovie/evidence':
+      specifier: link:../packages/evidence
+      version: link:../packages/evidence
+    '@automovie/human':
+      specifier: link:../packages/human
+      version: link:../packages/human
+    '@automovie/ingest':
+      specifier: link:../packages/ingest
+      version: link:../packages/ingest
+    '@automovie/interface':
+      specifier: link:../packages/interface
+      version: link:../packages/interface
+    '@automovie/motions':
+      specifier: link:../packages/motions
+      version: link:../packages/motions
+    '@automovie/recovery':
+      specifier: link:../packages/recovery
+      version: link:../packages/recovery
+    '@automovie/render':
+      specifier: link:../packages/render
+      version: link:../packages/render
+    '@automovie/viewer':
+      specifier: link:../packages/viewer
+      version: link:../packages/viewer
+    automovie:
+      specifier: link:./tools
+      version: link:./tools
+  kickboxing-release:
+    '@automovie/archetypes':
+      specifier: 0.2.0
+      version: 0.2.0
+    '@automovie/engine':
+      specifier: 0.2.0
+      version: 0.2.0
+    '@automovie/evidence':
+      specifier: 0.2.0
+      version: 0.2.0
+    '@automovie/human':
+      specifier: 0.2.0
+      version: 0.2.0
+    '@automovie/ingest':
+      specifier: 0.2.0
+      version: 0.2.0
+    '@automovie/interface':
+      specifier: 0.2.0
+      version: 0.2.0
+    '@automovie/motions':
+      specifier: 0.2.0
+      version: 0.2.0
+    '@automovie/recovery':
+      specifier: 0.2.0
+      version: 0.2.0
+    '@automovie/render':
+      specifier: 0.2.0
+      version: 0.2.0
+    '@automovie/viewer':
+      specifier: 0.2.0
+      version: 0.2.0
+    automovie:
+      specifier: 0.2.0
+      version: 0.2.0
   media:
     ffmpeg-static:
       specifier: ^5.2.0
@@ -188,14 +256,21 @@ catalogs:
       specifier: ^12.1.0
       version: 12.1.0
     '@ttsc/lint':
-      specifier: ^0.36.3
-      version: 0.36.4
+      specifier: ^0.37.0
+      version: 0.37.1
     '@wrtnlabs/evidence':
       specifier: ^0.8.2
       version: 0.8.2
     ttsc:
-      specifier: ^0.36.3
-      version: 0.36.4
+      specifier: ^0.37.0
+      version: 0.37.1
+  three:
+    '@types/three':
+      specifier: ^0.186.0
+      version: 0.186.0
+    three:
+      specifier: ^0.186.0
+      version: 0.186.1
   typescript:
     typescript:
       specifier: ^7.0.2
@@ -209,57 +284,131 @@ catalogs:
       specifier: ^5.4.10
       version: 5.4.21
 
-overrides:
-  automovie: link:../packages/cli
-  '@automovie/engine': link:../packages/engine
-  '@automovie/evidence': link:../packages/evidence
-  '@automovie/human': link:../packages/human
-  '@automovie/ingest': link:../packages/ingest
-  '@automovie/interface': link:../packages/interface
-  '@automovie/motions': link:../packages/motions
-  '@automovie/recovery': link:../packages/recovery
-  '@automovie/render': link:../packages/render
-  '@automovie/template': link:../packages/template
-  '@automovie/viewer': link:../packages/viewer
-  three: link:../node_modules/three
-  '@types/three': link:../node_modules/@types/three
+patchedDependencies:
+  '@automovie/motions@0.2.0': 92edb2151b7121ffa5f7dcfad1384b57834376159d5be9949c82187969b4e4bf
+  '@automovie/render@0.2.0': 524f0c250f4f24949f717145104fd3ab0f72a4dd0338d4fc435d00a7e5df0dd6
 
 importers:
 
   .:
     devDependencies:
       automovie:
-        specifier: link:../packages/cli
-        version: link:../packages/cli
+        specifier: catalog:automovie
+        version: link:tools
       node:
         specifier: runtime:22.23.2
         version: runtime:22.23.2
 
   movies/shorts/kickboxing:
     dependencies:
+      '@automovie/archetypes':
+        specifier: catalog:kickboxing-release
+        version: 0.2.0
       '@automovie/engine':
-        specifier: link:../../../../packages/engine
+        specifier: catalog:kickboxing-release
+        version: 0.2.0
+      '@automovie/human':
+        specifier: catalog:kickboxing-release
+        version: 0.2.0(ttsc@0.37.1(typescript@7.0.2))
+      '@automovie/ingest':
+        specifier: catalog:kickboxing-release
+        version: 0.2.0
+      '@automovie/interface':
+        specifier: catalog:kickboxing-release
+        version: 0.2.0
+      '@automovie/motions':
+        specifier: catalog:kickboxing-release
+        version: 0.2.0(patch_hash=92edb2151b7121ffa5f7dcfad1384b57834376159d5be9949c82187969b4e4bf)
+      '@automovie/recovery':
+        specifier: catalog:kickboxing-release
+        version: 0.2.0
+      '@automovie/render':
+        specifier: catalog:kickboxing-release
+        version: 0.2.0(patch_hash=524f0c250f4f24949f717145104fd3ab0f72a4dd0338d4fc435d00a7e5df0dd6)
+      '@automovie/viewer':
+        specifier: catalog:kickboxing-release
+        version: 0.2.0(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
+      playwright-core:
+        specifier: catalog:media
+        version: 1.65.0
+      react:
+        specifier: catalog:react
+        version: 19.3.1
+      react-dom:
+        specifier: catalog:react
+        version: 19.3.1(react@19.3.1)
+      three:
+        specifier: catalog:three
+        version: 0.186.1
+    devDependencies:
+      '@automovie/evidence':
+        specifier: catalog:kickboxing-release
+        version: 0.2.0(ttsc@0.37.1(typescript@7.0.2))
+      '@nestia/e2e':
+        specifier: catalog:samchon
+        version: 12.1.0
+      '@ttsc/lint':
+        specifier: catalog:samchon
+        version: 0.37.1(ttsc@0.37.1(typescript@7.0.2))
+      '@types/node':
+        specifier: catalog:utils
+        version: 22.20.5
+      '@types/react':
+        specifier: catalog:react
+        version: 19.3.0
+      '@types/three':
+        specifier: catalog:three
+        version: 0.186.0
+      '@wrtnlabs/evidence':
+        specifier: catalog:samchon
+        version: 0.8.2(ttsc@0.37.1(typescript@7.0.2))
+      automovie:
+        specifier: catalog:kickboxing-release
+        version: 0.2.0(@automovie/render@0.2.0(patch_hash=524f0c250f4f24949f717145104fd3ab0f72a4dd0338d4fc435d00a7e5df0dd6))(ffmpeg-static@5.3.0)(playwright-core@1.65.0)(vite@5.4.21(@types/node@22.20.5))
+      ffmpeg-static:
+        specifier: catalog:media
+        version: 5.3.0
+      playwright:
+        specifier: catalog:media
+        version: 1.65.0
+      ttsc:
+        specifier: catalog:samchon
+        version: 0.37.1(typescript@7.0.2)
+      typescript:
+        specifier: catalog:typescript
+        version: 7.0.2
+      vite:
+        specifier: catalog:vite
+        version: 5.4.21(@types/node@22.20.5)
+
+  movies/shorts/malfoy:
+    dependencies:
+      '@automovie/archetypes':
+        specifier: catalog:automovie
+        version: link:../../../../packages/archetypes
+      '@automovie/engine':
+        specifier: catalog:automovie
         version: link:../../../../packages/engine
       '@automovie/human':
-        specifier: link:../../../../packages/human
+        specifier: catalog:automovie
         version: link:../../../../packages/human
       '@automovie/ingest':
-        specifier: link:../../../../packages/ingest
+        specifier: catalog:automovie
         version: link:../../../../packages/ingest
       '@automovie/interface':
-        specifier: link:../../../../packages/interface
+        specifier: catalog:automovie
         version: link:../../../../packages/interface
       '@automovie/motions':
-        specifier: link:../../../../packages/motions
+        specifier: catalog:automovie
         version: link:../../../../packages/motions
       '@automovie/recovery':
-        specifier: link:../../../../packages/recovery
+        specifier: catalog:automovie
         version: link:../../../../packages/recovery
       '@automovie/render':
-        specifier: link:../../../../packages/render
+        specifier: catalog:automovie
         version: link:../../../../packages/render
       '@automovie/viewer':
-        specifier: link:../../../../packages/viewer
+        specifier: catalog:automovie
         version: link:../../../../packages/viewer
       playwright-core:
         specifier: catalog:media
@@ -271,18 +420,18 @@ importers:
         specifier: catalog:react
         version: 19.3.1(react@19.3.1)
       three:
-        specifier: link:../../../../node_modules/three
-        version: link:../../../../node_modules/three
+        specifier: catalog:three
+        version: 0.186.1
     devDependencies:
       '@automovie/evidence':
-        specifier: link:../../../../packages/evidence
+        specifier: catalog:automovie
         version: link:../../../../packages/evidence
       '@nestia/e2e':
         specifier: catalog:samchon
         version: 12.1.0
       '@ttsc/lint':
         specifier: catalog:samchon
-        version: 0.36.4(ttsc@0.36.4(typescript@7.0.2))
+        version: 0.37.1(ttsc@0.37.1(typescript@7.0.2))
       '@types/node':
         specifier: catalog:utils
         version: 22.20.5
@@ -290,14 +439,14 @@ importers:
         specifier: catalog:react
         version: 19.3.0
       '@types/three':
-        specifier: link:../../../../node_modules/@types/three
-        version: link:../../../../node_modules/@types/three
+        specifier: catalog:three
+        version: 0.186.0
       '@wrtnlabs/evidence':
         specifier: catalog:samchon
-        version: 0.8.2(ttsc@0.36.4(typescript@7.0.2))
+        version: 0.8.2(ttsc@0.37.1(typescript@7.0.2))
       automovie:
-        specifier: link:../../../../packages/cli
-        version: link:../../../../packages/cli
+        specifier: catalog:automovie
+        version: link:../../../tools
       ffmpeg-static:
         specifier: catalog:media
         version: 5.3.0
@@ -306,7 +455,171 @@ importers:
         version: 1.65.0
       ttsc:
         specifier: catalog:samchon
-        version: 0.36.4(typescript@7.0.2)
+        version: 0.37.1(typescript@7.0.2)
+      typescript:
+        specifier: catalog:typescript
+        version: 7.0.2
+      vite:
+        specifier: catalog:vite
+        version: 5.4.21(@types/node@22.20.5)
+
+  movies/shorts/slam-dunk:
+    dependencies:
+      '@automovie/archetypes':
+        specifier: catalog:automovie
+        version: link:../../../../packages/archetypes
+      '@automovie/engine':
+        specifier: catalog:automovie
+        version: link:../../../../packages/engine
+      '@automovie/human':
+        specifier: catalog:automovie
+        version: link:../../../../packages/human
+      '@automovie/ingest':
+        specifier: catalog:automovie
+        version: link:../../../../packages/ingest
+      '@automovie/interface':
+        specifier: catalog:automovie
+        version: link:../../../../packages/interface
+      '@automovie/motions':
+        specifier: catalog:automovie
+        version: link:../../../../packages/motions
+      '@automovie/recovery':
+        specifier: catalog:automovie
+        version: link:../../../../packages/recovery
+      '@automovie/render':
+        specifier: catalog:automovie
+        version: link:../../../../packages/render
+      '@automovie/viewer':
+        specifier: catalog:automovie
+        version: link:../../../../packages/viewer
+      playwright-core:
+        specifier: catalog:media
+        version: 1.65.0
+      react:
+        specifier: catalog:react
+        version: 19.3.1
+      react-dom:
+        specifier: catalog:react
+        version: 19.3.1(react@19.3.1)
+      three:
+        specifier: catalog:three
+        version: 0.186.1
+    devDependencies:
+      '@automovie/evidence':
+        specifier: catalog:automovie
+        version: link:../../../../packages/evidence
+      '@nestia/e2e':
+        specifier: catalog:samchon
+        version: 12.1.0
+      '@ttsc/lint':
+        specifier: catalog:samchon
+        version: 0.37.1(ttsc@0.37.1(typescript@7.0.2))
+      '@types/node':
+        specifier: catalog:utils
+        version: 22.20.5
+      '@types/react':
+        specifier: catalog:react
+        version: 19.3.0
+      '@types/three':
+        specifier: catalog:three
+        version: 0.186.0
+      '@wrtnlabs/evidence':
+        specifier: catalog:samchon
+        version: 0.8.2(ttsc@0.37.1(typescript@7.0.2))
+      automovie:
+        specifier: catalog:automovie
+        version: link:../../../tools
+      ffmpeg-static:
+        specifier: catalog:media
+        version: 5.3.0
+      playwright:
+        specifier: catalog:media
+        version: 1.65.0
+      ttsc:
+        specifier: catalog:samchon
+        version: 0.37.1(typescript@7.0.2)
+      typescript:
+        specifier: catalog:typescript
+        version: 7.0.2
+      vite:
+        specifier: catalog:vite
+        version: 5.4.21(@types/node@22.20.5)
+
+  movies/shorts/sword:
+    dependencies:
+      '@automovie/archetypes':
+        specifier: catalog:automovie
+        version: link:../../../../packages/archetypes
+      '@automovie/engine':
+        specifier: catalog:automovie
+        version: link:../../../../packages/engine
+      '@automovie/human':
+        specifier: catalog:automovie
+        version: link:../../../../packages/human
+      '@automovie/ingest':
+        specifier: catalog:automovie
+        version: link:../../../../packages/ingest
+      '@automovie/interface':
+        specifier: catalog:automovie
+        version: link:../../../../packages/interface
+      '@automovie/motions':
+        specifier: catalog:automovie
+        version: link:../../../../packages/motions
+      '@automovie/recovery':
+        specifier: catalog:automovie
+        version: link:../../../../packages/recovery
+      '@automovie/render':
+        specifier: catalog:automovie
+        version: link:../../../../packages/render
+      '@automovie/viewer':
+        specifier: catalog:automovie
+        version: link:../../../../packages/viewer
+      playwright-core:
+        specifier: catalog:media
+        version: 1.65.0
+      react:
+        specifier: catalog:react
+        version: 19.3.1
+      react-dom:
+        specifier: catalog:react
+        version: 19.3.1(react@19.3.1)
+      three:
+        specifier: catalog:three
+        version: 0.186.1
+    devDependencies:
+      '@automovie/evidence':
+        specifier: catalog:automovie
+        version: link:../../../../packages/evidence
+      '@nestia/e2e':
+        specifier: catalog:samchon
+        version: 12.1.0
+      '@ttsc/lint':
+        specifier: catalog:samchon
+        version: 0.37.1(ttsc@0.37.1(typescript@7.0.2))
+      '@types/node':
+        specifier: catalog:utils
+        version: 22.20.5
+      '@types/react':
+        specifier: catalog:react
+        version: 19.3.0
+      '@types/three':
+        specifier: catalog:three
+        version: 0.186.0
+      '@wrtnlabs/evidence':
+        specifier: catalog:samchon
+        version: 0.8.2(ttsc@0.37.1(typescript@7.0.2))
+      automovie:
+        specifier: catalog:automovie
+        version: link:../../../tools
+      ffmpeg-static:
+        specifier: catalog:media
+        version: 5.3.0
+      playwright:
+        specifier: catalog:media
+        version: 1.65.0
+      ttsc:
+        specifier: catalog:samchon
+        version: 0.37.1(typescript@7.0.2)
       typescript:
         specifier: catalog:typescript
         version: 7.0.2
@@ -316,9 +629,58 @@ importers:
 
 packages:
 
+  '@automovie/archetypes@0.2.0':
+    resolution: {integrity: sha512-S57jEtoAwupIkIJ1MtznY1k57eRuKLBan19xt+0usSkgonfN7TLv0bRLUvoJZNiT1O0h5B4BnUX8n5lL92Sckg==}
+    engines: {node: '>=22.23.2'}
+
+  '@automovie/engine@0.2.0':
+    resolution: {integrity: sha512-YiE+M9CnJEknSSod7jCPgFzaWLraMsPn5+rg1H6If6eC2J0+AaU8eQ0S4fWroOnyqaq9W4M7sIBXElU5OOQqAg==}
+
+  '@automovie/evidence@0.2.0':
+    resolution: {integrity: sha512-3GAGt/KSF1FjPbbES/kLKO5b21FmnVYLzbEP/6UTKZTM4xvgrlP21OqXiYvYAPfn0Iyg0cHJNNeRYR4WFfDzpg==}
+    engines: {node: '>=22.23.2'}
+
+  '@automovie/human@0.2.0':
+    resolution: {integrity: sha512-hJ2LpVztRpf5EYm8AKrQhkJKwWNsVsU/iB0RmyuDEQj2PMZZAYRD3uPTfDpLol3v23i82fXwTmMfd+dJ9Pt1NQ==}
+    engines: {node: '>=22.23.2'}
+
+  '@automovie/ingest@0.2.0':
+    resolution: {integrity: sha512-0/Psg9XokO0RJRPMVJtyCBkrLly8VSvyZEoa6lnkaGBQUAG+LTSTP2V4L65E4fbd8Qa8EMCMRVCqR+bRS9rqdw==}
+
+  '@automovie/interface@0.2.0':
+    resolution: {integrity: sha512-RXv7PjxYyWL+dxA8SPBI7t033gTS9B/2lrCBIdlAqmVQMjCI80dN9GIgTwtlS2NsfhCA4kXOzzg+wsQjb6UpuQ==}
+
+  '@automovie/motions@0.2.0':
+    resolution: {integrity: sha512-eBCJ3cWL9M6K5lfNa4MuR6q3952Cr4oVg8uli9QCTtvSj5uCxHxElSiidgb6TQiTcySYXEGitl90xx3e1hAb/Q==}
+    engines: {node: '>=22.23.2'}
+
+  '@automovie/recovery@0.2.0':
+    resolution: {integrity: sha512-P7qnponNmHEVnglSbizhx98R/qHYNyx/ZuihNFpvcokolXZ0fhKH0yloOex7ALYf56zICm+XUZ3H8cAy4n+z/A==}
+    engines: {node: '>=22.23.2'}
+
+  '@automovie/render@0.2.0':
+    resolution: {integrity: sha512-plLaQZMGtdhxx3aEQm5BMgouH6vtRnkFMxTgocsg+XUlvwlK/noL3X2ow+F+cVcsAWpOSG7sbaKa+GGZf5CqqQ==}
+    engines: {node: '>=22.23.2'}
+
+  '@automovie/template@0.2.0':
+    resolution: {integrity: sha512-SYZ3GmiZhDtXJhJEw8VIhTsU7lqXvtugb0EvzeohxqdIp/BH8h3LeotPvJCL3YMhXjGFqbNFftOXoZSBP9OKGw==}
+
+  '@automovie/viewer@0.2.0':
+    resolution: {integrity: sha512-V9gYZipeyCe2Is2I75RoMaB31C8O+Hvip5ykc5MiCaNq1x3EGckBeGYp4zjVSzcTEnqCPLDxXpYUTOpG31OCYA==}
+    engines: {node: '>=22.23.2'}
+    peerDependencies:
+      react: ^19.2.0
+      react-dom: ^19.2.0
+
   '@derhuerst/http-basic@8.2.4':
     resolution: {integrity: sha512-F9rL9k9Xjf5blCz8HsJRO4diy111cayL2vkY2XE4r4t3n0yPXVYy3KD3nJ1qbrSn9743UWSXH4IwuCa/HWlGFw==}
     engines: {node: '>=6.0.0'}
+
+  '@dimforge/rapier3d-compat@0.12.0':
+    resolution: {integrity: sha512-uekIGetywIgopfD97oDL5PfeezkFpNhwlzlaEYNOA0N6ghdsOvh/HYjSMek5Q2O1PYvRSDFcqFVJl4r4ZBwOow==}
+
+  '@dimforge/rapier3d-compat@0.21.0':
+    resolution: {integrity: sha512-tCl1HPGwOhn5aCQbgqWbOH+Nx/5fnr3IPAnzQuR7zIhC/raqi2yxC6LhvZqjdI2El5hQgY5RDAwDrAjAi2FdPA==}
 
   '@esbuild/aix-ppc64@0.21.5':
     resolution: {integrity: sha512-1SDgH6ZSPTlggy1yI6+Dbkiz8xzpHJEVAlF/AM1tHPLsf5STom9rwtjE4hKAF20FfXXNTFqEYXyJNWh1GiZedQ==}
@@ -457,6 +819,9 @@ packages:
     engines: {node: '>=12'}
     cpu: [x64]
     os: [win32]
+
+  '@gltf-transform/core@4.5.1':
+    resolution: {integrity: sha512-OWgBYssKHKoXMIrMb2N20jXqWRnMP9HdtcTFQBEAJtz4P+OOxx5fozl5eAeK7nktIs5uDE/lu4NbkE5VCZaR9g==}
 
   '@nestia/e2e@12.1.0':
     resolution: {integrity: sha512-WjhNi9YGBDPEq5ik8ApgTPxI6RxezzWdvDiBx7hmqnhEKqzdHxGD5T+aleuNkJdvKYPrSdS0crDynLfe+38fMw==}
@@ -607,45 +972,48 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@ttsc/darwin-arm64@0.36.4':
-    resolution: {integrity: sha512-zwKaEUmeKJ91MDlAus9YSW2tngWCWlwS8WXpqEKePXu4yhySMrqOz6W5ibYyDMxSu2Zxt97rYUjjQu7+NqoaTg==}
+  '@ttsc/darwin-arm64@0.37.1':
+    resolution: {integrity: sha512-Stk4DOgnWy1A/DrdXj7qqGBZxLAOfbU0V7iSaHoOi7OY8Q7e/CWOa2qvVxiygxCzfCTE9BlpZnkQpuwYLDmgow==}
     cpu: [arm64]
     os: [darwin]
 
-  '@ttsc/darwin-x64@0.36.4':
-    resolution: {integrity: sha512-llG2SpTB8Ck7bN3lCk9bXXrZR3auyAHUc0k7AY+A4pIXD00xdZX3yYrzCjHwzT0qpBsGBL2XICzt3T1lRfbDUQ==}
+  '@ttsc/darwin-x64@0.37.1':
+    resolution: {integrity: sha512-8GRnWDx+H0lv2EFMRkyuXc5yexADrE9HcZYdDWUc5PFxAL+uGoFm9EbJCRt3SMmYH+V0/p1J5Kaw6K1JuUhXcQ==}
     cpu: [x64]
     os: [darwin]
 
-  '@ttsc/lint@0.36.4':
-    resolution: {integrity: sha512-EQsrYlcLff+4NHA2XzYDTcqk0hknGBQXt4Wjm5eJ3PK3flYnCDewY7fGjS0xKs0pTwLCYUXJnWiBIiEaeHSfNQ==}
+  '@ttsc/lint@0.37.1':
+    resolution: {integrity: sha512-HXi59npKPJhpwSP45o05OVF7fC9wNCfIBgRh19z+rIJTm2es17My4ypL5g3cdJIstNVhEcqdd9KRZIJYOuyZ8Q==}
     peerDependencies:
-      ttsc: ^0.36.4
+      ttsc: ^0.37.1
 
-  '@ttsc/linux-arm64@0.36.4':
-    resolution: {integrity: sha512-l2YHxb1/fUTobDktx51MqsbaEGhl0nFX//EhJMzlcEMCLgN3x2HQVV1xz0uWhkAUmu0UAVhLmZYGsRoGROQl1A==}
+  '@ttsc/linux-arm64@0.37.1':
+    resolution: {integrity: sha512-yvGJGH+mecVbl4+bJY/Ok67bzgVSLCVnF3flFWvcnsgmDCIG4AXXr/k24LXAXABT+aUNaVw8MxpvFnkvnMPK9Q==}
     cpu: [arm64]
     os: [linux]
 
-  '@ttsc/linux-arm@0.36.4':
-    resolution: {integrity: sha512-K9tkHeoBc1FupUQ5MJgc4CjEqq0F+TQ7FV39wtILdSNi/NvA0bEHsAVU0Co/N2Zv6GWYn0BIog6Un5X5DOqPvQ==}
+  '@ttsc/linux-arm@0.37.1':
+    resolution: {integrity: sha512-7cMkbWEQZi6uNy73XzYeh6YJCBB4KOhsofT8/mF5CVTdiw+Ogwg+bl6JO2h2yasrzPV3ZzjWLbVunNV0Apx/Dg==}
     cpu: [arm]
     os: [linux]
 
-  '@ttsc/linux-x64@0.36.4':
-    resolution: {integrity: sha512-RoB0OldeHPn+f5ijQZ5kb4wXlN3OuS6gfpX52oSnLabeRvRr+eb0kC40oOuiszYS40U+klv10nkGs0gEyhx7ig==}
+  '@ttsc/linux-x64@0.37.1':
+    resolution: {integrity: sha512-3h/y6nh1VlaWv09IuXxxq6gfyzUHjkvoci+P20p3qkwlF3MCmHkHxwO6d5iTP70wmjiLbU7IKMrkpxqSMXRH2w==}
     cpu: [x64]
     os: [linux]
 
-  '@ttsc/win32-arm64@0.36.4':
-    resolution: {integrity: sha512-qBwH+3CWgUzmUGvpiPQpUH91a+ma/hHmZYoURUmXEsbtIyiUGBqkwL2f+j1dqLDgXjLKh/69WVf7xNNhsrzr5Q==}
+  '@ttsc/win32-arm64@0.37.1':
+    resolution: {integrity: sha512-Zasl1SVD2duzcRlM3vNwprBjrhNIlJNu0zh/Lef6pLqMM5/x6NJoZYgUOY9FqFHvlZMt1Bf2NgkA9JUdyLihwQ==}
     cpu: [arm64]
     os: [win32]
 
-  '@ttsc/win32-x64@0.36.4':
-    resolution: {integrity: sha512-YNZqAs/ts4YplBThxwEVS27jCMMOU213BTmS+8DAzV36Pt/+MvEQ6Y9NVdXilHKpIJbsOStL9ldl7H8yCxWN6g==}
+  '@ttsc/win32-x64@0.37.1':
+    resolution: {integrity: sha512-2v5vyAvbsVFzIktaCeKzOmXpKtpD8Rcwya0OgsB9pZTfdkpbZtCOYFfMRLQhlBGw0AvDlR2DRly6h188uR+F3g==}
     cpu: [x64]
     os: [win32]
+
+  '@tweenjs/tween.js@23.1.3':
+    resolution: {integrity: sha512-vJmvvwFxYuGnF2axRtPYocag6Clbb5YS7kLL+SO/TeVFzHqDIWrNKYtcsPMibjDx9O+bu+psAy9NKfWklassUA==}
 
   '@types/estree@1.0.10':
     resolution: {integrity: sha512-lTyOMnOcmRBzdCv6/4zUZCrEhV0xrqQiUZBZtVcbmLHBXKLnN8q89v/wKRF/Q0HbwVsqbIG3o5HDoFl9sduM+g==}
@@ -658,6 +1026,15 @@ packages:
 
   '@types/react@19.3.0':
     resolution: {integrity: sha512-N0rFCuH9YoxG9/m61l9MfpJKfmLOVU0em7ipIz6TRgSSkvReLB9vL85GB+yr8Bs5leqpvg96JSwF4ZS1s4viQg==}
+
+  '@types/stats.js@0.17.4':
+    resolution: {integrity: sha512-jIBvWWShCvlBqBNIZt0KAshWpvSjhkwkEu4ZUcASoAvhmrgAUI2t1dXrjSL4xXVLB4FznPrIsX3nKXFl/Dt4vA==}
+
+  '@types/three@0.186.0':
+    resolution: {integrity: sha512-mxYSBpDC+D0pLfSP6sW4WZTcT+nrtmZcimMqnVmy36Hte3XpeYSrvgg4TRdaM1GemGog1AWzI5qL2VoIfMXbJQ==}
+
+  '@types/webxr@0.5.24':
+    resolution: {integrity: sha512-h8fgEd/DpoS9CBrjEQXR+dIDraopAEfu4wYVNY2tEPwk60stPWhvZMf4Foo5FakuQ7HFZoa8WceaWFervK2Ovg==}
 
   '@typescript/typescript-aix-ppc64@7.0.2':
     resolution: {integrity: sha512-MTKKkWB7p/0E9xi1d1tHtZ5PiLkGEMIq88pK2CubZjOsLtYTLqhgIgi6zepFa+9GHZ6h05NMCkQxGKiPXMxXtQ==}
@@ -782,8 +1159,14 @@ packages:
   '@typia/interface@15.3.1':
     resolution: {integrity: sha512-cquxvEJ31LmPTwqwQoRPm5wOFup1Ew8wZpB2OsDHZQXDwBT0e77JOoPAWYc+g99ovLT/WUaB/Yty2u/Fi0hV0w==}
 
+  '@typia/interface@15.4.1':
+    resolution: {integrity: sha512-faKfnudnyAniFnI4X418qob1TfK1ubNIFabBELWP3ez93o99UmcNXFR3NcRVZmwrjVEw94zoh/AYujdq5PH+Yw==}
+
   '@typia/utils@15.3.1':
     resolution: {integrity: sha512-yuMKrCsLk+gez5Supj0F/SVJJ5wdsTLOrQsPxx9PTWh1gYzRyFDlVGShJw8nyGckWOls+IROEAkfJWBZzfQcRQ==}
+
+  '@typia/utils@15.4.1':
+    resolution: {integrity: sha512-FZbVanZfCt/0senADKVe85UROUMrAtx5vEMZmftH3+f95Dx0ShNi0cCZATsFKe+Ll3FILe9wqBi4zyk0jMY0Jg==}
 
   '@wrtnlabs/evidence@0.8.2':
     resolution: {integrity: sha512-+bYExAn41uqJaF+rnTX5jN0wdGl6uDQP2E0tSiVTfWcbSGP+5kYnaPrR9LoMu3rXt9sHfwBQDRlBfMhQsa1QYw==}
@@ -797,6 +1180,24 @@ packages:
   agent-base@6.0.2:
     resolution: {integrity: sha512-RZNwNclF7+MS/8bDg70amg32dyeZGZxiDuQmZxKLAlQjr3jGyLx+4Kkk58UO7D2QdgFIQCovuSuZESne6RG6XQ==}
     engines: {node: '>= 6.0.0'}
+
+  automovie@0.2.0:
+    resolution: {integrity: sha512-D5adG98fmc6TXEqhi8F89/6iSQji321Hj69PVAs5PTsm+pBpCDpfddgALXxMXUKN4VlxxVJs6DxNfAwm1spvJg==}
+    hasBin: true
+    peerDependencies:
+      '@automovie/render': ^0.2.0
+      ffmpeg-static: ^5.2.0
+      playwright-core: ^1.60.0
+      vite: ^5.4.10
+    peerDependenciesMeta:
+      '@automovie/render':
+        optional: true
+      ffmpeg-static:
+        optional: true
+      playwright-core:
+        optional: true
+      vite:
+        optional: true
 
   buffer-from@1.1.2:
     resolution: {integrity: sha512-E+XQCRwSbaaiChtv6k6Dwgc+bx+Bs6vuKJHHl5kox/BaKbhiXzqQOwK4cO22yElGp2OCmjwVhT3HmxgyPGnJfQ==}
@@ -835,6 +1236,9 @@ packages:
     engines: {node: '>=12'}
     hasBin: true
 
+  fflate@0.8.3:
+    resolution: {integrity: sha512-tbZNuJrLwGUp3zshBtdy4W+ORxZuIh8a5ilyIEQDC5rY1f3U20JMry0Ll3WBzU58EZKsEuJFXhb5gwv8CsPvgA==}
+
   ffmpeg-static@5.3.0:
     resolution: {integrity: sha512-H+K6sW6TiIX6VGend0KQwthe+kaceeH/luE8dIZyOP35ik7ahYojDuqlTV1bOrtEwl01sy2HFNGQfi5IDJvotg==}
     engines: {node: '>=16'}
@@ -853,6 +1257,9 @@ packages:
 
   inherits@2.0.4:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
+
+  meshoptimizer@1.1.1:
+    resolution: {integrity: sha512-oRFNWJRDA/WTrVj7NWvqa5HqE1t9MYDj2VaWirQCzCCrAd2GHrqR/sQezCxiWATPNlKTcRaPRHPJwIRoPBAp5g==}
 
   ms@2.1.3:
     resolution: {integrity: sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==}
@@ -1028,6 +1435,9 @@ packages:
     resolution: {integrity: sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==}
     engines: {node: '>=0.4.0'}
 
+  property-graph@4.1.0:
+    resolution: {integrity: sha512-AvPcP7XECNWy4LGmFQ77k7un4lSKM4eS29PTvW4ck95uYeLxXPWJM7hLuBqK91FaHqCcgJvIUCuNJjjxKE7VKQ==}
+
   randexp@0.5.3:
     resolution: {integrity: sha512-U+5l2KrcMNOUPYvazA3h5ekF80FHTUG+87SEAmHZmolh1M+i/WyTCxVzmi+tidIa1tM4BSe8g2Y/D3loWDjj+w==}
     engines: {node: '>=4'}
@@ -1067,11 +1477,14 @@ packages:
   string_decoder@1.3.0:
     resolution: {integrity: sha512-hkRX8U1WjJFd8LsDJ2yQ/wWWxaopEsABU1XfkM8A+j0+85JAGppt16cr1Whg6KIbb4okU6Mql6BOj+uup/wKeA==}
 
+  three@0.186.1:
+    resolution: {integrity: sha512-blFeqb49wRCSGUGj7gtpfnSGHy2lwDk94RhUmS1c/hTby70kvChbWpkJ4Pm1390LqzzvTmzgXKHPEafJwCb8jA==}
+
   tstl@3.0.0:
     resolution: {integrity: sha512-pR83y6/tbJx6jeGRqGJXk2t/eCUynaHEE6zsOLB0Zga8ej61LXtPfoeiROdhezpoCT15+1QMbqKB1Um5kasSKg==}
 
-  ttsc@0.36.4:
-    resolution: {integrity: sha512-uBSL9r0ONxBW8WfUSUDCFuopLOtQenAUAlcHs5Ov53xMxnMyWDn0wRpfUYc5MntzIXKwUa53oqUaqH+HN/MoCg==}
+  ttsc@0.37.1:
+    resolution: {integrity: sha512-h4k8EjTVuVeV6xTt9Rfl210/Njf6QcvlOBL0MnhVGj6TquldkGMeq6ogOanIsCUuenBQn39aF1NAZ0ryVV83Rw==}
     engines: {node: '>=22.15.0'}
     hasBin: true
     peerDependencies:
@@ -1089,6 +1502,14 @@ packages:
     resolution: {integrity: sha512-YGDGM4EzhOu8yfVRwkU3H5COoOnCZCM8i5QAkZnCgn+3viJHqDDlpF3o9U4Czz5kv254HobWe+pFO5SZqSInCQ==}
     peerDependencies:
       ttsc: '>=0.36.3'
+    peerDependenciesMeta:
+      ttsc:
+        optional: true
+
+  typia@15.4.1:
+    resolution: {integrity: sha512-SH0atvfzxficDTB0JfAzN6PSFr+hH0jejmmTtUYHBUSZfJ+yhaXt1/5S2ly2ZPu1Nzw0YQSWWCDmoAMcJMn77Q==}
+    peerDependencies:
+      ttsc: '>=0.37.0'
     peerDependenciesMeta:
       ttsc:
         optional: true
@@ -1140,12 +1561,76 @@ packages:
 
 snapshots:
 
+  '@automovie/archetypes@0.2.0':
+    dependencies:
+      '@automovie/engine': 0.2.0
+      '@automovie/interface': 0.2.0
+
+  '@automovie/engine@0.2.0':
+    dependencies:
+      '@automovie/interface': 0.2.0
+      '@dimforge/rapier3d-compat': 0.21.0
+
+  '@automovie/evidence@0.2.0(ttsc@0.37.1(typescript@7.0.2))':
+    dependencies:
+      '@wrtnlabs/evidence': 0.8.2(ttsc@0.37.1(typescript@7.0.2))
+    transitivePeerDependencies:
+      - ttsc
+
+  '@automovie/human@0.2.0(ttsc@0.37.1(typescript@7.0.2))':
+    dependencies:
+      '@automovie/engine': 0.2.0
+      '@automovie/interface': 0.2.0
+      typia: 15.4.1(ttsc@0.37.1(typescript@7.0.2))
+    transitivePeerDependencies:
+      - ttsc
+
+  '@automovie/ingest@0.2.0':
+    dependencies:
+      '@automovie/engine': 0.2.0
+      '@automovie/interface': 0.2.0
+      '@gltf-transform/core': 4.5.1
+
+  '@automovie/interface@0.2.0': {}
+
+  '@automovie/motions@0.2.0(patch_hash=92edb2151b7121ffa5f7dcfad1384b57834376159d5be9949c82187969b4e4bf)':
+    dependencies:
+      '@automovie/engine': 0.2.0
+      '@automovie/interface': 0.2.0
+
+  '@automovie/recovery@0.2.0':
+    dependencies:
+      '@automovie/engine': 0.2.0
+      '@automovie/interface': 0.2.0
+
+  '@automovie/render@0.2.0(patch_hash=524f0c250f4f24949f717145104fd3ab0f72a4dd0338d4fc435d00a7e5df0dd6)':
+    dependencies:
+      '@automovie/engine': 0.2.0
+      '@automovie/ingest': 0.2.0
+      '@automovie/interface': 0.2.0
+      three: 0.186.1
+
+  '@automovie/template@0.2.0':
+    dependencies:
+      yaml: 2.9.1
+
+  '@automovie/viewer@0.2.0(react-dom@19.3.1(react@19.3.1))(react@19.3.1)':
+    dependencies:
+      '@automovie/render': 0.2.0(patch_hash=524f0c250f4f24949f717145104fd3ab0f72a4dd0338d4fc435d00a7e5df0dd6)
+      react: 19.3.1
+      react-dom: 19.3.1(react@19.3.1)
+      three: 0.186.1
+
   '@derhuerst/http-basic@8.2.4':
     dependencies:
       caseless: 0.12.0
       concat-stream: 2.0.0
       http-response-object: 3.0.2
       parse-cache-control: 1.0.1
+
+  '@dimforge/rapier3d-compat@0.12.0': {}
+
+  '@dimforge/rapier3d-compat@0.21.0': {}
 
   '@esbuild/aix-ppc64@0.21.5':
     optional: true
@@ -1215,6 +1700,10 @@ snapshots:
 
   '@esbuild/win32-x64@0.21.5':
     optional: true
+
+  '@gltf-transform/core@4.5.1':
+    dependencies:
+      property-graph: 4.1.0
 
   '@nestia/e2e@12.1.0': {}
 
@@ -1298,30 +1787,32 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.68.2':
     optional: true
 
-  '@ttsc/darwin-arm64@0.36.4':
+  '@ttsc/darwin-arm64@0.37.1':
     optional: true
 
-  '@ttsc/darwin-x64@0.36.4':
+  '@ttsc/darwin-x64@0.37.1':
     optional: true
 
-  '@ttsc/lint@0.36.4(ttsc@0.36.4(typescript@7.0.2))':
+  '@ttsc/lint@0.37.1(ttsc@0.37.1(typescript@7.0.2))':
     dependencies:
-      ttsc: 0.36.4(typescript@7.0.2)
+      ttsc: 0.37.1(typescript@7.0.2)
 
-  '@ttsc/linux-arm64@0.36.4':
+  '@ttsc/linux-arm64@0.37.1':
     optional: true
 
-  '@ttsc/linux-arm@0.36.4':
+  '@ttsc/linux-arm@0.37.1':
     optional: true
 
-  '@ttsc/linux-x64@0.36.4':
+  '@ttsc/linux-x64@0.37.1':
     optional: true
 
-  '@ttsc/win32-arm64@0.36.4':
+  '@ttsc/win32-arm64@0.37.1':
     optional: true
 
-  '@ttsc/win32-x64@0.36.4':
+  '@ttsc/win32-x64@0.37.1':
     optional: true
+
+  '@tweenjs/tween.js@23.1.3': {}
 
   '@types/estree@1.0.10': {}
 
@@ -1334,6 +1825,19 @@ snapshots:
   '@types/react@19.3.0':
     dependencies:
       csstype: 3.2.3
+
+  '@types/stats.js@0.17.4': {}
+
+  '@types/three@0.186.0':
+    dependencies:
+      '@dimforge/rapier3d-compat': 0.12.0
+      '@tweenjs/tween.js': 23.1.3
+      '@types/stats.js': 0.17.4
+      '@types/webxr': 0.5.24
+      fflate: 0.8.3
+      meshoptimizer: 1.1.1
+
+  '@types/webxr@0.5.24': {}
 
   '@typescript/typescript-aix-ppc64@7.0.2':
     optional: true
@@ -1397,17 +1901,23 @@ snapshots:
 
   '@typia/interface@15.3.1': {}
 
+  '@typia/interface@15.4.1': {}
+
   '@typia/utils@15.3.1':
     dependencies:
       '@typia/interface': 15.3.1
 
-  '@wrtnlabs/evidence@0.8.2(ttsc@0.36.4(typescript@7.0.2))':
+  '@typia/utils@15.4.1':
+    dependencies:
+      '@typia/interface': 15.4.1
+
+  '@wrtnlabs/evidence@0.8.2(ttsc@0.37.1(typescript@7.0.2))':
     dependencies:
       '@prisma/prisma-schema-wasm': 7.10.0-2.d0368e25c88e68caa4d283b5f2d88d1b76ed9356
       '@typia/interface': 15.3.1
       '@typia/utils': 15.3.1
       tstl: 3.0.0
-      typia: 15.3.1(ttsc@0.36.4(typescript@7.0.2))
+      typia: 15.3.1(ttsc@0.37.1(typescript@7.0.2))
       web-tree-sitter: 0.27.0
       yaml: 2.9.1
     transitivePeerDependencies:
@@ -1420,6 +1930,15 @@ snapshots:
       debug: 4.4.3
     transitivePeerDependencies:
       - supports-color
+
+  automovie@0.2.0(@automovie/render@0.2.0(patch_hash=524f0c250f4f24949f717145104fd3ab0f72a4dd0338d4fc435d00a7e5df0dd6))(ffmpeg-static@5.3.0)(playwright-core@1.65.0)(vite@5.4.21(@types/node@22.20.5)):
+    dependencies:
+      '@automovie/template': 0.2.0
+    optionalDependencies:
+      '@automovie/render': 0.2.0(patch_hash=524f0c250f4f24949f717145104fd3ab0f72a4dd0338d4fc435d00a7e5df0dd6)
+      ffmpeg-static: 5.3.0
+      playwright-core: 1.65.0
+      vite: 5.4.21(@types/node@22.20.5)
 
   buffer-from@1.1.2: {}
 
@@ -1470,6 +1989,8 @@ snapshots:
       '@esbuild/win32-ia32': 0.21.5
       '@esbuild/win32-x64': 0.21.5
 
+  fflate@0.8.3: {}
+
   ffmpeg-static@5.3.0:
     dependencies:
       '@derhuerst/http-basic': 8.2.4
@@ -1495,6 +2016,8 @@ snapshots:
 
   inherits@2.0.4: {}
 
+  meshoptimizer@1.1.1: {}
+
   ms@2.1.3: {}
 
   nanoid@3.3.20: {}
@@ -1518,6 +2041,8 @@ snapshots:
       source-map-js: 1.2.2
 
   progress@2.0.3: {}
+
+  property-graph@4.1.0: {}
 
   randexp@0.5.3:
     dependencies:
@@ -1581,21 +2106,23 @@ snapshots:
     dependencies:
       safe-buffer: 5.2.1
 
+  three@0.186.1: {}
+
   tstl@3.0.0: {}
 
-  ttsc@0.36.4(typescript@7.0.2):
+  ttsc@0.37.1(typescript@7.0.2):
     dependencies:
       acorn: 8.16.0
       cjs-module-lexer: 2.2.1
       typescript: 7.0.2
     optionalDependencies:
-      '@ttsc/darwin-arm64': 0.36.4
-      '@ttsc/darwin-x64': 0.36.4
-      '@ttsc/linux-arm': 0.36.4
-      '@ttsc/linux-arm64': 0.36.4
-      '@ttsc/linux-x64': 0.36.4
-      '@ttsc/win32-arm64': 0.36.4
-      '@ttsc/win32-x64': 0.36.4
+      '@ttsc/darwin-arm64': 0.37.1
+      '@ttsc/darwin-x64': 0.37.1
+      '@ttsc/linux-arm': 0.37.1
+      '@ttsc/linux-arm64': 0.37.1
+      '@ttsc/linux-x64': 0.37.1
+      '@ttsc/win32-arm64': 0.37.1
+      '@ttsc/win32-x64': 0.37.1
       fsevents: 2.3.3
 
   typedarray@0.0.6: {}
@@ -1623,13 +2150,21 @@ snapshots:
       '@typescript/typescript-win32-arm64': 7.0.2
       '@typescript/typescript-win32-x64': 7.0.2
 
-  typia@15.3.1(ttsc@0.36.4(typescript@7.0.2)):
+  typia@15.3.1(ttsc@0.37.1(typescript@7.0.2)):
     dependencies:
       '@typia/interface': 15.3.1
       '@typia/utils': 15.3.1
       randexp: 0.5.3
     optionalDependencies:
-      ttsc: 0.36.4(typescript@7.0.2)
+      ttsc: 0.37.1(typescript@7.0.2)
+
+  typia@15.4.1(ttsc@0.37.1(typescript@7.0.2)):
+    dependencies:
+      '@typia/interface': 15.4.1
+      '@typia/utils': 15.4.1
+      randexp: 0.5.3
+    optionalDependencies:
+      ttsc: 0.37.1(typescript@7.0.2)
 
   undici-types@6.21.0: {}
 

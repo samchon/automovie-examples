@@ -1,30 +1,40 @@
 # automovie-examples
 
-An AutoMovie workspace: several productions share one set of skills and contracts, one AutoMovie release and the workspace's own packages. Each production turns an LLM-authored screenplay into a reproducible motion hint, as its own README describes.
+This workspace holds example films used to evaluate AutoMovie. Productions share skills, contracts and local packages. Each production's `PROJECT.md` records its commission.
+
+## Screenplays
+
+| Production | What to read |
+| --- | --- |
+| Kickboxing | Two neighbours follow a three-minute bout from the glove touch to the last clap at ringside. [English screenplay](movies/shorts/kickboxing/docs/body/screenplay/kickboxing/010-the-round.md) |
+| The Great St Bernard road | Four one-minute stories in Savoy around 1460. [The Better Seat](movies/shorts/sword/docs/body/screenplay/the-better-seat/010-household-yard.md), [Bread Cloths](movies/shorts/sword/docs/body/screenplay/bread-cloths/010-two-bends.md), [Answer Me](movies/shorts/sword/docs/body/screenplay/answer-me/010-breeding-yard-road.md) and [The Last Carry](movies/shorts/sword/docs/body/screenplay/the-last-carry/010-valley-lane.md) |
+| Slam Dunk | A three-minute Korean broadcast follows all ten players through a tying dunk, a go-ahead three and the final rebound. [두 번째 손](movies/shorts/slam-dunk/docs/body/screenplay/two-hands/010-game.md) |
 
 ## Layout
 
-| Path | Owner |
+| Path | Holds |
 | --- | --- |
-| `AGENTS.md`, `CLAUDE.md`, `.agents/skills` | Skills and bundled contracts every production follows |
+| `AGENTS.md`, `CLAUDE.md`, `.agents/skills` | The skills and bundled contracts every production follows |
 | `movies/shorts/<name>` | A short production, written brief → screenplay |
 | `movies/series/<name>` | A long production, written settings → treatments → scripts → screenplay |
 | `packages/<name>` | The workspace's own libraries that several productions import |
 | `pnpm-workspace.yaml` | Workspace members and the named `catalogs` of versions every production uses through `catalog:<name>` |
 
-A production is the directory holding its `PROJECT.md`, `README.md`, `src`, `test`, `docs` and configuration; its commands run there. A production's own work and language contracts live in its `docs/contracts`.
+A production is the directory holding its `PROJECT.md`, `README.md`, `src`, `test`, `docs` and configuration, and its commands run there. Its own work and language contracts live in its `docs/contracts`.
 
 ## First run
 
-Use Node.js 22.23.2 or later with pnpm.
+Keep this workspace at `examples/` in an installed AutoMovie checkout. Run `pnpm run build` in that checkout to prepare its scaffold and SDK declarations. The workspace's `pnpm automovie add` runs that checkout's CLI and connects the new production to its [public SDK declarations](tsconfig.sdk.json). New productions resolve SDK libraries from the checkout's `packages/` directory. The existing kickboxing film uses its recorded 0.2.0 release and patches.
 
-```bash
+With Node.js 22.23.2 or later and pnpm installed, run these commands from the workspace root. Replace `my-film` with the production name.
+
+```powershell
 pnpm install
-pnpm automovie add shorts/<name>
+pnpm automovie add shorts/my-film
 pnpm install
 ```
 
-`pnpm automovie add shorts/<name>` or `pnpm automovie add series/<name>` creates `movies/shorts/<name>` or `movies/series/<name>` from the installed AutoMovie scaffold, naming its package after `<name>`, lowercased and npm-safe, unless `--name <package>` is given; run it here, at the workspace root. The second `pnpm install` links the new production. Then follow that production's README.
+`pnpm automovie add shorts/<name>` or `pnpm automovie add series/<name>` creates the production from the checkout's scaffold and fills any missing dependency catalog entries. Existing release pins and local package links keep their values. The package name is the lowercased, npm-safe form of `<name>`, unless you supply `--name <package>`. Run `pnpm install` again to link the production, then follow its README.
 
 ## Packages
 

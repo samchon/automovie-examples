@@ -1,12 +1,12 @@
 import { createEvidenceConfig } from "@automovie/evidence";
 
-/** The short route's brief and screenplay construction and the research they draw on, with source and tests, against the workspace root's skills. */
+/** The short's story construction stages close when the completed review reaches its author. */
 export default createEvidenceConfig({
   location: import.meta.dirname,
   skills: "../../../.agents/skills",
+  development: { entities: "evidence", behaviors: "evidence", composition: "evidence" },
   narrative: {
     mode: "short",
-    construction: { brief: "evidence", screenplay: "evidence" },
+    construction: { brief: "disabled", screenplay: "disabled" },
   },
-  research: "evidence",
 });

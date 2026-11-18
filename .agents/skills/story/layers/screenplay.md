@@ -1,15 +1,39 @@
 # Screenplay
 
-Compose the audience's complete viewing and listening experience, understandable without its parents, under the screenplay questions in the [story contracts](../../contracts/story/SKILL.md). Choose what is seen and heard, how attention moves, and when the audience recognizes, waits and connects, through speech, action, reactions, sound, detail, duration and transitions in [readable notation](notation.md). A fixed view, silence, caption or narration serves the form when its contribution earns the attention.
+Write a complete audiovisual experience the audience can follow without parent documents. Use the [screenplay criteria](../../contracts/story/shared/principles/screenplay.md) that apply to the work. Motion, sound, generation and assembly [realize](../../contracts/development/composition.md#composition-only) the screenplay's decisions.
 
-For long work, extract concise notes of the required identities, decisions, states, chronology, space and audience knowledge from completed treatments and scripts, draft in an [isolated context](../correction/inspection.md#isolated-context) with those notes, the requirements and fixed quotations, then compare against the actual parents.
+Decide what is seen and heard, how attention moves and when the audience learns or connects events. Use [notation](notation.md) and [shots and cuts](shots.md). Make silence, fixed views, captions and narration serve the chosen form.
 
-Keep the decided event order while composing the realization afresh under [parent differentiation](../../contracts/story/shared/principles/narratives.md#parent-differentiation). A short composes events, action and realization from its [brief](brief.md) and research, studying what [when to study](../planning/research.md#when-to-study) assigns to the screenplay.
+## Scenes
 
-On either route, write only what the adopted representation and frame can show, as the canon's scope record states them. A polygon man has no face, so its attention is the turn of its head and torso, and a fact it cannot carry reaches a generated film through canon images and the generation prompt.
+Use one file per continuous place and time. With long-route narrative passes, map each script scene to one file in its episode folder. Follow [document layout](../document-layout.md#documents) and [heading identities](notation.md#identities).
 
-The screenplay is the last place a decision can be made: motion, sound and assembly realize it, and a film [only composes](../../contracts/development/composition.md#composition-only). So write every beat in terms the modules can perform: from the settings facts of the people, objects and places in it, with each action named as one the installed motion vocabulary performs or as the research law that describes it, under [what needs a study](../planning/research.md#what-needs-a-study).
+## Realization
 
-Decide the beat completely in its [beat record](notation.md#records), as the [beat-decisions question](../../contracts/story/shared/principles/screenplay.md#beat-decisions) asks. A beat that no installed action, cited law or outcome table can produce is repaired here or at its settings or brief owner before code is written from it.
+With long-route narrative passes, extract required identities, decisions, states, chronology, space and audience knowledge from treatments and scripts. Draft from those notes, requirements and fixed quotations in a [separate context](../workflow/routes.md#separate-contexts). Check the actual parents. Preserve event order and [compose the realization afresh](../../contracts/story/shared/principles/narratives.md#parent-differentiation).
 
-A defective parent is repaired under [upstream repair](../correction/repair.md#upstream-defects). Before evidence, read the whole progression in viewing order, then inspect and repair under [cause rounds](../correction/repair.md#cause-rounds) and complete the passes through [workflow](../workflow.md).
+With short-route narrative passes, decide events, consequences, setups, payoffs and the ending from the instructions. Set when the audience learns dangers and secrets relative to the characters. Cite the [brief](brief.md) and complete assigned [research](../planning/research.md#when-to-study).
+
+For direct writing, use the adopted instructions and assigned research as the source of its creative decisions.
+
+Write only what the adopted representation and frame can show, as [project context](../../production/project-context.md) records them; the [beat-decisions question](../../contracts/story/shared/principles/screenplay.md#beat-decisions) says what a commissioned generated film's prompt may carry beyond that.
+
+A polygon man without a drawn face shows attention by the turn of its head and torso, and feeling by its posture, tempo and distance from others, named by the distance bands the installed motion vocabulary performs, not by a number.
+
+A fact the representation cannot carry reaches a generated film through canon references and the generation prompt, and a [direct 3D film](../../video/direct-film.md) through a detail option that shows it.
+
+## Beats
+
+Use one beat per exchange. End it when intent or initiative changes. List its chained actions in order and write one record for the exchange.
+
+Plan the whole performance before writing beats. Set each section's action density, pressure and motif variations. Apply the study's density and distribution targets where available.
+
+Keep performance plans only in ignored `.cache/`.
+
+Decide each beat completely in its [beat record](notation.md#records). An action the installed motion vocabulary does not perform, alone or joined with others, is named by the research law that describes it, under [what needs a study](../planning/research.md#what-needs-a-study).
+
+Give each speaker an aim and disclose information when it serves that aim. Time each reaction from its visible or audible cause. Record departures from default listening and breathing.
+
+A beat that no composition of installed actions or cited law can produce is repaired here, or at the parent that owns the decision under [upstream defects](../correction/repair.md#upstream-defects), before code is written from it.
+
+Read the whole progression in viewing order. When the route runs narrative Evidence, finish its inspection and repairs before enabling the stage.

@@ -1,80 +1,100 @@
 ---
 name: prompting
-description: Owns what makes an instruction for an agent work, namely what to state, reasons, one owner per rule, routing to packages, the layout and splitting of skills, what a shared skill may hold and how a prompt is verified. Use before changing AGENTS.md, CLAUDE.md or a skill.
+description: Sets what makes an instruction for an agent work.
 ---
 
 # Prompting
 
-Every prompt follows the documentation skill's [Writing](../documentation/writing.md) rules. The rules here are what makes an instruction for an agent work.
+Apply [Writing](../documentation/writing.md) to entry files, skills and their resources. Write for a reader new to the project.
 
-The best skill is one a person finds orderly at a glance and understands at once, because structure and wording that serve a human reader serve the agent too. Test a changed skill by reading it top to bottom as someone new to the project, and fix whatever makes that reader slow down, reread or hunt for where a rule lives.
+Base agent instructions on the current [GPT-6.2 prompting guide](https://developers.openai.com/api/docs/guides/latest-model/gpt-6.2-astra#prompting-best-practices) and consult it for model-dependent changes. Keep model, effort and tools in run configuration.
 
-Before editing a prompt, fetch and read in full the current prompting guide for the model that will read it, rather than recalling it, because it changes with each model. Where it disagrees with the user's rules in this repository, the user's rules win.
+For direct Responses API integrations, follow the [prefix guidance](https://developers.openai.com/api/docs/guides/keep-prefix-unchanged) for durable instructions and appended updates.
 
-## What to state
+## Content
 
-State only facts the code does not show, rules the user set, and mistakes an agent made. Leave dates and history to git.
+### What to state
 
-The writing rules ask for a reason when it is not obvious. For a consequential instruction, the reason also says who loses what when it is missed, and it sits in the instruction the recipient reads, because a source comment or an unexplained prohibition cannot guide a case the instruction did not list.
+State checkable requirements and failure cases the code does not show. Keep history in Git.
 
-Keep method choices open unless the failure requires a particular order or boundary.
+Explain a rule when its reason guides unlisted cases.
 
-## One owner
+Prescribe a method only to prevent a known failure.
 
-Give each rule one owner, in one section of one file, and let every other place link to it, so a task receives one consistent requirement. Update a rule's callers when moving it.
+State the deliverable, recipient, acceptance checks and decisions reserved for the user. Disclose consequential delegated choices.
 
-## Packages
+Use a short example when it disambiguates the rule.
 
-A skill routes to a package and stops there; naming the package is the routing. It carries no function name, command line or file path that a package owns, and it lists no package's features, because a copy in a skill cannot be kept in step with the package. The package's README and types own them.
+### Default route
+
+State the default first.
+
+List each optional route, folder, command or stage with its enabling condition.
+
+### One owner
+
+Define each rule in one section. Link to that section from its consumers and update the links when the rule moves.
+
+Fix an existing rule's application when it covers the failure. Change the rule at its owner when coverage is missing or conflicting.
+
+### Packages
+
+The package's types and JSDoc own its API, and its README its entry points.
 
 ## Skills and contracts
 
-A skill gives a job's goal, order and boundaries, and points to the checklists it relies on without restating their items.
+For creation tasks, state what to make, which decisions belong to this step and what the next step can decide. Keep detailed failure checks in the relevant contracts and link to them.
 
-An agent does not reliably follow long, detailed or conditional prose. A rule that every declaration must meet therefore belongs in a [contracts](../contracts/SKILL.md) checklist as one question under its own H2. Evidence makes each selected declaration answer it, and [review](../review/SKILL.md) checks that the answer is true and complete.
+Put a rule every Evidence-selected declaration, document or record must meet in the responsible [contract](../contracts/SKILL.md) item.
 
-Group judgments the agent can make together, and split them when their task, respondent (whoever answers the question) or repair owner differs. Keep overall achievement distinct from passing its detailed tests.
+Give each statement one checkable assertion with its exceptions. Say whether failure lists are exhaustive. Where both matter, judge omission and excess together.
+
+Check new requirements for overlap and conflicts. Record the support and limits of new quality claims before adopting them.
+
+Enforce rules that apply to every action with a hook or executable check.
+
+Update the check and its documented rule together.
+
+Group judgments that share the task, respondent, proof and repair owner. Give the overall outcome its own item.
 
 ## Layout
 
 ### Entry files
 
-[`AGENTS.md`](../../../AGENTS.md) holds what every session needs, in under 200 lines, and lists every top-level skill with its trigger, because Claude Code finds skills only there. [`CLAUDE.md`](../../../CLAUDE.md) is `@AGENTS.md`.
+Keep `AGENTS.md` under 200 lines. Include session-wide rules and a trigger for each top-level skill. Briefly summarize a skill's core instruction when a reader needs it to start work, and link to the section that owns it.
+
+Start each trigger with the task's verb. Keep only `@AGENTS.md` in `CLAUDE.md`.
 
 ### Skill files
 
-A skill is `.agents/skills/<name>/SKILL.md`, with `name` equal to the directory and a third-person `description` that says what it does and when to use it. A job with its own trigger gets its own skill.
+Give each distinct task a top-level `.agents/skills/<name>/SKILL.md`. Match `name` to its directory using at most 64 lowercase letters, digits and hyphens. Give the skill a short, specific third-person description.
 
 ### Splitting a skill
 
-`SKILL.md` stays a short overview: what the skill is for, when to read it, and which resource each task needs. An agent loads it on every use of the skill, so everything in it that the task at hand does not need costs attention on every task.
+Keep `SKILL.md` well under 500 lines. Route multiple workflows from a short scope, shared rules and a trigger for each resource. See [OpenAI's skill guidance](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra).
 
-Split when any of these shows:
+Split unrelated workflows, task-specific sections and material the opening cannot introduce.
 
-- several unrelated branches sit in one file;
-- a branch only some tasks take;
-- a length the opening can no longer introduce.
+Put optional material beside the router. Review resources over about 100 lines for separable tasks. Name a child router for its parent and folder.
 
-A branch moves into a sibling file. A group of files with one purpose moves into a subfolder with its own routing `SKILL.md`, at any depth, whose `name` joins the parent's and the folder's, such as `story-planning`.
+Give each resource one task it can explain on its own, a descriptive name and an opening. Link it from the nearest router, directly or by path pattern. Merge pages that add no independent guidance.
 
-Each sibling file has:
-
-- a name that states its subject, so a reader picks it from the listing alone;
-- an opening that states its subject, in its own words;
-- a direct link from its router, never a chain more than one step long.
+Group model instructions by technique. Keep provider examples together and defer parameters to provider documentation.
 
 ### Helpers
 
-Put repeated deterministic operations in tested helpers, reusing existing tools before adding another. Link their task-specific invocation from the relevant guide, and take examples from working consumers rather than copying their implementation into the prompt.
+Reuse tested helpers for repeated deterministic work. Link the command from the relevant resource and draw examples from its existing callers.
 
-## Shared skills {#shared-skills}
+## Shared skills
 
-A skill shared with other projects, such as one a project template ships, holds only what is universal, orthodox and valid in every receiving project, because each of them follows it as written. It names tools, owners and records by their role, and leaves one project's paths, packages and decisions to that project's own skills.
+Share only rules valid for every receiving project.
+
+Name tools, owners and records by role. Leave project decisions and paths to project skills and model-specific settings to the task.
 
 ## Verification
 
-Check that links resolve, triggers reach their resources and each rule has one owner. Compare the instructions with a real governed task and its actual consumers.
+Check the original failure, a similar valid case and a real task through its consumers.
 
-When a separate context is available and authorized, give it the task and raw inputs without the intended answer and observe its choices.
+When authorized and available, give a fresh agent the task and raw inputs. Withhold intended changes and verdicts except where the review workflow needs them. Record actions, opened pages and guesses. For model-dependent changes, compare the same cases and record model, runtime and effort.
 
-Report static inspection, behavioral observation and unavailable checks separately. Explaining a rule does not prove another session follows it.
+Check links, triggers and rule ownership. Compare outputs, pages opened and words read on the same tasks before and after. Report observed behavior and unavailable checks alongside static results.

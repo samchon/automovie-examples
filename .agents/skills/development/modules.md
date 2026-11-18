@@ -1,0 +1,31 @@
+# Modules
+
+Read the existing source and relevant installed APIs before implementing a capability. Give each module explicit inputs, outputs and state ownership. Test what the module owns and verify the composition through its consumer.
+
+## How the parts work together
+
+Build each entity from its settings or brief facts. Compose fragments into capabilities that name what it does and to whom.
+
+Compose a person's action in the installed vocabulary using its prepared body, recorded proficiency and scene targets.
+
+Compose capabilities with the installed vocabulary and engine. Use the screenplay's outcomes. Delegate alignment and contact timing to the vocabulary.
+
+Resolve one immutable schedule per film and evaluate each second from it. Derive all streams from one film seed. Start a continuation from the prior film's final state snapshots.
+
+A film only composes, as the [composition only](../contracts/development/composition.md#composition-only) item requires. The catalog and the screenplay films call the same capabilities with the same kind of parameters, so a case accepted in the catalog plays the same way in the film.
+
+The object shell over a functional core is the production's own style; installed packages keep theirs.
+
+## One module
+
+Use one definition per subject or action. Vary it through parameters or a seed. Extend the definition when it lacks a required parameter.
+
+## Shared modules
+
+Move modules shared by workspace productions to `packages/<name>` and import them from there. A standalone production keeps its modules in `src`.
+
+Pass facts that vary by production as constructor inputs or parameters. Keep unit tests with the shared module. Each consumer cites and supplies its own settings or brief facts.
+
+## Documenting source
+
+Each changed declaration answers its development contracts in its doc comment. Document invariants and the material the module realizes. Give one short composition example under [Meaningful documentation](../contracts/development/common.md#meaningful-documentation).

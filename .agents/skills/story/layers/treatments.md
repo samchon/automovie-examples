@@ -1,9 +1,9 @@
 # Treatments
 
-Turn completed settings into decided events another author can execute: causes, choices, exchanges, costs, results, and the state and information later events inherit, under the [treatment principles](../../contracts/story/shared/principles/treatments.md) and [population duties](../../contracts/story/shared/obligations/treatments.md). Finish [discovery](../planning/discovery.md) first and write one H1 per event file with anchored H2s for its decisions.
+Turn completed settings into decided events another author can execute: causes, choices, exchanges, costs, results, and the state and information later events inherit, under the [treatment principles](../../contracts/story/shared/principles/treatments.md) and [population duties](../../contracts/story/shared/obligations/treatments.md).
 
-Design from the first encounter with the promised experience through accumulating consequences, setup and payoff to the ending, including parallel developments and changes in audience knowledge.
+Finish [discovery](../planning/discovery.md) and [repair inherited facts](../correction/repair.md#upstream-defects) first. Design the opening promise, causes, consequences, setups, payoffs and ending. Track parallel events and when the audience learns each fact relative to the characters.
 
-Cite the settings each event uses, and decide the details that determine cause or result while leaving dialogue, blocking and final realization to their owners; [scripts](scripts.md) choose the partition. Study what [when to study](../planning/research.md#when-to-study) assigns to a treatment.
+Use one H1 per event file and anchored H2s for decisions. Cite the settings and establish causes and results. Leave partition, dialogue and blocking to [scripts](scripts.md) and final realization to the screenplay. Do assigned [research](../planning/research.md#when-to-study).
 
-Read the whole sequence in screen order before evidence, because clear events can still omit a cause or payoff. A defective inherited fact is repaired under [upstream repair](../correction/repair.md#upstream-defects) before designing from it.
+Read the whole sequence in screen order before Evidence to check causes, setups and payoffs.

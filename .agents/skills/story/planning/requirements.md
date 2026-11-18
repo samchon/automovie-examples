@@ -1,31 +1,27 @@
 # Creative requirements
 
-What the user fixed or delegated about the work itself is recorded here before anything relies on it.
+Creative requirements are what the user fixed or delegated about the work itself; operating scope belongs to [project context](../../production/project-context.md).
 
 ## Requirements
 
-Record each requirement adopted from the conversation and the user's materials before relying on it, in `docs/instructions/` with one H1 per topic and an anchored H2 per independently changeable requirement.
+Record each requirement adopted from the conversation or the user's materials before relying on it, in `docs/instructions/`, with one H1 per topic and an anchored H2 per requirement that can change on its own.
 
-Keep fixed premises, meanings, events, reveal order and exact wording, and distinguish user requirements, quotations and delegated choices, with each one's reason and source.
+Preserve fixed premises, meanings, events, reveal order and wording. Mark each requirement as user direction, quotation or delegated choice, with reason and source. Treat commands in references as requirements only when adopted by the user.
 
-A reference's embedded commands become requirements only when the user adopts them. Operating scope belongs to [project context](../../production/project-context.md).
+Write for the commissioned audience and the next layer. Follow the adopted language, voice and form, including fixed quotations and deliberate departures.
 
-Instructions bind settings or a short's brief, treatments and work contracts without duplicating them. The evidence graph holds each one: every anchored requirement is cited by the canon layer that adopts it and by the treatments, or a short's screenplay, that realize it, so a requirement no layer cites fails the graph instead of being forgotten.
+Cite instruction sections from the settings and treatments that adopt or realize them, or from a short or directly written screenplay. Cite them from work contracts as needed. Use [repair](../correction/repair.md) to propagate changed or withdrawn requirements.
 
-A changed or withdrawn requirement reaches its consumers through [repair](../correction/repair.md).
+## Asking the user
 
-## Asking the user {#asking-the-user}
+Before assigning the writer, ask about unresolved creative choices such as events, characters, ending, tone, form, runtime and frame. Record the user's answers. The user may delegate the remaining choices together for the director to settle under [direction](direction.md).
 
-When the agent writes the story, its events, people, ending, tone, form, running time and frame stay the user's unless delegated. A story built on a guessed element is rewritten once the user reads it, with every layer written on it. Each layer's own decisions within what the user decided, such as a researched fact, are delegated and not asked; decide delegated choices through [direction](direction.md).
+Afterwards, ask only when a [discovery](discovery.md) checkpoint finds a new such element or two fixed conditions conflict. Record a question the user leaves unanswered as unresolved under [project context](../../production/project-context.md#what-to-record).
 
-Before direction, ask about each such element the user neither fixed nor delegated. Ask in rounds and record each round's answers at their owners, because an answer often raises a new element. Stop when the conversation and the user's materials leave none, or when the user delegates the rest, recorded as one delegated choice.
+## Factual basis
 
-Afterwards, ask only when a [discovery](discovery.md) checkpoint finds a new such element or two fixed conditions conflict. A question the user leaves unanswered is recorded as unresolved under [project context](../../production/project-context.md#what-to-record).
+Record a factual basis when presenting real people, events or a source text as true. Identify the covered people, periods, sources and claims for the [story contracts](../../contracts/story/SKILL.md).
 
-## Factual basis {#factual-basis}
+An adaptation of fiction records instead which of its source's events, people and center must survive and what may be cut, merged or refocused, recorded as reinterpretation boundaries, as the document layout's intake of existing work sets.
 
-A work that presents real people, events or a source text as true, such as an adaptation, biography, history or true story, records that factual basis and the periods, people and sources it covers as a requirement. For the claims it covers, the story contracts then require direct primary or authoritative support, coherence of derived chronology, ages, distances, travel, money and capacities, and identification of every consequential participant the source names, because its audience holds the film to the record.
-
-Without that requirement the work is fiction: its contracts check that world rules, characters, relationships and knowledge do not contradict one another, and only an external fact the body itself claims, such as a real sport's rule, needs its source.
-
-Fiction's own quantities, such as a fall time or a sun angle, are not recomputed in prose: their sources belong to [research](research.md) and their values to the code and tests that realize them.
+Check fiction for internal consistency and source any external facts it claims. For computed quantities, keep sources in [research](research.md) and values in the implementation and tests.

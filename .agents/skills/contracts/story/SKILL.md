@@ -1,44 +1,54 @@
 ---
 name: contracts-story
-description: Maps the story checklists, from research and settings or a short's brief through treatments, scripts and the final screenplay to naturalness, discovery and review, onto their unit and population respondents. Use before selecting, answering or citing a story contract item.
+description: Finds story checklists for the layer and kind of work under review.
 ---
 
 # Story contracts
 
-The [writing workflow](../../story/workflow.md#route-and-parents) sets the layers and passes each route runs; standalone asset work has no narrative population. A stage the user waived is recorded with its actual scope and never claimed as passed.
+## Writing or checking a unit
 
-Each checklist H2 asks its named respondent a question. Principles apply to an authored H2, obligations to one document for a complete declared population, discovery to the inspected scope's discovery result, and review questions to review records.
+Shared entries for body units are [scope](shared/principles/common.md), [progression and parent differentiation](shared/principles/narratives.md) for narrative layers, and [speaker plausibility](shared/principles/realized.md) for scripts and screenplay. See also [parent checks](#testing-the-parents) for units with parents.
 
-Do not make every scene testify for an entire film or attach a conditional requirement to unrelated hosts. The evidence configuration owns the actual selected populations and relationships; the installed evidence package owns its mechanics.
+| Unit | Open for its own content |
+| --- | --- |
+| Short brief facet | [Needed decisions](shared/principles/brief.md) |
+| Long settings facet | [Usable facts](shared/principles/settings.md) |
+| Treatment event | [Decided event and information design](shared/principles/treatments.md) |
+| Script scene | [Executable scene](shared/principles/scripts.md) and [script expression](#script-expression) |
+| Screenplay section | [Audiovisual realization and beat decisions](shared/principles/screenplay.md) |
 
-| Family | Unit or record questions | Complete-population questions |
-| --- | --- | --- |
-| Shared ownership | [Common authoring principles](shared/principles/common.md): the assigned scope, filled with this work's choices | [Common population obligations](shared/obligations/common.md): ownership at the right layer |
-| Research | [Research principles](shared/principles/research.md): studied practice and sources, answered by each study | |
-| Settings | [Settings principles](shared/principles/settings.md): needed decisions | [Settings population obligations](shared/obligations/settings.md): promise, scope, a coherent world and its records |
-| Brief, short route | [Brief principles](shared/principles/brief.md): needed decisions | [Brief population obligations](shared/obligations/brief.md): a coherent, current brief |
-| Settings index | [Settings index section principles](shared/principles/index.md): reference groups | [Settings index population obligations](shared/obligations/index.md): whole-index navigation |
-| Treatments | [Treatment principles](shared/principles/treatments.md): decided events and information | [Treatment population obligations](shared/obligations/treatments.md): whole event design and handoff |
-| Scripts | [Script principles](shared/principles/scripts.md): performable, staged scenes | [Script population obligations](shared/obligations/scripts.md): partition and complete execution |
-| Final screenplay | [Final screenplay principles](shared/principles/screenplay.md): audiovisual realization and beat decisions | [Final screenplay population obligations](shared/obligations/screenplay.md): delivery and version accountability |
-| Narrative | [Narrative unit principles](shared/principles/narratives.md): progression and layer contribution | [Narrative population obligations](shared/obligations/narratives.md): continuity, promises, and distribution |
-| Actual speech | [Realized speech principles](shared/principles/realized.md): speakers and action order | [Speech expression population obligation](shared/naturalness/obligations/realized.md): finished voice distribution |
-| Independent review | [Review unit principles](shared/principles/review.md): grounded reading and complete finding classes | [Review population obligations](shared/obligations/review.md): complete rounds and verdict |
+If checking a settings index group, use its [group purpose](shared/principles/index.md) question.
 
-## The short route
+### Script expression
 
-A short has no treatments, scripts or settings index, so those rows have no respondent there.
+Script construction entries are [wording and fidelity](shared/naturalness/common.md), [speech yield](shared/naturalness/realized.md) and [execution rhythm](shared/naturalness/scripts.md). For the screenplay, see [audiovisual realization](shared/principles/screenplay.md#audiovisual-realization) and [speaker plausibility](shared/principles/realized.md).
 
-Its event design and scene execution are asked of the screenplay instead: [audiovisual realization](shared/principles/screenplay.md#audiovisual-realization) and [beat decisions](shared/principles/screenplay.md#beat-decisions) for each scene, and [continuity](shared/obligations/narratives.md#continuity-and-progression), [promises](shared/obligations/narratives.md#promises-and-distribution) and [complete realization](shared/obligations/screenplay.md#complete-realization) for the whole, which cover setup and payoff, the ending and the established space.
+## Checking a complete layer
 
-## Statements
+Shared entries for complete layers are [scope and ownership](shared/obligations/common.md) and [continuity, promises and distribution](shared/obligations/narratives.md) for treatments, scripts and screenplay.
 
-Each contract's statements sit at the same path under `shared/statements`, such as `shared/statements/principles/screenplay.md` for the screenplay principles, with one section per item anchor. Check them before answering, as [items and statements](../SKILL.md#items-and-statements) describes.
+| Population | Open for the whole |
+| --- | --- |
+| Short brief | [Coherent brief](shared/obligations/brief.md) |
+| Long settings | [World and scope](shared/obligations/settings.md) |
+| Treatments | [Event design and handoff](shared/obligations/treatments.md) |
+| Scripts | [Partition and execution](shared/obligations/scripts.md), [recurring forms](shared/naturalness/obligations/common.md), [voice distribution](shared/naturalness/obligations/realized.md) and [execution distribution](shared/naturalness/obligations/scripts.md) |
+| Screenplay | [Complete realization and version](shared/obligations/screenplay.md) |
 
-## Discovery, expression and upstream
+If checking the settings index as a whole, use [canonical navigation](shared/obligations/index.md).
 
-Use [common discovery](shared/discovery/common.md), then [settings](shared/discovery/settings.md) or [brief](shared/discovery/brief.md), [treatments](shared/discovery/treatments.md), [scripts](shared/discovery/scripts.md), [screenplay](shared/discovery/screenplay.md), and [narrative](shared/discovery/narratives.md) for the actual selected populations; [discovery](../../story/planning/discovery.md) writes their result.
+## Checking a study
 
-Scripts construction and screenplay expression revision use [common](shared/naturalness/common.md) and [actual speech](shared/naturalness/realized.md), plus [scripts](shared/naturalness/scripts.md) or [screenplay](shared/naturalness/screenplay.md). Their full-population comparisons use [common](shared/naturalness/obligations/common.md), [voices](shared/naturalness/obligations/realized.md), and the applicable [script](shared/naturalness/obligations/scripts.md) or [screenplay](shared/naturalness/obligations/screenplay.md) obligations.
+[Depicted practice and traceable sources](shared/principles/research.md) for selected studies.
 
-Creation tests its actual parents through the [treatment](shared/upstream/treatments.md), [script](shared/upstream/scripts.md), and [screenplay](shared/upstream/screenplay.md) upstream audits; repair the earliest semantic owner and its affected descendants together.
+## Finding uncovered requirements
+
+Start with [requirement ownership](shared/discovery/common.md). For canon, add the [brief](shared/discovery/brief.md) or [settings](shared/discovery/settings.md) question for the route. For authored narrative, add [narrative requirements](shared/discovery/narratives.md) and the [treatment](shared/discovery/treatments.md), [script](shared/discovery/scripts.md) or [screenplay](shared/discovery/screenplay.md) question that matches the inspected layer.
+
+## Testing the parents
+
+Use the upstream question for the [treatments](shared/upstream/treatments.md), [scripts](shared/upstream/scripts.md) or [screenplay](shared/upstream/screenplay.md).
+
+## Checking review records
+
+Check a unit's review record under [independent reading and literal audit](shared/principles/review.md). Check the verdict for the complete round under [review obligations](shared/obligations/review.md).

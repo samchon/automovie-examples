@@ -2,68 +2,59 @@ packages:
   - movies/shorts/*
   - movies/series/*
   - packages/*
-
-# Productions depend on these through `catalog:<name>`, so every production in the workspace resolves the same AutoMovie release; packages released together share one anchor.
 catalogs:
   automovie:
-    automovie: &automovie "^0.1.0"
-    "@automovie/engine": *automovie
-    "@automovie/evidence": *automovie
-    "@automovie/human": *automovie
-    "@automovie/ingest": *automovie
-    "@automovie/interface": *automovie
-    "@automovie/motions": *automovie
-    "@automovie/recovery": *automovie
-    "@automovie/render": *automovie
-    "@automovie/viewer": *automovie
-  samchon:
-    "@nestia/e2e": "^12.1.0"
-    "@wrtnlabs/evidence": "^0.8.2"
-    ttsc: &ttsc "^0.36.3"
-    "@ttsc/lint": *ttsc
-  typescript:
-    typescript: "^7.0.2"
+    "@automovie/archetypes": link:../packages/archetypes
+    "@automovie/engine": link:../packages/engine
+    "@automovie/evidence": link:../packages/evidence
+    "@automovie/human": link:../packages/human
+    "@automovie/ingest": link:../packages/ingest
+    "@automovie/interface": link:../packages/interface
+    "@automovie/motions": link:../packages/motions
+    "@automovie/recovery": link:../packages/recovery
+    "@automovie/render": link:../packages/render
+    "@automovie/viewer": link:../packages/viewer
+    automovie: link:./tools
+  kickboxing-release:
+    "@automovie/archetypes": 0.2.0
+    "@automovie/engine": 0.2.0
+    "@automovie/evidence": 0.2.0
+    "@automovie/human": 0.2.0
+    "@automovie/ingest": 0.2.0
+    "@automovie/interface": 0.2.0
+    "@automovie/motions": 0.2.0
+    "@automovie/recovery": 0.2.0
+    "@automovie/render": 0.2.0
+    "@automovie/viewer": 0.2.0
+    automovie: 0.2.0
   three:
-    three: &three "^0.186.0"
-    "@types/three": *three
+    three: ^0.186.0
+    "@types/three": ^0.186.0
   react:
-    react: &react "^19.2.0"
-    react-dom: *react
-    "@types/react": *react
-  gltf:
-    "@gltf-transform/core": "^4.5.0"
-  vite:
-    vite: "^5.4.10"
+    react: ^19.2.0
+    react-dom: ^19.2.0
+    "@types/react": ^19.2.0
   media:
-    ffmpeg-static: "^5.2.0"
-    h264-mp4-encoder: "^1.0.12"
-    mp4box: "^2.4.1"
-    playwright: "^1.60.0"
-    playwright-core: "^1.60.0"
-    pngjs: "^7.0.0"
-    "@types/pngjs": "^6.0.5"
+    playwright-core: ^1.60.0
+    playwright: ^1.60.0
+    ffmpeg-static: ^5.2.0
+    h264-mp4-encoder: ^1.0.12
+    mp4box: ^2.4.1
+    pngjs: ^7.0.0
+    "@types/pngjs": ^6.0.5
+  samchon:
+    "@nestia/e2e": ^12.1.0
+    "@ttsc/lint": ^0.37.0
+    ttsc: ^0.37.0
+    "@wrtnlabs/evidence": ^0.8.2
   utils:
-    "@types/node": "^22.19.17"
-
-# This workspace is cloned at `examples/` inside an automovie checkout. Every
-# AutoMovie package resolves to that checkout's source instead of a release,
-# and three.js to the checkout's own copy, so the examples run one instance of
-# three.js shared with the packages. Install the checkout first.
-overrides:
-  automovie: link:../packages/cli
-  "@automovie/engine": link:../packages/engine
-  "@automovie/evidence": link:../packages/evidence
-  "@automovie/human": link:../packages/human
-  "@automovie/ingest": link:../packages/ingest
-  "@automovie/interface": link:../packages/interface
-  "@automovie/motions": link:../packages/motions
-  "@automovie/recovery": link:../packages/recovery
-  "@automovie/render": link:../packages/render
-  "@automovie/template": link:../packages/template
-  "@automovie/viewer": link:../packages/viewer
-  three: link:../node_modules/three
-  "@types/three": link:../node_modules/@types/three
-
+    "@types/node": ^22.19.17
+  typescript:
+    typescript: ^7.0.2
+  vite:
+    vite: ^5.4.10
+  gltf:
+    "@gltf-transform/core": ^4.5.0
 allowBuilds:
   esbuild: true
   ffmpeg-static: true
@@ -71,3 +62,19 @@ allowBuilds:
   onnxruntime-node: false
   protobufjs: false
   sharp: false
+minimumReleaseAgeExclude:
+  - "@automovie/archetypes@0.2.0"
+  - "@automovie/engine@0.2.0"
+  - "@automovie/evidence@0.2.0"
+  - "@automovie/human@0.2.0"
+  - "@automovie/ingest@0.2.0"
+  - "@automovie/interface@0.2.0"
+  - "@automovie/motions@0.2.0"
+  - "@automovie/recovery@0.2.0"
+  - "@automovie/render@0.2.0"
+  - "@automovie/template@0.2.0"
+  - "@automovie/viewer@0.2.0"
+  - automovie@0.2.0
+patchedDependencies:
+  '@automovie/motions@0.2.0': patches/@automovie__motions@0.2.0.patch
+  '@automovie/render@0.2.0': patches/@automovie__render@0.2.0.patch

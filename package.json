@@ -4,7 +4,7 @@
   "type": "module",
   "version": "0.1.0",
   "license": "MIT",
-  "description": "AutoMovie example productions, developed against a local automovie checkout.",
+  "description": "AutoMovie example productions using the surrounding checkout's scaffold.",
   "packageManager": "pnpm@12.18.0",
   "engines": {
     "node": ">=22.23.2"

@@ -1,31 +1,25 @@
 # Modularization
 
-A named part makes a change local; a group makes its members move and change together. This structure applies to crafted, recovered, generated and found forms alike, because their source does not change how they belong to an assembly.
+Use the same part and group structure for every source.
 
 ## Parts and groups
 
-Split an asset into fine named parts and group them as the object is assembled and moves. A part owns its shape; a group references its members rather than copying their shapes, so editing a member cannot leave a second definition behind.
+Name parts by how the object is assembled and moves. Let each part own its shape and let groups reference their members.
 
-For placement and motion, a group is a node with children: its frame is the pivot of its subtree and its rotation limit is the subtree's range of motion. Put the frame on the real axis, such as a hinge, and link across branches with a driver, never a second parent, so a member's transform has one owner. A rigid member moves through its transform; a deforming one needs the [rig](rigging.md) its performance requires.
+Use a group's frame as its subtree's physical pivot and its rotation limit as the subtree's range of motion. Link branches with a driver. Transform rigid members and [rig](rigging.md) deforming members.
 
 ## Frames and connections
 
-Express each member's placement relative to its parent so a change to the parent carries the assembly together. Keep one unit and one frame inside a declaration, converting only where declarations meet, in one named step; repeated conversions obscure which coordinates a formula consumes.
+Place members in their parent's frame. Keep one unit and frame inside each declaration. Convert at a named boundary.
 
-Define each connection once for both parts to consume, including its intended continuity, contact or clearance. Two independently authored boundaries can agree in one pose and separate when a dimension or motion changes.
+Define each shared connection with its continuity, contact or clearance once. Have both parts consume it.
 
 ## Source modules
 
-Organize authoring modules by part and group responsibility, reusing one definition for repeated and mirrored members. Keep shape or placement rules with their owner and have dependent modules consume that definition, so an agent can read and change one responsibility without reconstructing the whole asset.
+Give each part or group one generating definition, including its dimensions, frames and placements. Reuse it for repetition and reflection. Derive dependent geometry, attachments and diagnostics from their owners.
 
-A source-module boundary need not cut the rendered surface. Put shared dimensions, frames, curves and surfaces with one owner, and derive dependent geometry, construction and attachments from their actual generating definitions rather than independent approximations; otherwise a local edit can leave a neighbor or diagnostic describing an old shape.
+Map logical parts to source controls, generating subdomains and charts without duplicating geometry. Use one binding and material coordinate field across sewn boundaries. Touching parts may keep separate sheets.
 
-Keep logical parts, source controls, generating streams and surface charts distinct. Map a logical member to its actual subdomains rather than copying geometry to preserve a name.
+Propagate edits through dependencies and reuse equivalent work. Invalidate affected bindings on shape or chart edits and inverse binds on joint or rest-frame edits. Keep unaffected bone identities on repartition.
 
-An edit follows the true dependency graph: coupled constraints can affect several regions, while unchanged inputs may reuse equivalent prepared work. Shared sewn boundaries consume one material-coordinate and binding owner through their chart maps; coincident contact can retain distinct material sheets.
-
-Shape or chart changes invalidate their dependent bindings, while changed joint/rest frames also invalidate inverse binds under [Rigging](rigging.md). A surface repartition alone does not create a joint or change an unaffected bone.
-
-## Explanation
-
-Modular code exposes the dependency graph, while comments preserve the premises and reasons that its calculations alone do not show. Document the public contracts and implementation as the project's development skill requires, with the [documentation skill](../documentation/SKILL.md)'s writing rules, so a later agent can follow why the parts fit before changing them.
+Explain non-obvious calculation premises in comments under the project's development and [writing](../documentation/SKILL.md) rules.
