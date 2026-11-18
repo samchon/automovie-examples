@@ -82,7 +82,7 @@ DANIEL
 
 Break!
 
-Both men step back. Daniel comes between them. For two footfalls the loudest shoes in the ring are his. In the quiet after the second, [Ivo Kral](../../brief/cast/ivo-kral.md#assistant-second) bends low over the towel on his knee. His navy shoulder shows past the other edge of the blue pad. Below the bottom rope he has a clear view of Owen's bare feet, still waiting.
+Both men step back. Daniel comes between them. For two footfalls the loudest shoes in the ring are his. In the quiet after the second, [Ivo Kral](../../brief/cast/ivo-kral.md#assistant-second) bends low over the towel on his knee. His navy shoulder shows past the other edge of the blue pad. From there the man in scarlet stands clear against the white pad, right down to his bare feet. Daniel's black shoes are a pace out on the canvas.
 
 - Start: 36 s (approximate).
 - Turn: at Daniel's word both men give up space.
@@ -94,7 +94,7 @@ Daniel backs clear. Owen comes straight out through the opening, his punch skimm
 
 - Start: 42 s (approximate).
 - Turn: Owen claims the gap as soon as Daniel leaves it.
-- View: keep the white shoulder high and the navy shoulder low on either side of the blue pad as the men come out towards the middle.
+- View: keep Pavel's white shoulder high and Ivo's navy shoulder low on either side of the blue pad. Ivo holds still as the black shoes move. When the bare feet under the scarlet shorts leave white, his navy shoulder turns to follow them.
 
 ## CONTINUOUS | 45-60 s {#p04}
 
@@ -394,9 +394,9 @@ Alan sees the sweep and takes up the striker. All four seconds are still seated.
 
 At **168.1**, both red gloves go high at white. A breath bursts out of Owen. Daniel beckons him clear of the neutral pad with one hand and settles on one knee beside Marek. Owen stays there a beat, breathing under his raised gloves.
 
-At **170.1**, Alan strikes the match-ending bell. Jo and Ed rise outside red. Owen gives a great laughing breath and takes two stamping steps along the near rope. He comes down hard on each foot. Level with the table, he lifts the salute to his corner. Jo and Ed throw their arms up to him.
+At **170.1**, Alan strikes the match-ending bell. Jo and Ed rise outside red. Pavel rises on the same bell and sets off along the outside of the north rope. Ivo gathers the towel and stays at blue.
 
-Across the same wide, Pavel rises on the bell and sets off along the outside of the north rope. Ivo gathers the towel and stays at blue. As Owen salutes red, Marek tries to sit up. Daniel steadies him.
+Owen gives a great laughing breath. On his first stamping step along the near rope he turns both raised gloves towards Jo and Ed. They lift their arms to him in answer. The second stamp lands. All three hold the salute. Across the open diagonal, Marek tries to sit up. Daniel steadies him.
 
 DANIEL
 
