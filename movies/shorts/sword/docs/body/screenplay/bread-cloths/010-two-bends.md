@@ -48,15 +48,15 @@ He starts after her. Red Cap's blade sweeps past the tail of his coat with dayli
 
 ### The long bend {#bend}
 
-At the turn the youngest man's sword meets Perrin's with a crack. The lad steps clean out of his left shoe. Perrin hurries on. Scree runs under his boots. His steps shorten to a stop on firm dirt. His coat hem swings against his calf. A few stones go ticking on.
+At the turn the youngest man's sword meets Perrin's with a crack. The lad steps clean out of his left shoe. He slides his foot back in until the loose leather cups his heel. Perrin hurries on. Scree runs under his boots. His steps shorten to a stop on firm dirt just behind Alix. He stands breathing through his mouth. A few stones go ticking on.
 
-While Perrin stands breathing through his mouth, the lad sits at the turn with his sword across his lap and pulls the shoe on. Down on the lower path the caller catches up with the bareheaded man, a few paces along the bank from the cap on the rock. On the path above them Alix's sack catches on the stump. The strap draws tight. Perrin walks on to her, still winded.
+Alix's sack catches on the stump. The strap draws tight. On the lower road, with the split rock at his back, the caller takes one last step and stops beside the bareheaded man directly under the sack, his yellow-brown hood resting around his neck. The red cap lies a few paces behind them on the split rock. For a breath both men stand looking up at the hanging sack.
 
 Alix looks down at black curls level with her shoes. The bareheaded man's fingers brush the wood below the sack. Beside him on the lower road the caller pants, his sword knocking in its sheath.
 
 - Time: 21–32 s.
-- Intent and change: The youngest stops at the turn. The other two are still on the lower path when the sack catches above them. Alix looks down and sees how high the bareheaded man's fingers reach.
-- Camera: Cut across both legs of the bend. Keep the rock in view as the caller comes level with the bareheaded man below. Follow Perrin the last few steps to Alix. Look down with her from the stump.
+- Intent and change: The youngest has his shoe back on when Perrin leaves the turn. Perrin reaches firm ground beside the stump. The audience sees both men beneath the load before Alix discovers how high the bareheaded man's fingers reach.
+- Camera: Leave the turn with Perrin. When the sack catches, hold across the bank with the sack above, both upturned faces below and the split rock behind them. Then look down with Alix.
 - Sound: The caller's breathing carries up the bank. Perrin's is close at hand.
 
 ### What's left at the stump {#stump}
