@@ -1,31 +1,33 @@
 # Shape hints
 
-A shape the project already has, such as a coarse form of a few primitives, a crafted form or a body, steers generation more exactly than any picture. Choose the technique by what must hold; [3D models](models.md#shape-techniques) names current examples of each:
+Start with the existing geometry. Choose a technique by what must hold. See [3D models](models.md#shape-techniques) for implementations.
 
-| What must hold | Technique | How closely it holds |
-| --- | --- | --- |
-| The layout and proportions, while detail is added | Geometry condition | Close in layout, not in exact surface |
-| The geometry exactly, while only appearance is added | Texture on the given mesh | Exactly, since the mesh is kept |
-| The silhouette, while surface detail is added | Refinement of the given mesh | Close, for a mesh already near the final shape |
-| The layout, when no model takes a shape | Views rendered from the shape | Loosely, through [image hints](image-hints.md) |
-| A body's skeleton | Pose condition and rigging onto the given skeleton | Close in pose; the skeleton exactly when rigged onto it |
+| Technique | What must hold |
+| --- | --- |
+| Geometry condition | The layout and proportions, while detail is added |
+| Texture on the given mesh | The geometry exactly, while only appearance is added |
+| Refinement of the given mesh | The silhouette, while surface detail is added |
+| Views rendered from the shape | The layout, when no model takes a shape |
+| Pose condition and rigging onto the given skeleton | A body's skeleton |
 
-## Geometry condition
+## Techniques
 
-A model that takes a mesh, voxels, a point cloud or a bounding box as a condition generates a new detailed mesh whose layout follows it, usually beside an image or prompt for appearance. It does not stretch the coarse form: a longer box may gain parts, such as a sofa's extra legs. A model that partly noises the condition before denoising trades faithfulness against realism through that strength.
+### Geometry condition
 
-## Texture on the given mesh
+Geometry conditioning guides a new mesh's layout and proportions. Supply appearance separately where required. Where the model adds noise to the condition, use its strength setting to control adherence.
 
-A texturing model paints the given mesh from a prompt or a reference image and keeps its geometry, so use it once the shape is final; on a coarse form it only paints the primitives.
+### Texture on the given mesh
 
-## Refinement of the given mesh
+A texturing model paints the given mesh from a prompt or a reference image and keeps its geometry exactly, so use it once the shape is final; on a coarse form it only paints the primitives.
+
+### Refinement of the given mesh
 
 A refiner adds geometric detail to a mesh from a reference image, anchored to its voxels, and expects a mesh already near the final shape, far finer than a few primitives.
 
-## Views rendered from the shape
+### Views rendered from the shape
 
-Render depth or normal views of the shape from fixed cameras, restyle each under depth control from the same references, then give them to a multiview model or project them back onto the shape. Generate the views together, or each with the earlier ones as context, so they do not drift apart.
+Render depth or normals from fixed cameras. Restyle under depth control with shared references, then use a multiview model or reproject onto the shape. Generate views together or pass earlier views as context. This [image guidance](image-hints.md#several-views) preserves shape loosely.
 
-## Bodies
+### Bodies
 
-A pose condition takes the skeleton's joint points and keeps the generated body aligned to them. A rigging service that accepts a custom skeleton, or a rigging model that predicts weights for a given skeleton, then binds the result to the project's own joints under [Rigging](../rigging.md).
+Condition the pose on the skeleton's joint positions. Use a service that accepts the project skeleton or a model that predicts weights for it. Bind the result to those exact joints under [Rigging](../rigging.md).

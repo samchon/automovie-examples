@@ -1,46 +1,45 @@
 # Production workflow
 
-Start with the requested output in `PROJECT.md`, under [project context](project-context.md). For a finished film, the tasks connect like this:
+## Director
 
-## At a glance
+Follow the [director's responsibilities](director.md) for assignments, creative decisions and acceptance at each handoff.
 
-```mermaid
-flowchart LR
-    request[Request] --> story[Story]
-    story --> motion[Motion]
-    story --> image[Image when needed]
-    motion --> video[Video: direct rendering or generation]
-    image --> video
-    video --> assembly[Assembly]
-    assembly --> delivery[Delivery review]
-```
+## Commissioned outputs
 
-| Task | Receives | Produces |
-| --- | --- | --- |
-| [Story](../story/SKILL.md) | The request and adopted facts | The screenplay: what the audience sees and hears, including events, lines, cuts and sound |
-| [Motion](../motion/SKILL.md) | The screenplay and [simple 3D subjects](../development/entities.md#coarse-first) | The motion hint: the performed action, staging, camera and timing |
-| [Image](../image/SKILL.md) | Subject facts and the adopted look | Reusable appearance references; where needed, a shot frame made from a hint frame and those references |
-| [Video](../video/SKILL.md) | The screenplay, reviewed performance and required images and [audio](../audio/SKILL.md) | Final picture: directly rendered scenes or accepted generated clips, called takes |
-| [Assembly](assembly.md) | Programmed scenes or finished takes, with commissioned sound and captions | The complete video for [delivery review](../review/delivery-review.md) |
+Record the output and its limits in [project context](project-context.md#commissioned-scope). Follow the commissioned route and its [completion checks](#completion).
 
-Motion supplies how things move; image supplies how they look. They can develop alongside each other, but a shot frame needs its motion-hint frame first.
+### Screenplay
 
-Accept the performance on polygon people and coarse objects. Video then finishes the picture: direct rendering selects commissioned [entity detail options](../development/entities.md#detail); generation uses images and prompts to give the hint its look.
+[Choose how the screenplay is written](../story/workflow/SKILL.md). Complete any [required narrative passes](../story/workflow/routes.md#completion), then check the [text handoff](../review/delivery-review.md#narrative). Include source or media when separately commissioned.
 
-## Work order
+### Whole motion hint
 
-For a generated film, choose the video model with the user under [video diffusion](../video/diffusion/SKILL.md) before preparing its images or rendering its inputs. Its accepted inputs determine what to make.
+Prepare the [programmed performance](#programmed-performance). [Assemble](assembly.md) every required scene on the whole timeline and follow [video review](../review/delivery-review.md#video) for the delivered hint. Stills and pilot clips establish only their own coverage.
 
-The [story route](../story/workflow/SKILL.md) sets how the screenplay is written. A short runs [brief](../story/layers/brief.md#what-it-holds) (shared subject facts) → screenplay. Long work develops settings → treatments → scripts → screenplay: world facts, events, performed scenes, then the final audiovisual plan.
+### Direct 3D film
 
-The short route includes a programmed film draft before narrative review when a film is commissioned. Generate takes only after the [generation prerequisites](../video/generated-film.md#prerequisites) are met.
+Prepare and accept the [programmed performance](#programmed-performance). Apply the commissioned finish under [direct 3D film](../video/direct-film.md), then [assemble the film](assembly.md#render) and pass [video review](../review/delivery-review.md#video).
 
-## Delivery paths
+### Generated film
 
-The [commissioned output](SKILL.md#commissioned-outputs) selects where the path ends:
+Choose the [video model](../video/generated-film.md#model-and-inputs) with the user before preparing model-dependent inputs. Start appearance references alongside the [programmed performance](#programmed-performance) if useful. Shot frames need their corresponding hint frames.
 
-- Screenplay only: finish at the text along its chosen story route.
-- Whole motion hint: assemble and review the complete programmed film.
-- Direct 3D film: finish the programmed film under [direct rendering](../video/direct-film.md), then assemble and review it.
-- Generated film: generate and finish takes, then assemble and review the complete film.
-- Standalone asset: follow its task and [asset review](../review/delivery-review.md#assets), without a story or film.
+Follow the [generated-film workflow](../video/generated-film.md), [assemble](assembly.md) the finished takes and pass [video review](../review/delivery-review.md#video).
+
+### Standalone asset
+
+Set the promised asset and its use from the commission. Where the choice is delegated, use [direction](../story/planning/direction.md). Prepare it under [image](../image/SKILL.md), [3D modeling](../3d-modeling/SKILL.md), [motion](../motion/SKILL.md) or [audio](../audio/SKILL.md), as applicable. Verify it under [asset review](../review/delivery-review.md#assets). This route has no narrative pass.
+
+## Programmed performance
+
+[Prepare the screenplay](../story/workflow/SKILL.md). For a short with narrative passes, use the [programmed draft](../story/workflow/short.md#4-programmed-film-draft) built and repaired during the short route.
+
+For long films or films whose screenplays skip narrative passes, start [programmed motion](../motion/performance.md#order) from the finished text. Run the [pre-composition discovery checkpoint](../story/planning/discovery.md#checkpoints) first when the long route runs narrative passes.
+
+A motion hint or direct 3D film is silent by default. Follow the [soundtrack route](../audio/soundtrack.md) when the commission includes sound.
+
+## Completion
+
+Finish [source checks](../development/testing.md#finishing-a-change) when the commission includes source work. A passing render establishes technical completion. Record the applicable [acceptance or handoff](../review/delivery-review.md#acceptance-record) and identify any missing parts or checks.
+
+Before closing delivery on a long work with narrative passes, run the [post-review discovery checkpoint](../story/planning/discovery.md#checkpoints) against the reviewed output and its records. If a repair changes the delivered result, recheck the affected acceptance.

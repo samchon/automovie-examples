@@ -87,6 +87,8 @@ The project uses ES modules with `verbatimModuleSyntax` and `isolatedModules`: m
 
 ## Tests
 
+The archived 0.2.0 film reproduces two failures in its motion tests. `test_pressure_exchange` reports contacts during a scripted miss. `test_fighter_guard` reports overlap, foot drift and discontinuities in a held pose. Both failed on the [previously published film revision](https://github.com/samchon/automovie-examples/commit/80285f82b395fb9e645e1bbccc264e99696a76cf) and in the November 19 benchmark. The [visual inspection](docs/acceptance/native-continuity.md) records visible defects in that render.
+
 `test/index.ts` discovers pure logic unit tests in `test/features/<source path>/test_<name>.ts` through `tsconfig.test.json`. Export a named `test_<name>(): void` or `Promise<void>` function and assert behavior with `node:assert/strict` or `TestValidator` from `@nestia/e2e`. Select test filenames with `pnpm test --include <substring> --exclude <substring>`; repeated options accumulate. Tests call portable logic directly; the inspector page and media inspection run separately.
 
 ## Project files

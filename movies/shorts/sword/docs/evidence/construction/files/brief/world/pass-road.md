@@ -1,0 +1,9 @@
+# brief/world/pass-road.md
+
+## @evidence shared/obligations/common.md#scope-and-ownership
+
+I compared the single world and all 24 cast records. The yard needs three individuals, the ascent seven, the muster road six, and the funeral eight, including the covered uncle. Removing either cloth owner or either front bearer loses an independent distinction. The rest of the household or procession may remain an ensemble. The world owns the two approaches. The revised cast facets own identifying roles, appearance, articles, marks, support sides and consequential clothing or equipment states. The four scenes own the local events and their realization. All 24 preambles contain two embeds, two findings and two proxy selections. The commission explicitly assigns selection to the commissioning viewer, and PROJECT identifies 16:9 and the deferred downstream model. I find no orphaned subject, incompatible owner or required extra prop domain.
+
+## @evidence shared/obligations/brief.md#coherent-brief
+
+The cast records follow a consistent appearance and continuity order, with selected pairs at file level. Across all subjects, left hind sock, loose left shoe, split left cuff, patched left elbow, edged and plain cloths, hare purse, sides of the four supports and the visible toe each have identifiable owners. The grey’s physical position now agrees with his earlier slowdown. Carlo’s selected full image shows the carried helmet, and his continuity puts it on in the yard. The covered uncle’s visible-only pair follows an explicit commission decision. The historical study distinguishes 1419 traffic, the anthology date and object analogies from invented facts. No recurring subject or quantity must move between films. The linked casting provenance describes a full original followed by its subject’s detail view; I verified the records and attributed host checks, without inspecting pixels or hash values.

@@ -1,63 +1,85 @@
 # Writing
 
-How the text of any document is put together, from its sentences up to its lists.
+Keep what the reader needs to understand or act. State each rule or fact once.
 
-Text is concise when every sentence carries something its reader needs, and clear when that reader understands it on the first reading, without rereading or hunting for where a point lives. Completeness means covering what the reader needs, never longer phrasing. Test a document by reading it top to bottom as its reader would, and fix whatever makes that reader slow down.
+## Wording
 
-A set of documents says each thing in one place, and no two places disagree, because a reader who meets a point twice cannot tell which one holds.
+### Content and sentences
 
-## Content and sentences
-
-These rules govern what a document says and how each sentence says it:
-
-- Write only what the reader needs and would not otherwise know.
-- Say simply what can be said simply.
-- Cut padding, preamble, filler and closing summaries.
-- Cut a qualification that changes nothing, an example that restates the rule, and a sentence that repeats another.
+- Keep the action, its conditions and the evidence needed to verify it. Cut qualifications, examples and summaries that add none of these.
 - Make one point per sentence.
 - Give the reason when it is not obvious.
 - Say what to do rather than what to avoid, and name the concrete pattern when a prohibition is needed.
-- Use plain language, without emphasis capitals, em-dashes, emoji in prose, promotional adjectives or hedging.
+- Use plain language, without emphasis capitals, bold, em-dashes, emoji in prose, promotional adjectives or hedging.
 
-## Terms
+### Terms
 
-Use one term per concept and one concept per term across a set of documents, because a second word reads as a second thing and a reused word hides a difference. Name the concept with the field's established term, or with plain words where the field has none, never with a coined word. Explain a field term in plain words where a newcomer to that document first meets it, or link the document that explains it.
+Use one term per concept, with the same meaning throughout.
 
-A metaphor or a plain picture may explain a concept once in prose, but it never becomes the concept's name in a heading, a label, a description or later text. A reader who knows the field cannot find the concept under a private name, and a reader who does not takes the picture literally.
+Use established terms or plain language. Define unfamiliar terms on first use or link to their definitions.
 
-## Signs of careless text
+Use a metaphor at most once to explain a concept. Use the concept's actual name in headings, labels and later references.
 
-Write as a person writing for this document's reader. These habits mark text as produced without thought, and a reader who spots one stops trusting the rest:
+### Careless text
 
-- stock AI phrasing, such as "delve into" or "it's worth noting";
-- a sentence frame or opener repeated across sibling documents;
-- one template stamped on every document, whatever it holds;
-- three parallel items where the content has two or four.
+Avoid stock phrases, repeated openers and outlines that impose a structure the content does not need.
 
-## Headings
+## Structure
 
-A heading names its topic in a few words, in sentence case. A question, claim or instruction belongs in the text under it, because a sentence in a heading is read twice and hides the topic it names.
+Measure source lines by counting a link's text and omitting its address.
 
-Link to a heading by its title's slug, and give it an explicit anchor such as `{#name}` only where its address must survive a retitle, because a renderer that does not read the syntax shows the anchor as text. No two headings in one document share a title, because their slugs would collide.
+### Headings
 
-## Paragraphs
+Use short, sentence-case topic headings. Put questions, claims and instructions in the body.
 
-A paragraph is one topic. Open it with its point and follow with the detail, because a reader who skims reads only the first sentence. Start a new paragraph when the topic changes, keep sentences on the same topic together, and write each paragraph on one source line.
+Group related topics under one second-level heading.
 
-Gluing several topics into one long paragraph to keep the count low is a failure, not concision, because the reader cannot find the second topic. A paragraph of more than about five sentences usually holds a second topic. Giving every sentence its own paragraph is the opposite failure, because the reader cannot see which sentences belong together.
+Use distinct headings so their anchors are unique.
 
-## Lists, tables and code
+Use heading slugs. Add an explicit anchor only if the address must survive renames and the renderer supports it.
 
-A list is for parallel items short enough to take in at a glance, one rendered line of about 120 characters at most, and for steps whose order changes the result. Introduce it with a sentence that says what its items are, write every item in the same grammatical form, and give it at least two items. Fragment items end in semicolons and the last in a period; full-sentence items end in periods. Mark a sublist differently from its parent, such as `-` items under a numbered list.
+### Links
 
-A checklist of assertions under a heading that names what they check is the exception: it needs no introducing sentence, and each item may run as long as one checkable assertion with its exceptions needs.
+Routers link to their resources. A resource links to the next task or the section that owns a rule. Refer to parent pages, other consumers and sections of the current page by name.
 
-An item that runs long, or whose reasoning needs more than a short clause, is not a list item. Breaking an explanation into bullets does not make it concise, because the bullets hide how its points connect. Give such content the form of what it is:
+### Paragraphs
+
+Give each paragraph one topic and one source line. Lead with its point. Check paragraphs over about five sentences for a second topic.
+
+### Lists
+
+Use lists for short parallel items or steps whose order matters. Keep each item to about 120 characters on one source line.
+
+Introduce each list. Use parallel grammar and at least two items. End sentences and the last fragment with a period. End other fragments with semicolons.
+
+Keep items to one paragraph and distinguish nested list markers.
+
+Under a descriptive checklist heading, omit the introduction. Each item may be as long as its assertion and exceptions require.
+
+### Tables
+
+Use two columns by default for short mappings. Keep rows to about 120 characters on one source line.
+
+Put the subject or page link in the first column and its description in the second.
+
+Use task order where it exists, otherwise alphabetize by the first column.
+
+A condition, reason or example that does not fit its cell goes in a sentence after the table.
+
+### Form by content
+
+Choose the form that fits the content:
 
 | Content | Form |
 | --- | --- |
 | Several topics | A subsection each, written as prose |
-| Steps that need explanation | A short step line with a paragraph or a sublist of short items under it |
-| An argument whose conditions, reasons and exceptions depend on each other | Prose, with no list |
-| A repeated mapping | A table |
+| Steps that need explanation | A numbered subsection each, such as `### 1. Plan` |
+| An argument whose parts depend on each other | Prose, with no list |
+| A repeated mapping of short values | A table |
 | An exact command | A code block |
+
+## Revising
+
+Rewrite the affected section in the reader's order.
+
+Remove unused material. Move shared rules to their owner. Reread the result as its reader.

@@ -1,31 +1,21 @@
 ---
 name: development
-description: Implements and tests production source, integrations, dependencies and commands, reusing installed packages before writing a capability. Use for code or host changes and behavioral tests; documentation owns technical writing and story owns creative bodies.
+description: Implements and tests production source.
 ---
 
 # Development
 
-Read the production's current source and the [installed package APIs](reuse.md#reading-a-package) before choosing an implementation. Divide behavior into responsibilities with explicit inputs, outputs and state owners, give each module [unit tests](testing.md), then verify their composition through the actual consumer.
-
-| Task | Read |
+| Read | To |
 | --- | --- |
-| Find what an installed package is for and read its API, report a defect in one, or vary and share a module | [Reuse](reuse.md) |
-| Change existing behavior or fix a defect | [Repair](repair.md) |
-| Build or change a subject | [Entity work](entities.md) |
-| Choose behavioral checks | [Testing](testing.md) |
-| Place source, tests or runtime setup, or add a subject, practice or scene | [Source layout](source-layout.md) |
-| Add or change an expensive stage | [Stage caches](../production/stage-caches.md) |
-
-Every declaration you change answers its [development contracts](../contracts/development/SKILL.md) in its doc comment.
-
-## Writing
-
-Write READMEs, evidence prose and doc comments with [documentation](../documentation/SKILL.md), and instructions with [prompting](../prompting/SKILL.md).
-
-A production module's doc comment is the next agent's manual. Beyond the [meaningful documentation](../contracts/development/common.md#meaningful-documentation) item, it shows one short composition example, states the invariants it keeps, and cites what it realizes.
-
-## Finishing a change
-
-While editing, keep the README's compile checker running as the single compile check, and read errors from its output instead of rerunning a build.
-
-Finish with the README's lint, evidence and test commands, then verify the affected consumer through [review](../review/SKILL.md): a visual change on captured stills of the affected interval, and what stills cannot show as [what you can observe](../../../AGENTS.md#what-you-can-observe) sets.
+| [AutoMovie packages](../automovie/SKILL.md) | Find the installed package for a need and read its API |
+| [Repair](repair.md) | Change existing behavior or fix a defect |
+| [Entity work](entities.md) | Build or change a subject |
+| [Testing](testing.md) | Choose behavioral checks |
+| [Source layout](source-layout.md#source) | Place a subject, practice, scene, source file or test |
+| [Runtime setup](source-layout.md#execution-and-runtime-setup) | Adopt a host or integration |
+| [Modules](modules.md) | Join entities, scenes and films, or vary or share a module |
+| [Stage caches](../production/stage-caches.md) | Add or change an expensive stage |
+| [Documenting source](modules.md#documenting-source) | Record invariants and Evidence in doc comments |
+| [Documentation](../documentation/SKILL.md) | Write a README, Evidence answer or doc comment |
+| [Prompting](../prompting/SKILL.md) | Write instructions for agents |
+| [Finishing a change](testing.md#finishing-a-change) | Run the applicable checks through the consumer |

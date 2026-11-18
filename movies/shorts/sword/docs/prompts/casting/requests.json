@@ -1,0 +1,463 @@
+{
+  "provider": "OpenAI",
+  "tool": "Codex built-in image generation",
+  "date": "2026-11-19",
+  "subjects": [
+    {
+      "subject": "martin",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/martin/full.png",
+          "sha256": "955ee83a6b4373d84e223c135687049583aa81c93de3cb7d2db0d5e253fe8851",
+          "inputSha256": null,
+          "outputId": "bcfecceb-77e6-494e-ab8e-683cfddeb86f",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Martin. Character design: 25, tall lean knight, dark straight jaw-length hair, clean-shaven; dull steel armour over moss-green wool sleeves, tan left elbow patch. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/martin/face.png",
+          "sha256": "4052ea4b9595ced833f109508c094a74f8ee0126a2c52821c1777cb2c18698cb",
+          "inputSha256": "955ee83a6b4373d84e223c135687049583aa81c93de3cb7d2db0d5e253fe8851",
+          "outputId": "60d4c947-e620-4c34-9bdf-85976d4ac761",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Martin. Character design: 25, tall lean knight, dark straight jaw-length hair, clean-shaven; dull steel armour over moss-green wool sleeves, tan left elbow patch. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "carlo",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/carlo/full.png",
+          "sha256": "3d21b2631264e696c1839b09b65938bbb4f20db79a2e17c5c991e30f85c95ee8",
+          "inputSha256": null,
+          "outputId": "b78f5147-308e-4181-8adf-a93501a16eae",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Carlo. Character design: 55, broad knight, cropped iron-grey hair, thick grey beard; polished Milanese T-opening barbute, oxblood wool beneath bright plate; carry helmet for face portrait. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/carlo/face.png",
+          "sha256": "900b3aa829dffa1ab3c5622ee3c00705da9664fffd25b0a8a4d0e3f71f69248b",
+          "inputSha256": "3d21b2631264e696c1839b09b65938bbb4f20db79a2e17c5c991e30f85c95ee8",
+          "outputId": "da5a394b-8f03-422e-9828-84e9228c65a6",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Carlo. Character design: 55, broad knight, cropped iron-grey hair, thick grey beard; polished Milanese T-opening barbute, oxblood wool beneath bright plate; carry helmet for face portrait. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "stable-lad",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/stable-lad/full.png",
+          "sha256": "71b7afb953af2bb6392a668d1b4bbca7177861d70557c4a2fb77a5b0d2f10893",
+          "inputSha256": null,
+          "outputId": "11e4403e-473b-4c11-98dc-3977d42f6105",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Stable lad. Character design: 18, wiry stable worker, short uneven chestnut hair; oat-coloured belted wool coat, russet hose, split seam on left wool cuff. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/stable-lad/face.png",
+          "sha256": "fe6c764384bb9e88d7fd44e2cac94d389fc1d87075e32ddf740b72fc47fc41a3",
+          "inputSha256": "71b7afb953af2bb6392a668d1b4bbca7177861d70557c4a2fb77a5b0d2f10893",
+          "outputId": "39d74579-4dc4-42f8-85a9-0a2f929fc207",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Stable lad. Character design: 18, wiry stable worker, short uneven chestnut hair; oat-coloured belted wool coat, russet hose, split seam on left wool cuff. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "perrin",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/perrin/full.png",
+          "sha256": "09fa3380e504771358da1bd6d9efe7bd6e19cdd2706ec09741e5dd3a261309e3",
+          "inputSha256": null,
+          "outputId": "fc3aa037-6cb1-46a9-aa7f-d1e270a9fa15",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Perrin. Character design: 38, sturdy with broad shoulders, cropped dark hair and grey temples; iron-grey plate under open brown wool coat with long tails, dark leather boots. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/perrin/face.png",
+          "sha256": "0ea6b365c12c217cb2ff21f4a75c305411f9d12ce911fdfc012efbad43502a8d",
+          "inputSha256": "09fa3380e504771358da1bd6d9efe7bd6e19cdd2706ec09741e5dd3a261309e3",
+          "outputId": "986a2a2b-3143-4f42-a700-075a6cca7289",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Perrin. Character design: 38, sturdy with broad shoulders, cropped dark hair and grey temples; iron-grey plate under open brown wool coat with long tails, dark leather boots. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "alix",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/alix/full.png",
+          "sha256": "2de1f2e7f912469948a6daae2ae5d3054afafa8d092cc7619994cf6516af1749",
+          "inputSha256": null,
+          "outputId": "d961da51-e9ff-47b1-a2cb-9e920510897d",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Alix. Character design: 33, compact, strong bread carrier; dark braid wrapped in undyed linen kerchief, faded blue wool gown, greenish apron, broad unbleached rye-sack strap. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/alix/face.png",
+          "sha256": "1616f47d66c0376d517011c1a2e82a88085e92acb2a75dcf7340c7908631e247",
+          "inputSha256": "2de1f2e7f912469948a6daae2ae5d3054afafa8d092cc7619994cf6516af1749",
+          "outputId": "688def02-418d-47ce-bc65-0b0844e19cb0",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Alix. Character design: 33, compact, strong bread carrier; dark braid wrapped in undyed linen kerchief, faded blue wool gown, greenish apron, broad unbleached rye-sack strap. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "caller",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/caller/full.png",
+          "sha256": "d77673faca9aa647aa6205eb515fed2a3ef4d2e5a273713dd0c2418d12898b27",
+          "inputSha256": null,
+          "outputId": "88cd4ac3-b566-4a77-82a3-4c5538edd6ac",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. The caller. Character design: 44, narrow and long-necked, cropped sandy hair and sparse beard; yellow-brown wool hood pushed back, dark doublet. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/caller/face.png",
+          "sha256": "97c36efa041405208cab30d4f20223a420fdb3c64c76d8e7cad750f310eb1f8d",
+          "inputSha256": "d77673faca9aa647aa6205eb515fed2a3ef4d2e5a273713dd0c2418d12898b27",
+          "outputId": "2535d916-ae70-4454-9335-f40d9b56cd1a",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. The caller. Character design: 44, narrow and long-necked, cropped sandy hair and sparse beard; yellow-brown wool hood pushed back, dark doublet. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "red-cap",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/red-cap/full.png",
+          "sha256": "158034a03d525a804a27723cc249ae37d1fad4f1135fc767ca0b8bbcb12fb9e2",
+          "inputSha256": null,
+          "outputId": "6b8ae58a-1d1c-4ac2-a878-70a31dbb97e0",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Red Cap. Character design: 30, broad-chested, short black curls beneath brick-red soft cap that comes off, cropped charcoal wool jacket. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/red-cap/face.png",
+          "sha256": "9d64a7ce63fc04493febabcbc9b1fd12bfd173460390c2196cfa5c62ac40f899",
+          "inputSha256": "158034a03d525a804a27723cc249ae37d1fad4f1135fc767ca0b8bbcb12fb9e2",
+          "outputId": "341c842a-e3b3-4949-a047-5f4d6519f3bc",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Red Cap. Character design: 30, broad-chested, short black curls beneath brick-red soft cap that comes off, cropped charcoal wool jacket. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "youngest",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/youngest/full.png",
+          "sha256": "7ad805794b31d3818b19c50024d6da42219a4de8d18981f782c334b17c28ae74",
+          "inputSha256": null,
+          "outputId": "62d20cd4-332e-48cb-86d6-9b02464b57e3",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Youngest robber. Character design: 20, slight long-limbed adult, shaggy flaxen hair, small grey wool doublet. For this base wardrobe he stands with BOTH SHOES ON his feet, a matching pair of oversized dark brown period leather shoes, no loose shoe or other object on the floor. Each foot is completely shod. Both ankles visible. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/youngest/face.png",
+          "sha256": "812d1ceb34183bedbf1f67fe250d07e3e097b0b13b2b9a82cfe379d0b7f10f7d",
+          "inputSha256": "7ad805794b31d3818b19c50024d6da42219a4de8d18981f782c334b17c28ae74",
+          "outputId": "4c53ff90-7223-48b7-9912-a626a407c691",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Youngest robber. Character design: 20, slight long-limbed adult, shaggy flaxen hair, small grey wool doublet. For this base wardrobe he stands with BOTH SHOES ON his feet, a matching pair of oversized dark brown period leather shoes, no loose shoe or other object on the floor. Each foot is completely shod. Both ankles visible. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "hospice-speaker",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/hospice-speaker/full.png",
+          "sha256": "c1c8b99ef4a1964d2875cf4264d0860f761f00db6fb35ec95ed764e2837faa00",
+          "inputSha256": null,
+          "outputId": "f3d11be2-ed28-4da2-ae0f-5a25cd5c0fff",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Hospice woman who calls. Character design: 53-year-old solid woman, grey hair under a plain white linen coif, plain russet wool gown. She holds a SEPARATE loose rectangular unbleached bread cloth in one hand by a corner, away from her body. The cloth has a narrow blue WOVEN STRIPE across its edge. The unattached square cloth is not worn: no belt or ties, no apron or other garment over the russet gown. Show the blue stripe visibly. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/hospice-speaker/face.png",
+          "sha256": "68d0c66d98fd2bfe00dc869a7b0d7a1ff5cfa834e76b7ee38e18b4eb63c3c7bf",
+          "inputSha256": "c1c8b99ef4a1964d2875cf4264d0860f761f00db6fb35ec95ed764e2837faa00",
+          "outputId": "b63f1ecd-d62d-4eb8-ba6d-3fccf174afb9",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Hospice woman who calls. Character design: 53-year-old solid woman, grey hair under a plain white linen coif, plain russet wool gown. She holds a SEPARATE loose rectangular unbleached bread cloth in one hand by a corner, away from her body. The cloth has a narrow blue WOVEN STRIPE across its edge. The unattached square cloth is not worn: no belt or ties, no apron or other garment over the russet gown. Show the blue stripe visibly. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "hospice-companion",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/hospice-companion/full.png",
+          "sha256": "bb886217fd0084ede739e20b88add948991548ca1576ce3e2c3c611de1e9d8c9",
+          "inputSha256": null,
+          "outputId": "4ad96a95-ceb2-4206-a283-e84f12023f7a",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Her companion at the stump. Character design: 29-year-old tall woman, auburn braid at nape under a dark blue kerchief and a plain undyed grey wool gown. Her hand holds the corner of a detachable square of plain unbleached off-white linen at her side, a second corner dangling clearly OUTSIDE her silhouette. This is the handheld bread cloth. Bare grey gown front and waist, no apron, sash or string at the waist, no stripe on her cloth. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/hospice-companion/face.png",
+          "sha256": "27e04d9ca88c20328434657a5988bb637d7d8e10ca9e00b23026581089edb57a",
+          "inputSha256": "bb886217fd0084ede739e20b88add948991548ca1576ce3e2c3c611de1e9d8c9",
+          "outputId": "a9a6ef0e-95d7-4bf6-a8f4-0a37f3106735",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Her companion at the stump. Character design: 29-year-old tall woman, auburn braid at nape under a dark blue kerchief and a plain undyed grey wool gown. Her hand holds the corner of a detachable square of plain unbleached off-white linen at her side, a second corner dangling clearly OUTSIDE her silhouette. This is the handheld bread cloth. Bare grey gown front and waist, no apron, sash or string at the waist, no stripe on her cloth. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "luc",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/luc/full.png",
+          "sha256": "127915c78c488d32f42b50f2641a21f057a860d91f130002347207258f86be3f",
+          "inputSha256": null,
+          "outputId": "d8cd1894-6943-489d-ab27-d3a844fcbd65",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Luc. Character design: 36, compact, broad freckled nose, short dark brown hair and light stubble; dull steel breastplate over faded blue wool coat, brown belt. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/luc/face.png",
+          "sha256": "f202ef8b6b86b905e4b211122b819d53476d8f3f1ba55a608746a0b7ded0f504",
+          "inputSha256": "127915c78c488d32f42b50f2641a21f057a860d91f130002347207258f86be3f",
+          "outputId": "6e9e2c7a-099e-4efb-8a47-618b4e1fdeb5",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Luc. Character design: 36, compact, broad freckled nose, short dark brown hair and light stubble; dull steel breastplate over faded blue wool coat, brown belt. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "remy",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/remy/full.png",
+          "sha256": "52a98c4bae9ef83359c17b0b41790890b2acdc3a6eeb3867b6b3c9354965ae0f",
+          "inputSha256": null,
+          "outputId": "246dec44-70c7-4096-8c88-d07a5a4d4e20",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Rémy. Character design: 28, tall and narrow, dark auburn hair cut to ears, clean-shaven; grey steel breastplate over ochre wool, narrow green belt. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/remy/face.png",
+          "sha256": "054a1c809c7d695778a69d5610c8734e0b19dccd179da468bcbd3b313ba4321f",
+          "inputSha256": "52a98c4bae9ef83359c17b0b41790890b2acdc3a6eeb3867b6b3c9354965ae0f",
+          "outputId": "5b42b3ec-b3ed-4433-9cb3-b4be39293365",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Rémy. Character design: 28, tall and narrow, dark auburn hair cut to ears, clean-shaven; grey steel breastplate over ochre wool, narrow green belt. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "muster-clerk",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/muster-clerk/full.png",
+          "sha256": "bbba7bcc6ff281098415626c534bc722063c690b2b921ade97d453804efd48a8",
+          "inputSha256": null,
+          "outputId": "31dcae43-bcac-43be-b3e4-43a76c1254d7",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Muster clerk. Character design: 48, narrow stooped shoulders, greying dark bob under round black cap; long plum-brown wool gown, small ink stain on right cuff. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/muster-clerk/face.png",
+          "sha256": "0228d39775c342a0b98e0f1d9c579d4653159037f7d893e699906f0c20247248",
+          "inputSha256": "bbba7bcc6ff281098415626c534bc722063c690b2b921ade97d453804efd48a8",
+          "outputId": "b24af8be-1ba7-4814-9e93-12f380369b7b",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Muster clerk. Character design: 48, narrow stooped shoulders, greying dark bob under round black cap; long plum-brown wool gown, small ink stain on right cuff. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "chestnut-mare",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/chestnut-mare/full.png",
+          "sha256": "1bcacbb3188b451eb4bbc5e57fe3efe0dcf1eb196009dc5979dd38d45eaa51ed",
+          "inputSha256": null,
+          "outputId": "a79fbb4b-3bca-4265-88a7-8265313c2f6c",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Chestnut mare. Character design: 8-year-old compact chestnut mare, copper mane and tail, white LEFT HIND sock; plain brown bridle and saddle. Whole animal in a quiet standing LEFT side view all four hooves in frame, no people, yard-free studio cyclorama. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/chestnut-mare/face.png",
+          "sha256": "fd8e268f5ac27e29896323234ccec07c7491194b6626d58910569a5ef39dbcf0",
+          "inputSha256": "1bcacbb3188b451eb4bbc5e57fe3efe0dcf1eb196009dc5979dd38d45eaa51ed",
+          "outputId": "0428bf43-661e-474e-aae4-51eb0731df04",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Chestnut mare. Character design: 8-year-old compact chestnut mare, copper mane and tail, white LEFT HIND sock; plain brown bridle and saddle. New separate sharp head-and-upper-neck close portrait of the exact same horse, attentive and calm. Keep precise coat colour, all markings, head shape and tack state from the reference. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "luc-grey",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/luc-grey/full.png",
+          "sha256": "6e465447e67b265cc3a806c058c9ef7d221b5b71143667c70d66bc596a911317",
+          "inputSha256": null,
+          "outputId": "aea2038a-6e86-457b-9f4b-f9e4cc7fed4f",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Luc's grey. Character design: 10-year-old larger dapple-grey gelding, charcoal mane and tail, dark legs, plain dark brown riding tack. Whole animal in a quiet standing LEFT side view all four hooves in frame, no people, yard-free studio cyclorama. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/luc-grey/face.png",
+          "sha256": "671e29e1d5ab12a49da95722eb1cf093823c68f97ca1586efd9c121a3cbc268e",
+          "inputSha256": "6e465447e67b265cc3a806c058c9ef7d221b5b71143667c70d66bc596a911317",
+          "outputId": "fb2f294b-9b0f-41a5-857a-d49611961096",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Luc's grey. Character design: 10-year-old larger dapple-grey gelding, charcoal mane and tail, dark legs, plain dark brown riding tack. New separate sharp head-and-upper-neck close portrait of the exact same horse, attentive and calm. Keep precise coat colour, all markings, head shape and tack state from the reference. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "chestnut-foal",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/chestnut-foal/full.png",
+          "sha256": "975a823b99b378f04cc23f8a09654ebe3b5819fa46b41d3ee3e1ea9dedec0cbe",
+          "inputSha256": null,
+          "outputId": "da1af133-8d7d-4326-8db1-43e2d7437968",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Chestnut foal. Character design: 3-month-old long-legged light chestnut foal, fuzzy upright mane and small white forehead star. Untacked. Whole animal in a quiet standing LEFT side view all four hooves in frame, no people, yard-free studio cyclorama. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/chestnut-foal/face.png",
+          "sha256": "3c8202d2022d5e7483a259b2e9cb3ae529cf31bc5543b2156f111706f5a49870",
+          "inputSha256": "975a823b99b378f04cc23f8a09654ebe3b5819fa46b41d3ee3e1ea9dedec0cbe",
+          "outputId": "a911519e-26c5-48ee-b5a7-fdab983871f2",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Chestnut foal. Character design: 3-month-old long-legged light chestnut foal, fuzzy upright mane and small white forehead star. Untacked. New separate sharp head-and-upper-neck close portrait of the exact same horse, attentive and calm. Keep precise coat colour, all markings, head shape and tack state from the reference. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "denis",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/denis/full.png",
+          "sha256": "f4b9d0bc7b1ea1734a7f812bd7e0742caaeb24bfae10e6d56b4103f9e23a9f0f",
+          "inputSha256": null,
+          "outputId": "34a93f02-0c66-429e-bab1-b647576076c0",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Denis. Character design: 32, stocky man with dense short brown curls, trimmed brown beard, muted dark green wool doublet and brown belt. On the belt hangs a plain flat brown leather period purse with a folding rectangular flap. On that flat flap is a small easily readable profile silhouette of a leaping HARE sewn with tan thread, one of its two long ears crooked. Bag itself a regular undecorated rectangle except for this embroidered motif. No animal-shaped purse, no three-dimensional animal ears or face on the bag. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/denis/face.png",
+          "sha256": "b678d45f21fbe2bca2d16ab6bced4787c8be760df503993cbef67251bdbde154",
+          "inputSha256": "f4b9d0bc7b1ea1734a7f812bd7e0742caaeb24bfae10e6d56b4103f9e23a9f0f",
+          "outputId": "17cb1466-e730-4ba6-a3d1-32dbd1484651",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Denis. Character design: 32, stocky man with dense short brown curls, trimmed brown beard, muted dark green wool doublet and brown belt. On the belt hangs a plain flat brown leather period purse with a folding rectangular flap. On that flat flap is a small easily readable profile silhouette of a leaping HARE sewn with tan thread, one of its two long ears crooked. Bag itself a regular undecorated rectangle except for this embroidered motif. No animal-shaped purse, no three-dimensional animal ears or face on the bag. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "colin",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/colin/full.png",
+          "sha256": "b20f84494f85df4fee33885026d526c0321a15bd8f2ac3aa66553d69c0a7e3a4",
+          "inputSha256": null,
+          "outputId": "fe6504e4-e619-41f9-803f-9471a627bff1",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Colin. Character design: 29, lean and long-faced, cropped black hair, clean-shaven; charcoal-blue wool coat, faded red collar. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/colin/face.png",
+          "sha256": "cff32c10cd7ea43a63cc711c0b6c8ca5df47266356226f907aeabe572f547f6c",
+          "inputSha256": "b20f84494f85df4fee33885026d526c0321a15bd8f2ac3aa66553d69c0a7e3a4",
+          "outputId": "48a74422-ee54-4114-a33d-83523fb0b4dd",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Colin. Character design: 29, lean and long-faced, cropped black hair, clean-shaven; charcoal-blue wool coat, faded red collar. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "widow",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/widow/full.png",
+          "sha256": "727230da2b684b26746cd0ff4ebc56984893dbb3bafd60b947386c98ff721731",
+          "inputSha256": null,
+          "outputId": "4e4c8615-630f-4340-acb9-9d4cd23c9c7e",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. The widow. Character design: 58, short broad frame, grey hair under ivory linen veil and wimple; dark brown wool gown, bare hands for pole. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/widow/face.png",
+          "sha256": "732b335048049be3f6bb483bde4c11dcd4d3a65470fc3cb388cf5403ffb4e4f7",
+          "inputSha256": "727230da2b684b26746cd0ff4ebc56984893dbb3bafd60b947386c98ff721731",
+          "outputId": "d0925c7b-eb16-48b9-a12c-9c4405c1eb28",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. The widow. Character design: 58, short broad frame, grey hair under ivory linen veil and wimple; dark brown wool gown, bare hands for pole. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "relief-bearer",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/relief-bearer/full.png",
+          "sha256": "162b6d7fa1d00ffecf079f5f36175c51ddc2a2a926e8f33b683e1c3f1865d2a9",
+          "inputSha256": null,
+          "outputId": "9073dce0-e53a-4e5c-80be-cd764bbfd1ea",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Relief bearer. Character design: 45, tall labourer, bald crown with dark hair at sides; russet hood and coarse umber wool coat. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/relief-bearer/face.png",
+          "sha256": "64f6db21576617e4beb8bc9a3107b1c29cd66cc505647c1976ccf0a770d913eb",
+          "inputSha256": "162b6d7fa1d00ffecf079f5f36175c51ddc2a2a926e8f33b683e1c3f1865d2a9",
+          "outputId": "1a29aeeb-d083-4eab-8c0a-9474f146317d",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Relief bearer. Character design: 45, tall labourer, bald crown with dark hair at sides; russet hood and coarse umber wool coat. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "front-bearer-left",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/front-bearer-left/full.png",
+          "sha256": "ac54b327b9ea7f85478da685603313d83a8e7fe9518a2f432645c58b469ecaa7",
+          "inputSha256": null,
+          "outputId": "90665600-9270-4466-a42e-6ac7805ec03c",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Left front bearer. Character design: 50, short, broad square build, pepper-grey beard; weathered ochre wool hood and brown coat. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/front-bearer-left/face.png",
+          "sha256": "39862353a0c3c7a9d409c0df359880af7e7830fb5da5953a9461ce6e6615234d",
+          "inputSha256": "ac54b327b9ea7f85478da685603313d83a8e7fe9518a2f432645c58b469ecaa7",
+          "outputId": "c770a33f-af1c-45ac-9fbb-3f87cbd712e6",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Left front bearer. Character design: 50, short, broad square build, pepper-grey beard; weathered ochre wool hood and brown coat. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "front-bearer-right",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/front-bearer-right/full.png",
+          "sha256": "7ce7cdb98b17fbcaea91a3e9864e70f034ef15b8cafae1a417009e0ed7b46bbc",
+          "inputSha256": null,
+          "outputId": "a6098ffa-4833-4cc4-b0b5-c95ca5b43bcc",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Right front bearer. Character design: 31, taller, clean-shaven, short chestnut hair under soft slate cap; blue-grey coat. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/front-bearer-right/face.png",
+          "sha256": "d469403871edca02e2e449a864428c65ad36c51ed25ccfd28310b8445e17741b",
+          "inputSha256": "7ce7cdb98b17fbcaea91a3e9864e70f034ef15b8cafae1a417009e0ed7b46bbc",
+          "outputId": "e18c81bf-9f91-4fb3-a588-3dd26af8cd8f",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Right front bearer. Character design: 31, taller, clean-shaven, short chestnut hair under soft slate cap; blue-grey coat. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "gate-woman",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/gate-woman/full.png",
+          "sha256": "4f3b41b5227a90fb9e524574d8019e70f9cc887fb7708078101034ec68029608",
+          "inputSha256": null,
+          "outputId": "acb06d2c-c654-4be8-93dd-d7b71d2d18e2",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Woman at the burial gate. Character design: 60, lean, silver hair under cream linen kerchief; grey-brown gown with dark blue edging. Starts the prayer at gate; may draw the gate closed after final mourner passes. Standing still at rest facing the casting camera. Show the WHOLE figure head to toe with generous space both above the head and below feet, hands down naturally, entire footwear in view, hat/helmet lifted off any face, no other figures. Vertical studio photograph. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/gate-woman/face.png",
+          "sha256": "4a3124eb5c8f482df5e8bc6d4e446f78153f930ddb3105776b12ada08f0f37d9",
+          "inputSha256": "4f3b41b5227a90fb9e524574d8019e70f9cc887fb7708078101034ec68029608",
+          "outputId": "06d7bcc0-b9c0-40ae-aedd-cf23011c83b9",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. Woman at the burial gate. Character design: 60, lean, silver hair under cream linen kerchief; grey-brown gown with dark blue edging. Starts the prayer at gate; may draw the gate closed after final mourner passes. New separate upper-shoulders and full FACE casting photograph of the exact same actor in the reference. Vertical, close enough to read the eyes and individual hairs. Face directly forward and unoccluded, same hairline, age, bone structure, wardrobe neckline, and skin colour. Neutral casting expression. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    },
+    {
+      "subject": "shrouded-uncle",
+      "views": [
+        {
+          "file": "media/diffusion/images/cast/shrouded-uncle/full.png",
+          "sha256": "fb3d9c6ea6c8bda61067e24c617ac87b48f1b2cac3ba99af89e5b1e68e0bbd34",
+          "inputSha256": null,
+          "outputId": "047c0654-d9bf-42a2-a444-c92d78745ba4",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. The shrouded uncle. Character design: Only the outline of the body, entirely covered in off-white linen on the bier. The toe of one worn dark brown leather shoe barely protrudes on the widow’s side. No face or hair visible in either photograph. An older man fully covered by an off-white linen funeral shroud on a plain period bier, one weathered shoe just peeking out, respectful side view, closed cloth at head. Figure shown in full. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        },
+        {
+          "file": "media/diffusion/images/cast/shrouded-uncle/shoe.png",
+          "sha256": "b4ae389f8edd54e8eede6bf914e1efdab6f84fcac9cc23dd68de35623a70213a",
+          "inputSha256": "fb3d9c6ea6c8bda61067e24c617ac87b48f1b2cac3ba99af89e5b1e68e0bbd34",
+          "outputId": "38d25c81-a7e5-487f-8543-9b5e3028adb8",
+          "prompt": "Fictional casting for an understated historical live-action film, Valais and Savoy around 1460. Realistic regional dress and workmanship, period-correct plain shoes and fabrics. No weapons or fighting, film studio casting. The shrouded uncle. Character design: Only the outline of the body, entirely covered in off-white linen on the bier. The toe of one worn dark brown leather shoe barely protrudes on the widow’s side. No face or hair visible in either photograph. Single tightly framed macro photograph. The worn brown leather shoe TOE and the lower off-white linen hem FILL THE ENTIRE FRAME edge to edge. Put the shoe in the centre against the wood by the hem. Input image 1 is an identity and material reference only. Keep its shoe and weave. Crop the body, bench, head and wider view entirely out of the photograph. One exposure, one plane of focus. NO diptych, NO inset, NO zoom illustration, NO divider. A single close-up of a shoe toe is the complete image. Single camera photograph, natural textures and proportions. Plain seamless mid-grey backdrop, neutral soft even studio lighting, no dramatic vignette, no props except those named, no lettering, brand, collage, labels or borders."
+        }
+      ]
+    }
+  ]
+}

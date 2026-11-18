@@ -1,0 +1,49 @@
+<!--
+@evidence shared/discovery/common.md#requirement-ownership The commission fixes four outcomes and delegates staging to the writer and appearance selection to the commissioning viewer.
+@evidence shared/discovery/brief.md#instructions-and-backcast The common brief assigns the two approaches to the world record and each cast subject’s appearance and selected photographs to its own record.
+@evidence shared/discovery/narratives.md#narrative-requirements Both cousins give up their carrying places, and the widow and mourner take their poles and carry the procession on.
+@evidence shared/discovery/screenplay.md#screenplay-requirements The scene decisions identify the boot outside the score, the weight below the bank, the broken call after the mace falls and the prayer receding up the lane.
+-->
+
+# Direction and discovery
+
+The commission calls for one common brief and four independent English films of 60 authored seconds each. The period and region, the four encounters and their outcomes, the order of the two mounted exchanges and the 16:9 landscape frame are settled. The writer chooses the words, the order in which the audience discovers a fact, the duration of each beat and the way out of a scene. The films range from a joke between two riders to the loss of a last place beside a dead man. [Commission](../../../instructions/commission.md#running-time) · [Screen action](../../../instructions/commission.md#screen-action)
+
+## What belongs to the commission
+
+The common dramatic instruction is that keeping or breaking a promise costs somebody something. A scene can let the audience see that cost in a boot print, feel it in a pair of suddenly empty hands or hear it in a voice going away. The writer decides who else is present, what each person can know and where the audience looks or listens. The commissioning viewer supplied the first reading. The writer took its four questions back to the scenes: which seat and which boot, whose arms hold the bread, how long the horses have and what frees the sleeve, and whose shoulder carries the uncle when the shoe shows. The viewer’s words stay together at their commission owner. [Time and place](../../../instructions/commission.md#period) · [First reading by the commissioning viewer](../../../instructions/commission.md#commissioning-viewer)
+
+The dialogue uses contemporary English for invented speech. “Aunt,” “Uncle” and the offer to ride to Milan carry the relationships without invented court titles or imitation medieval spelling. The prayer has the plain words the funeral can take up and lose. Retain the accents in Rémy and Orsières, the spelling of Aosta and Milan, and the established film titles. The research can name historical carriers and account entries in its own voice. The screenplay counts three recovered loaves and gives each table one and a half. The blue edge on one cloth, the plain linen of the other and the white left hind sock are casting and screen distinctions. None of those quantities or colours is attributed to the accounts.
+
+The historical study establishes the 1419 bread traffic from Orsières, places the hospice in Savoy at the anthology date and identifies the origin and date of the objects and pictures used for comparison. The number of salvaged loaves, the shape of the road and the household’s issue of striped props belong to these stories. The films can show a carrier breathing hard or a rein hanging slack without making a historical claim about a particular fight. [Historical study](../../../research/history/road-and-households.md)
+
+## What belongs to the common brief
+
+The world record places the hospice above the northern climb and the three separate households across the pass in the Aosta valley. Each individual cast record owns its subject’s visible appearance and identifying role, including the two cloths, the distinct front bearers, the horses’ markings and the uncle’s covered state. The covered figure has a visible outline, a place on the bier and a shoe. The linen conceals the features an ordinary face portrait would need. Each screenplay identifies its cast in its standing state and owns the local ground, the bargain, the changing hands and the ending. Nothing in the wager has to turn up on the bread road. [The two approaches](../../../body/brief/world/pass-road.md#two-approaches) · [Cast appearance commission](../../../instructions/commission.md#cast-appearance)
+
+## What the four scenes have to carry
+
+| Film | Where the choice becomes visible or audible |
+| --- | --- |
+| The better seat | The glove and the boy’s thumb identify the torn seat before Martin gives his word. The first heel stays inside. After the catch, Carlo’s boot lands outside and Martin has time to look before Carlo admits the loss. The unexpected armful pays the wager. The fingers through the torn seat make Martin laugh. [The wager in the yard](../../../body/screenplay/the-better-seat/010-household-yard.md#yard) |
+| Bread cloths | The rock, the turn and the stump let the audience follow people at two heights. Two spilled loaves lodge by the sword. Alix keeps the third. Perrin releases the strap for her, and for one instant the man on the lower road bears the sack’s full weight. The caller helps him lift it away. The two women keep their cloths open after the first loaf goes into each. That wait gives the gritty halves their cost. [Above Orsières](../../../body/screenplay/bread-cloths/010-two-bends.md#ascent) |
+| Answer me | The coin enters the purse before the mare leaves the bench. Both riders are mounted for the lance and mace passages. Two shafts stay behind, Rémy’s mace falls short of the gate and Luc’s goes back in its loop at the grey’s arrival. The foal’s broken call comes after the last thud, with the chestnut already at a trot. She answers and walks back over the grass. At the latch the grey occupies one of Luc’s hands and Rémy’s sleeve the other. Rémy leaves his mount behind and runs off with his pay. [The road past the breeding yard](../../../body/screenplay/answer-me/010-breeding-yard-road.md#road) |
+| The last carry | The purse and Denis’s glance at the covered foot make the grievance personal. The mourner takes Colin’s corner first. Denis feels his own pole lift onto the widow’s shoulder. When she tries to reach the hem again the wood rolls. The file’s answer recedes while the cousins can still hold each other up. At the end the shoe reads between the bars and the splinter between Colin’s fingers. [The lane to the burial ground](../../../body/screenplay/the-last-carry/010-valley-lane.md#lane) |
+
+Each scene keeps its own access to the action, pace, sound and last image. The boy can see the score. Alix can hear a man below the bank. The mare can turn at a voice the departing rider would have ridden past. A response can dwindle to one syllable in the cousins’ hearing while the widow is still walking. From the lane they can see her pass inside. The close view of the shoe is given to the audience. The four time tracks are the writer’s provisional allocations inside the commissioned minutes. Physical performance, timing in playback and the audible result remain unverified.
+
+## Limits of the discovery decisions
+
+For requirement ownership, the commission fixes the English register, setting, outcomes, duration and frame. The writer owns the staging. The commissioning viewer owns the appearance choice on the user’s behalf. The writer chooses who else is present when a promise is made. The downstream video model and endpoint remain deferred.
+
+For the brief, the scene repairs call for no further shared subject beyond the world and the 24 identifiable cast members. The height below the stump, the mare’s few steps on grass and the shoulder exchanges depend on their particular scenes. Each cast preamble carries its subject’s two photographs and the visual finding and selection for each view.
+
+For narrative, the four turning beats settle who admits the loss, who takes the weight, why Luc opens his hand and when the cousins give up their places. These encounters supply no further common requirement for a witness, a recurring character or a prescribed viewpoint.
+
+For screenplay, the audience needs a readable boot print, three traceable loaves, time with both ridden horses and an audible procession going away. Each scene owns the sightline, sound, beat length and exit that answer its need. The reading supplied no further common shot, sound cue or beat length. The commissioned minute, landscape frame and substantial mounted passages remain binding.
+
+## Cast appearance commission
+
+The common brief collects the world and 24 individual cast records in `docs/body/brief/`. Each cast record gives its reference directory and embeds both selected photographs beneath its title. For 23 subjects the second view is a portrait. For the shrouded uncle it shows the worn shoe beneath the linen. Codex’s built-in image generator produced the photographs, using each subject’s full original as the reference for its second view. The host compared all 48 photographs and verified the output hashes and applicable input hashes. The commissioning viewer inspected every original and selected all 48 on the user’s behalf. Each cast preamble records the visual check and selection for each view. A replacement receives its own visual check and selection decision. [Casting photographs](../../../prompts/casting/photographs.md) · [Casting requests](../../../prompts/casting/requests.json) · [Cast appearances and references](../../../instructions/commission.md#cast-appearance)
+
+The expanded text Evidence pass covers the final manuscript bytes, including the 48 photograph links and their per-file status text. The locked independent reading follows a successful full Evidence pass on those same bytes. A later change to a link or status returns the changed final text to that sequence before closure.

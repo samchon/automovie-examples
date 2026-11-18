@@ -1,7 +1,5 @@
 # Settings discovery statements
 
-Contract: [discovery/settings.md](../../discovery/settings.md).
-
 ## Instructions and backcast
 
 1. Every instruction and adopted promise is broken into its consequential elements:
@@ -20,4 +18,4 @@ Contract: [discovery/settings.md](../../discovery/settings.md).
     - an authority, cause, resource or knowledge boundary;
     - a relationship, space, appearance or voice.
 6. Chosen events, choices, results, setups, payoffs and reveal order stay with the next narrative owner.
-7. The reference form's observable choices are identified: how a record marks its owner, orders facts, separates evidence from invention and names downstream subjects. A label such as rigorous or immersive establishes none of them.
+7. Record how the reference marks ownership, orders facts, distinguishes evidence from invention and names downstream subjects.

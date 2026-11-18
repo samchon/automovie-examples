@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@automovie/*": ["../packages/*/lib/index.d.ts"]
+    }
+  }
+}

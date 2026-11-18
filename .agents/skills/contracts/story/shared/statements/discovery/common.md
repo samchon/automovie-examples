@@ -1,7 +1,5 @@
 # Common discovery statements
 
-Contract: [discovery/common.md](../../discovery/common.md).
-
 ## Requirement ownership
 
 Requirements:
@@ -10,7 +8,7 @@ Requirements:
 2. Each finding changes what may honestly be created or omitted. Exception: aspirations, genre labels and already owned conditions need no duplicate authority.
 3. Each finding has an observable application and failure, and names the smallest respondent population that can establish it.
 4. An adopted form states its observable choices, scope, audience effect, representative failure, semantic owner and repair boundary.
-5. Language baselines belong to their language owner, creative form to the work and world facts to settings, or on a short to the brief or screenplay as the [brief's boundary](../../../../../story/layers/brief.md#what-it-holds) divides them. A possibly universal candidate stays research until adopted into shared contracts.
+5. Assign language baselines to their language owner, form to the work, and facts to settings or the [short-route owner](../../../../../story/layers/brief.md#what-it-holds). Research candidates before adopting a shared criterion.
 6. A requirement found only in guide prose, selectors, status notes or repeated explanations moved to its owner with its consumers updated, under [closed passes](../../../../../story/correction/repair.md#closed-passes).
 
 Language:
@@ -20,7 +18,7 @@ Language:
     - names and titles;
     - number, date, age, color, material, dimension and unit wording.
 8. Affected speakers and passages, audience cues and canonical owners are identified, and the concrete language risks existing owners cover are recorded.
-9. Under a declared [factual basis](../../../../../story/planning/requirements.md#factual-basis), period usage is checked against the cited record or the adopted departure identified. Notation serves the actual audience and medium, not artificial period weight.
+9. Under a declared [factual basis](../../../../../story/planning/requirements.md#factual-basis), period usage is checked against the cited record or the adopted departure identified. Notation serves the audience and medium, not artificial period weight.
 
 Production coverage:
 
@@ -31,7 +29,7 @@ Production coverage:
     - a skill, folder or instruction the work needed but lacked.
 11. Each gap found was answered in one of three ways:
     - by adopting a work-specific contract or folder;
-    - by recording a scaffold candidate with its motivating evidence, which stays local until other productions show the same need;
+    - by recording a scaffold candidate with its motivating evidence, local until other productions show the same need;
     - by recording its absence with the inspected scope.
 12. The inspection was repeated at each [discovery checkpoint](../../../../../story/planning/discovery.md#checkpoints) reached so far. An unchecked checkpoint stays open.
 

@@ -4,8 +4,14 @@
 
 ### Blue corner {#blue-corner}
 
-Marek Sokol is a fictional 30-year-old man from Czechia. His gloves and plain shorts are blue, with a white waistband. He is barefoot and bare-chested, with a short fair hair shape. His height and mass are the same [commissioned values](../../../instructions/commission.md#fighters) as Owen's.
+Marek is 30 and from Czechia. He contests the championship on equal physical terms with Owen Vale. Each stands 180 cm and weighs 80 kg. Equally athletic, Marek has fair freckled skin, short sandy-blond hair, a broad square face and light brows. He is clean-shaven. Cast him bare-chested and barefoot in plain royal-blue shorts with a white waistband and matching blue gloves.
+
+The championship commission fixes Marek's height and weight. [Fighters](../../../instructions/commission.md#fighters) The client's delegated representative compared these two generated photographs of Marek and adopted them as production appearance references. The client has yet to ratify them personally. [Cast appearance commission](../../../instructions/cast-appearance.md) · [Casting photographs](../../../prompts/casting/photographs.md)
+
+![Marek Sokol, front full-length casting photograph](../../../../media/diffusion/images/cast/marek-sokol/full.png)
+
+![Marek Sokol, face casting photograph](../../../../media/diffusion/images/cast/marek-sokol/face.png)
 
 ### Pressure fighter {#pressure-fighter}
 
-Marek fights orthodox. He builds the commissioned [pressure style](../../../instructions/commission.md#people) with long punching chains, curved low kicks and steps that close an exit before he follows an opponent. His hands return between punches and his feet catch up beneath him; pressure is skilled control, not a forward rush. The [practice study](../../../research/kickboxing/round-practice.md#level-and-density) supports his championship level. He begins with a sound left-side guard. Any habit acquired during this bout must be taught and shown in the screenplay.
+Marek likes the middle. He can make another man travel a long way round a very small patch of canvas. Once he sets off after somebody, he likes to choose where the walk ends. Give him a different quality of stillness when the choice is taken out of his hands. He has a private courtesy with his chief second, Pavel. One raised glove and a small outward turn are enough. He looks for Pavel's open hand in return.

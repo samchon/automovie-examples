@@ -4,17 +4,29 @@ packages:
   - packages/*
 catalogs:
   automovie:
-    "@automovie/archetypes": ^0.2.0
-    "@automovie/engine": ^0.2.0
-    "@automovie/evidence": ^0.2.0
-    "@automovie/human": ^0.2.0
-    "@automovie/ingest": ^0.2.0
-    "@automovie/interface": ^0.2.0
-    "@automovie/motions": ^0.2.0
-    "@automovie/recovery": ^0.2.0
-    "@automovie/render": ^0.2.0
-    "@automovie/viewer": ^0.2.0
-    automovie: ^0.2.0
+    "@automovie/archetypes": link:../packages/archetypes
+    "@automovie/engine": link:../packages/engine
+    "@automovie/evidence": link:../packages/evidence
+    "@automovie/human": link:../packages/human
+    "@automovie/ingest": link:../packages/ingest
+    "@automovie/interface": link:../packages/interface
+    "@automovie/motions": link:../packages/motions
+    "@automovie/recovery": link:../packages/recovery
+    "@automovie/render": link:../packages/render
+    "@automovie/viewer": link:../packages/viewer
+    automovie: link:./tools
+  kickboxing-release:
+    "@automovie/archetypes": 0.2.0
+    "@automovie/engine": 0.2.0
+    "@automovie/evidence": 0.2.0
+    "@automovie/human": 0.2.0
+    "@automovie/ingest": 0.2.0
+    "@automovie/interface": 0.2.0
+    "@automovie/motions": 0.2.0
+    "@automovie/recovery": 0.2.0
+    "@automovie/render": 0.2.0
+    "@automovie/viewer": 0.2.0
+    automovie: 0.2.0
   three:
     three: ^0.186.0
     "@types/three": ^0.186.0

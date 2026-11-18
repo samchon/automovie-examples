@@ -1,31 +1,29 @@
 # Research statements
 
-Contract: [principles/research.md](../../principles/research.md).
-
 ## Depicted practice
 
-A statement here does not apply when the studied subject lacks what it asks for, such as an outcome table for a camera style, or when no written consumer uses it yet, under [when to study](../../../../../story/planning/research.md#when-to-study).
+Exclude a statement only if it does not apply to the subject or has no written consumer under [when to study](../../../../../story/planning/research.md#when-to-study).
 
-1. A performed practice, such as fighting, dance, sport, work or ceremony, has density and distribution targets at the depicted level, such as actions per unit time, chain lengths, technique mix, defense and counter ratios and pauses, measured from footage or statistics where they exist.
-2. Each technique has its law:
+1. Record the practice's action density and distribution at the depicted level. Use footage or statistics where available.
+2. Each technique the installed motion vocabulary does not perform has its law:
     - its key poses in the performer's own body frame;
     - its phases and timing;
     - reach and contact surfaces;
     - support and weight transfer;
     - how the body travels to deliver it from the distance where it starts.
 3. Legal and illegal actions are recorded.
-4. An outcome table says which combinations of intent can yield which outcome classes, and every outcome the screenplay uses has a row.
+4. Record the practice rules that limit which outcomes may follow the written actions.
 5. The study records:
     - how actions chain through sequences, setups and transitions;
     - spatial strategy and tempo across the duration;
     - the conduct of everyone present, officials and crowds included;
     - the markers that separate the depicted level from a beginner;
     - how the genre is shot.
-6. It gives measurable targets for what a viewer sees and hears, such as distance by phase, idle time per presence and shot-change cadence.
+6. It gives measurable targets for what a viewer sees and hears, such as distance by phase and shot-change cadence.
 7. Each target is a range from the depicted discipline and level, with its method and uncertainty.
 8. An invented action names its closest real analogue and states where it departs.
 9. Every value has a source, none is a rank or an adjective, and none is borrowed from another discipline without a stated translation.
-10. The study covers what the production must write or decide itself. Exception: a single movement the installed motion vocabulary performs, a rule or table an installed package exports, and the general film grammar of [shots and cuts](../../../../../story/layers/shots.md) are not restudied, though the level, patterns and targets of a practice built from such movements are.
+10. Study decisions the production makes, including a practice's level, patterns and targets. Use installed motions, exported rules and tables, and the established [shot grammar](../../../../../story/layers/shots.md) for what they cover.
 
 ## Traceable sources
 

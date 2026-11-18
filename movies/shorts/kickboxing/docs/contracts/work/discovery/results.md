@@ -1,48 +1,25 @@
 <!--
-@evidenceExclude shared/discovery/common.md#requirement-ownership The original complete short-route discovery in #scope inspected the commissioned instructions, language, form and practice risks; #ownership assigns the existing commission, brief, screenplay and study owners, and #risks records no independent uncovered condition requiring an additional work or language contract. This single truthful negative accounts for the common discovery duty selected by both brief and screenplay; it does not waive either inspection.
-@evidenceExclude shared/discovery/brief.md#instructions-and-backcast The original #ownership decomposition assigns every commissioned element and backcasts continuing identities and styles to the three brief cast records, with scene-only people, objects, venue decisions and events left to the screenplay. No unowned instruction or recurring canon decision requiring an additional work contract was found in that inspected scope; the existing map creates no new requirement.
-@evidenceExclude shared/discovery/narratives.md#narrative-requirements The original #risks inspection names the learned-cue, passive-waiting, repeated-exchange, axis, concealed-finish, premature-celebration and background-response risks. Existing beat decisions, audiovisual realization, continuity and promises contracts own those observable failures, so no additional recurring narrative contract was found necessary across this one short's twelve phases and joins.
-@evidenceExclude shared/discovery/screenplay.md#screenplay-requirements The original #ownership and #risks record assigns audience access, paired framing, exact and provisional timing, live sound, notation and language to the adopted commission and scene, and examines invisible inner or facial cues, action density, axis continuity, the contact and fall and the ending. Existing screenplay/shared contracts and the practice study already own those formal conditions; no uncovered positive audiovisual rule requiring an additional work contract was found.
+@evidenceExclude shared/discovery/common.md#requirement-ownership The single short-route checkpoint assigns cast, audience access, British English, clock and procedure to existing owners. An added work-specific requirement would duplicate them.
+@evidenceExclude shared/discovery/brief.md#instructions-and-backcast Ten individual cast briefs hold the fighters, referee, four seconds, timekeeper and two neighbours. The remaining seated crowd is a group. The opening places the ring, table and neighbours for one continuous scene. No additional shared subject calls for a work-specific brief contract.
+@evidenceExclude shared/discovery/narratives.md#narrative-requirements The current direction owns Marek’s choice to stop and the audience’s changing allegiance. Existing progression and distribution questions can test both across the scene.
+@evidenceExclude shared/discovery/screenplay.md#screenplay-requirements The point of view, clear counting voice and return of the salute are observable under the existing audiovisual and beat questions. This edition needs no added screenplay contract for them.
 -->
+# Discovery for the ringside edition
 
-# Fresh short discovery
+## What the audience can know {#scope}
 
-## Inspected scope {#scope}
-
-This is the short route's single discovery, before bulk writing, for one fresh 180-second English screenplay and its minimal brief. The inputs are the current workspace instructions, `PROJECT.md`, `README.md`, every file in `docs/instructions` (the preserved commission), the current shared short-route skills and the selected brief and screenplay contracts with their statements. No former body, study, evidence answer, review or Git edition is an input. There is no inherited approval.
-
-The commission fixes or delegates every consequential creative choice needed here. Its twelve H2 phases are addresses within one continuous scene file. The separate answerer and reviewer are supplied by the coordinator. Construction remains disabled during this author phase.
+One place and three minutes. A person watching from the south side can see which man moves the other, how long it takes him to win the ground back, who sees the fall and who waits for permission to move. The audience recognises a familiar response before it costs Marek the bout. The count then gives the audience ten separate chances to hope he will get up.
 
 ## Ownership {#ownership}
 
-The following mapping decomposes the commission; it creates no additional creative requirements.
+| Decision | Owner and use |
+| --- | --- |
+| Equal adult championship fighters, glove touch, exchanges, learned response, whole ring, right-side fall and joint ending | The [archived commission](../../../instructions/commission.md) supplies the sporting events, precise clock, voices, arena and frame. |
+| Spectator-level action, an interrupted response, visible agency for Marek and responsibility at the break and down | The supervisor's [ringside scope](../../../instructions/ringside-edition.md#scope) asks each man to initiate, defend and answer. The screenplay assigns each action to the man who makes it and shows what changes for the other man. |
+| Names, colours, ages, appearance and habits | The ten [cast briefs](../../../body/brief/cast) own the written designs and identify each person's adopted full-length and face photographs. The [casting record](../../../prompts/casting/photographs.md) links the pairs to their generation receipts. The [appearance commission](../../../instructions/cast-appearance.md#status) records the root coordinator's delegated adoption and the outstanding direct end-user ratification. Owen and Marek can be followed by colour and stride. Daniel's hands must read from the floor and from Alan's table. Jo and Ed have different views past the red pad. Pavel's white sleeves identify the man coming to Marek while Ivo stays at blue. Maya and Ruth must each be visible turning towards the person she applauds. |
+| Referee, count and timekeeper | The [rules study](../../../research/kickboxing/round-practice.md#rules-and-procedure) supplies the procedural order. The commissioned seconds belong to this bout. |
+| A change of pace and a view that stays with two men | The [ringside study](../../../research/kickboxing/competitive-exchanges.md) informs the decision. The writer places the centre mark, the two neighbours at the table and the chief second's answering hand. |
 
-| Commission address | Consequential elements | Smallest creative owner |
-| --- | --- | --- |
-| `one-round`, `phases` | Complete 0-180 interval; twelve consecutive fifteen-second H2s; H3 exchanges; standing state; no time jump | The one screenplay scene, `010-the-round.md`, all phases |
-| `fighters`, `people` | Equal adult male championship fighters; new names, ages, home countries, colours and contrasting styles; adult male referee | Three brief cast records; fixed body values remain owned by the commission |
-| `glove-touch` | Both step into glove contact; immediate first exchange | Phase 1 |
-| `exchange-vocabulary` | Both combine, feint, check and counter, slip, parry, roll and block; varied connecting footwork | Phases 1-10, inspected together |
-| `ruleset`, `referee` | Legal contact; immediate single clinch knee and release; active official; neutral-corner procedure and care | Screenplay performance and current rules study |
-| `contacts-before-finish` | Breath, guard and balance costs; no early knockdown | Phases 1-10 and their joins |
-| `tell`, `direction` | Body kicks teach the left-arm drop; successful feint tests it; audience sees the plan before the defender | Phases 2, 4, 6, 8 and 10 |
-| `finish`, `fall` | Right Brazilian kick at 150.000; specified side target, contact surfaces, right-side articulated fall, uncut view | The continuous view across phases 10-11 |
-| `count` | 157 start; One at 158 through Ten at 167; 167.6 result; 168.1 celebration; 170.1 bell; 180 ending | Phases 11-12 |
-| `progression`, `whole-ring` | Changes of initiative, pressure and learning; pivots, circling, cut-offs and ropes | Phases 1-10 and the whole scene's spatial continuity |
-| `camera`, `frame` | Landscape full-body relationship, both heads, feet and targets readable; action motivates reframing | Standing state and changing beat records |
-| `sound`, `language` | British English text; English official only; numbered count; bells, breath, friction, distinct contacts; no score or commentary | Commission language and sound rulings; actual screenplay blocks |
-| `tone`, `no-injury-mechanism` | Sober craft, cost and care; observation without a medical explanation | Whole screenplay, particularly phases 11-12 |
-| `venue` | Arena, seated wordless crowd, timekeeper, teams outside the ropes | Standing state and continuous background responses |
-| `ending` | Winner's planted victory steps and raised gloves beside the downed fighter and attending referee | Phase 12's sustained wide image |
+## Short-route decision {#risks}
 
-The commission expressly assigns identity and style to the brief's cast records. Those three records therefore hold that small continuing canon even though the current scene-file layout makes this a single scene; they contain no ring blocking, learned reaction, camera plan or sound design. All scene-only people, objects and venue decisions stay in the screenplay's standing state. No settings, outline, treatment or script is needed.
-
-## Risks and inspected negatives {#risks}
-
-The language inspection covered nationality and naming, age and size equality, colour identification, British spellings, official commands and count wording, the absence of fighter dialogue, and the distinction between exact anchors and provisional action timing. The commission owns these language boundaries; cast records own only the delegated identities. No additional language contract is needed.
-
-The audiovisual inspection looked for unreadable inside thoughts, invisible facial expressions, an unexplained arm drop, passive waiting between isolated techniques, repeated exchanges, axis reversals, a concealed contact or fall, premature celebration and missing background responses. Existing screenplay beat decisions, audiovisual realization, continuity and promises contracts cover these observable failures. Their creative decisions belong to the scene, not to a new checklist.
-
-The external facts needed for drafting are professional activity patterns, GLORY procedures and the Brazilian kick's changing path. The installed motion README and public declarations already cover ordinary strikes, checks, head movement, steps and camera grammar. A new study covers the specialist pattern and the qualitative path the commission needs beyond the generic kick redirect and supine knockdown. Its ranges are distinguished from authored timing choices. No force threshold, injury mechanism or numerical body simulation is asserted.
-
-No independent uncovered requirement or unresolved user choice was found in this declared text scope. There are no media assets to adopt. Source, composition, capture and delivery checkpoints are outside this screenplay-only phase; none is reported as run. This discovery is not a construction evidence answer or an independent review.
+At 56 seconds the audience must see Marek choose to stop. At 120 it must hear his feet stop while his breathing continues and see Owen change the step he was taking. At 65 the direction of Maya's applause must be visible even as Marek takes the ground. In the last wide Ruth needs time to find Marek for herself before the two claps, one beat apart. Both can be tested on the [screenplay](../../../body/screenplay/kickboxing/010-the-round.md) by following feet and eyelines from the same seat. The existing brief and screenplay criteria cover these questions. No additional contract is needed. The single discovery checkpoint ends here. Construction answers and independent reading follow the writer's submission.
