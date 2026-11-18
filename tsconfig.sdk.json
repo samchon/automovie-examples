@@ -1,7 +1,18 @@
 {
   "compilerOptions": {
     "paths": {
-      "@automovie/*": ["../packages/*/lib/index.d.ts"]
+      "@automovie/*": ["../packages/*/lib/index.d.ts"],
+      "@automovie/archetypes/animals": ["../packages/archetypes/lib/animals/index.d.ts"],
+      "@automovie/archetypes/architecture": ["../packages/archetypes/lib/architecture/index.d.ts"],
+      "@automovie/archetypes/furniture": ["../packages/archetypes/lib/furniture/index.d.ts"],
+      "@automovie/archetypes/gym": ["../packages/archetypes/lib/gym/index.d.ts"],
+      "@automovie/archetypes/music": ["../packages/archetypes/lib/music/index.d.ts"],
+      "@automovie/archetypes/nature": ["../packages/archetypes/lib/nature/index.d.ts"],
+      "@automovie/archetypes/props": ["../packages/archetypes/lib/props/index.d.ts"],
+      "@automovie/archetypes/sport": ["../packages/archetypes/lib/sport/index.d.ts"],
+      "@automovie/archetypes/vehicles": ["../packages/archetypes/lib/vehicles/index.d.ts"],
+      "@automovie/archetypes/weapons": ["../packages/archetypes/lib/weapons/index.d.ts"],
+      "@automovie/evidence/internal": ["../packages/evidence/lib/internal/index.d.ts"]
     }
   }
 }
