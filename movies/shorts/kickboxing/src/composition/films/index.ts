@@ -1,15 +1,5 @@
 import type { IFilm } from "../../IFilm";
-import { starter } from "./starter";
-import { catalog } from "./catalog";
 import { kickboxing } from "./kickboxing";
 
-/**
- * Every film this production delivers, keyed by its film name, which derives
- * from its screenplay film folder's path and which the inspector's `subject`
- * parameter and `pnpm run render --subject` select.
- */
-export const films: Readonly<Record<string, IFilm>> = {
-  starter: starter(),
-  catalog: catalog(),
-  kickboxing: kickboxing(),
-};
+/** The single named direct 3D feature of this production. */
+export const films: Readonly<Record<string, IFilm>> = { "the-round": kickboxing() };

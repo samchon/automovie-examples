@@ -25,11 +25,13 @@ Construction Evidence covered 94 of 94 selected units before independent review.
 
 ## Direct 3D films
 
+The commissioning viewer watched all four MP4s on 19 November 2026 and rejected the set for sluggish pacing, unreadable encounters and people passing through objects. All four productions return to screenplay. The files and decisions below identify the withdrawn editions. [Collection review](../../../docs/benchmarks/0.3.0-film-review-return.md)
+
 The subsequent commission calls for four individually directed films on the local AutoMovie 0.3.0 renderer. Each uses the selected cast, a 16:9 courtyard or road composition, a sixty-second timebase and twenty-four frames per second. The four registered subjects are The Better Seat, Bread Cloths, Answer Me and The Last Carry. The written edition above supplies the starting screenplays. Each film’s acceptance record identifies its final screenplay revision. Each current filmmaking role uses Codex with GPT-6.2 Sol at high reasoning effort, including direction, writing, technical production, audio and independent picture review. The manuscript edition retains its original attribution. The director may return a weak film to a separate Sol writer, Evidence answerer and independent narrative reviewer before rendering the revised film.
 
 The [film registry](src/composition/films/index.ts) connects the four subjects to a common inspector, capture command and render command. The delivery profile is one 1,280 × 720 MP4 per subject with 1,440 progressive picture frames and the subject’s soundtrack. The independent picture review reads encoded frames in order across each completed minute, then checks consecutive frames at cuts and decisive events against the authored source. Each acceptance record gives the observed coverage and its limits.
 
-| Film | Encoded master | Acceptance record |
+| Film | Withdrawn cut | Historical director record |
 | --- | --- | --- |
 | The Better Seat | [MP4](media/automovie/the-better-seat/videos/the-better-seat.mp4) | [Production and review](docs/acceptance/the-better-seat.md#direct-3d-commission) |
 | Bread Cloths | [MP4](media/automovie/bread-cloths/videos/bread-cloths.mp4) | [Production and review](docs/acceptance/bread-cloths.md#direct-3d-production) |
@@ -40,4 +42,4 @@ The [media manifest](media/manifest.json) records retained files, SHA-256 hashes
 
 The [shared motion adapter](src/composition/shared/nativeStageMotion.ts) resolves installed `HumanPerformance` compositions and exposes the sampled body and joints in the wardrobe figure's stage frame. Each film's acceptance record identifies the native actions that drive its rendered performers, along with source and screen observations for its staged contacts.
 
-The default `pnpm run evidence` check covered 51 of 51 units across seven active claims and nine obligations, with zero diagnostics. The shared TypeScript check and the focused Seat camera and motion-adapter tests passed. The full production test launcher timed out while waiting for its dependency build.
+The default `pnpm run evidence` check covered 51 of 51 units across seven active claims and nine obligations, with zero diagnostics. The shared TypeScript check passed. The production's `pnpm run test` passed all 10 tests against the built local AutoMovie 0.3.0 SDK, including tests for all four films.

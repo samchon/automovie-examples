@@ -1,5 +1,7 @@
 # Bread Cloths — production acceptance
 
+The commissioning viewer rejected this film after playback on 19 November 2026. The four Sword films return to screenplay. The director's decisions below record the withdrawn edition. [Collection review](../../../../../docs/benchmarks/0.3.0-film-review-return.md)
+
 The director accepted the screenplay for delivery on 19 November 2026. Its 5 beats cover 0–10, 10–21, 21–32, 32–48, 48–60 authored seconds. [Screenplay](../body/screenplay/bread-cloths/010-two-bends.md)
 
 ## Director's reading

@@ -1,5 +1,7 @@
 # The better seat — manuscript acceptance
 
+The commissioning viewer rejected this film after playback on 19 November 2026. The four Sword films return to screenplay. The director's decisions below record the withdrawn edition. [Collection review](../../../../../docs/benchmarks/0.3.0-film-review-return.md)
+
 The director accepted the screenplay for delivery on 19 November 2026. Its 4 beats cover 0–15, 15–34, 34–46, 46–60 authored seconds. [Screenplay](../body/screenplay/the-better-seat/010-household-yard.md)
 
 ## Director's reading
@@ -70,4 +72,4 @@ The original Sol High director accepted the focused cut's picture and passed its
 
 The [accepted MP4](../../media/automovie/the-better-seat/videos/the-better-seat.mp4) is 17,305,127 bytes, SHA-256 `c7a83afa012f457302022d028ccaba6610f93dbebb9ccbc622a23f359a0358f3`. Picture and sound each run 60.000 seconds. The file decoded 1,440 H.264 High progressive frames at 24 fps, 1,280 × 720, BT.709 yuv420p, with AAC-LC stereo at 48 kHz. The decoded mix measures −15.8 LUFS integrated and −2.8 dBTP. All five dialogue windows and the laugh matched the PCM reference at zero sample lag. The final review covers the stylized picture and technical encode. Listening, speech intelligibility, perceptual sync and uninterrupted audiovisual playback remain unverified. [Render report](../../media/automovie/the-better-seat/videos/picture-render-report.json) · [Stream probe](../../media/automovie/the-better-seat/videos/ffprobe.json) · [Soundtrack alignment](../../media/automovie/the-better-seat/videos/audio-alignment.json)
 
-An isolated restoration mux using the delivered picture stream and PCM reproduced the accepted MP4's exact hash. The shared TypeScript check passed. The native motion adapter and final scene framing tests passed when run as an isolated bundle against the installed SDK. The full production test launcher timed out waiting for its dependency-build admission. [Focused tests](../../.cache/sol-0.3.0/the-better-seat/native-focused-release-r3.log)
+An isolated restoration mux using the delivered picture stream and PCM reproduced the accepted MP4's exact hash. The shared TypeScript check passed. The production's `pnpm run test` passed all 10 tests against the built local AutoMovie 0.3.0 SDK, including the native motion adapter and final scene framing. [Motion adapter test](../../test/features/composition/films/test_native_stage_motion.ts) · [Scene framing test](../../test/features/composition/films/test_the_better_seat.ts)

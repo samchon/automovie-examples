@@ -1,5 +1,7 @@
 # The last carry — manuscript acceptance
 
+The commissioning viewer rejected this film after playback on 19 November 2026. The four Sword films return to screenplay. The director's decisions below record the withdrawn edition. [Collection review](../../../../../docs/benchmarks/0.3.0-film-review-return.md)
+
 The director accepted the screenplay for delivery on 19 November 2026. Its 4 beats cover 0–13, 13–32, 32–48, 48–60 authored seconds. [Screenplay](../body/screenplay/the-last-carry/010-valley-lane.md)
 
 ## Director's reading

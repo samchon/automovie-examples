@@ -1,4 +1,4 @@
-import type { IAutoMovieMark } from "@automovie/engine";
+import type { IAutoMovieMark } from "@automovie/interface";
 import type {
   AutoMovieDrawSubjects,
   IAutoMovieDrawScene,
@@ -43,7 +43,9 @@ export const subjects: AutoMovieDrawSubjects = (): Readonly<
               height: film.height ?? 720,
               markKinds: [
                 ...(production.markKinds ?? []),
-                ...(production.performance === undefined ? [] : ["joint", "bone", "contact"]),
+                ...(production.performance === undefined
+                  ? []
+                  : ["joint", "bone", "contact"]),
               ],
               ...(production.views === undefined
                 ? {}

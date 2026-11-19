@@ -14,9 +14,9 @@ import type { IFilmProduction } from "../../IFilmProduction";
  * @evidence contracts/development/implementation.md#efficient-algorithms Each seek updates world matrices once, linear in the scene's object count, which is zero here.
  * @evidence contracts/development/implementation.md#reuse-equivalent-work One scene and camera serve every seek of a mount.
  * @evidence contracts/development/implementation.md#bound-retention-and-release-resources Each mount owns its scene and camera, and dispose clears the scene when the Viewer page closes.
- * @evidenceExclude contracts/development/composition.md#screenplay-realization This empty scaffold fixture checks the host rather than the storyline.
- * @evidence contracts/development/composition.md#composition-only Combines the fixture's empty scene and camera.
- * @evidenceExclude contracts/development/composition.md#living-scene This instrument fixture intentionally contains no living subjects.
+ * @evidence contracts/development/composition.md#screenplay-realization The unregistered scaffold fixture contains an empty scene and no screenplay clock.
+ * @evidence contracts/development/composition.md#composition-only It only supplies a neutral scene and fixed camera for direct import. The production registry uses the commissioned film.
+ * @evidence contracts/development/composition.md#living-scene The fixture contains no subjects or authored actions. The returned view is a fixed neutral background.
  */
 export function starter(): IFilm {
   return {

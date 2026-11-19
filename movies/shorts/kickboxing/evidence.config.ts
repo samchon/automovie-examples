@@ -1,10 +1,28 @@
 import { createEvidenceConfig } from "@automovie/evidence";
 
-/** The short's story construction stages close when the completed review reaches its author. */
+/** Selects the live engineering checklists and preserves the completed short-route narrative record. */
 export default createEvidenceConfig({
   location: import.meta.dirname,
   skills: "../../../.agents/skills",
-  development: { entities: "evidence", behaviors: "evidence", composition: "evidence" },
+  development: { entities: "evidence", composition: "evidence" },
+  claims: [
+    {
+      name: "test support functions",
+      type: "typescript",
+      files: ["test/helpers/**/*.ts"],
+      symbol: "function",
+      reference: {
+        type: "markdown",
+        root: "../../../.agents/skills",
+        files: [
+          "contracts/development/common.md",
+          "contracts/development/implementation.md",
+        ],
+        symbol: "h2",
+        checklist: true,
+      },
+    },
+  ],
   narrative: {
     mode: "short",
     construction: { brief: "disabled", screenplay: "disabled" },

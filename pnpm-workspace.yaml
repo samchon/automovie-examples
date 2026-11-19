@@ -15,18 +15,6 @@ catalogs:
     "@automovie/render": link:../packages/render
     "@automovie/viewer": link:../packages/viewer
     automovie: link:./tools
-  kickboxing-release:
-    "@automovie/archetypes": 0.2.0
-    "@automovie/engine": 0.2.0
-    "@automovie/evidence": 0.2.0
-    "@automovie/human": 0.2.0
-    "@automovie/ingest": 0.2.0
-    "@automovie/interface": 0.2.0
-    "@automovie/motions": 0.2.0
-    "@automovie/recovery": 0.2.0
-    "@automovie/render": 0.2.0
-    "@automovie/viewer": 0.2.0
-    automovie: 0.2.0
   three:
     three: ^0.186.0
     "@types/three": ^0.186.0
@@ -62,19 +50,3 @@ allowBuilds:
   onnxruntime-node: false
   protobufjs: false
   sharp: false
-minimumReleaseAgeExclude:
-  - "@automovie/archetypes@0.2.0"
-  - "@automovie/engine@0.2.0"
-  - "@automovie/evidence@0.2.0"
-  - "@automovie/human@0.2.0"
-  - "@automovie/ingest@0.2.0"
-  - "@automovie/interface@0.2.0"
-  - "@automovie/motions@0.2.0"
-  - "@automovie/recovery@0.2.0"
-  - "@automovie/render@0.2.0"
-  - "@automovie/template@0.2.0"
-  - "@automovie/viewer@0.2.0"
-  - automovie@0.2.0
-patchedDependencies:
-  '@automovie/motions@0.2.0': patches/@automovie__motions@0.2.0.patch
-  '@automovie/render@0.2.0': patches/@automovie__render@0.2.0.patch

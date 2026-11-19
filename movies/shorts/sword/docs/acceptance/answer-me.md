@@ -1,5 +1,7 @@
 # Answer me — manuscript acceptance
 
+The commissioning viewer rejected this film after playback on 19 November 2026. The four Sword films return to screenplay. The director's decisions below record the withdrawn edition. [Collection review](../../../../../docs/benchmarks/0.3.0-film-review-return.md)
+
 The director accepted the screenplay for delivery on 19 November 2026. Its 6 beats cover 0–9, 9–21, 21–25, 25–36, 36–51, 51–60 authored seconds. [Screenplay](../body/screenplay/answer-me/010-breeding-yard-road.md)
 
 ## Director's reading
