@@ -1,9 +1,14 @@
 {
   "compilerOptions": {
     "target": "esnext",
-    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "lib": [
+      "ESNext",
+      "DOM",
+      "DOM.Iterable"
+    ],
     "module": "esnext",
     "moduleResolution": "bundler",
+    "jsx": "react-jsx",
     "verbatimModuleSyntax": true,
     "isolatedModules": true,
     "esModuleInterop": true,
@@ -12,7 +17,10 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "skipLibCheck": true,
-    "types": ["node", "vite/client"],
+    "types": [
+      "node",
+      "vite/client"
+    ],
     "rootDir": ".",
     "noEmitOnError": true,
     "inlineSourceMap": true,
@@ -27,7 +35,9 @@
     "lint.config.ts",
     "evidence.config.ts",
     "vite.config.ts",
+    "production/stage.ts",
     "src",
     "test"
-  ]
+  ],
+  "extends": "../../../tsconfig.sdk.json"
 }

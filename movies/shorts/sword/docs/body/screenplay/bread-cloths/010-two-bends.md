@@ -2,15 +2,17 @@
 
 ## Above Orsières {#ascent}
 
-- Standing state. Afternoon on the northern [hospice road](../../brief/world/pass-road.md#two-approaches). From the split rock the lower path runs along a bank to a turn. The upper path doubles back to a stump above the lower path, a few paces from the rock. The bank is a man's height. Above the stump wait [the hospice woman who calls](../../brief/cast/hospice-speaker.md#appearance) with a blue-edged cloth and [her taller companion](../../brief/cast/hospice-companion.md#appearance) with a plain one. [Alix](../../brief/cast/alix.md#appearance) climbs from the rock under a full rye sack. [Perrin](../../brief/cast/perrin.md#appearance) walks behind her in armour under a long brown coat. Three men follow him, [the caller](../../brief/cast/caller.md#appearance) with his hood down, [Red Cap](../../brief/cast/red-cap.md#appearance) and [the youngest](../../brief/cast/youngest.md#appearance), whose left shoe slaps his heel.
-- Opening view and sound. Wide across both legs of the bend. One of the women calls down over the scrape of Alix's shoes.
-- Performance time. One continuous minute in authored seconds. [The bread road](../../../instructions/commission.md#mountain-road) · [Rye deliveries](../../../research/history/road-and-households.md#delivery) · [Travel in armour](../../../research/history/road-and-households.md#armoured-travel)
+- **Standing state.** Afternoon on the northern [hospice road](../../brief/world/pass-road.md#two-approaches). From the split rock the lower path runs along a bank to a turn. The upper path climbs around the turn and doubles back to a stump above the lower road, a few paces from the rock. The bank is a man's height. At the stump wait [the hospice woman who calls](../../brief/cast/hospice-speaker.md#appearance) with a blue-edged cloth and [her taller companion](../../brief/cast/hospice-companion.md#appearance) with a plain one.
+- **Opening positions.** [Alix](../../brief/cast/alix.md#appearance) climbs past the rock with a full rye sack against her back. Its broad strap lies across one shoulder. [Perrin](../../brief/cast/perrin.md#appearance) walks at her heels in armour under a long brown coat. Behind him come [the caller](../../brief/cast/caller.md#appearance), his yellow-brown hood down, [Red Cap](../../brief/cast/red-cap.md#appearance) and [the youngest](../../brief/cast/youngest.md#appearance), whose left shoe slaps his heel.
+- **Performance time.** One continuous minute in authored seconds. Cuts follow continuous action. [The bread road](../../../instructions/commission.md#mountain-road) · [Rye deliveries](../../../research/history/road-and-households.md#delivery) · [Travel in armour](../../../research/history/road-and-households.md#armoured-travel)
 
 EXT. ROAD ABOVE ORSIÈRES - AFTERNOON
 
 ### The two cloths {#cloths}
 
-Up by the stump two cloths snap open, a blue-edged one in the hands of the woman who calls and a plain one beside it.
+**0–10 s**
+
+Wide across both legs of the bend. Up by the stump two cloths snap open, a blue-edged one in the hands of the woman who calls and a plain one beside it.
 
 WOMAN  
 Alix! How much?
@@ -18,67 +20,61 @@ Alix! How much?
 ALIX  
 Enough for both tables!
 
-She waves. The sack lists. Perrin gets a shoulder under the low end until Alix takes the weight again.
+From the side, Alix lifts a hand to them. The sack lists on its strap and checks her step. Perrin gets a shoulder under the low end. She grips the strap and straightens until the sack rides against her back again. Perrin takes his shoulder away and looks up to the women.
 
 PERRIN  
 You'll have her and the bread. My word.
 
-Below the split rock the youngest robber turns at the word “bread.” His loose shoe slaps his heel.
-
-- Time: 0–10 s.
-- Intent and change: The women expect a full delivery. Perrin puts his shoulder to the load and gives them his word.
-- Camera: Hold the women above and the people still climbing below in one view.
+At “bread” the youngest turns toward the sack. His loose shoe slaps as the caller closes in, eyes on the load.
 
 ### At the split rock {#rock}
+
+**10–21 s**
+
+In profile at the rock, the caller closes on Alix. He points out the sack to the youngest.
 
 CALLER  
 That's the rye you saw them load, lad!
 
-Alix goes on. The caller's blade lands on Perrin's armour as Perrin draws his sword. Alix hunches at the hollow bang. Perrin rocks back a step, grunts and gets his weight back over his boots.
+The caller reaches for the sack. Perrin steps between them. The caller's blade lands on Perrin's armour as Perrin draws his sword. At the hollow bang Alix stops and looks back. Perrin rocks back a step, grunts and plants his feet across the road.
 
 PERRIN  
 I'm here.
 
-He starts after her. Red Cap's blade sweeps past the tail of his coat with daylight between them. Perrin keeps walking. The robber's cap has slipped over one eye. He pulls it off and leaves it on the rock.
+With his free hand Perrin waves her toward the upper path. Alix turns and climbs. Perrin backs after her. Red Cap's blade sweeps past the tail of his coat with daylight between them.
 
-- Time: 10–21 s.
-- Intent and change: The caller's blow checks Perrin. Red Cap misses. Alix hears the knight behind her as she rounds the turn.
-- Camera: Cut to a full view at the rock for the contact and the gap at the coat.
-- Sound: After the bang, the slap of the loose shoe follows Perrin up the road.
+Red Cap's cap has slipped over one eye. He pulls it off and leaves it on the rock. He looks from Alix on the rising path to the road at the foot of the bank and takes the lower road. The caller sheathes his sword as he follows Red Cap.
 
 ### The long bend {#bend}
 
-At the turn the youngest man's sword meets Perrin's with a crack. The lad steps clean out of his left shoe. He slides his foot back in until the loose leather cups his heel. Perrin hurries on. Scree runs under his boots. His steps shorten to a stop on firm dirt just behind Alix. He stands breathing through his mouth. A few stones go ticking on.
+**21–28 s.** At the turn onto the upper path, the youngest man's sword meets Perrin's with a crack. The lad steps clean out of his left shoe. He stops to shove his foot back in. As Perrin turns and hurries up after Alix, the lad takes the lower road. Scree ticks behind Perrin's boots as he steps onto firm dirt beside the stump.
 
-Alix's sack catches on the stump. The strap draws tight. On the lower road, with the split rock at his back, the caller takes one last step and stops beside the bareheaded man directly under the sack, his yellow-brown hood resting around his neck. The red cap lies a few paces behind them on the split rock. For a breath both men stand looking up at the hanging sack.
+Alix rounds the stump. The sack swings against a broken spur and catches. The strap draws tight across her shoulder. She braces a hand on the stump. The two women move inland with their cloths and wait on firm ground.
 
-Alix looks down at black curls level with her shoes. The bareheaded man's fingers brush the wood below the sack. Beside him on the lower road the caller pants, his sword knocking in its sheath.
+**28–31 s.** Hold across the bank. The sack hangs snagged above Red Cap and the caller. Both men stop and look up at it. The red cap lies a few paces behind them on the split rock.
 
-- Time: 21–32 s.
-- Intent and change: The youngest has his shoe back on when Perrin leaves the turn. Perrin reaches firm ground beside the stump. The audience sees both men beneath the load before Alix discovers how high the bareheaded man's fingers reach.
-- Camera: Leave the turn with Perrin. When the sack catches, hold across the bank with the sack above, both upturned faces below and the split rock behind them. Then look down with Alix.
-- Sound: The caller's breathing carries up the bank. Perrin's is close at hand.
+**31–32 s.** Look down with Alix. Red Cap's fingers brush the wood below the sack. His sword hangs at his side in his other hand.
 
 ### What's left at the stump {#stump}
 
-Perrin drops his sword and takes the taut strap in both hands. Alix ducks clear. The seam peels open on the spur. Three loaves tumble onto the upper path. Two lodge against Perrin's sword. One rolls past Alix's knee. The sack tips belly-first over the lip, still hanging by its strap. Below, the bareheaded man drops his sword and takes the belly against his chest. One knee touches dirt.
+**32–35 s.** Perrin drops his sword across the upper path and takes the strap in both hands. He lifts the strap clear of Alix's shoulder. She ducks inland. The sack turns on the spur and its seam tears open toward the road.
 
-Alix traps the rolling loaf against her coat. The scree gives under her knees. She looks up at Perrin as she slides. He opens both hands. The strap slips over the lip. He gathers Alix against him and they sit down hard together, the loaf between them.
+**35–38 s.** Three rye loaves spill through the tear. Two lodge against Perrin's sword. The third rolls toward the lip. The sack pulls clear of the spur and drops over the edge. Perrin plants his boots and takes back a handspan of strap. The sack stops and hangs. As it comes within reach below, Red Cap drops his sword and takes the belly against his chest with both hands. One knee touches dirt.
 
-The loose strap falls across the bareheaded man's wrist. The whole sack settles into his arms. He grunts and sinks onto his heel with the load across his lap. Beside him the caller gathers the torn seam in one fist and gets his other arm under that end. They rise together. The belly swings clear of the lower road. Above them the two women are already kneeling with their cloths open.
+**38–40 s.** Stay with Alix on the upper path through 44.5 s. Alix watches the third loaf roll, then steps after it. She stops it with her palm and tucks it against her ribs. Gravel runs under her downhill boot. She drops to one knee and slides. Her boot goes over the lip. Her free hand scrapes for a hold.
 
-- Time: 32–48 s.
-- Intent and change: Perrin can still hold the sack. He lets the robbers have its full weight to catch Alix before she goes over the bank.
-- Camera: Follow the three loaves to the upper scree before the sack tips over. From across the bank see Perrin let go and the man below sink under the weight. His lap still supports the sack when the caller takes the torn end.
-- Sound: The seam rips up at the stump. The grunt comes from below when the strap goes slack.
+**40–44.5 s.** Keep Alix's boot over the drop and the taut strap in Perrin's fists in the same side view. He looks from the strap to Alix's slipping hand. He opens both hands. The strap runs over the lip. With both hands free, he catches Alix under the arms and sits back hard, pulling her onto firm ground. She plants both heels and takes a breath, the loaf still against her ribs.
+
+At the release, below and out of view, the strap falls across Red Cap's wrist and the sack settles into his lap as he sinks onto his heel. His grunt comes as the full weight settles. Keep the upper scrape and catch foremost through Alix's breath.
+
+**44.5–48 s.** Cut below the stump to the sack across Red Cap's lap and the loose strap across his wrist. The caller gathers the torn seam in one fist and gets his other arm under that end. They rise together. The belly swings clear of the lower road.
 
 ### Both tables {#tables}
 
-Perrin lifts the two wedged loaves from beside his sword, one into the blue-edged cloth and one into the plain. The women keep both cloths open a moment longer. Below them the sack goes past the cap on the split rock. The youngest man's shoe slaps downhill after it, his sword at his side.
+**48–50.5 s.** At the stump the two women are already kneeling with their cloths open. Perrin lifts the two wedged loaves, one into the blue-edged cloth and one into the plain.
 
-Alix takes the loaf from the crook of her arm and breaks it in two, one half for each cloth. Her gritty thumb leaves a print in the soft middle. While she breaks it, Perrin puts his sword away. The women fold the near edges over the bread. Perrin gathers the blue-edged fold in his arms and Alix the plain one. They climb at her pace, each woman behind her cloth holding its long end clear of the dirt.
+**50.5–52.5 s.** Hold across the bank. The women keep both cloths open above as the caller and Red Cap carry the sack past the cap on the split rock. The youngest follows, his sword at his side. His loose shoe slaps downhill after them.
 
-- Time: 48–60 s.
-- Intent and change: The two tables get a loaf and a half apiece. Perrin carries his share of the short delivery beside Alix.
-- Camera: See the two open cloths beside Perrin. During the women's wait the main load passes the rock below. Stay close enough to see the gritty half go into the linen. Widen as the four rise.
-- Sound: The loose shoe goes away downhill. The crust breaks. Four pairs of shoes take up the climb.
+**52.5–56.5 s.** Stay close on Alix and the two cloths. Alix looks at the whole loaf in each cloth. She takes the third loaf from the crook of her arm and breaks it in two as Perrin sheathes his sword. Her gritty thumb leaves a print in the soft middle. She sets a half beside each whole loaf.
+
+**56.5–60 s.** The women fold the near edges over the bread. Perrin gathers the blue-edged bundle in his arms and Alix the plain one. Widen as all four climb at Alix's pace, each woman behind her cloth holding its long end clear of the dirt.

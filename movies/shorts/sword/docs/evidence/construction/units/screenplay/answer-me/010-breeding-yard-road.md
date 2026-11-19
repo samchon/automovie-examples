@@ -2,106 +2,116 @@
 
 ## @evidence shared/principles/common.md#scope-preservation
 
-Household pay and the stolen mare motivate the journey. The two men remain mounted for the lance and mace passages, and both sets of props have intelligible endpoints. The reunited animals, grey outside the gate and man running with his pay complete distinct parts of the ending.
+Rémy takes the mare to qualify for a rider's wage. Luc follows to recover her for the foal. Both men stay mounted through the distinct lance and mace passages. Each discarded or returned prop has a stated destination. The grey stays outside with Luc while the mare reaches the foal inside. Rémy leaves on foot with his purse after Luc opens the hand holding him.
 
 ## @evidence shared/principles/narratives.md#unit-progression
 
-The wage explains why Rémy breaks his promise, and the clerk’s reminder extends responsibility to Luc. Human pursuit fails to bring the mare back. After the final thud and fallen mace the foal calls; the mare answers and turns of her own accord. The two men reach the grass while the horses settle. Luc can hold the sleeve or lift the latch with his right hand. He lets Rémy go and opens the gate. The empty saddle, settled foal and retained purse decide the outcome.
+The coin goes into the purse before Rémy rides away. Luc's protest and the clerk's reminder give the pursuit the cost of a promise. The riders remain in contention until the last thud and Rémy's fallen mace. The foal's broken call then gives the mare a reason to turn. The mare's ears and slack reins precede Rémy looking toward the gate. Luc stops Rémy's first step away by pulling his sleeve taut. The foal calls again and retreats. The mare reaches after it and jars the gate. Luc gives up his grip to open the latch with that hand. The mare's empty saddle, the foal's quiet breath and Rémy's purse settle who regained what.
 
 ## @evidence shared/principles/narratives.md#parent-differentiation
 
-I tested each paragraph, including the standing state, opening, performance-time line, scene heading, each spoken and action paragraph, and the time, intent, camera and sound entries in each beat. The four tests, in order, are copied wording or imagery, explanatory label, narrator or design statement, and borrowed opening or execution sequence. For unflagged fictional action and dialogue my result is no/no/no/no. For heading and production apparatus the heading, time or intent label is openly present, and an actual instruction about intended change, image or sound is openly a design statement; neither is imported narration in a character's mouth. The default is no borrowed wording/image or execution sequence in those entries except when they repeat a flagged image below. A beat name applies to every paragraph in that beat. Each paragraph's parent set consists of the specified commission/first-reading passages and the appearance and continuity facets of the named participants it actually uses. The opening also uses the world, the film's identified study section and the full standing cast. The performer time and presentation paragraphs use running-time and screen-action. Local changes of view or sound are screenplay decisions. I count authorized retained imagery explicitly, distinguish settled facts and mandatory outcomes from borrowed execution, and treat the signed discovery carrier as a description of the finished decisions rather than proof of copying by the screenwriter.
+I compared the title, scene heading, standing state, opening, performance-time entry and every heading, action paragraph, line of speech, time, intent, camera and sound entry in the six beats. The four tests concern borrowed wording or imagery, explanatory labels, narrator or design statements, and borrowed opening or execution sequence. The findings below apply to each paragraph in its group. The heading and time apparatus score yes for explanatory labels. The intent, camera, sound and opening-direction entries score yes for their authored design statements. All other paragraphs default to no for labels and narrator or design statements. Each group scores no for borrowed opening or execution from the parents. The inherited order and endpoints are required facts. The wording and image findings below cover any retained parent imagery and its repetition in the beat record.
 
-`#both` uses `commission#mounted`, the clerk’s cuff, Rémy’s paid belt, Luc’s place on the grey and the mare’s left sock. Image yes for expressly established identification by foot and payment at the belt. The actual sound, demands and departure are local. `#lances` and `#change` use the required mounted order, the two adult mounts and study `#muster`. The shadows, strip of sun, scrape, lingering vibration and separate resting places stage the obligatory outcomes. No borrowed opening or procedure. `#answer` uses both riders, both mounts, the mace loops and the grey’s corrected slowing state. Keeping the men mounted substantially during the mace passage is mandatory; this beat’s dust, light, separation and last thud supply its own execution. `#reach` uses the foal star, mother’s answering turn, corrected grey position, Luc’s left-hand reins, returned mace and `#commissioning-viewer`. Image yes for the broken cry and return retained from the commission and viewer’s reading. The parallel grey arrival, halted mount and two distinct dismounts are local. `#sleeve` uses `#mounted`, `#commissioning-viewer`, the keeper’s occupied left hand and the paid purse. Image yes for a hand giving up the sleeve to open the gate and for the animal reunion. This causal outcome is expressly commissioned. I find no unlicensed copying of cast execution. The sleeve, foreheads and sounds realize the settled outcome on screen.
+The title, heading and standing state take location and the promise from the commission's period and mounted sections and the valley brief. The six cast appearance links identify the people and horses named there. The design entries use the commission's running time and screen action. The opening also uses study `#muster`. Image yes for the household marking and saddle loops as established staging. The bench view and coin on wood are the scene's own opening.
+
+In `#both`, the appearance and screen continuity of the clerk, Rémy, Luc and their two adult mounts join the commission's mounted premise. Image yes for the clerk's ink-stained cuff at belt height, the paid purse at Rémy's green belt and recognition by the white sock. The open mouth of the purse, Luc's look and the order of entries around the three lines are local choices. The exact lines are new utterances.
+
+In `#lances` and `#change`, the mounted commission, the study's muster section and the two riders' and mounts' appearance and continuity govern the action and production entries. Image yes for the lance shadows and light on the openings in the mace heads, which the study expressly identifies as visual comparisons for this scene. The full travelling pair and the emphasis on the audible glance and visible shudder are screenplay decisions.
+
+In `#answer`, the mounted commission and the same four cast records govern the remaining mounted passage. The shorter stride, the visible gap and the separate cadences realize the grey's slower pace behind the chestnut. The alternating sounds, reactions, dust and end of the passage belong to the screenplay.
+
+In `#reach`, all cast used at the gate provide their appearance and screen continuity. The mounted and first-reading sections govern the mare's return and the time for the two arrivals. Image yes for the foal's star and broken call, the mare returning a few steps, the grey's stance outside, and Luc holding the grey's reins in his left hand. The sequence of the mare's ears, slack reins and Rémy's look makes the mare's lead in the decision visible. The taut sleeve before the last beat is local staging of the commissioned choice.
+
+In `#sleeve`, the same gate-side cast continuity and the commission's mounted and first-reading sections govern the last exchange. Image yes for the hand that releases the sleeve to open the gate, and the reunion and escape. Holding the grip and release in one view, the command, the foal's retreat and the latch sound are local decisions. The discovery carrier records earlier choices and the retained chronology. It supplies no new line or action to copy into the revision.
 
 ## @evidence shared/principles/realized.md#speaker-plausibility
 
-“On foot I get nothing” makes the wage credible to a rider leaving the bench. The clerk’s “Your word too, Luc” and Luc’s later call address people who can hear them. After the mounted exchanges the broken call, lower answer, rattle and last breath carry the resolution. The formal promise has an audible and visible consequence without a final explanation.
+“You swore. Her foal needs her” is Luc's objection at the moment he recognizes the mare. Pulling the purse closed beside “No horse, no pay” gives Rémy's answer its immediate referent. “You swore too, Luc” addresses the keeper as his grey moves out. “Bring her back!” is directed at the rider who can hear over the hooves. “Don't move” follows the arrested step and taut cloth, making it an order to a man Luc has already stopped. The foal's call, latch and quiet breath then carry Luc's decision and the result.
 
 ## @evidence shared/principles/screenplay.md#audiovisual-realization
 
-The white foot joins the paid purse to Luc’s recognition. A travelling pair keeps riders and horses visible. Both shafts stay behind. A distinct 25–36 mace passage ends with one mace on the road and the grey slowing behind the chestnut. Both are trotting by the end of that beat. The foal calls in 36–51. The mare walks and turns on grass as the grey arrives at the latch, stands and allows Luc down. Noses meet across the shut gate before Rémy is within reach on foot. The final fingers, latch and slack rein separate the choice from its consequence. Performance remains unmeasured.
+One view connects the payment with the purse, followed by the white foot and departure. The audience can separate open air after the miss, the sound and reaction to armour contact, and the later shift from impact to two trotting cadences. Both mounts reach a trot before the broken call. The mare answers before Rémy looks and slack reins make the turn hers. Both horses explicitly stop before their riders dismount. One side view makes the seized cloth and Rémy's empty hand distinct as Luc opens his fingers, and the last wide view gives the two adult horses and the purse separate endpoints. These are written decisions for picture and sound. Performance and playback remain to be measured.
 
 ## @evidence shared/principles/screenplay.md#beat-decisions
 
-The six spans are 0–9, 9–21, 21–25, 25–36, 36–51 and 51–60. The opening fixes bench, wall, gate, grass, riders, stage props, enclosed foal, coin and viewing direction. The lance and mace passages each receive a distinct substantial written interval. Slowing starts during the last ridden passage, the call follows the drop, and the short turn overlaps the grey’s arrival. The last nine seconds are reserved for release, opening, entry and flight. The text supports the order and allocation; I cannot certify actual gait, dismount or reunion durations.
+The standing state places the bench, gate, wall, grass, foal, adult horses, four marked props and first camera and sound. The six consecutive spans are 0–9, 9–21, 21–25, 25–36, 36–51 and 51–60 seconds. Payment and pursuit occupy the first span. The two mounted passages each have a distinct sustained interval, with the abandoned shafts in the intervening beat. The foal's call begins the return span, which also carries the stops, dismounts and restraint. The final command is planned for 51.00–51.65 seconds, with the sleeve released by 53.2 and the latch lifted after it. These allocations cover the written minute. Actual speech, gait changes, dismounts, recognition and the gate action still require performed timing.
 
 ## @evidence shared/upstream/screenplay.md#screenplay-upstream-repair
 
-Study `#muster` owns the object comparisons and distinguishes household stripes and issue as staging choices. The grey’s revised continuity now explicitly places him physically behind the mare while slowing first. The mare’s tack, foal’s star, keeper’s left hand, purse and saddle loops remain consistent. The revised discovery carrier correctly places the broken call after the last thud. I find no unresolved contradiction between these parents and the road.
+The brief's grey starts slowing while behind the chestnut, and the script keeps that lead visible before it widens. The same cast records carry the mare's left sock and tack, the foal's star, Rémy's belt and purse, Luc's left-hand reins, the saddle loops and the two mounts' final positions. Study `#muster` identifies household stripes, loops and issuing as invented staging, with object comparisons owned by the study. Discovery preserves the broken call after the last thud. The draft's payment actor, both stops at the gate and the last line's beat placement were repaired in the screenplay itself. The tested parents supplied the needed decisions without further shared changes.
 
 ## @evidence brief/cast/muster-clerk.md#appearance
 
-The black cap identifies the official at the bench; the stained cuff becomes legible at the rider’s belt.
+The black cap identifies the official at the bench. The ink-stained right cuff is visible beside Rémy's green belt at payment.
 
 ## @evidence brief/cast/muster-clerk.md#screen-continuity
 
-The right cuff, pay height and bench role support the coin business before the clerk calls after Luc.
+The clerk pays the mounted Rémy while the purse is open at belt height. He calls after Luc once the grey moves out.
 
 ## @evidence brief/cast/remy.md#appearance
 
-Ochre and the thin green belt distinguish the taller paid rider from Luc in blue.
+The ochre and narrow green belt identify the paid rider. The same ochre sleeve identifies the arm Luc holds.
 
 ## @evidence brief/cast/remy.md#screen-continuity
 
-The wage stays at Rémy’s belt. The mare and empty mace loop remain behind when he escapes on foot.
+Rémy pulls the purse strings tight after the clerk pays him. The coin is heard at his belt as he dismounts, and the purse goes away with him. The mare keeps her saddle and its empty loop after the mace falls short of the gate.
 
 ## @evidence brief/cast/chestnut-mare.md#appearance
 
-The adult chestnut’s white left hind sock identifies her at bench and grass. The full-observation sentence records a hind sock; its side is specified in the body.
+The adult chestnut's white left hind sock identifies her at the bench and the same foot steps off the road onto the grass.
 
 ## @evidence brief/cast/chestnut-mare.md#screen-continuity
 
-The same mother remains in brown riding tack before and after dismounting. She enters the paddock saddled and riderless.
+The reins sag before Rémy turns his head, stay on the mare's neck after he gets down, and the mare walks inside with an empty saddle.
 
 ## @evidence brief/cast/chestnut-foal.md#appearance
 
-Its small forehead star and untacked appearance distinguish the foal from its mother.
+The small white forehead star between the rails identifies the untacked young chestnut from its individual cast record.
 
 ## @evidence brief/cast/chestnut-foal.md#screen-continuity
 
-It begins inside the paddock behind the rails; the scene decides the broken call, meeting and quiet breath.
+The foal starts inside the paddock. Its first call brings the mare to the rail. Its second call and backward step prompt the mare to reach, and it stays clear while the gate moves inward.
 
 ## @evidence brief/cast/luc.md#appearance
 
-The blue-clad, compact keeper is distinguishable from Rémy. The linked photographs and record specify his freckles, nose and stubble.
+The cast link identifies the keeper whose faded blue coat, compact build and dull breastplate distinguish him from Rémy. The action picks out his armour at the glance and his contrasting grey mount throughout.
 
 ## @evidence brief/cast/luc.md#screen-continuity
 
-The mace returns to the grey’s saddle and his left hand has the grey’s reins. His right can hold the sleeve or open the latch.
+Luc's striped mace is back in its loop at the latch. His left hand holds the grey's reins while the other holds Rémy's sleeve and then lifts the latch.
 
 ## @evidence brief/cast/luc-grey.md#appearance
 
-The larger dapple-grey and dark tack keep the two ridden silhouettes intelligible.
+The dapple-grey identified in the opening gives Luc a trackable silhouette opposite the chestnut. The cast record supplies the grey's larger form and dark tack.
 
 ## @evidence brief/cast/luc-grey.md#screen-continuity
 
-The grey slows first while physically behind, stops outside by Luc and ends on a slack rein.
+The grey slows first while behind the mare. He walks up, stops outside the latch before Luc gets down and remains outside beside him on a loose rein.
 
 ## @evidence brief/world/pass-road.md#pass-country
 
-The breeding yard, road and paddock belong to a separate lower-valley household. The wall, gate and few steps across grass are local staging.
+The breeding yard, road and paddock fit the separate horse run on the lower Aosta side. The path of the wall and the strip of grass are local staging.
 
 ## @evidence instructions/commission.md#running-time
 
-Six intervals fill sixty authored seconds. The mounted mace beat now runs 25–36, the call and convergence 36–51, and the release and settlement 51–60. These are plans.
+Six consecutive intervals total sixty authored seconds. The lance passage runs 9–21, the mace passage 25–36, the convergence and restraint 36–51, and the release and settlement 51–60. All five planned spoken intervals fall inside the beat holding the line.
 
 ## @evidence instructions/commission.md#period
 
-An invented lower-valley household pays and issues striped equipment. The study identifies the visual analogies. The promise about this mare costs Luc the chance to keep the thief in hand.
+The lower-valley household pays a rider's wage and uses marked equipment. The period visual comparisons live in study `#muster`. Rémy breaks the promise for that wage, and keeping his own promise costs Luc his hold on Rémy.
 
 ## @evidence instructions/commission.md#mounted
 
-The two men stay mounted in distinct lance and mace intervals. Both shafts are left behind; Rémy’s mace falls and Luc’s returns to its loop. Both animals slow before the men descend. The mare and grey have separate, explicit final positions.
+Both riders stay mounted through distinct lance and mace passages. The lance miss and the armour glance have different screen effects. Both shafts stay behind. One mace falls short of the gate and the other returns to its saddle loop. Both horses are at a trot when the foal's call changes the mare's course, and each has its own final place.
 
 ## @evidence instructions/commission.md#screen-action
 
-Payment, changing distance, two separate trotting rhythms, a broken call and one occupied hand carry suspense into tenderness. The physical business remains an audience-level plan.
+The open purse, Luc's look, separate contact sounds, the horses' changes in speed and the held view of the release give the audience observable causes and effects. The animal voices take over from the pursuit and the foal's quiet breath carries the ending.
 
 ## @evidence instructions/commission.md#cast-appearance
 
-Six individual cast records embed selected pairs. The mare’s sock, foal’s star, large dapple-grey and contrasting riders keep the pursuit identifiable.
+The opening links the six individual appearance records, which each embed two selected photographs. The clerk's cap and cuff, Rémy's belt and sleeve, the mare's sock, the foal's star and Luc's grey identify the participants where those details matter.
 
 ## @evidence instructions/commission.md#commissioning-viewer
 
-Both mounts reach a trot before the call. The mare’s short walking turn overlaps the grey’s arrival and Luc’s dismount. Rémy keeps his wage and loses the mare. Luc needs the hand holding the sleeve to help the distressed pair through the gate. The extra allocation is explicit; actual elapsed time remains unobserved.
+The mounts are already at a trot when the broken call begins. The mare's short walking return and the grey's arrival at the latch share the 36–51 second span, and both halts are explicit. Rémy keeps his wage and leaves the mare. The second call, backward step and rattling latch draw Luc's attention while his left hand is occupied. The grip, release and refocused hand make visible why he lets Rémy leave. The available time is explicit. Its sufficiency remains a performance question.

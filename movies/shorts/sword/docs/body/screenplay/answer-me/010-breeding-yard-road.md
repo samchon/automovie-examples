@@ -2,88 +2,91 @@
 
 ## The road past the breeding yard {#road}
 
-- Standing state. At a household muster in the lower Aosta valley, the [clerk](../../brief/cast/muster-clerk.md#appearance) in a black cap pays the mounted men at a bench. [Rémy](../../brief/cast/remy.md#appearance), in ochre wool, has brought the [chestnut mare](../../brief/cast/chestnut-mare.md#appearance) away from her [foal](../../brief/cast/chestnut-foal.md#appearance) to claim a rider's wage. [Luc](../../brief/cast/luc.md#appearance), her keeper, rides [his dapple-grey](../../brief/cast/luc-grey.md#appearance). A low paddock wall follows the road from the bench to a shut gate. Here the road bends away from the wall, leaving a tongue of grass beside the gate. The foal waits inside the paddock.
-- Opening view and sound. Full view along the bench. The clerk has issued both men a lance and a mace. The lances in their hands and the maces in loops at their saddles all bear the household's white stripe. A coin chinks on the bare wood.
+- Standing state. At a household muster in the lower Aosta valley, a [clerk](../../brief/cast/muster-clerk.md#appearance) in a black cap pays mounted men at a bench. [Rémy](../../brief/cast/remy.md#appearance), in ochre, has taken a [chestnut mare](../../brief/cast/chestnut-mare.md#appearance) from her [foal](../../brief/cast/chestnut-foal.md#appearance) to claim a rider's wage. [Luc](../../brief/cast/luc.md#appearance), the mare's keeper, rides his own [dapple-grey](../../brief/cast/luc-grey.md#appearance). A low wall runs from the bench to a shut paddock gate. Beyond the gate the road curves away from the wall, leaving a short strip of grass at the verge. The foal is inside the paddock.
+- Opening view and sound. Full view along the bench. Both riders carry lances. A mace hangs at each saddle. A white household stripe marks all four weapons. A coin chinks on the bare wood.
 - Performance time. One continuous minute in authored seconds. [The stolen mare](../../../instructions/commission.md#mounted) · [The valley road](../../brief/world/pass-road.md#two-approaches) · [The muster equipment](../../../research/history/road-and-households.md#muster)
 
 EXT. BREEDING YARD ROAD - LATE AFTERNOON
 
-### Both of them {#both}
+### Rider's pay {#both}
 
-The clerk's ink-stained cuff brushes Rémy's green belt as the coin drops into his purse. Luc sees the white sock on the mare's left hind foot as she turns.
+The clerk takes a coin off the bench. Rémy holds the mouth of his purse open at his green belt. The clerk drops the coin into the purse, his ink-stained right cuff brushing the belt. As the mare shifts, Luc spots the white sock on her left hind foot. He looks up at Rémy.
 
 LUC  
-You swore she'd stay with her foal.
+You swore. Her foal needs her.
+
+Rémy pulls the purse strings tight.
 
 RÉMY  
-On foot I get nothing.
+No horse, no pay.
 
-He pulls his purse shut and rides away with the mare. The clerk looks at Luc.
+He rides off. Luc stares at the mare going away. The clerk calls after him as the grey moves out.
 
 CLERK  
-Your word too, Luc.
+You swore too, Luc.
 
-The grey is already on the road.
+- Time: 0–9 s. Luc at 3.09–4.70, Rémy at 5.59–6.68 and the clerk at 7.57–8.58.
+- Intent and change: Luc tries to keep their promise to the foal. Rémy takes his wage and rides away. As Luc follows, the clerk reminds him of his own promise.
+- Camera: Keep the coin and the mouth of the purse in one view. Pick up Luc's look with the white foot moving beneath the mare, then widen for the departure.
 
-- Time: 0–9 s.
-- Intent and change: The mare gets Rémy paid as a rider. He keeps the pay and rides her away in spite of the promise he shares with Luc.
-- Camera: Follow the coin into the purse, then the white foot past Luc. Widen with the departing riders.
+### Along the wall {#lances}
 
-### The strip of sunlight {#lances}
-
-Two lance shadows run along the wall. When they cross, wood cracks against wood. The riders come into the light, both shafts still rattling. The chestnut has pulled a length ahead. Luc's lance passes through the strip of sun where Rémy was.
+Two lance shadows run along the wall. Wood claps against wood. In the light beyond, both shafts are still rattling and the chestnut is a length ahead. The grey gains. Luc's voice rises above the hooves.
 
 LUC  
-Bring her home!
+Bring her back!
 
-Rémy looks round. His lance glances off Luc's armour with a squeal. Both horses toss their heads. For several strides afterwards the wood quivers in Rémy's hand. He hears the grey coming on. Its nose draws level with his boot.
+Luc's lance passes through a strip of sun behind Rémy. Rémy twists in the saddle. There is a squeal and a shudder in Luc's shoulder as Rémy's lance glances off the armour. The grey's head jerks up. Both men stay in their saddles. Rémy looks down the road and hears the grey begin to gain again.
 
-- Time: 9–21 s.
-- Intent and change: Luc calls for the mare's return. The riders contest the open road with their lances. Both stay mounted through the miss and the glance.
-- Camera: Cut to a full travelling pair from the road side of the wall. Keep each rider and mount together in frame.
-- Sound: Luc's call breaks through the hoofbeats. The scrape dies away behind them.
+- Time: 9–21 s. Luc at 12.72–13.52.
+- Intent and change: Luc calls for the mare's return. He misses Rémy, takes the glance against his armour and gains again. Both men remain mounted.
+- Camera: Cut to a full travelling pair from the road side. Keep both saddles in view through the empty space after the miss and the brief shudder at the second contact.
+- Sound: Hooves under Luc's call. The scrape on armour stands apart from the earlier wooden clack.
 
 ### What stays behind {#change}
 
-Rémy lets his lance fall into the ditch. Luc's rolls to the stones at the foot of the wall. The horses run clear of both. The little pierced mace heads bob up out of their saddle loops into the light, one in each man's hand.
+Rémy's lance falls into the ditch. Luc's rolls to the stones beneath the wall. The horses pass clear. The pierced mace heads lift out of their saddle loops and catch the sun, one in each man's hand.
 
 - Time: 21–25 s.
-- Intent and change: Both riders leave their lances behind and ride on with their maces.
-- Camera: Widen for the shafts coming to rest on opposite sides of the road. Move on with the saddles.
+- Intent and change: Both riders leave their lances where they fall and bring out their maces.
+- Camera: Widen for the two fallen shafts, then ride with the saddles.
 
-### Daylight through the maces {#answer}
+### Through the dust {#answer}
 
-The chestnut still leads by half a length when Rémy's mace meets Luc's with a short, ugly clack. The grey breaks stride. Luc pitches forward and comes upright again, his mace drumming on Rémy's armour. A yell bursts out of Rémy. For a stretch there's just the two men riding in the dust, an eye of sunlight opening and closing in each swinging mace head.
+The chestnut leads by half a length. The two mace heads meet with a clack. The grey breaks stride and Luc folds forward, then comes upright again. A drumbeat on Rémy's armour folds him over the saddle. He cries out. For several strides the two men ride through their own dust, silver heads appearing and disappearing in it.
 
-Behind the chestnut, the grey's stride is already shortening when a last thud jars Luc in his seat. Rémy's mace tumbles into the dust short of the gate. The gap widens as the grey drops to a trot. In front of him the chestnut comes down to a trot too, Rémy still looking along the road.
+One last thud jars Luc. The grey's pace falters. Rémy's mace bounces into the road short of the gate. The grey drops to a trot and the gap opens. The chestnut comes down to a trot a few strides later. Rémy is still looking down the road.
 
 - Time: 25–36 s.
-- Intent and change: Both men stay in the saddle with the maces through the clack, the stretch in the dust and the final thud. The grey slows first, already behind the chestnut. Rémy leaves his mace in the road.
-- Camera: Travel with the pair to where the wall gives way to rails. See the chestnut's lead at the first clack and the gap opening as the mace falls short of the gate.
-- Sound: The final thud cuts through the hoofbeats. The two sets of trotting beats fall apart.
+- Intent and change: The riders press on through the blows. The grey slows first, already behind the chestnut. Rémy's mace stays in the road.
+- Camera: Keep both hands and their maces in the frame for the clack. See each rider's recoil, the falling mace and the gap between the horses.
+- Sound: Rémy's cry after the beat on the armour. The last thud gives way to two sets of trotting beats falling apart.
 
 ### A man within reach {#reach}
 
-A little white star shows between the gate rails. The foal calls. Its call cracks halfway through. The mare's ears turn. She answers. By the time her tail passes the gate she's walking. The white hind foot leaves the dust for the grass. The mare turns back those few steps. Rémy looks where she's going.
+A white star rises between the rails of the gate. The foal calls, its voice breaking halfway through. The mare's ears turn toward it. She calls back and shortens her stride. The reins sag against her neck. Only now does Rémy look where she is looking. The white hind foot steps off the road onto grass. The mare walks back the few steps to the gate.
 
-While she turns, the grey walks up to the latch with Luc's striped mace back in its loop. He stops outside. Luc gets down with the reins in his left hand. Across the shut gate the two chestnut noses touch.
+The grey walks up and stops outside beside the latch. Luc has put his striped mace back in its loop. He gets down, the grey's reins in his left hand. The mare stops at the shut gate. The chestnuts touch noses across the rails. The foal breathes on its mother's face.
 
-The mare stands breathing on the foal. Rémy leaves the reins on her neck and slips down on the grass beside Luc. His coin knocks against his belt. Luc's right hand closes on his sleeve.
+Rémy leaves the reins on the mare's neck and drops to the grass. His coin knocks against his belt. He takes a step toward the open road. Luc reaches from behind and bunches the ochre sleeve above Rémy's elbow. The cloth pulls taut. Rémy stops with his empty hand still out in front of him.
 
 - Time: 36–51 s.
-- Intent and change: The foal calls after the mace falls. The mare answers and brings Rémy back to the gate. Luc gets down while the last few steps across the grass bring the two noses together. Rémy lands beside him.
-- Camera: See the short return across the grass alongside the grey's arrival. Stay for the noses resting together across the rails and Rémy's empty saddle above the two men.
-- Sound: The foal's call breaks. The mare's lower note carries over it. The last hoofbeats die on the grass. A single coin knocks.
+- Intent and change: The foal calls the mare back to the gate. Luc comes down to the latch. Rémy tries to leave on foot and Luc stops him by the sleeve.
+- Camera: Cut to the foal through the rails, then to the mare's ears and slack reins before Rémy turns his head. Hold the two empty saddles in view in succession as the men come down. See Rémy's step stop and Luc's fist take hold of the cloth in the same three-quarter side view used for the release.
+- Sound: The mare's lower note answers the foal. Hoofbeats fall quiet on grass. One knock from the purse.
 
 ### The loose sleeve {#sleeve}
 
-The foal calls into its mother's face. The mare trembles against the shut gate. The latch rattles beside Luc's fist. The grey's reins hang from his other hand.
+LUC  
+Don't move.
 
-Luc opens his fist. The sleeve slips out. With those fingers he lifts the latch and swings the gate in. The mare steps through with her saddle empty. The foal fits its forehead under her chin. Its next breath comes quietly.
+At the gate the foal calls again and backs a step from the rails. The mare stretches after it. Her muzzle knocks the top rail and the latch rattles. Luc looks at the horses. His fingers open. The sleeve slides free and Rémy stumbles into his next step down the road. Luc turns to the latch with the hand that held him.
 
-The grey stands outside beside Luc on a loose rein. On the open road Rémy runs on foot, one hand tight round the paid purse at his hip.
+Luc swings the gate in. The foal waits clear of the moving rails. The mare walks through with an empty saddle. The foal tucks its forehead under her chin and breathes quietly.
 
-- Time: 51–60 s.
-- Intent and change: Luc opens the gate for the trembling pair and gives up his hold on Rémy. The grey stays with its keeper and the foal settles against the mare.
-- Camera: Hold close enough for the sleeve and rattling latch to share the view. At the end see the saddled chestnut inside, the grey beside Luc outside and the man with the purse going away up the road.
-- Sound: Rémy's footfalls go on under the foal's quiet breath.
+The grey stands outside at Luc's shoulder on a loose rein. Rémy runs up the road on foot, one hand closed around the purse at his hip.
+
+- Time: 51–60 s. Luc at 51.00–51.65. The sleeve falls loose by 53.2 s, before Luc lifts the latch.
+- Intent and change: The horses pull Luc's attention to the gate. He lets Rémy go and opens it. The foal settles against the mare and Rémy gets away with the wage on foot.
+- Camera: Hold the grip and release without a cut. Keep Luc's fist on the ochre cloth and Rémy's empty hand in separate parts of the frame. End wide enough to see the chestnuts inside, the grey with Luc outside and Rémy on the road with the purse still at his hip.
+- Sound: The latch and the foal's breath. Rémy's footfalls carry down the road.

@@ -1,6 +1,6 @@
 # Kickboxing commission
 
-The sections below preserve the earlier owner rulings and their original interpretations. The current screenplay uses the scope and reinterpretation boundaries of the [ringside edition](ringside-edition.md#scope). Its sport is described at ringside viewing distance. The current short retains the dramatic outcome and clock from the earlier finish.
+The sections below carry the earlier owner rulings into the [ringside edition](ringside-edition.md#scope). The archived wording remains the record of the earlier production. This edition retains the sporting result and clock and shows the sport at ringside viewing distance. [Archived commission](commission.md)
 
 ## One round in 180 seconds {#one-round}
 
@@ -16,7 +16,7 @@ User requirement. "They step into an actual glove touch and immediately exchange
 
 ## The exchange vocabulary {#exchange-vocabulary}
 
-User requirement. The fighters "exchange combinations, feints, checks with counters, slips, parries, rolls and blocks, with varied footwork." Every one of these appears, performed by both men, and a check is answered by a counter.
+Both competitors initiate, defend and answer. Give them distinct choices of pace, direction and distance that a viewer can follow from the apron. The earlier exhaustive inventory belongs to the archived edition. [Current scope](ringside-edition.md#scope)
 
 ## The ruleset {#ruleset}
 
@@ -28,13 +28,11 @@ User requirement. "Body and glancing contacts interrupt breath and guard without
 
 ## B's learned tell {#tell}
 
-User requirement. "B has learned to drop his left arm whenever A's right knee rises; A exploits that tell with a feint and then with the finish." This production reads "has learned" as learned during this round, on screen: B acquires the habit from A's right body kicks, A proves it with a feint that lands, and only then throws the finish.
+Show Marek begin to repeat a visible response during the round. The audience recognises it in the feint and again at the finish. The viewer can connect Owen's earlier reply, the familiar glove movement and what changes at the end. [Current scope](ringside-edition.md#scope)
 
 ## The finish at 150 seconds {#finish}
 
-User requirement. "At 150.000 A's right Brazilian kick lands: his instep and lower shin come down over B's lowered left arm onto the area behind B's left ear at the junction of jaw and neck." The second is an anchor the edit lands on. The kick starts as the body kick B has learned to expect.
-
-User clarification, given on 2026-11-13. The landing point "behind B's left ear at the junction of jaw and neck" is the side of the head and neck below and just behind the ear lobe, struck by a kick aimed at the side of the head, which kickboxing rules treat as a legal target. It is not the back of the head.
+Owen's decisive kick lands at 150.000, the anchor the edit lands on. Keep both competitors whole and make the contact and Marek's loss of support clear from the apron. [Current scope](ringside-edition.md#scope)
 
 ## B's fall {#fall}
 
@@ -82,7 +80,7 @@ User choice, given on 2026-11-13 in answer to the first round of story questions
 
 ## Who the men are {#people}
 
-Delegated choice, given by the user on 2026-11-13 in answer to the first round of story questions: the writer decides the fighters' and the referee's names, ages, home countries, corner colours and fighting styles, within the rulings above. The user accepted the plan put to them, that B is the pressure fighter who leads much of the round with long combinations and low kicks and A is the patient kicker whose right body kicks slowly build the trap. The brief's cast records own these decisions.
+Delegated choice, given by the user on 2026-11-13. The cast briefs own the fighters' and referee's names, ages, backgrounds, colours and styles. Marek leads much of the round and likes to keep the middle. Owen waits for space and finds a way to change who chooses where they stand.
 
 ## Tone {#tone}
 
@@ -98,10 +96,4 @@ Delegated choice, decided by this production. The screenplay is written in Engli
 
 ## Direction {#direction}
 
-Delegated choice, decided by this production on 2026-11-13 within the rulings above, under [direction](../../../../../.agents/skills/story/planning/direction.md). The situation, the finish and the ending are fixed, so the directions compared differ in whom the audience follows and what it knows when.
-
-- Following B from his side of the ring, so that the audience shares his ignorance of his own tell and the finish arrives as a surprise. Rejected: the feint the commission requires would then read as an ordinary miss, and a knockout from a habit the audience never saw forming would read as luck, which contradicts the premise that a learned habit, not a mismatch, decides the bout.
-- Following the referee as the audience's eye, so that the round is read through the official who manages it. Rejected: it pulls attention from the two men the camera must relate, and the referee's care at the end would outweigh the fight it closes.
-- Following both men from a ringside position, with the audience let in on A's plan before B is. Chosen.
-
-The audience watches both men and learns A's plan before B does: it sees the right body kick land, sees B's left arm begin to drop at each rising right knee, and sees A test that drop with a feint, so the Brazilian kick arrives as a payoff it has watched being built rather than as a surprise. B is no victim: he leads much of the round with long combinations and low kicks, and A's plan is a slow answer to his pressure, which costs A breath and ground before it pays. Attention is sustained by the alternation of initiative and by the growing pattern, and after the finish by the count's real-time procedure. The finish, the count and the celebration close the bout completely, and nothing remains open. Within the user's [tone](#tone) the image stays with readable, whole bodies and the sound with the ring's own noises. This serves the commission because the owner's finish depends on a learned tell, which only reads as craft when the audience has seen it learned.
+Delegated choice. Follow both men from the south apron and keep both whole in the frame. Marek's pressure costs Owen ground before Owen finds a choice of his own. Let the audience read that progression through the movement and sound of the ring. Keep the count in real time and hold both fighters through the last wide. [Ringside direction](ringside-edition.md#point-of-view)

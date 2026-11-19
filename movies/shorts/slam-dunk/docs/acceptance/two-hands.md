@@ -1,14 +1,22 @@
 # 〈두 번째 손〉 대본 인계
 
-북산과 하마우라공고의 5대5 경기를 담은 180초 한국어 중계 대본을 승인한다. 납품본 SHA-256은 `c54336360a8357bf240bc39f6425f4bce19e507e2cfac1f7b530e4c03677244c`다. [대본 전문](../body/screenplay/two-hands/010-game.md)
+## Round-four 3D film rejected
+
+The commissioning user watched the actual 180-second broadcast and rejected the full performance. The reported pace felt about one-half to one-third real speed. Walking and running looked wrong, convincing footwork was absent, and players away from the ball scarcely moved or competed. These observations came from normal playback and govern the decision on this film.
+
+The rejected candidate is SHA-256 `29b7d74adb17d95b9459dea7ade326d4ad2e63130e7679188fe1c6ee9bf23e90` and 63,420,786 bytes. Its decoded file has 4,320 distinct 1280 × 720 H.264 frames at 24 fps, AAC stereo at 48 kHz, and 16 selectable Korean captions. Those measurements establish the delivered file and its timing. [Withdrawn MP4 archive](../../.cache/withdrawn-films/2026-11-19/media/automovie/two-hands/videos/film.mp4)
+
+The original director had already withheld this round for Blue 8's one-frame seated recovery after the second hand contact. The independent still reviews observed that the subtitle cues communicated why Blue 8 received credit. The commissioning user's playback adds broader motion and competitive staging findings across the whole game. The director withdrew the earlier instruction to repair only the bench. The commissioner discarded the film and directed a restart from screenplay. The earlier screenplay authorization remains a historical record. [Earlier round-four director verdict](history/two-hands-3d-round-4-director.md) · [Director response to rejection](history/two-hands-3d-reopened-director.md) · [Forensic review](two-hands-3d-review-forensics.md)
+
+북산과 하마우라공고의 5대5 경기를 담은 180초 한국어 중계 대본을 승인한다. 납품본 SHA-256은 `c54336360a8357bf240bc39f6425f4bce19e507e2cfac1f7b530e4c03677244c`다. [당시 승인 대본](history/two-hands-010-game-original.md)
 
 ## 감독 최종 판독
 
 첫 드리블부터 버저까지 방송 순서로 읽었다. 송태섭이 파랑 5번을 왼쪽으로 끌어내고 정대만의 열린 손이 7번을 코너에 붙들면서, 채치수가 5번 등 뒤에서 공을 받아 덩크한다. 반대쪽에서는 대만이 먼저 골대 쪽을 잡고도 8번의 어깨를 돌아야 한다. 그 한 발 차이로 7번이 왼손 레이업을 넣는다.
 
-01:30 생중계에 돌아오면 그 왼손이 주장의 손을 받는다. 7번이 돌아서는 주장의 팔을 붙잡아 8번을 가리키는 순간에 시선이 바뀐다. 첫 손뼉은 득점자에게 바로 닿지만, 두 번째 손뼉은 주장이 손을 8번의 무릎 아래까지 낮춰야 돌아온다. 01:51에는 8번이 먼저 레이업을 흉내 낸다. 01:59 예고음에 A가 양쪽 벤치와 심판의 공까지 넓어질 때, 누가 두 점을 만들었는지 알고 북산의 다음 공격을 기다릴 수 있다. [작전시간과 재개](../body/screenplay/two-hands/010-game.md#restart)
+01:30 생중계에 돌아오면 그 왼손이 주장의 손을 받는다. 7번이 돌아서는 주장의 팔을 붙잡아 8번을 가리키는 순간에 시선이 바뀐다. 첫 손뼉은 득점자에게 바로 닿지만, 두 번째 손뼉은 주장이 손을 8번의 무릎 아래까지 낮춰야 돌아온다. 01:51에는 8번이 먼저 레이업을 흉내 낸다. 01:59 예고음에 A가 양쪽 벤치와 심판의 공까지 넓어질 때, 누가 두 점을 만들었는지 알고 북산의 다음 공격을 기다릴 수 있다. [작전시간과 재개](history/two-hands-010-game-original.md#restart)
 
-02:27에는 7번의 왼발이 빗금 안에 있고 치수의 두 발은 코너 쪽 바깥에 있다. 치수는 림으로 향하던 몸을 멈춘다. 이어 대만이 ‘여기!’ 하고 베이스라인 쪽으로 반 발 옮겨야 치수의 바깥 어깨에서 두 손까지 길이 또렷해진다. 02:29에 공이 먼저 떠나고 그 뒤 치수의 발이 움직인다. 마지막 공격에서 8번은 이번엔 9번의 슛 길을 연다. 치수가 이미 5번을 등으로 막고 있어 백호는 길게 튄 공에 뛸 수 있다. 02:59 포구, 착지, 버저 순서로 승부가 닫힌다. [마지막 공방](../body/screenplay/two-hands/010-game.md#one-point)
+02:27에는 7번의 왼발이 빗금 안에 있고 치수의 두 발은 코너 쪽 바깥에 있다. 치수는 림으로 향하던 몸을 멈춘다. 이어 대만이 ‘여기!’ 하고 베이스라인 쪽으로 반 발 옮겨야 치수의 바깥 어깨에서 두 손까지 길이 또렷해진다. 02:29에 공이 먼저 떠나고 그 뒤 치수의 발이 움직인다. 마지막 공격에서 8번은 이번엔 9번의 슛 길을 연다. 치수가 이미 5번을 등으로 막고 있어 백호는 길게 튄 공에 뛸 수 있다. 02:59 포구, 착지, 버저 순서로 승부가 닫힌다. [마지막 공방](history/two-hands-010-game-original.md#one-point)
 
 ## 작가 결정과 독립 판독
 

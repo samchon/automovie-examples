@@ -1,8 +1,17 @@
 /**
  * Select discovered test basenames with the repository runner's substring options.
  * Repeated --include and --exclude groups accept space-separated terms or one
- * equals-form term. Every term must match; invalid or empty selections throw.
+ * equals-form term. Every term must match a discovered test. Include terms
+ * select their union and exclude terms remove matches. Invalid or empty selections throw.
  * This pure step receives filenames and imports no test module.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation Describes the argument forms, discovery inputs, matching policy and failure cases.
+ * @evidence contracts/development/implementation.md#principled-implementation Parses include and exclude groups, checks each term against the discovered names, then filters those names by the requested inclusion and exclusion rules.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure Option grammar, matched-term validation and selection are distinct steps. The harness owns discovery and execution.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Uses caller-supplied basenames and literal substring terms. Unknown or empty requests fail instead of selecting a hidden default.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Argument parsing is linear in argv. Term validation and selection visit names against the configured terms, with substring search cost depending on their lengths.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work All validation and filtering within one call use the provided discovery list. The function stores no cross-run selection.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The temporary term groups live for one call. Only the selected name set is returned; no module or executor is opened.
  */
 export function selectTestFiles(
   argv: readonly string[],

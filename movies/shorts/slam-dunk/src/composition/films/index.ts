@@ -1,11 +1,11 @@
 import type { IFilm } from "../../IFilm";
-import { starter } from "./starter";
+import { twoHands } from "./two-hands";
 
 /**
- * Every film this production delivers, keyed by its film name, which derives
- * from its screenplay film folder's path and which the inspector's `subject`
- * parameter and `pnpm run render --subject` select.
+ * `two-hands` selects the descriptor for the signed programme in
+ * [the game screenplay](../../../docs/body/screenplay/two-hands/010-game.md).
+ * The inspector and render use the same key and call the descriptor's `create` when they mount a scene.
  */
 export const films: Readonly<Record<string, IFilm>> = {
-  starter: starter(),
+  "two-hands": twoHands(),
 };
