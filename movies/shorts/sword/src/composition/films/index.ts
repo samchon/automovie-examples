@@ -1,11 +1,13 @@
 import type { IFilm } from "../../IFilm";
-import { starter } from "./starter";
+import { answerMe } from "./answer-me";
+import { breadCloths } from "./bread-cloths";
+import { theBetterSeat } from "./the-better-seat";
+import { theLastCarry } from "./the-last-carry";
 
-/**
- * Every film this production delivers, keyed by its film name, which derives
- * from its screenplay film folder's path and which the inspector's `subject`
- * parameter and `pnpm run render --subject` select.
- */
+/** The four commissioned Savoy shorts, each selected by its screenplay folder. */
 export const films: Readonly<Record<string, IFilm>> = {
-  starter: starter(),
+  "the-better-seat": theBetterSeat(),
+  "bread-cloths": breadCloths(),
+  "answer-me": answerMe(),
+  "the-last-carry": theLastCarry(),
 };

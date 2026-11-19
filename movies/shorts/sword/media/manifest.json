@@ -1,0 +1,407 @@
+{
+  "version": 1,
+  "delivery": {
+    "container": "mp4",
+    "picture": {
+      "durationSeconds": 60,
+      "frameRate": 24,
+      "decodedFrames": 1440,
+      "width": 1280,
+      "height": 720,
+      "codec": "h264"
+    },
+    "sound": {
+      "codec": "aac",
+      "channels": 2
+    }
+  },
+  "terms": {
+    "production": {
+      "license": "MIT",
+      "attribution": "AutoMovie example production authors",
+      "usage": "Keep individual dependency and voice assets under their own terms. The film registry points at deterministic authored scene sources."
+    },
+    "vctk-stock-voices": {
+      "license": "MIT (Piper voice repository)",
+      "datasetLicense": "CC BY 4.0",
+      "attribution": "Rhasspy Piper voices and the University of Edinburgh VCTK Corpus, CSTR, University of Edinburgh",
+      "dataset": "https://datashare.ed.ac.uk/handle/10283/3443",
+      "modelCard": "https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_GB/vctk/medium/MODEL_CARD",
+      "voiceModel": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_GB/vctk/medium",
+      "runtime": "https://github.com/rhasspy/piper/releases/tag/2023.11.14-2"
+    }
+  },
+  "toolchain": {
+    "renderer": "AutoMovie 0.3.0 from the adjacent SDK checkout",
+    "sdkSourceRevision": "958d78ffa02fd96919bbb5413913d5a7e5c07c43",
+    "filmmakingModel": "GPT-6.2 Sol",
+    "reasoningEffort": "high",
+    "modelWeightsSha256": "4e9fc85ab9009385319fc6bae7f55577f8a2d7ee77fd9159a5500eb6531f41e6",
+    "modelConfigSha256": "7f85e6391ed0f7f46e4abd19345929a16be931a0c9945086f96692dce2087fa8",
+    "piperExeSha256": "96f3da3811151580073e40bb4dd20eb0fb8115f5f76e2fb54282b3edfa5c1f"
+  },
+  "limits": "Hashes identify the retained bytes. Regeneration inherits the linked SDK, renderer backend, encoder build and voice inputs in effect on the restoring host.",
+  "files": [
+    {
+      "path": "media/automovie/answer-me/audio/answer-me.wav",
+      "film": "answer-me",
+      "kind": "source soundtrack",
+      "sha256": "a5b5e63417e593cbd6de3c72855bcf4a0bd0e747eb5365d6fdcdf5b2fc46d846",
+      "durationSeconds": 60,
+      "sampleRate": 48000,
+      "channels": 2,
+      "terms": [
+        "production",
+        "vctk-stock-voices"
+      ],
+      "restore": [
+        "& ./src/executable/answer-me/score.ps1"
+      ],
+      "source": "src/executable/answer-me/mix.mjs",
+      "bytes": 11520044
+    },
+    {
+      "path": "media/automovie/answer-me/videos/film.mp4",
+      "film": "answer-me",
+      "kind": "delivery",
+      "sha256": "bbc67573add1525db9126674274c2325115465c2f4190b91b417e51cd9df0afd",
+      "terms": [
+        "production",
+        "vctk-stock-voices"
+      ],
+      "picture": "Installed AutoMovie GPU beauty draw with native ground locomotion",
+      "decodedAudio": {
+        "integratedLufs": -23.2,
+        "truePeakDbtp": -2.0
+      },
+      "screenplayLfSha256": "8daf24977094c70e3dc13a3680bb31d108f0fac650502f3ff42ddde7345cb005",
+      "restore": [
+        "node src/executable/answer-me/render.mjs .cache/sol-0.3.0/answer-me/rebuild/picture",
+        "& ./src/executable/answer-me/score.ps1",
+        "$ffmpeg = (Resolve-Path -LiteralPath 'node_modules/ffmpeg-static/ffmpeg.exe').Path",
+        "[IO.Directory]::CreateDirectory((Join-Path (Get-Location) 'media/automovie/answer-me/videos')) | Out-Null",
+        "& $ffmpeg -nostdin -y -i '.cache/sol-0.3.0/answer-me/rebuild/picture/film.mp4' -i 'media/automovie/answer-me/audio/answer-me.wav' -map 0:v:0 -map 1:a:0 -c:v copy -c:a aac -b:a 192k -movflags +faststart -metadata 'title=Answer me' 'media/automovie/answer-me/videos/film.mp4'"
+      ],
+      "source": "src/composition/films/answer-me.ts",
+      "record": "docs/acceptance/answer-me.md",
+      "bytes": 19770099
+    },
+    {
+      "path": "media/automovie/answer-me/videos/picture-render-report.json",
+      "film": "answer-me",
+      "kind": "source render report",
+      "sha256": "0bee171a6c481c8fe1da1b119dd414af3517f5006124fcadf0f4b2b521263f1b",
+      "terms": [
+        "production"
+      ],
+      "source": "src/executable/answer-me/render.mjs",
+      "record": "docs/acceptance/answer-me.md",
+      "bytes": 573163
+    },
+    {
+      "path": "media/automovie/bread-cloths/audio/bread-cloths.wav",
+      "film": "bread-cloths",
+      "kind": "source soundtrack",
+      "sha256": "1d2dd296454d7c92701182aa897b5a099cedeca374e0b40376037c001a4cdffa",
+      "durationSeconds": 60,
+      "sampleRate": 48000,
+      "channels": 2,
+      "terms": [
+        "production",
+        "vctk-stock-voices"
+      ],
+      "restore": [
+        "& ./tools/bread-cloths/sound.ps1"
+      ],
+      "source": "tools/bread-cloths/sound.ps1",
+      "bytes": 11520044
+    },
+    {
+      "path": "media/automovie/bread-cloths/videos/bread-cloths-render-report.json",
+      "film": "bread-cloths",
+      "kind": "source render report",
+      "sha256": "6a340d9315435f18e645c8349e5f318e7d2cd160992ca99930e000c5f335c395",
+      "terms": [
+        "production"
+      ],
+      "source": "tools/bread-cloths/draw.mts",
+      "record": "docs/acceptance/bread-cloths.md",
+      "bytes": 353872
+    },
+    {
+      "path": "media/automovie/bread-cloths/videos/bread-cloths.mp4",
+      "film": "bread-cloths",
+      "kind": "delivery",
+      "sha256": "eaa1dded48408d36bbfcc3c0bbc16c329320ebd573221406c47dd85b7414ca34",
+      "terms": [
+        "production",
+        "vctk-stock-voices"
+      ],
+      "picture": "Installed AutoMovie GPU beauty draw with native walking, gestures and paired carry",
+      "decodedAudio": {
+        "integratedLufs": -18.4,
+        "truePeakDbtp": -1.9
+      },
+      "screenplayLfSha256": "83d92062e922fa80e2d0249323a8d08aaa48af889536df91c88cb7fd94f25fb6",
+      "restore": [
+        "& ./tools/bread-cloths/sound.ps1",
+        "node tools/bread-cloths/draw.mts --encode --out=.cache/sol-0.3.0/bread-cloths/verified-picture-v3",
+        "& ./tools/bread-cloths/deliver.ps1 -Picture .cache/sol-0.3.0/bread-cloths/verified-picture-v3/film.mp4 -Source .cache/sol-0.3.0/bread-cloths/verified-picture-v3"
+      ],
+      "source": "src/composition/films/bread-cloths.ts",
+      "record": "docs/acceptance/bread-cloths.md",
+      "bytes": 10690883
+    },
+    {
+      "path": "media/automovie/the-better-seat/audios/the-better-seat.wav",
+      "film": "the-better-seat",
+      "kind": "source soundtrack",
+      "sha256": "fc55bf4d4a30e3a98fae87ff388df881b639836f6313066570c2e7899da9ded1",
+      "durationSeconds": 60,
+      "sampleRate": 32000,
+      "channels": 2,
+      "terms": [
+        "production",
+        "vctk-stock-voices"
+      ],
+      "restore": [
+        "& ./scripts/the-better-seat/sound.ps1"
+      ],
+      "source": "scripts/the-better-seat/sound.py",
+      "bytes": 7680044
+    },
+    {
+      "path": "media/automovie/the-better-seat/videos/audio-alignment.json",
+      "film": "the-better-seat",
+      "kind": "decoded soundtrack alignment",
+      "terms": [
+        "production"
+      ],
+      "record": "docs/acceptance/the-better-seat.md",
+      "sha256": "83f8d6a9868cbee133d432e68cb64f581093db99855798a201789398ca2ac2b4",
+      "bytes": 954
+    },
+    {
+      "path": "media/automovie/the-better-seat/videos/ffprobe.json",
+      "film": "the-better-seat",
+      "kind": "decoded stream probe",
+      "terms": [
+        "production"
+      ],
+      "record": "docs/acceptance/the-better-seat.md",
+      "sha256": "be09f57fde1a3d3901a9b29e6f2c88c993c09f6cb3ea8df7e80a2c2085b0a30c",
+      "bytes": 4693
+    },
+    {
+      "path": "media/automovie/the-better-seat/videos/picture-render-report.json",
+      "film": "the-better-seat",
+      "kind": "source render report",
+      "sha256": "3e81c76d7af517127352089189644d9790105c7a07f59ba8fed8849566bd2b26",
+      "terms": [
+        "production"
+      ],
+      "source": "scripts/the-better-seat/draw.mts",
+      "record": "docs/acceptance/the-better-seat.md",
+      "bytes": 213501
+    },
+    {
+      "path": "media/automovie/the-better-seat/videos/source-continuity.json",
+      "film": "the-better-seat",
+      "kind": "source continuity report",
+      "terms": [
+        "production"
+      ],
+      "record": "docs/acceptance/the-better-seat.md",
+      "sha256": "eea7628b274f07a08fe8629a7bed4777c44ed56aff9a123ba511bd19835f7836",
+      "bytes": 1190
+    },
+    {
+      "path": "media/automovie/the-better-seat/videos/the-better-seat.mp4",
+      "film": "the-better-seat",
+      "kind": "delivery",
+      "sha256": "c7a83afa012f457302022d028ccaba6610f93dbebb9ccbc622a23f359a0358f3",
+      "terms": [
+        "production",
+        "vctk-stock-voices"
+      ],
+      "picture": "Installed GPU beauty draw with native grounded locomotion, stance, directed looks and witness performances",
+      "decodedAudio": {
+        "integratedLufs": -15.8,
+        "truePeakDbtp": -2.8
+      },
+      "screenplayLfSha256": "60e87fd99d2ce131131426d2d2b983f5f5810d16692fce9055bd555029e7a2db",
+      "restore": [
+        "& ./scripts/the-better-seat/sound.ps1",
+        "node ./scripts/the-better-seat/draw.mts .cache/the-better-seat/beauty-draw",
+        "& ./scripts/the-better-seat/render.ps1 -Picture .cache/the-better-seat/beauty-draw/film.mp4"
+      ],
+      "source": "src/composition/films/the-better-seat.ts",
+      "record": "docs/acceptance/the-better-seat.md",
+      "bytes": 17305127
+    },
+    {
+      "path": "media/automovie/the-last-carry/audios/the-last-carry-ensemble.wav",
+      "film": "the-last-carry",
+      "kind": "source soundtrack",
+      "sha256": "5e9b7858c86adfb23af4f78a06881d32912c8a97bc3e6140a950fe291547d637",
+      "durationSeconds": 60,
+      "sampleRate": 48000,
+      "channels": 2,
+      "terms": [
+        "production",
+        "vctk-stock-voices"
+      ],
+      "restore": [
+        "$env:CARRY_STOCK_VOICES = (Resolve-Path ../../../.cache/film-release-0.3.0/stock-voices).Path",
+        "node src/executable/the-last-carry-sound.mts --ensemble"
+      ],
+      "source": "src/executable/the-last-carry-sound.mts",
+      "bytes": 11520044
+    },
+    {
+      "path": "media/automovie/the-last-carry/videos/camera-rotation.json",
+      "film": "the-last-carry",
+      "kind": "camera continuity measurements",
+      "sha256": "43e734c0e2fb113ca23f26035c115049f1d7eee5a77979d9b5d8c45b7404914d",
+      "terms": [
+        "production"
+      ],
+      "record": "docs/acceptance/the-last-carry.md",
+      "bytes": 1262
+    },
+    {
+      "path": "media/automovie/the-last-carry/videos/ffprobe.json",
+      "film": "the-last-carry",
+      "kind": "decoded delivery measurements",
+      "sha256": "b3e7ec6fb1b12345b5b368a43d54bac904c21eccd2cd99313ae02bdc7f96b54b",
+      "terms": [
+        "production"
+      ],
+      "record": "docs/acceptance/the-last-carry.md",
+      "bytes": 4654
+    },
+    {
+      "path": "media/automovie/the-last-carry/videos/film-r8-comparison.mp4",
+      "film": "the-last-carry",
+      "kind": "reviewed comparison picture",
+      "sha256": "d7561c26792736b147232684f37862a53f9326dfddd951df3d2110ed4474616e",
+      "terms": [
+        "production",
+        "vctk-stock-voices"
+      ],
+      "record": "docs/acceptance/the-last-carry.md",
+      "bytes": 30551449
+    },
+    {
+      "path": "media/automovie/the-last-carry/videos/film.mp4",
+      "film": "the-last-carry",
+      "kind": "delivery",
+      "sha256": "dd75e506470b4c180e57d3831cc069f428fa0c89683a8a6e12cbfcdce600241f",
+      "terms": [
+        "production",
+        "vctk-stock-voices"
+      ],
+      "picture": "Installed AutoMovie GPU beauty draw with native gait, stance, gestures and witness breathing",
+      "restore": [
+        "$carryRestore = Join-Path '.cache/restored/the-last-carry' ([guid]::NewGuid().ToString('N'))",
+        "if (!(Test-Path -LiteralPath 'media/automovie/the-last-carry/audios/the-last-carry-ensemble.wav' -PathType Leaf)) { node src/executable/the-last-carry-sound.mts --ensemble; if ($LASTEXITCODE -ne 0) { throw 'The Last Carry sound restoration failed.' } }",
+        "node src/executable/render-the-last-carry.mts $carryRestore",
+        "if ($LASTEXITCODE -ne 0) { throw 'The Last Carry render failed.' }",
+        "$carryCandidate = Join-Path $carryRestore 'film.mp4'",
+        "$carryMasterPath = 'media/automovie/the-last-carry/videos/film.mp4'",
+        "$carryMaster = Join-Path (Get-Location).Path $carryMasterPath",
+        "$carrySha256 = ((Get-Content -LiteralPath 'media/manifest.json' -Raw | ConvertFrom-Json).files | Where-Object path -eq $carryMasterPath).sha256",
+        "if (!(Test-Path -LiteralPath $carryCandidate -PathType Leaf) -or (Get-FileHash -LiteralPath $carryCandidate -Algorithm SHA256 -ErrorAction Stop).Hash -ne $carrySha256) { throw 'The new render differs from the approved The Last Carry master.' }",
+        "if (Test-Path -LiteralPath $carryMaster) { if ((Get-FileHash -LiteralPath $carryMaster -Algorithm SHA256 -ErrorAction Stop).Hash -ne $carrySha256) { throw 'The current The Last Carry playback path contains different bytes.' } } else { [IO.Directory]::CreateDirectory((Split-Path -LiteralPath $carryMaster)) | Out-Null; [IO.File]::Copy((Resolve-Path -LiteralPath $carryCandidate).Path, $carryMaster) }"
+      ],
+      "source": "src/composition/films/the-last-carry.ts",
+      "record": "docs/acceptance/the-last-carry.md",
+      "bytes": 25763402
+    },
+    {
+      "path": "media/automovie/the-last-carry/videos/r8-camera-rotation.json",
+      "film": "the-last-carry",
+      "kind": "R8 camera continuity measurements",
+      "sha256": "fa419df64b07e3bcf221c32e873be76017bce008d27cc939aa8313d7d6bd2227",
+      "terms": [
+        "production"
+      ],
+      "record": "docs/acceptance/the-last-carry.md",
+      "bytes": 1261
+    },
+    {
+      "path": "media/automovie/the-last-carry/videos/r8-ffprobe.json",
+      "film": "the-last-carry",
+      "kind": "R8 decoded comparison measurements",
+      "sha256": "d89e253b7db6e98e12fc6784f543186bcccc3a1afd7c3d868351d89163091987",
+      "terms": [
+        "production"
+      ],
+      "record": "docs/acceptance/the-last-carry.md",
+      "bytes": 4737
+    },
+    {
+      "path": "media/automovie/the-last-carry/videos/r8-render-report.json",
+      "film": "the-last-carry",
+      "kind": "R8 source render report",
+      "sha256": "dd8ea01295151432fb22a0e31d4198040d688f7487a290e4502622302241b269",
+      "terms": [
+        "production"
+      ],
+      "record": "docs/acceptance/the-last-carry.md",
+      "bytes": 480206
+    },
+    {
+      "path": "media/automovie/the-last-carry/videos/render-report.json",
+      "film": "the-last-carry",
+      "kind": "source render report",
+      "sha256": "145971929f6abfef0be1f192707d845528f67479550410f2c9759336480289ec",
+      "terms": [
+        "production"
+      ],
+      "source": "src/executable/render-the-last-carry.mts",
+      "record": "docs/acceptance/the-last-carry.md",
+      "bytes": 4370666
+    }
+  ],
+  "restorePrerequisites": [
+    "Run the PowerShell commands from the directory containing PROJECT.md.",
+    "Install the linked AutoMovie 0.3.0 workspace dependencies, Node 22.23.2 or later, Playwright Chromium and FFmpeg.",
+    "The shared stock voice cache is ../../../.cache/film-release-0.3.0/stock-voices. Use the model paths given in the individual sound scripts when restoring from another location.",
+    "The Better Seat and Bread Cloths sound scripts use Python with NumPy. The Better Seat also uses SciPy, and the still evidence uses Pillow."
+  ],
+  "acceptedFrames": [
+    {
+      "film": "answer-me",
+      "revision": "r4",
+      "path": "media/automovie/answer-me/frames/accepted/r4/index.json",
+      "sha256": "68861d5b917e3c36d7d479e9840ace68fb24da4dbdf4970aaf2216a4c1cce01a",
+      "masterSha256": "bbc67573add1525db9126674274c2325115465c2f4190b91b417e51cd9df0afd",
+      "files": 35
+    },
+    {
+      "film": "bread-cloths",
+      "revision": "v3",
+      "path": "media/automovie/bread-cloths/frames/accepted/v3/index.json",
+      "sha256": "a5069d17f95c072da4acd1e2c1f50aa41d089bf7ec3a19524b59d8cd71c60ade",
+      "masterSha256": "eaa1dded48408d36bbfcc3c0bbc16c329320ebd573221406c47dd85b7414ca34",
+      "files": 39
+    },
+    {
+      "film": "the-last-carry",
+      "revision": "n2",
+      "path": "media/automovie/the-last-carry/frames/accepted/n2/index.json",
+      "sha256": "2a084d911050b52cd99d8deb45870c068ae6ab005f9212f11a670e519e9fd711",
+      "masterSha256": "dd75e506470b4c180e57d3831cc069f428fa0c89683a8a6e12cbfcdce600241f",
+      "files": 32
+    },
+    {
+      "film": "the-better-seat",
+      "revision": "v3",
+      "path": "media/automovie/the-better-seat/frames/accepted/v3/index.json",
+      "sha256": "69b71fe85ab22b029cca207ea8f37aa7990016a00f0881798ff2ea4376dfd9ac",
+      "masterSha256": "c7a83afa012f457302022d028ccaba6610f93dbebb9ccbc622a23f359a0358f3",
+      "files": 43
+    }
+  ]
+}
