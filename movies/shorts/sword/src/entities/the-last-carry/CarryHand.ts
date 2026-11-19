@@ -2,7 +2,20 @@ import { AutoMovieLoftChain } from "@automovie/engine";
 import { AutoMovieHumanConicLoft, AutoMovieHumanF1, AutoMovieHumanF1Joints } from "@automovie/human";
 import * as THREE from "three";
 
-/** Cast hands share the installed Human F1 palm and five finger lofts, expressed about the palm centre in metres. */
+/**
+ * Returns shared Human F1 hand geometry in a palm-centred metre frame, with one pinch morph.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation Names the installed source, palm frame, output ownership and available morph.
+ * @evidence contracts/development/implementation.md#principled-implementation Samples the installed palm and five digit conic lofts and converts millimetres to metres in a basis fixed by wrist and knuckle joints. Index and thumb move to the same local pinch neighborhood; a missing chain fails construction.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The SDK owns loft families and joint locations; this adapter owns their sample grid, palm transform, morph and index buffer. Cast owns independent grip weights.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The 0.68 palm-centre interpolation and pinch offsets fit the stage marker. They are authored presentation targets, not anthropometric data or a cloth-object contact solver.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Each of six fixed families has a finite station set plus the resolved chain layers; work grows with their total times 20 angular phases and the corresponding triangle indices.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work The open palm vertices, morph and indices are shared across all roles and both sides. The actor mirrors a mesh and gives it its own grip weight.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources One geometry persists for the module lifetime. Scene mounts share its handle and the lane disposes reachable geometry buffers at teardown.
+ * @evidence contracts/development/entities.md#settings-realization docs/body/brief/cast/widow.md#appearance requires bare hands on a pole. docs/body/screenplay/the-last-carry/010-valley-lane.md#mark needs visible fingers at the splinter. Cast receives the same visible geometry for both.
+ * @evidence contracts/development/entities.md#object-shape Returns a borrowed mutable Three buffer that callers treat as shared source. Grip and pose state belong to the actor mesh, and no handle or timing is returned.
+ * @evidence contracts/development/entities.md#controls-and-source AutoMovieHumanF1 and AutoMovieHumanConicLoft provide the actual drawn base positions. The production adds a visible pinch morph and mirrors the same mesh per side; the installed SDK supplies the loft source.
+ */
 export function carryHandGeometry(): THREE.BufferGeometry {
   if (shared) return shared;
   const joint = (values: readonly number[]) => new THREE.Vector3(values[0], values[1], values[2]);

@@ -1,6 +1,6 @@
 import * as THREE from "three";
-import type { IFilmProduction } from "../../../IFilmProduction";
-import { castActor, type ActorPose } from "../../shared/castActor";
+import type { IFilmProduction } from "../../../../IFilmProduction";
+import { castActor, type ActorPose } from "../../../shared/castActor";
 import { blocking, frameCamera, type Role } from "./blocking";
 import { breadRoadPerformance } from "./performance";
 import { breadCloth, loaf, ryeSack, sackStrap, sidearm } from "./provisions";
@@ -21,7 +21,31 @@ const cast={
   companion:{name:"Hospice companion",height:1.74,tunic:0x84877c,hair:0x854b37,skin:0xc09175,legs:0x68695c,hood:0x394d62},
 };
 
-/** The people, wardrobe, stage properties and camera share this single seekable performance. */
+/**
+ * Stage docs/body/screenplay/bread-cloths/010-two-bends.md#ascent as one seekable picture above Orsières.
+ * The clock starts at zero and uses authored seconds. Each seek updates the scene and camera.
+ * The caller releases geometry and materials with dispose after its final draw.
+ * Concretization: the director's staging places the cap, stump, two roads, cloths and body
+ * contacts in stage metres and sets shot lenses. The screenplay records their order,
+ * relationships and dramatic actions. The acceptance record captures the measured picture.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation The comment identifies the screenplay scene, the clock and seek effects, and who disposes the returned stage.
+ * @evidence contracts/development/implementation.md#principled-implementation Build one scene, compile admitted native walking, carrying and gestures, then evaluate actor poses, props and shots against the same clock. Fixed time windows support repeated and out-of-order seeks.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The scene composes the cast, native sampler, road, actor paths, props and camera. The isolated soundtrack producer resolves timing from the same screenplay before delivery mux.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Authored staging supplies the road routes, prop attachments and contact windows that native motion does not express here. Knee and hand targets and cloth shapes are scene-authored approximations. Native planning rejection propagates at setup.
+ * @evidence contracts/development/implementation.md#efficient-algorithms The seek work is bounded by the seven actors, finite prop population and two fixed cloth grids. The stage builds lighting and scenery only at creation. Dispose walks the attached graph once to release unique resources.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Seeks reuse the same scene objects, geometry and native sampler. They recalculate the visible state at the requested second so forward playback and random seeks agree.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The returned production retains its fixed cast, scene objects, camera and sampler. Dispose frees unique geometries and materials and clears scene children. Scene creation opens no renderer, file or external worker.
+ * @evidence contracts/development/composition.md#screenplay-realization Realizes the standing geography and all five beats in the authored order, including the 38 to 44.5 second uninterrupted upper rescue. The chosen delivery stays within one minute. The exact shoe contact, seam cause and some hand placements read subtly in the inspected picture.
+ * @evidence contracts/development/composition.md#composition-only Combines reusable cast meshes, native HumanChain and parallel engine output, actor placement, fixed terrain and prop capabilities. Absolute staging, contact and camera windows sit on the scene clock. The inherited scene still computes prop attachments and blocking coordinates locally.
+ * @evidence contracts/development/composition.md#living-scene Alix and Perrin traverse both bends as the women open their cloths, the three followers split around the cap and turn, and the rescue transfers focus from sack to person. The lower men lift and depart, the women hold the shares, and the four climb. The verified encode includes a separately muxed dialogue and Foley track.
+ * @evidence docs/body/screenplay/bread-cloths/010-two-bends.md#ascent Stages the two continuous roads, split rock, stump, seven figures and their opening positions.
+ * @evidence docs/body/screenplay/bread-cloths/010-two-bends.md#cloths Opens the two cloths above, follows the procession below and stages the early shoulder relief.
+ * @evidence docs/body/screenplay/bread-cloths/010-two-bends.md#rock Stages the exchange by the split rock, Perrin's signal, and Red Cap leaving the cap while the route separates.
+ * @evidence docs/body/screenplay/bread-cloths/010-two-bends.md#bend Shows the shoe exit and reseat, climb, sack snag, the lower men's arrival and Red Cap reaching for the wood.
+ * @evidence docs/body/screenplay/bread-cloths/010-two-bends.md#stump Spills three loaves, holds the upper view through the strap release and Alix's return to the ledge, then cuts to the shared lower lift.
+ * @evidence docs/body/screenplay/bread-cloths/010-two-bends.md#tables Places one whole and one half on each cloth, shows the sack departure below, and closes with the four climbing and both cloth tails held.
+ */
 export async function createBreadRoad():Promise<IFilmProduction> {
   const scene=new THREE.Scene(),camera=new THREE.PerspectiveCamera(35,16/9,0.035,125);
   landscape(scene);

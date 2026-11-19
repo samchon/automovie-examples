@@ -1,9 +1,9 @@
 import * as THREE from "three";
 
-import type { IFilmProduction } from "../../../IFilmProduction";
-import { createCarryBier } from "../../../entities/the-last-carry/Bier";
-import { createCarryActor } from "../../../entities/the-last-carry/Cast";
-import { createCarryValley } from "../../../entities/the-last-carry/Valley";
+import type { IFilmProduction } from "../../../../IFilmProduction";
+import { createCarryBier } from "../../../../entities/the-last-carry/Bier";
+import { createCarryActor } from "../../../../entities/the-last-carry/Cast";
+import { createCarryValley } from "../../../../entities/the-last-carry/Valley";
 
 type Actor = ReturnType<typeof createCarryActor>;
 type Role = Parameters<typeof createCarryActor>[0];
@@ -34,7 +34,23 @@ function voice(start: number, end: number, at: number): number {
   return envelope * (0.34 + 0.59 * Math.abs(Math.sin(at * 17.8) * Math.cos(at * 4.4)));
 }
 
-/** The bearers stop when the rear corner dips. The second journey carries the shoe through the gate. */
+/**
+ * Computes longitudinal travel in metres from authored film seconds. The rear
+ * corner dips during a halt before the resumed procession reaches the gate.
+ *
+ * @evidence docs/body/screenplay/the-last-carry/010-valley-lane.md#pay The front bearers stop when the corner dips.
+ * @evidence docs/body/screenplay/the-last-carry/010-valley-lane.md#go The widow's assumed corner travels into the burial ground.
+ * @evidence contracts/development/common.md#meaningful-documentation Defines metres on the lane's +Z axis and continuous authored seconds, before, during and after the halt.
+ * @evidence contracts/development/implementation.md#principled-implementation Two clamped linear terms make a continuous distance with zero travel before time zero, a rest from 24 through 32 s, and a clamped departure.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The bier, continuing bearers and following shots share the procession distance. Each actor's pose and grip are set separately.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The staging chooses 0.22 and 0.42 m/s for the two segments and a 10.8 m departure limit to clear the gate and keep the frame legible. These are production coordinates rather than measured body travel.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Evaluates a fixed number of clamps, products and additions per call with constant storage.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work The scene evaluates one shared distance per seek. The pure function does not cache individual seconds.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources Returns a number with no retained state, resources or tasks.
+ * @evidence contracts/development/composition.md#screenplay-realization The dip arrests the group and the widow's lift allows it to resume. Exact path rates and stop interval are shaped for the staging in this lane.
+ * @evidence contracts/development/composition.md#composition-only This exported helper holds a distance calculation inside the scene folder, and provides that direct-3D placement to the lane rather than composing actors itself.
+ * @evidence contracts/development/composition.md#living-scene The bier and continuing bearers pause and resume together. The cousins, gate and fixed wide shot keep their own marks as the procession moves away.
+ */
 export function processionDistance(t: number): number {
   const approaching = 0.22 * Math.min(24, Math.max(0, t));
   const departing = Math.min(10.8, Math.max(0, t - 32) * 0.42);
@@ -124,7 +140,31 @@ function disposeLane(scene: THREE.Scene): void {
   scene.clear();
 }
 
-/** Mount the lane and seek every performance, contact and cut on the same screenplay clock. */
+/**
+ * Mounts the scene from docs/body/screenplay/the-last-carry/010-valley-lane.md.
+ * The funeral stops at the dip, continues with the widow under the pole, and
+ * leaves Denis and Colin outside the gate. The caller owns the production.
+ *
+ * Concretization. The staging selects crossing and hold intervals, lens and
+ * cut points, and local targets for the rails, coat, shoe and sliver. The shot
+ * grid and physical limitations are recorded in docs/acceptance/the-last-carry.md.
+ *
+ * @evidence docs/body/screenplay/the-last-carry/010-valley-lane.md#lane Mounts the valley lane, includes the gate woman, and sets all four initial shoulder contacts.
+ * @evidence docs/body/screenplay/the-last-carry/010-valley-lane.md#hem The opening camera follows the changing hem and widow's reach before showing each cousin.
+ * @evidence docs/body/screenplay/the-last-carry/010-valley-lane.md#pay Brings the linen and hare purse close, then reassigns the rear rail contacts from Colin to the russet mourner and from Denis to the widow.
+ * @evidence docs/body/screenplay/the-last-carry/010-valley-lane.md#go Holds one lane-wide as the funeral recedes and the cousins' exchanges appear in the foreground.
+ * @evidence docs/body/screenplay/the-last-carry/010-valley-lane.md#mark Shows the gate, passes the returning shoe through its bars, and reattaches the sliver from coat to fingers.
+ * @evidence contracts/development/common.md#meaningful-documentation States the scene source, the caller's ownership and the frame, time and camera work performed on each seek.
+ * @evidence contracts/development/implementation.md#principled-implementation Each seek reconstructs the blocking in world metres and projects contact targets into local actor frames. The camera and all visible state use the same absolute seconds rather than accumulated steps.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure Valley supplies the hinge and handle, Bier the shroud and hem, and Cast the actor and pose controls. Seek owns their simultaneous placement and selection of the image. Audio is a separate cue mix.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The contact envelopes, camera values and screen-prop changes are authored for this film. The SDK supplies Human poses, without simulating the four-body load or driving lip sync from a recording.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Build creates the fixed set, meshes and actors once. Seek updates the bounded cast and scene state, while disposing traverses the scene once and deduplicates encountered mesh resources.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work The same scene and camera serve all seeks of a mount. Fixed role actions are shared through CarryNativeMotion; individual actor transforms and the rotated camera remain mount-owned.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The scene retains a fixed cast and set. Dispose clears the scene and releases distinct reachable geometries and materials and boot alpha maps. Shared source caches remain module-owned.
+ * @evidence contracts/development/composition.md#screenplay-realization Runs the promise by the returning shoe, the purse, dip and two substitutions, the processional departure and final gate and sliver. Scene-camera and grip decisions are recorded in docs/acceptance/the-last-carry.md; exact handoffs remain partly legible in the reviewed picture.
+ * @evidence contracts/development/composition.md#composition-only Combines Valley, Bier and actor controls on the screenplay clock. This direct-3D lane also supplies its own absolute camera locations, hand contact timing and placement curves.
+ * @evidence contracts/development/composition.md#living-scene Gives both cousins, all four carriers, the nearby mourners and the gate woman continuous placement. The bier goes from open lane through gate while the men stay outside; the fixed wide follows the screenplay's camera choice.
+ */
 export async function createValleyLane(): Promise<IFilmProduction> {
   const scene = new THREE.Scene();
   const camera = new THREE.PerspectiveCamera(34, 16 / 9, 0.025, 190);

@@ -1,5 +1,6 @@
-// Reference body for the wardrobe, from AutoMovie's surveyed m-average population.
 import type { IAutoMovieHumanParameters } from '@automovie/interface';
+
+/** Surveyed m-average reference parameters in the installed Human's declared units. */
 export const wardrobeBody: IAutoMovieHumanParameters = {
   "body": {
     "anatomy": {

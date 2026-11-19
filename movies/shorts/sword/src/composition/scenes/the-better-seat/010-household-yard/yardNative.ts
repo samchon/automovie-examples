@@ -2,10 +2,25 @@ import type { IAutoMovieMotionHumanBody, IAutoMovieVector3 } from "@automovie/in
 import { HumanChain } from "@automovie/motions";
 import { Euler, Quaternion, Vector3 } from "three";
 
-import type { ActorPose, CastActor } from "../../shared/castActor";
-import { nativeStageMotion } from "../../shared/nativeStageMotion";
+import type { ActorPose, CastActor } from "../../../shared/castActor";
+import { nativeStageMotion } from "../../../shared/nativeStageMotion";
 
-/** Compile directed looks, recovery travel and the invitation response for the yard. */
+/**
+ * Compile the native performance spans for the three main roles.
+ * The returned function samples film seconds, updates the supplied root groups
+ * where the SDK drives translation and writes native limbs and head angles into the pose controls.
+ *
+ * @evidence contracts/development/implementation.md#principled-implementation Resolve the installed look, kneel, walk, nod and sit actions against named cast, ground and seat inputs. Map each solved span to its authored film interval and rotate head transforms into actor-local radians.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The SDK produces timed poses and world joints. The staging helper maps admitted spans onto wardrobe targets. The caller layers exact props and chooses what to pin.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The scale, stance axes and requested look and seat marks come from the stage. Time mapping preserves each action's solved phase within the approved film interval.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Setup compiles a fixed set of tracks. Each sample checks those intervals and extracts the active pose and joints from the SDK. No earlier film frame is replayed.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Reuse tracks over the lifetime of one scene with fixed body, starting transform and seed. Each seek uses the corresponding absolute pose and no previous output.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The returned function keeps only the current instance's fixed plans and conversions. The scene releases its closure after the instance ends.
+ * @evidence contracts/development/common.md#meaningful-documentation The comment explains the stage seconds, mutation of roots and controls, and the boundary between native motion and other layers.
+ * @evidence contracts/development/composition.md#screenplay-realization The plans supply the lad's look, Martin's kneel and growing recognition, both returns, Carlo's walk, the nod and the seated endpoint.
+ * @evidence contracts/development/composition.md#composition-only Installed HumanChain actions are resolved once per setup from fixed subject and stage inputs. The adapter maps them to the approved film times.
+ * @evidence contracts/development/composition.md#living-scene Upper and lower pose data travel together over the native spans. The independent grip and saddle effects remain with the stage.
+ */
 export function yardNative(): (
   second: number,
   martin: CastActor, carlo: CastActor, lad: CastActor,

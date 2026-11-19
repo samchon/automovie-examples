@@ -2,6 +2,7 @@ import * as THREE from "three";
 import { carryWoolFolds } from "./CarryWoolFolds";
 import { cloth, cord, covering, face, hair, mesh, oval, paint, type CarryRole } from "./CarrySculpture";
 
+/** Fitted shoulder heights and widths in metres, followed by role-specific Three palette colors. */
 export const castWardrobe = {
   denis:             {h:1.40,w:.44, coat:0x45543b, trim:0x353e2c, hose:0x574334, hide:0x513525, hair:0x422c20, skin:0xbd9277},
   colin:             {h:1.46,w:.39, coat:0x424d5b, trim:0x86453f, hose:0x494340, hide:0x423329, hair:0x241f1b, skin:0xc49c83},
@@ -32,16 +33,29 @@ function purse(body:THREE.Group):void {
   for(const x of [-.039,.039]) cord(mount,0x68432c,.008,[[x,.043,0],[x,.080,-.016],[x,.099,-.025]]);
 }
 
-/** Fitted upper garments, cut skirts and head coverings are rigid attachments; the sleeves move independently. */
+/**
+ * Fits the role's costume and visible facial detail to the body and head pivots in local metres. The actor owns sleeve and head motion.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation Names the selected source, both pivot spaces and which parts the actor moves.
+ * @evidence contracts/development/implementation.md#principled-implementation Lofts the role's fitted upper garment and skirt through ordered rings, then mounts its head covering and face. The photo grayscale is resampled onto the same garment geometry, with the green coat's purse kept as geometry.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The wardrobe decides garment cuts and colors; the sculpting helpers own surfaces and textures, and Cast supplies limb motion and placement.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Cuts, collars and seams are authored forms based on cast silhouettes. The green doublet's source crease crop avoids printing a second purse and does not replace the moving prop.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Each attached mesh is built once per actor. The 64×128 fold texture and garment vertex count dominate the visible coat detail pass.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Keeps the fixed cast source samples and shared paint and weave inputs. Instance geometry and coat material stay separate because geometry and maps depend on role and fit.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The caller's pivots retain their attached meshes. Scene disposal reaches their geometries and materials; Dress keeps no per-actor cache.
+ * @evidence contracts/development/entities.md#settings-realization The green doublet and hare purse come from docs/body/brief/cast/denis.md#appearance, the blue coat and red collar from docs/body/brief/cast/colin.md#appearance, and the ivory veil from docs/body/brief/cast/widow.md#appearance. The ochre hood, slate cap, russet mantle and gate kerchief come from docs/body/brief/cast/front-bearer-left.md#appearance, docs/body/brief/cast/front-bearer-right.md#appearance, docs/body/brief/cast/relief-bearer.md#appearance and docs/body/brief/cast/gate-woman.md#appearance.
+ * @evidence contracts/development/entities.md#object-shape Mutates the supplied body and head pivots by attachment. Cast owns local pose, limb geometry and timing; this construction itself does not animate.
+ * @evidence contracts/development/entities.md#controls-and-source Uses the fixed cut table and face and fold crops with documented rights in docs/prompts/casting/photographs.md. The commissioned detail is the only built variant. It uses installed Three meshes with retained jaw and wool detail.
+ */
 export function dress(body: THREE.Group, head: THREE.Group, role: CarryRole):void {
   const p=castWardrobe[role], h=p.h, w=p.w/2;
   const woman=role==="widow"||role==="gate-woman";
-  const hem=woman?.105:role==="denis"?.665:.535;
+  const hem=woman ? 0.105 : role === "denis" ? 0.665 : 0.535;
   const waist=role==="denis"?1.035:h*.72;
-  const centerDepth=role==="denis"?.145:.130;
+  const centerDepth=role === "denis" ? 0.145 : 0.130;
   const hip=w*.97;
   const skirtWidth=woman?w*1.56:role==="denis"?w*1.03:w*1.14;
-  const skirtDepth=woman?.228:role==="denis"?.158:.175;
+  const skirtDepth=woman ? 0.228 : role === "denis" ? 0.158 : 0.175;
   const coat=cloth(body,[[hem,skirtWidth,skirtDepth,0,.065],[hem+.016,skirtWidth,skirtDepth,0,.066],[hem+.10,skirtWidth*.976,skirtDepth*.98,0,.063],[(waist+hem)/2,(skirtWidth+hip)/2,(skirtDepth+.134)/2,0,.051],[waist-.085,hip,.145,0,.038],[waist,w*.83,.126,0,.024],[waist+.045,w*.84,centerDepth,0,.020],[h-.15,w*.96,centerDepth*1.11,0,.014],[h-.065,w*1.02,centerDepth*1.08,0,.007],[h+.022,w*1.01,centerDepth*.88],[h+.055,w*.52,.085],[h+.052,.055,.058]],p.coat);
   applyWoolFolds(coat,role,hem,waist,h);
   if(role==="gate-woman") cloth(body,[[hem+.005,skirtWidth*1.01,skirtDepth*1.01,0,.065],[hem+.034,skirtWidth,skirtDepth,0,.065]],p.trim);
@@ -80,8 +94,8 @@ export function dress(body: THREE.Group, head: THREE.Group, role: CarryRole):voi
   }
   cloth(body,[[h+.020,.065,.062],[h+.080,.057,.057],[h+.139,.059,.061]],p.skin);
   head.position.y=h+.084;
-  const faceW=role==="colin"?.078:role==="denis"?.091:woman?.083:.087;
-  const faceH=role==="colin"?.247:woman?.224:.233;
+  const faceW=role === "colin" ? 0.078 : role === "denis" ? 0.091 : woman ? 0.083 : 0.087;
+  const faceH=role === "colin" ? 0.247 : woman ? 0.224 : 0.233;
   face(head,role,p.skin,faceW,faceH);
   for(const side of [-1,1]){
     oval(head,p.skin,side*faceW*.955,faceH*.47,-.009,.010,.021,.013);
@@ -89,7 +103,7 @@ export function dress(body: THREE.Group, head: THREE.Group, role: CarryRole):voi
   }
   hair(head,p.hair,faceH,faceW,role==="relief-bearer",role==="denis");
   if(role==="widow"||role==="gate-woman"||role==="front-bearer-left"){
-    covering(head,role==="gate-woman"?0xd4c8aa:p.trim,faceH+.015,faceW+.021,role==="widow"?.187:role==="gate-woman"?.114:.132);
+    covering(head,role==="gate-woman"?0xd4c8aa:p.trim,faceH+.015,faceW+.021,role === "widow" ? 0.187 : role === "gate-woman" ? 0.114 : 0.132);
     if(role==="widow") cloth(head,[[-.045,.126,.099,0,.045],[-.015,.098,.091,0,.035],[.013,.081,.079,-.001,.026]],p.trim);
   } else if(role==="front-bearer-right"){
     const cap=cloth(head,[[faceH*.72,.086,.095,-.006],[faceH*.80,.102,.114,-.014],[faceH*.94,.110,.120,-.025],[faceH*1.03,.081,.089,-.023],[faceH*1.09,.021,.032,-.012],[faceH*1.10,.003,.003,-.012]],p.trim,7);

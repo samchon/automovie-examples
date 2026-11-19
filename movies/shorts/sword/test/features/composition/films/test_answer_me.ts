@@ -1,11 +1,23 @@
 import assert from "node:assert/strict";
-import { Vector3 } from "three";
+import { Box3, Vector3 } from "three";
 import { answerMe } from "../../../../src/composition/films/answer-me";
 
-/** The payment, mounted intervals and final separation survive random-access playback. */
+/**
+ * Exercises the public Answer Me film factory and checks semantic positions and
+ * visibility across the six beats, including out-of-order frame seeks.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation Names the production entry, the seek operation and the script-visible state being checked.
+ * @evidence contracts/development/testing.md#behavioral-verification Checks the delivery profile, coin visibility, mounted separation, continuous dismount, muzzle proximity, sleeve grip with separate palms, release before the swing, gate clearance, changing foot support and the closing separation. An out-of-order seek must reproduce the final nose position.
+ * @evidence contracts/development/testing.md#independent-expectations Story direction and order come from docs/body/screenplay/answer-me/010-breeding-yard-road.md#road and its six beats. The delivery settings come from docs/acceptance/answer-me.md. The clearance probe measures the built gate. The support check measures the boot sole against ground level. Geometric tolerances check staged proximity and continuity. Shot legibility and sound are reviewed in production acceptance.
+ * @evidence contracts/development/testing.md#distinguishing-cases Includes the coin before and after concealment, the grip held and released, shut and open gate, unchanged support within a stride and different support later, and a repeated late seek after an early one. Whole-cut frame and audio review belong to production acceptance.
+ * @evidence contracts/development/testing.md#execution-ownership The production unit runner discovers test_answer_me. It creates the real scene graph and native motion in memory using installed libraries; no browser, audio playback, clock or renderer participates. A finally block disposes the production.
+ */
 export async function test_answer_me(): Promise<void> {
   const film = answerMe();
-  assert.equal(film.fps * film.durationSeconds, 1440);
+  assert.deepEqual(
+    [film.durationSeconds, film.fps, film.width, film.height],
+    [60, 24, 1280, 720],
+  );
   const production = await film.create();
   try {
     const find = (name: string) => {
@@ -42,6 +54,9 @@ export async function test_answer_me(): Promise<void> {
     assert.ok(!coin.visible);
     production.seek(53);
     assert.ok(Math.abs(gate.rotation.y) < 0.02);
+    const closedGate = new Box3().setFromObject(gate, true);
+    const railStart = closedGate.min.x - gate.position.x;
+    const railEnd = closedGate.max.x - gate.position.x;
     const lucFist = luc.getObjectByName("right palm")!;
     const remyPalm = remy.getObjectByName("left palm")!;
     const remySleeve = remy.getObjectByName("upper sleeve grip")!;
@@ -54,19 +69,21 @@ export async function test_answer_me(): Promise<void> {
     for (let frame = 1317; frame <= 1350; frame++) {
       production.seek(frame / film.fps);
       const foalInGateFrame = gate.worldToLocal(foal.position.clone());
-      const nearestRail = Math.min(2.91, Math.max(0, foalInGateFrame.x));
+      const nearestRail = Math.min(railEnd, Math.max(railStart, foalInGateFrame.x));
       assert.ok(Math.hypot(foalInGateFrame.x - nearestRail, foalInGateFrame.z) > 0.56, `foal clears the moving gate in frame ${frame}`);
     }
     const leftAnkle = remy.getObjectByName("left ankle")!;
     const rightAnkle = remy.getObjectByName("right ankle")!;
+    const soleHeight = (ankle: typeof leftAnkle) =>
+      new Box3().setFromObject(ankle, true).min.y;
     production.seek(1408 / film.fps);
     const planted = world(rightAnkle);
-    assert.ok(Math.abs(planted.y - 0.074) < 0.015);
+    assert.ok(Math.abs(soleHeight(rightAnkle)) < 0.02);
     assert.ok(world(leftAnkle).y > planted.y + 0.06);
     production.seek(1410 / film.fps);
     assert.ok(planted.distanceTo(world(rightAnkle)) < 0.02);
     production.seek(1424 / film.fps);
-    assert.ok(Math.abs(world(leftAnkle).y - 0.074) < 0.015);
+    assert.ok(Math.abs(soleHeight(leftAnkle)) < 0.02);
     const remyRight = remy.getObjectByName("right palm")!;
     const purse = remy.getObjectByName("belt purse")!;
     assert.ok(world(remyRight).distanceTo(world(purse)) < 0.065);

@@ -2,6 +2,20 @@ import * as T from "three";
 import { mergeGeometries } from "three/examples/jsm/utils/BufferGeometryUtils.js";
 
 const surfaces = new Map<number, T.MeshStandardMaterial>();
+/**
+ * Returns the yard palette material for a packed RGB colour. Treat it as shared.
+ *
+ * @evidence contracts/development/entities.md#settings-realization Yard and prop callers choose the colours for road, stone, wood or dressings. The visible palette uses their supplied colour directly.
+ * @evidence contracts/development/entities.md#object-shape A shared material is a draw fragment; no entity behavior, positional state or timing lives here.
+ * @evidence contracts/development/entities.md#controls-and-source Packed RGB is the only variable. Native Three.js builds this repository-authored matte material with fixed shading and sidedness.
+ * @evidence contracts/development/common.md#meaningful-documentation Defines the colour input and warns that the returned material identity is shared.
+ * @evidence contracts/development/implementation.md#principled-implementation The material uses matte, flat shading and two-sided drawing for the yard's coarse geometry.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure Centralizes yard material creation independently of placement and geometry.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The palette key is the actual supplied colour, with uniform material settings across callers.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Performs one map lookup and constructs one material only on a miss.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Palette entries share material identity for equal supplied colours and fixed settings, enabling static batching by material.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources Retains one material per distinct colour for the life of the module. The authored yard palette is finite; arbitrary callers would grow it without eviction.
+ */
 export function surface(color: number): T.MeshStandardMaterial {
   let material = surfaces.get(color);
   if (!material) {
@@ -10,15 +24,61 @@ export function surface(color: number): T.MeshStandardMaterial {
   }
   return material;
 }
+
+/**
+ * Attaches the supplied geometry in parent-local metres using the shared palette.
+ *
+ * @evidence contracts/development/entities.md#settings-realization Carries the owner-selected geometry and colour into set dressing and props; their factories select the facts and placement.
+ * @evidence contracts/development/entities.md#object-shape The caller owns the attached mesh and mutable placement. The helper returns no behavior or time state.
+ * @evidence contracts/development/entities.md#controls-and-source Input geometry, position and colour rebuild the mesh in Three.js. Detail is provided through the geometry input.
+ * @evidence contracts/development/common.md#meaningful-documentation Names the attached result, local frame and shared palette.
+ * @evidence contracts/development/implementation.md#principled-implementation Combines caller-supplied geometry with one palette material and applies an ordinary local translation.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The set and props choose shape; form centralizes attachment and colour lookup.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Attaches the supplied geometry directly and applies all three caller coordinates.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Allocates one mesh without traversing vertex buffers; material lookup is keyed by colour.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Shares palette material and uses the supplied geometry by reference, while transform state is per mesh.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources Parent graph owns the mesh. The supplied geometry follows caller lifetime and the material belongs to the shared palette.
+ */
 export function form(parent: T.Object3D, geometry: T.BufferGeometry, color: number, x: number, y: number, z: number): T.Mesh {
   const mesh = new T.Mesh(geometry, surface(color));
   mesh.position.set(x,y,z);
   parent.add(mesh);
   return mesh;
 }
+
+/**
+ * Attaches a centred box using parent-local metre positions and dimensions.
+ *
+ * @evidence contracts/development/entities.md#settings-realization The yard uses rectangular pieces for the bench, wall, rails and fittings from docs/body/screenplay/answer-me/010-breeding-yard-road.md#road. This fragment applies the owner's dimensions to the draw.
+ * @evidence contracts/development/entities.md#object-shape Returns the caller-owned static or movable mesh. The yard or scene determines whether it is batched, separately named or animated.
+ * @evidence contracts/development/entities.md#controls-and-source The position, width, height, depth and colour rebuild the coarse Three.js box directly.
+ * @evidence contracts/development/common.md#meaningful-documentation States the centred origin, local coordinate frame and dimensional units.
+ * @evidence contracts/development/implementation.md#principled-implementation A native BoxGeometry represents the required positive side dimensions in X, Y and Z, centred at the supplied local position.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure Owns box geometry only; form owns the mesh and palette hookup.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Box dimensions are supplied by the subject that owns the placement, with the same primitive used for all supported inputs.
+ * @evidence contracts/development/implementation.md#efficient-algorithms A box has fixed vertex and index count with default one segment per side.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Uses the shared palette and attachment helper. Each box has its own geometry for its specified sizes and set batching.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources Geometry is owned by the returned mesh until static batching or by the owning graph if animated. The helper retains nothing.
+ */
 export function box(p: T.Object3D,c: number,x:number,y:number,z:number,w:number,h:number,d:number): T.Mesh {
   return form(p,new T.BoxGeometry(w,h,d),c,x,y,z);
 }
+
+/**
+ * Attaches a coarse cylinder between distinct parent-local points in metres.
+ * The end radius defaults to the start radius.
+ *
+ * @evidence contracts/development/entities.md#settings-realization The scene uses this fragment for the striped silhouettes introduced at docs/body/screenplay/answer-me/010-breeding-yard-road.md#road. The scene owns the prop design, placement and cue.
+ * @evidence contracts/development/entities.md#object-shape Returns a caller-owned mesh aligned between shape endpoints. The parent owns interaction or animation.
+ * @evidence contracts/development/entities.md#controls-and-source Endpoints, radii and a palette colour rebuild the fixed coarse Three.js mesh. No physical or purchased prop asset is used.
+ * @evidence contracts/development/common.md#meaningful-documentation Defines endpoint frame, nonzero span and the end radius default.
+ * @evidence contracts/development/implementation.md#principled-implementation The midpoint locates the cylinder, distance sets its Y length and a quaternion maps its +Y axis onto the endpoint direction. Supported endpoints are distinct.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure This fragment owns bar shape and orientation. Form manages attachment and material.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Points and radii are supplied by callers; eight radial sides are a coarse display setting.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Uses fixed-size geometry and constant vector and quaternion operations per call.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Uses the general geometry attachment and palette while preserving independent transforms and endpoint sizes.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources Transfers the resulting geometry to the attached mesh. The caller owns its graph lifetime; this helper retains nothing.
+ */
 export function bar(p:T.Object3D,c:number,a:T.Vector3,b:T.Vector3,r:number,end=r):T.Mesh {
   const m = form(p,new T.CylinderGeometry(end,r,a.distanceTo(b),8),c,(a.x+b.x)/2,(a.y+b.y)/2,(a.z+b.z)/2);
   m.quaternion.setFromUnitVectors(new T.Vector3(0,1,0),b.clone().sub(a).normalize());
@@ -80,7 +140,21 @@ function collectStatics(source:T.Group):T.Group {
   for(const [material,list] of groups){ const geom=mergeGeometries(list);if(geom)merged.add(new T.Mesh(geom,material));for(const geo of list)geo.dispose(); }
   return merged;
 }
-/** The grass verge, dry-stone wall and hinged gate share a continuous stretch of road. */
+/**
+ * Adds the continuous road, grass verge, dry-stone wall, gate and late-afternoon
+ * light to the supplied scene. Returns the gate hinge, latch and bench reference.
+ *
+ * @evidence contracts/development/entities.md#settings-realization docs/body/brief/world/pass-road.md#two-approaches supplies a household yard and horse run along the lower valley road with the hospice out of sight. docs/body/screenplay/answer-me/010-breeding-yard-road.md#road supplies the bench, wall, shut gate, roadside curve, grass verge and adjacent paddock. The scene uses hinge and latch after release to admit the mare.
+ * @evidence contracts/development/entities.md#object-shape Attaches one set and returns the mutable gate and latch nodes and a bench construction reference. The bench's visible geometry becomes part of the static batch. The caller owns the gate timing and scene state; this is a Three.js graph factory.
+ * @evidence contracts/development/entities.md#controls-and-source Authored metre-scale geometry and fixed tint seeds reproduce the coarse yard. Three.js and its geometry utilities build the repository-authored set. The gate hinge and latch keep separate drawable transforms. No detailed or external asset is commissioned in this cut.
+ * @evidence contracts/development/common.md#meaningful-documentation Names the input scene, continuous landmarks, lights and returned set references.
+ * @evidence contracts/development/implementation.md#principled-implementation Models the road and paddock in a common metre space. Static vertex positions are baked into the group frame, and the gate and latch retain actual parent-relative transforms for movement.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The set owns lighting, terrain and prop placement. Geometry helpers supply primitives; static collection merges stable geometry while retaining the animation hinges outside that batch.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Repeated masonry variation derives from fixed position-based seeds. Layout, afternoon lighting and tint are authored set choices rather than a reconstructed location survey.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Construction visits each static source geometry and its vertices for the material batches. Seek needs no terrain rebuild.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Static meshes with the same fixed palette material merge once per set construction. Geometry positions are owned by that new scene; palette materials remain shared.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources Static collection disposes source and temporary geometries after merging. The scene owns the baked meshes, moving geometries and lights; palette materials remain module-owned.
+ */
 export function buildYard(scene:T.Scene){
   scene.background=new T.Color(0xb0cbd2);
   scene.fog=new T.FogExp2(0xc7cdc1,.0074);

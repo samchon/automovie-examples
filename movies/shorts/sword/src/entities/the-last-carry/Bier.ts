@@ -194,7 +194,20 @@ function linenGeometry(reveal: number, breeze: number, lift: number = reveal): T
   return geo;
 }
 
-/** Build the carried bier in meters. Its rear corner opens with reveal in [0,1] and breathes with phase in radians. */
+/**
+ * Builds the bier in local metres. Its rear corner opens with a reveal weight in [0,1], and the cloth breathes with a phase in radians.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation States the control ranges, local scale and world-space hem target the consumer receives.
+ * @evidence contracts/development/implementation.md#principled-implementation Models the fixed frame and shoe and evaluates a parametric shroud on a shared grid. Three blends three authored position and normal targets. HemPoint evaluates the same controls for the widow's staged hand target.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure Separate frame, shoe and linen producers feed one bier root. ValleyLane owns placement, absolute time and the carrying transitions.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Shroud bell profiles, shoe clearance and breeze are visual shape settings. The source does not solve drape physics or infer measured dimensions from the historical miniature.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Initial work samples the 48×96 grids four times and creates fixed detail meshes. SetHem only writes three morph weights and HemPoint computes one position.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Each seek reuses positions and normals on the common topology. Geometry and morph weights belong to the built instance.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The scene owns the mounted root, morph buffers and resources. The lane releases mesh materials and geometries when disposed.
+ * @evidence contracts/development/entities.md#settings-realization docs/body/brief/cast/shrouded-uncle.md#appearance specifies off-white linen and a worn brown toe. docs/body/brief/cast/shrouded-uncle.md#screen places the toe at the widow's rear corner. docs/research/history/road-and-households.md#bearers informs the draped-bier silhouette, without dimensions.
+ * @evidence contracts/development/entities.md#object-shape Returns the group, a mutable hem setter and a world-space endpoint for ValleyLane. The scene retains the pose and decides the rail transfers.
+ * @evidence contracts/development/entities.md#controls-and-source Procedural shape and texture sources rebuild the commissioned bier and shoe. Reveal, lift and breeze act on the same cloth surface; the visible corner and hand target use those controls together.
+ */
 export function createCarryBier(): {
   root: THREE.Group;
   setHem(reveal: number, phase: number): void;

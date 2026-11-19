@@ -6,6 +6,17 @@ import { castWardrobe, dress } from "./CarryWardrobe";
 
 export type { CarryRole } from "./CarrySculpture";
 
+/**
+ * Describes a seek's actor-local costume controls. Stride is a distance-derived phase, rotations are radians, targets are metres, and blend weights are unitless.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation Defines the controls, side convention and coordinate frames used by the actor.
+ * @evidence contracts/development/design.md#principled-representation The right contact is -1 and the left is +1. Hand and pinch targets are actor-local Three vectors. Rail underside is the lane's world-Y in metres, which agrees with the actor's upright floor origin for supported carriers. Numeric finiteness and blend ranges remain runtime premises.
+ * @evidence contracts/development/design.md#minimal-and-owned-surface Cast owns the pose input used by ValleyLane. Optional hand, pinch and support goals let the same actor walk freely or accept a scene target.
+ * @evidence contracts/development/design.md#prohibited-design-shortcuts Missing targets mean native locomotion or default controls, and grip may exist without a special marker. Types restrict the contact side; they do not restrict incompatible or out-of-range blends.
+ * @evidence contracts/development/entities.md#settings-realization docs/body/brief/cast/widow.md#screen and docs/body/brief/cast/relief-bearer.md#screen place their shoulders at opposite rear poles. ValleyLane gives Cast distinct side, load and grip targets during each substitution.
+ * @evidence contracts/development/entities.md#object-shape A pose input record passed to a separately owned mutable Three actor. The caller owns the supplied goals and the actor reads them during pose.
+ * @evidence contracts/development/entities.md#controls-and-source The same actor consumes these controls for its installed gait and costume rig. Named local hand and shoulder targets drive the current screen performance.
+ */
 export interface CarryPose {
   stride: number;
   walk: number;
@@ -73,7 +84,20 @@ function place(segment:THREE.Group,start:THREE.Vector3,end:THREE.Vector3):void {
   segment.quaternion.setFromUnitVectors(up,end.clone().sub(start).normalize());
 }
 
-/** A clothed canonical Human retarget in metres, feet at zero, +Y up and +Z forward. */
+/**
+ * Creates one clothed canonical Human retarget in metres with its feet at zero, +Y up and +Z forward. The scene clock supplies authored seconds.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation Identifies the borrowed clock, local basis, attached actor, pose capability and shoulder measurements.
+ * @evidence contracts/development/implementation.md#principled-implementation Builds articulated costume groups and maps native gait bones, breath and selected gestures onto them. Two-bone geometric fits resolve limb endpoints and authored rail and pinch targets in the actor frame.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure Dress and CarryHand own appearance, CarryNativeMotion owns installed motion, and this actor maps those inputs to scene controls and named contacts. ValleyLane places actors and determines which endpoint they need.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Blend weights, boot shade, the four pinch-fit iterations and side-dependent elbow hints are production staging choices. They do not model cloth or exact support force. The original picture review records remaining sleeve and grip limitations.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Construction builds bounds-limited costume meshes. A seek samples the role and performs two sides of fixed-size limb fitting, with four extra iterations when a pinch marker is supplied.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Actors of the same role share compiled tracks and hand geometry. Scene roots, pivots, contact names and morph weights belong to each instance.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The returned root and pose closure belong to the mounted scene. Scene disposal releases reachable geometry and materials. Shared source material and hand geometry references remain module-owned.
+ * @evidence contracts/development/entities.md#settings-realization docs/body/brief/cast/denis.md#screen and docs/body/brief/cast/colin.md#screen identify the cousins' shoulders and clothing. docs/body/brief/cast/widow.md#screen, docs/body/brief/cast/relief-bearer.md#screen, docs/body/brief/cast/front-bearer-left.md#screen and docs/body/brief/cast/front-bearer-right.md#screen specify which side meets each pole. ValleyLane chooses when each contact applies.
+ * @evidence contracts/development/entities.md#object-shape Returns a mutable actor Group with an explicit pose operation and shoulder dimensions. This direct-3D implementation exposes transforms instead of a readonly entity action record.
+ * @evidence contracts/development/entities.md#controls-and-source Wardrobe and the approved cast references provide the costume. Installed canonical Human samples drive the visible costume and installed F1 lofts produce the hands. The commissioned form has named coat and pinch contacts; it has no coarse mode.
+ */
 export function createCarryActor(role: CarryRole, seconds: () => number) {
   const root=new THREE.Group(), trunk=new THREE.Group(), body=new THREE.Group(), head=new THREE.Group();
   root.name=role;

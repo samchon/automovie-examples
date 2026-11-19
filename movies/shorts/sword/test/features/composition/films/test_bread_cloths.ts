@@ -2,7 +2,17 @@ import assert from "node:assert/strict";
 import { Vector3 } from "three";
 import { breadCloths } from "../../../../src/composition/films/bread-cloths";
 
-/** Read the connected film scene across its five beats and seek back through the rescue. */
+/**
+ * Verify the live Bread Cloths stage with authored times expressed in seconds.
+ * Check the film format, cloths, shoe reseating, cap, seam, sack transfers,
+ * bread portions and reverse seek. Release the stage after assertions.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation The comment names the staged cases, film timebase and release obligation.
+ * @evidence contracts/development/testing.md#execution-ownership The production's DynamicExecutor discovers the exported test_bread_cloths by its test_ prefix. The test constructs the public descriptor and scene in memory, seeks without a renderer, and disposes in finally. There are no child cases registered at runtime.
+ * @evidence contracts/development/testing.md#behavioral-verification Check observable stage transforms and visibility for the separated and reseated shoe, fixed cap, opening tear, single then shared sack support, passing the cap and the final bread portions. A reverse seek checks that later poses cannot contaminate the earlier sack mark.
+ * @evidence contracts/development/testing.md#independent-expectations The delivery profile supplies 1,440 frames and the 1280 by 720 raster. The screenplay supplies the open cloths, shoe staying at its mark until reseating, three loaves from the tear, handoff order and equal portions. The hand-set metre bounds distinguish near and far stage placement and allow numerical error for repeatability. They do not measure anatomy, timing fidelity at every frame or perceived contact.
+ * @evidence contracts/development/testing.md#distinguishing-cases The test contrasts left shoe separated from the foot with reseated at the same ground mark, tear closed with tear open, support at Red Cap with the shared midpoint, and whole third loaf with two carried halves. It checks a reverse seek and leaves general input errors, adjacent-frame motion, and sound and rendered legibility outside its in-memory coverage.
+ */
 export async function test_bread_cloths():Promise<void> {
   const film=breadCloths();
   assert.equal(film.durationSeconds*film.fps,1440);

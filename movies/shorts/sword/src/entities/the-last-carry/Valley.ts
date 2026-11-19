@@ -230,7 +230,20 @@ function conifer(random: () => number): THREE.BufferGeometry {
   return geo;
 }
 
-/** Builds the valley in metres. The timber leaf turns inward from its east post at z=12. */
+/**
+ * Builds the burial lane in world metres and mounts its chapel, graveyard, gate and morning light in the supplied scene.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation Identifies scene mutation, metre scale, the normalized gate control and its world-space handle output.
+ * @evidence contracts/development/implementation.md#principled-implementation Builds the lane with fixed-seed terrain and plant details and instance batches for repeated static forms. A single pivot drives gate closure under a clamped input.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The set owns its procedural placement and hinge shape. ValleyLane drives gate timing and the woman's contact with the returned handle.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Seeded vegetation, slope, buildings and lighting are art direction for the valley setting. They do not reconstruct a surveyed site.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Build time and retained mesh buffers grow with terrain and per-batch placements; targets and the gate state take constant work per seek.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Repeated shapes are instanced within each batch. A new mount builds its own terrain and lights, while each seek reuses the set and hinge.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The supplied scene owns the attached set and lights. Lane disposal clears mesh geometry and material handles; this factory retains no additional per-scene registry.
+ * @evidence contracts/development/entities.md#settings-realization docs/body/brief/world/pass-road.md#two-approaches places the lane in a settlement on the Aosta side. docs/body/screenplay/the-last-carry/010-valley-lane.md#lane and #mark need a gate open to a funeral and later drawn shut. The visual set provides that route and hinge.
+ * @evidence contracts/development/entities.md#object-shape Returns a closure setter and a world-space handle position for the gate woman's hand. The Three pivot lives in the scene as mutable direct-3D state.
+ * @evidence contracts/development/entities.md#controls-and-source The set is authored procedurally from production proportions, one seed and Three primitives. A single commissioned form supplies the gate control; it does not load external meshes.
+ */
 export function createCarryValley(scene: THREE.Scene): {
   setGate(closed: number): void;
   gateHandle(): THREE.Vector3;

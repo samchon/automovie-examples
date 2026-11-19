@@ -6,6 +6,26 @@ import { createRequire } from "node:module";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
+/** The stage bundle installs this bridge before Playwright evaluates either method. */
+interface CarryBrowserWindow {
+  mount(): Promise<{
+    width: number;
+    height: number;
+    fps: number;
+    seconds: number;
+    gpu: string;
+  }>;
+  draw(input: { seconds: number; witness: boolean }): Promise<{
+    png: string;
+    camera: [number, number, number, number];
+    fov: number;
+    motion: Record<string, { boot: [number, number, number] } & Record<string, unknown>> | undefined;
+  }>;
+}
+
+/** This binding is used only in callbacks that Playwright evaluates in the page. */
+declare const window: CarryBrowserWindow;
+
 const project = fileURLToPath(new URL("../../", import.meta.url));
 const require = createRequire(join(project, "package.json"));
 const esbuild = createRequire(require.resolve("vite/package.json"))("esbuild");
@@ -107,7 +127,7 @@ try {
   );
   await page.goto("http://last-carry.test/");
   await page.addScriptTag({ content: bundle.outputFiles[0].text });
-  const meta = await page.evaluate(() => (window as any).mount());
+  const meta = await page.evaluate(() => window.mount());
   const total = meta.seconds * meta.fps;
   if (total !== 1440 || meta.width !== 1280 || meta.height !== 720 || meta.fps !== 24) {
     throw new Error("The production clock or 720p raster has changed");
@@ -131,7 +151,7 @@ try {
       const seconds = frame / meta.fps;
       const saved = preview !== undefined || retain(frame);
       const payload = await page.evaluate(
-        (arg) => (window as any).draw(arg),
+        (arg) => window.draw(arg),
         { seconds, witness: saved },
       );
       const bytes = Buffer.from(payload.png, "base64");

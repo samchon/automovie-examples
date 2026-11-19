@@ -14,7 +14,22 @@ function look(
   camera.updateProjectionMatrix();
   camera.lookAt(target);
 }
-/** Hold the two performers in the circle, then direct attention to the verdict and its payoff. */
+/**
+ * Set the production camera from an absolute film second.
+ * The shot cuts use the film clock. Inside each view, the positions and
+ * targets use stage metres, and the vertical field of view is in degrees.
+ *
+ * @evidence contracts/development/implementation.md#principled-implementation Hard cuts put decisive evidence in reach of the viewer. Within a shot the time-keyed positions, axes and field of view use the same bounded smooth interpolation.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure Leave the camera transforms in one owner. The scene supplies the runtime and cast independently.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The cut and view marks come from the accepted staging revision and source pilot. The boot insert and closing shared frame serve different visible subjects.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Inspect a fixed number of cut intervals and traverse the position, target and field-of-view keys within the selected view. The work is independent of video length.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Reuse the caller-provided camera and the same view keys at every seek. Time and the chosen cut decide the result.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The caller owns the mutable camera. Only short-lived vectors and key tables are allocated by this call.
+ * @evidence contracts/development/common.md#meaningful-documentation The comment states the timebase, spatial and angular units and that the camera changes in place.
+ * @evidence contracts/development/composition.md#screenplay-realization The entrance cut preserves the wide pair and the score. The viewer then sees the lad, print, admission, saddle exchange and doorway gesture.
+ * @evidence contracts/development/composition.md#composition-only The scene calls the camera helper at absolute film times. The helper owns shot coordinates, target changes and authored cut marks.
+ * @evidence contracts/development/composition.md#living-scene The frame moves between bench, ring and doorway as the subjects change. The last view again holds the bench and threshold together.
+ */
 export function yardCamera(camera: THREE.PerspectiveCamera, t: number): void {
     if ((t >= 34.25 && t < 35.42) || (t >= 36.72 && t < 37.09)) {
       look(camera, new THREE.Vector3(-1.59, 1.43, 1.93), new THREE.Vector3(-2.62, 1.25, .30), 35);

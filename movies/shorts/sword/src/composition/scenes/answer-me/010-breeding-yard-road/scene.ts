@@ -55,7 +55,35 @@ function loopedProp(scene:T.Scene){
   }
   return g;
 }
-/** Exact-time staging of the six signed beats on the breeding-yard road. */
+/**
+ * Stages docs/body/screenplay/answer-me/010-breeding-yard-road.md#road from the
+ * paid bench through the chestnuts' reunion and Rémy's departure. The scene
+ * owns a disposable graph and a deterministic seek in absolute seconds.
+ *
+ * Concretization: use a metre-scale stage with +X along the road and the yard
+ * on the −Z side. Road distances, camera lenses, cue envelopes, contact points
+ * and the cut through Rémy's continuing jog implement the published staging.
+ * The signed manuscript records beat times, subject positions relative to set
+ * landmarks and camera intentions. The sound is authored separately by score.ps1.
+ *
+ * @evidence docs/body/screenplay/answer-me/010-breeding-yard-road.md#road Places the clerk and riders at the muster, with the foal behind the shut gate down the wall.
+ * @evidence docs/body/screenplay/answer-me/010-breeding-yard-road.md#both Shows coin transfer to the green belt, Luc's look from the mare's white sock and successive departures.
+ * @evidence docs/body/screenplay/answer-me/010-breeding-yard-road.md#lances Tracks the mounted pair by the wall through the pass, staged armour glance and grey gaining.
+ * @evidence docs/body/screenplay/answer-me/010-breeding-yard-road.md#change Leaves both shafts behind in separate positions and reveals the looped props in the riders' hands.
+ * @evidence docs/body/screenplay/answer-me/010-breeding-yard-road.md#answer Layers mounted recoils and dust over the chase, leaves Rémy's dropped prop behind and lets the grey slow first.
+ * @evidence docs/body/screenplay/answer-me/010-breeding-yard-road.md#reach Returns the mare to the foal, brings each rider down in turn, and holds a three-quarter view of Luc stopping Rémy by the sleeve.
+ * @evidence docs/body/screenplay/answer-me/010-breeding-yard-road.md#sleeve Releases the ochre sleeve before unlatching the gate, then shows the reunited chestnuts, the grey with Luc outside, and Rémy running with the purse.
+ * @evidence contracts/development/composition.md#screenplay-realization Realizes the six signed beat intervals and carries purse, props, reins and gate state across cuts. The fixed metre offsets and lenses in Concretization are implementation choices. The three-dimensional stylization limits the visibility of some brief mounted contacts; the companion soundtrack supplies their cues.
+ * @evidence contracts/development/composition.md#composition-only Combines yard and cast controls and compiles installed walk and jog for the visible ground travel. It still owns local scene coordinates, the key interpolation, mounted blocking and visual effects; these are scene-owned implementations in this cut.
+ * @evidence contracts/development/composition.md#living-scene Layers motion over the verge, wall and gate with moving side, close and wide views. Ground actors transition between saddle and ground, while the animals carry gait, ears, head, stance and nose contacts. The slot for the voice and sound cues is shared with the score.
+ * @evidence contracts/development/common.md#meaningful-documentation Names the signed scene and beat owners, disposable result, stage coordinate system and source of sound.
+ * @evidence contracts/development/implementation.md#principled-implementation Seek clamps to the minute and rebuilds transforms from absolute seconds. Fixed ordered keys interpolate metres or radians, and native readings use their own elapsed seconds. Only Luc's approach and Rémy's final ground travel use human native FK; local pose and contact staging covers the other intervals.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The yard and cast factories own their drawable rigs, nativeStageMotion owns the installed-motion adapter, and this scene owns state transitions, shot choice and staging.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The road keys and contacts are authored dramatic blocking. The jog distance cut is found against native root translation, and foot height compensates for the visible shoe sole versus the native ankle datum. Impact pictures are composed cues, with no physical contact prediction.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Construction compiles both native actions once and bisects the continuing jog cut in 24 iterations. Each seek traverses small fixed key arrays and updates a fixed cast and 14 dust shapes; no simulation steps depend on the seek distance.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Reuses the rig, props, camera and compiled performances across seeks in one production. Independent consumers receive their own mutable scene graph.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources Created scene graphs own their fixed set of draw objects and performances. Dispose releases attached geometries and generated shadow textures and materials, then clears the scene. Other non-shadow materials have no explicit per-production disposal here, and the yard palette is module-owned.
+ */
 export async function breedingYardRoad():Promise<IFilmProduction>{
   const scene=new T.Scene();const camera=new T.PerspectiveCamera(36,16/9,.035,280);
   const {gate,latch}=buildYard(scene);
@@ -167,7 +195,7 @@ export async function breedingYardRoad():Promise<IFilmProduction>{
     const answer=ease(t,12.82,14.07)-ease(t,17.18,18.78);
     const home=ease(t,38.1,40.2)-ease(t,44,46.4);
     const armourYell=pulse(t,27.3,27.55,28.38);
-    remy.perform((riddenR?.045:.11*escape)+.20*armourYell+.19*strain,1.21*answer+.76*home-.34*(ease(t,2.8,3.6)-ease(t,5.6,6.7))-.61*pulse(t,50.1,51.2,54.1),.20*(ease(t,1.5,1.9)-ease(t,3,3.65))+.13*home);
+    remy.perform((riddenR? .045:.11*escape)+.20*armourYell+.19*strain,1.21*answer+.76*home-.34*(ease(t,2.8,3.6)-ease(t,5.6,6.7))-.61*pulse(t,50.1,51.2,54.1),.20*(ease(t,1.5,1.9)-ease(t,3,3.65))+.13*home);
     const lucLooksAtHorses=pulse(t,51.72,52.28,52.95);
     luc.perform(.05+.31*recoil+.15*(ease(t,32.9,33.12)-ease(t,33.27,34.1))+.06*stopsRemy,.49*(ease(t,2.8,3.6)-ease(t,5.6,6.7))+.69*(ease(t,49,50.4)-ease(t,54.8,56))-1.04*lucLooksAtHorses,.30*(ease(t,49,50.5)-ease(t,54.8,56))+.10*recoil-.23*lucLooksAtHorses);
     mare.setEarTurn(1.04*(ease(t,36.55,37.65)-ease(t,40.20,41.55)));
@@ -221,7 +249,7 @@ export async function breedingYardRoad():Promise<IFilmProduction>{
       const tipX=key(21.14+i*.51,road)-(i?key(21.14+i*.51,distanceBehind):0);
       pole.position.set(T.MathUtils.lerp(hand.x,tipX+.15,drop),T.MathUtils.lerp(hand.y, .065,drop),T.MathUtils.lerp(hand.z,i?-1.85:2.41,drop));
       const quiver=.087*Math.sin(26*(t-16.4))*(ease(t,16.4,16.52)-ease(t,17.9,19.3));
-      pole.rotation.set(T.MathUtils.lerp(i?.20*miss:-.29*scrape,0,drop),T.MathUtils.lerp(i?0:.23*scrape,i?.28:-.24,drop),T.MathUtils.lerp(-.15+(i?-.92*miss:1.49*scrape)+quiver,i?1.57:-1.57,drop));
+      pole.rotation.set(T.MathUtils.lerp(i? .20*miss:-.29*scrape,0,drop),T.MathUtils.lerp(i?0:.23*scrape,i? .28:-.24,drop),T.MathUtils.lerp(-.15+(i?-.92*miss:1.49*scrape)+quiver,i?1.57:-1.57,drop));
       const take=ease(t,23.02+i*.26,24.75+i*.18),put=i?ease(t,40.1,42.1):ease(t,33,33.8);
       const atSeat=1-take+(i?put:0);
       const wrist=(1-atSeat)*(1-put)*.07*Math.sin(t*10.2);
@@ -229,7 +257,7 @@ export async function breedingYardRoad():Promise<IFilmProduction>{
       prop.position.copy(hand).add(v(0,-.10+wrist,0)).lerp(socket,atSeat);
       prop.rotation.set(0,0,Math.PI*.93*atSeat+.35*(1-atSeat)+wrist*1.8);
       const screenContact=i?Math.max(clack,drum):Math.max(clack,thud);
-      const screenTarget=middleOfHands.clone().add(v(i?.29*drum:-.22*thud,i?-.11*drum:-.10*thud,0));
+      const screenTarget=middleOfHands.clone().add(v(i? .29*drum:-.22*thud,i?-.11*drum:-.10*thud,0));
       const contactAngle=new T.Quaternion().setFromUnitVectors(v(0,1,0),screenTarget.sub(prop.position).normalize());
       const flourish=new T.Quaternion().setFromAxisAngle(v(1,0,0),.54*swing*(i?1:-1));
       prop.quaternion.multiply(flourish).slerp(contactAngle,screenContact);

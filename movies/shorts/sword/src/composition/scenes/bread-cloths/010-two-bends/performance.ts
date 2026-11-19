@@ -2,20 +2,28 @@ import { AutoMovieComposition } from "@automovie/engine";
 import type { IAutoMovieMotionHumanBody } from "@automovie/interface";
 import { HumanChain } from "@automovie/motions";
 
-import { nativeStageMotion } from "../../shared/nativeStageMotion";
+import { nativeStageMotion } from "../../../shared/nativeStageMotion";
 import { blocking, type Role } from "./blocking";
 import { stump } from "./road";
 
 type RoadCue = "alix-wave" | "caller-point" | "perrin-signal" | "red-stump";
 
 /**
- * Admitted local gait and two-handed carry performances for the road actors.
+ * Compile the cast's native walking, bread-carry and gesture tracks once for the road scene.
+ * Cast heights are metres. The returned samplers accept local action seconds and
+ * expose the shared stage sampler's root-relative joint positions in metres.
+ * Scene posing owns the shoulder sack, loose shoe and shared sack contacts.
  *
- * The road supplies world travel, facing and ground. These parallel native
- * performances supply the visible foot, knee and hand motion in that moving
- * frame. The attached shoulder sack, slipping shoe and two-person load keep
- * their staged contacts because the shipped carry does not admit shoulder
- * straps, shoe dressing, or a shared deforming sack.
+ * @evidence contracts/development/common.md#meaningful-documentation The comment distinguishes cast height and action clock units and names which contacts the scene still stages.
+ * @evidence contracts/development/implementation.md#principled-implementation Compile walking, two-handed carry, wave, point and finger contact as admitted HumanChain nodes in one parallel composition. Red Cap's native touch uses the authored world position and facing of his stance at the stump.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure Keep the native graph and its shared FK sample shape here. The scene chooses when native joints drive the actor and places the props it owns.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The profiles, action clock offsets chosen by the caller, bread load and contact target are production settings. The native compiler resolves actions, while the shipped carry surface supplies no shoulder strap, shoe dressing or shared deforming sack channel.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Setup grows with the actor and cue counts plus the native planner's work for those action durations. Each request samples one compiled subject rather than rebuilding parallel tracks.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Equivalent calls within one scene share the tracks compiled from its heights, cue bases and authored destinations. A new scene compiles from its own inputs and no cross-scene cache is used.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The returned samplers keep the finite compiled performance and canonical body descriptions alive for the scene lifetime. They close over no renderer, OS handle or running task.
+ * @evidence contracts/development/composition.md#screenplay-realization Supplies the walking, initial wave, caller's point, Perrin's signal, reachable wood touch and final loaded carry for the authored stage.
+ * @evidence contracts/development/composition.md#composition-only Compose installed HumanChain actions in one native parallel plan using one seed. Its relative action times enter the scene through the stage sampler and the caller owns the absolute time mapping.
+ * @evidence contracts/development/composition.md#living-scene The performances provide moving joints through traversal and carry and supply the wave, point and reach layers. The scene places the changing contacts and camera without asking the gait to support the wrong prop.
  */
 export function breadRoadPerformance(
   cast: Readonly<Record<Role, { height: number }>>,

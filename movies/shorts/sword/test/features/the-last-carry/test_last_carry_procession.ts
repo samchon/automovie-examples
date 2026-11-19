@@ -1,8 +1,17 @@
 import assert from "node:assert/strict";
 import { theLastCarry } from "../../../src/composition/films/the-last-carry";
-import { processionDistance } from "../../../src/composition/scenes/the-last-carry/ValleyLane";
+import { processionDistance } from "../../../src/composition/scenes/the-last-carry/010-valley-lane/ValleyLane";
 
-/** Check the native-driven cast, fixed wide and final transfer independently of seek order. */
+/**
+ * Samples the visible cast, fixed wide and final sliver attachment out of seek
+ * order. Uses an in-memory production and releases it after the assertions.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation Names camera, cast, travel and transfer cases and documents the expected invariant or change at each sample.
+ * @evidence contracts/development/testing.md#behavioral-verification Checks the delivery frame count, stop and go distances, identical seek replay and fixed-wide camera, visible boot change and resolved acting samples, then coat and fingertip attachment in world space.
+ * @evidence contracts/development/testing.md#independent-expectations The screenplay's dip and resume require a halt and renewed travel, the recorded profile yields 1440 frames, and a named mark must share the held prop endpoint. Distance and gait thresholds are production staging checks rather than measurements of realistic gait. The attachment tolerance checks numerical coincidence rather than visual contact or force.
+ * @evidence contracts/development/testing.md#distinguishing-cases Tests a halted and a moving interval, frame zero and active gait, a fixed wide and a different camera, and adjacent frames on either side of the attachment change with the final held frame. It does not cover intermediate motion perception, mix, or the strength of the contact.
+ * @evidence contracts/development/testing.md#execution-ownership test/index.ts discovers test_last_carry_procession as a Node composition unit test. It performs explicit in-memory seeks without a browser, rendered film or audio.
+ */
 export async function test_last_carry_procession(): Promise<void> {
   const film = theLastCarry();
   assert.equal(film.durationSeconds * film.fps, 1440);

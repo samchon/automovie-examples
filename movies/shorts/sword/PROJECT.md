@@ -39,3 +39,5 @@ The [film registry](src/composition/films/index.ts) connects the four subjects t
 The [media manifest](media/manifest.json) records retained files, SHA-256 hashes, voice and dataset attribution, and the PowerShell commands for restoring each delivery. Its `acceptedFrames` records link the verified frame sheets and reviewer records to each exact master.
 
 The [shared motion adapter](src/composition/shared/nativeStageMotion.ts) resolves installed `HumanPerformance` compositions and exposes the sampled body and joints in the wardrobe figure's stage frame. Each film's acceptance record identifies the native actions that drive its rendered performers, along with source and screen observations for its staged contacts.
+
+The default `pnpm run evidence` check covered 51 of 51 units across seven active claims and nine obligations, with zero diagnostics. The shared TypeScript check and the focused Seat camera and motion-adapter tests passed. The full production test launcher timed out while waiting for its dependency build.

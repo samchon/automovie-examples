@@ -3,7 +3,22 @@ import { castActor } from "../../composition/shared/castActor";
 import type { nativeStageMotion } from "../../composition/shared/nativeStageMotion";
 import { cord, joint, oval, surface } from "./surfaces";
 
-/** The cast use the shared polygon body, with a seated pelvis or standing sole as placement origin. */
+/**
+ * Dresses the shared polygon body as Rémy, Luc or the clerk. The stage origin
+ * is a seated pelvis or a standing sole. Named hands, sleeve and purse provide
+ * the contact points used by the scene.
+ *
+ * @evidence contracts/development/entities.md#settings-realization docs/body/brief/cast/remy.md#appearance supplies taller proportions, ochre, steel and the green belt. docs/body/brief/cast/remy.md#screen supplies the belt purse. docs/body/brief/cast/luc.md#appearance supplies compact proportions, faded blue sleeves, dull steel and brown belt. docs/body/brief/cast/muster-clerk.md#appearance supplies the plum gown, black cap and marked right cuff. The coarse heads resolve broad features, with the scene carrying hand, clothing and role differences.
+ * @evidence contracts/development/entities.md#object-shape Returns a mutable performer rig with hand and garment attachment points. Mounted, dismount and stage pose controls write actor-local state. The scene owns world blocking and time.
+ * @evidence contracts/development/entities.md#controls-and-source One kind selects stage proportions, costume and accessories. The shared polygon body reaches the draw through castActor; groundTravel accepts installed sample data and preserves scripted hand goals. Fixed repository-authored meshes supply the wardrobe, with coarse geometry as the only commissioned draw form used here.
+ * @evidence contracts/development/common.md#meaningful-documentation Describes the variant input, root origins and the stage contact points returned by the rig.
+ * @evidence contracts/development/implementation.md#principled-implementation Applies stage angles in radians and maps world hand goals into the facing body frame. Feet and toes use native targets for groundTravel with a shoe-height offset. Mouth motion is driven by cue amount; it does not track phonemes.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure castActor owns common body construction. This adapter owns wardrobe, mount-relative placement, locally staged poses and the translation between named body contacts and scene targets.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The three wardrobe branches distinguish cast requirements. Ground travel consumes native samples. Seated and hand work use local authored poses.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Allocates one fixed articulated body and wardrobe per cast member, then updates its fixed joints and attachment points per pose.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work All three cast members use castActor and the same shape helpers. Each instance keeps independent clothing, pose and contact transforms.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources Scene-owned actions retain one body graph, garment and attachment references per performer. The scene disposes attached geometry; this function does not retain a global actor or explicitly release its materials.
+ */
 export function createRider(kind: "remy"|"luc"|"clerk") {
   const remy = kind === "remy", clerk = kind === "clerk";
   const height = remy ? 1.79 : clerk ? 1.70 : 1.69;

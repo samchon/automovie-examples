@@ -13,7 +13,7 @@ pnpm run evidence
 pnpm test
 ```
 
-The project starts with instructions, contracts and a working inspector page over an empty starter film. Passing checks do not complete a production.
+The project includes instructions, contracts and an inspector for the four commissioned films.
 
 Read the [production workflow](../../../.agents/skills/production/workflow.md) for the stages, their handoffs and the skills that own them.
 
@@ -21,9 +21,9 @@ Default lint and evidence check ordinary TypeScript source and tests. [Evidence 
 
 ## Films and the inspector
 
-Each delivered video is one film in `src/composition/films/`, registered in `src/composition/films/index.ts` under its [film name](../../../.agents/skills/development/source-layout.md#source), which its folder's path gives, with its running time, frame rate and optional `width` × `height` delivery raster: 1280 × 720 by default, 720 × 1280 for a vertical short. Each film composes its own scenes; the starter film `src/composition/films/starter.ts` holds an empty one.
+Each delivered video is one film in `src/composition/films/`, registered in `src/composition/films/index.ts` under its [film name](../../../.agents/skills/development/source-layout.md#source). A film supplies its running time, frame rate and raster and composes its corresponding screenplay scenes.
 
-`pnpm run dev` serves [the inspector](http://127.0.0.1:5173/) over the films of `src/subjects.ts`, the same subjects the capture draws. The page holds one request in the capture's grammar: its panels edit it, its address carries it, such as [the starter at 2 seconds through the front view](http://127.0.0.1:5173/?subject=starter&at=2&views=front), and it shows the `automovie capture` command whose options, given to `pnpm run capture`, repeat the picture. A request the capture refuses is refused on the page too, with the reason. Play, pause and seek run the same deterministic performance as export.
+`pnpm run dev` serves [the inspector](http://127.0.0.1:5173/) over the films of `src/subjects.ts`, the same subjects the capture draws. Its address carries the request, such as [The Better Seat at two seconds through the front view](http://127.0.0.1:5173/?subject=the-better-seat&at=2&views=front). The panels edit that request and show the matching `automovie capture` command. Failed requests show their reason. Play, pause and seek use the same performance as export.
 
 ## Stills
 
@@ -54,7 +54,7 @@ With `pnpm run dev` running, `pnpm run review --url <inspector-address> --second
 
 `pnpm run physics <input-module.ts> <output.amphys> [maximum-bytes]` computes a simulated performance once from a Node module exporting `createPhysicalInput()` and writes the archive with its JSON manifest, 256 MiB at most by default. Keep the archive as a [stage cache](../../../.agents/skills/production/stage-caches.md) under `.cache/` and regenerate it after changing physical inputs; playback, seeking and capture read it through the Engine's physical playback, which checks it against the current input's identity.
 
-Supply `IFilmProduction.performance` from the displayed state: `src/markFilmProduction.ts` hands it to the inspection in every host, and `marks=joint,bone,contact` draws its skeleton and contact forces. The starter's empty scene supplies none.
+Supply `IFilmProduction.performance` from the displayed state. `src/markFilmProduction.ts` gives it to each inspection host, and `marks=joint,bone,contact` draws its skeleton and contact forces.
 
 ## Make a motion hint
 

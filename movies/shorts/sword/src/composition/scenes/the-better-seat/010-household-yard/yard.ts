@@ -1,76 +1,8 @@
 import * as THREE from "three";
 import { mergeGeometries } from "three/examples/jsm/utils/BufferGeometryUtils.js";
 
-const materials = new Map<string, THREE.MeshStandardMaterial>();
-export function paint(c: number, metal = 0) {
-  const key = c + "-" + metal;
-  if (!materials.has(key))
-    materials.set(
-      key,
-      new THREE.MeshStandardMaterial({
-        color: c,
-        metalness: metal,
-        roughness: metal > 0.1 ? 0.37 : 0.84,
-      }),
-    );
-  return materials.get(key)!;
-}
-export function mesh(
-  p: THREE.Object3D,
-  g: THREE.BufferGeometry,
-  c: number,
-  x = 0,
-  y = 0,
-  z = 0,
-  metal = 0,
-) {
-  const o = new THREE.Mesh(g, paint(c, metal));
-  o.position.set(x, y, z);
-  p.add(o);
-  return o;
-}
-export function block(
-  p: THREE.Object3D,
-  c: number,
-  x: number,
-  y: number,
-  z: number,
-  w: number,
-  h: number,
-  d: number,
-) {
-  return mesh(p, new THREE.BoxGeometry(w, h, d), c, x, y, z);
-}
-export function oval(
-  p: THREE.Object3D,
-  c: number,
-  x: number,
-  y: number,
-  z: number,
-  w: number,
-  h: number,
-  d: number,
-  metal = 0,
-) {
-  const m = mesh(p, new THREE.SphereGeometry(1, 16, 12), c, x, y, z, metal);
-  m.scale.set(w, h, d);
-  return m;
-}
-export function rod(
-  p: THREE.Object3D,
-  c: number,
-  a: readonly number[],
-  b: readonly number[],
-  r: number,
-) {
-  const u = new THREE.Vector3(...a),
-    v = new THREE.Vector3(...b),
-    d = v.clone().sub(u);
-  const o = mesh(p, new THREE.CylinderGeometry(r, r, d.length(), 8), c);
-  o.position.copy(u).lerp(v, 0.5);
-  o.quaternion.setFromUnitVectors(new THREE.Vector3(0, 1, 0), d.normalize());
-  return o;
-}
+import { block, mesh, oval, rod } from "./yardPrimitives";
+
 function curve(p: THREE.Object3D, c: number, points: number[][], r: number) {
   const path = new THREE.CatmullRomCurve3(
     points.map((a) => new THREE.Vector3(...a)),
@@ -144,6 +76,22 @@ function batches(set: THREE.Group) {
     for (const s of gs) s.dispose();
   }
 }
+/**
+ * Build the courtyard set, score, bench and household in a browser-backed scene.
+ * Return the ordered witness heads, starting world positions in metres and
+ * initial yaw in radians for the ensemble sampler.
+ *
+ * @evidence contracts/development/implementation.md#principled-implementation Assemble a deterministic world-metre set from static geometry and painted canvas surfaces. Group the fixed shapes by material and leave witness heads separate for rotation.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The set builds fixed landmarks and records head attachments. The ensemble owner reads the starts and drives the faces.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Bench, circle and doorway positions are authored staging landmarks, and palette and surface noise are visible art controls.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Mesh and texture construction is bounded by the fixed yard design and pixel loops. Batching scans the fixed shapes and merges each material group.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Reuse the wall material for repeated bays and palette materials for equal pairs. Each scene has its own groups and witnesses.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The passed scene owns the added graph. Batching releases temporary packed geometries. The owning scene disposes geometry and materials.
+ * @evidence contracts/development/common.md#meaningful-documentation The comment states the browser requirement, world units, yaw units, ordered result and scene attachment effect.
+ * @evidence contracts/development/composition.md#screenplay-realization The set establishes the morning yard, bench, circle and door and keeps them present from opening to exit.
+ * @evidence contracts/development/composition.md#composition-only This set construction creates the landmark positions and movable observer heads. The scene calls it at setup and applies timed beats elsewhere.
+ * @evidence contracts/development/composition.md#living-scene The shared fixed view and continuous witness roots preserve spatial relations across changes in camera angle.
+ */
 export function courtyard(scene: THREE.Scene): { head: THREE.Group; start: THREE.Vector3; yaw: number }[] {
   const fixed = new THREE.Group();
   scene.add(fixed);
@@ -323,6 +271,21 @@ export function courtyard(scene: THREE.Scene): { head: THREE.Group; start: THREE
   return witnesses;
 }
 
+/**
+ * Construct the split or fine saddle as a local-metre scene group.
+ * The split option adds the visible opening used by both finger effects.
+ *
+ * @evidence contracts/development/implementation.md#principled-implementation Build one padded silhouette with a shaped front surface and using the same assembly for both variants. The split variant cuts the opening and adds its modeled edge.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The mesh factory owns both wardrobe accents for the seat. The scene places the group and assigns carry and finger effects.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Leather palette, padding and tear outline are stylized choices made for the written contrast and confirmed in the accepted picture.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Work is bounded by the fixed outline, curve tessellation and predetermined parts.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Both variants share the same geometry recipe and palette cache. Each instance has independent shapes for its own parent and transform.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The returned group and its meshes belong to the caller until attached to a scene.
+ * @evidence contracts/development/common.md#meaningful-documentation The comment states the option, local units, returned group and tear role.
+ * @evidence contracts/development/composition.md#screenplay-realization The two distinguishable seats are the wager, its payment and the closing callback.
+ * @evidence contracts/development/composition.md#composition-only The constructor makes both visual variants without setting their timeline or holders.
+ * @evidence contracts/development/composition.md#living-scene Separate groups preserve their silhouettes and original tear identity as the seats move.
+ */
 export function saddle(torn: boolean) {
   const g = new THREE.Group();
   g.name = torn ? "Martin's split saddle" : "Carlo's fine saddle";
@@ -445,6 +408,21 @@ export function saddle(torn: boolean) {
   );
   return g;
 }
+/**
+ * Construct the deliberately simplified screen prop for the yard's stage action.
+ * Return an unattached group in the local scene frame.
+ *
+ * @evidence contracts/development/implementation.md#principled-implementation Combine visual primitives around the grip origin so the authored placement callback can move the group as one.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The constructor supplies appearance only. The stage-prop capability owns the authored placement and set-down cues.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The muted shape is a visible stylized prop and the fixed appearance is shared by both copies.
+ * @evidence contracts/development/implementation.md#efficient-algorithms A fixed number of simple meshes makes one small scene group.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Reuse equal palette materials and the same fixed recipe. Each separately held prop gets its own group.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The caller owns the unattached result and its subsequent scene lifecycle.
+ * @evidence contracts/development/common.md#meaningful-documentation The comment states the local frame, visual purpose and ownership of the group.
+ * @evidence contracts/development/composition.md#screenplay-realization The same two screen props remain with their holders and then move to the bench.
+ * @evidence contracts/development/composition.md#composition-only The factory owns only the screen shape. The scene and its prop layer own time and placement.
+ * @evidence contracts/development/composition.md#living-scene Each group retains identity while its associated actor and later bench hold change.
+ */
 export function stageSword() {
   const g = new THREE.Group();
   rod(g, 0x737a74, [0, 0, 0], [0, 0.65, 0], 0.018);

@@ -3,7 +3,21 @@ import * as THREE from "three";
 import { mountLeg } from "./mountLeg";
 import { cord, joint, oval, skin, surface } from "./surfaces";
 
-/** The three horses face +X from a grounded root. Their muzzles and bits travel with their heads. */
+/**
+ * Builds one of the three horses facing +X from a grounded root. The muzzle
+ * and bit move with the head, and a saddle mark gives the scene its seat height.
+ *
+ * @evidence contracts/development/entities.md#settings-realization docs/body/brief/cast/chestnut-mare.md#appearance supplies copper coat and mane, brown tack and the left hind sock. docs/body/brief/cast/chestnut-foal.md#appearance supplies the small untacked body, lighter legs, upright mane and white star. docs/body/brief/cast/luc-grey.md#appearance supplies a larger dapple-grey body, dark extremities and dark tack. Adult stand lengths come from the installed horse rig. The scene places the grey behind the chestnut, lets its rein slacken and stages the reunion.
+ * @evidence contracts/development/entities.md#object-shape Returns a scene-owned mutable draw rig, with muzzle and bit world points and a saddle height for alignment. Local pose and rein controls act on the rig. The scene owns timing and placement.
+ * @evidence contracts/development/entities.md#controls-and-source A single kind parameter selects the authored coarse forms, and time, gait, head lowering and world hand goals drive their controls. The installed horse bind supplies the chain lengths used in the visible meshes; HorseGait rows and phase data reach their local pose evaluation. Shape and tack are repository-authored Three.js geometry. No separate detailed mesh or downloaded reference asset is loaded.
+ * @evidence contracts/development/common.md#meaningful-documentation Identifies the variant set, root frame and animated attachments passed to the scene.
+ * @evidence contracts/development/implementation.md#principled-implementation Sectioned shells follow authored silhouettes in metres. Limb geometry uses standing bind distances and current gait phases; reins are interpolated curves between head and optional rider goals. The local gait poses do not guarantee world-space hoof locking.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure This factory owns morphology, marks, head and tack. Shared surfaces build the mesh pieces and mountLeg owns each limb's gait articulation.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts Coat, size, marking and tack branches distinguish the three cast records. Gait phase is evaluated from time and its installed data, while head and rein movement are authored stage controls.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Builds fixed topology per horse. Each pose updates four articulated chains and fixed-length rein samples; cost is independent of elapsed playback time.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work The same bind and gait data drive corresponding chains. Each horse keeps its own mesh graph and pose scratch state so actors cannot share mutable transforms.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The returned graph and its closures own a fixed number of limbs, shapes and rein buffers per horse. The owning road scene releases attached geometries; cast materials have no explicit disposal in this factory.
+ */
 export function createMount(kind: "mare"|"grey"|"foal") {
   const foal = kind === "foal", grey = kind === "grey";
   const coat = grey ? 0x9e9b91 : foal ? 0xbc7848 : 0x985030;

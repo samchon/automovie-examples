@@ -1,4 +1,4 @@
-import type { ActorPose, CastActor } from "../../shared/castActor";
+import type { ActorPose, CastActor } from "../../../shared/castActor";
 import { yardCurve, type XYZ } from "./yardCurve";
 
 const { val, vector } = yardCurve;
@@ -72,7 +72,22 @@ const boyPath: readonly (readonly [number, XYZ])[] = [
   [60, [-2.68, 0.12, 0.65]],
 ];
 
-/** Set actor roots and inherited posture for the yard’s four screenplay beats. */
+/**
+ * Place Martin, Carlo and the lad on their authored paths at a film second.
+ * The root positions are in stage metres and the heading is in radians.
+ * Return the base pose and Martin's crouch amount for the later native and prop layers.
+ *
+ * @evidence contracts/development/implementation.md#principled-implementation Each actor reads a time-keyed XZ path and heading, then receives time-keyed posture, walking phase and head direction before the native action overrides.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The path helper positions three root groups and returns base controls. Native motion, props and camera update in the caller.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The path and posture keys are authored shot blocking carried from the yard staging. They describe stylized motion where the native action spans do not supply those controls.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Each call evaluates a fixed cast and finite key arrays. Cost is proportional to the number of keys scanned and temporary arrays exist for this sample only.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Reuse the actor groups supplied by the scene. Recompute the roots and controls from the requested second, keeping seeks order-independent.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The caller owns the actors and returned controls. Each call leaves no retained map or handle.
+ * @evidence contracts/development/common.md#meaningful-documentation The comment states seconds, metres, radians, the mutated roots and the base controls returned.
+ * @evidence contracts/development/composition.md#screenplay-realization The bench, arc in the ring, kneel and gate routes follow the four beat landmarks.
+ * @evidence contracts/development/composition.md#composition-only Absolute placement changes belong to these stage curves. The native gait, gaze and contact layers are applied separately by the scene.
+ * @evidence contracts/development/composition.md#living-scene Martin, Carlo and the lad have separate positions and rhythms through the landing, verdict and seated ending.
+ */
 export function yardPerformance(t: number,martin: CastActor,carlo: CastActor,boy: CastActor): { ms: ActorPose; cs: ActorPose; bs: ActorPose; mc: number } {
   place(martin,t,martinPath);
   place(carlo,t,carloPath);

@@ -3,7 +3,7 @@ import { ground, smooth } from "./road";
 
 type Step = readonly [number, number, number, number, number?];
 type Route = readonly Step[];
-// Each mark is time, east, towards camera, facing in radians, and optional knee lowering.
+/** Authored marks in role order. Each mark gives seconds, east and camera-side metres, facing in radians, and optional knee lowering in metres. */
 export const routes = {
   alix:[[0,-3.25,1.02,1.32],[5,-2.05,1.04,1.25],[10,-1.1,1.04,1.39],[13.3,-0.08,1.04,1.38],[14.1,0.02,1.04,1.3,0.17],[15.2,0.3,1.04,1.3],[21,3.05,1.05,1.4],[24,4.65,0.37,2.2],[25.3,4.38,-0.59,-1.4],[27.9,-0.02,-0.57,-1.17],[31,-0.02,-0.46,0.26],[33,-0.02,-0.46,-0.2],[34.5,0.19,-0.49,0.55,0.35],[37.7,0.45,-0.50,0.58,0.52],[39.6,0.44,-0.30,-0.52,0.54],[41.2,0.15,-0.16,-0.75,0.61],[42.7,-0.05,-0.26,-0.75,0.74],[46.4,-0.05,-0.26,-0.75,0.69],[48,-0.03,-0.55,0.24,0.37],[52.5,0.01,-0.63,0.16,0.32],[56.4,0.01,-0.63,0.16,0.32],[57.9,-0.05,-0.55,-1.26],[60,-1.53,-0.55,-1.30]],
   perrin:[[0,-4.28,1.18,1.34],[3.5,-3.18,1.16,1.29],[5.4,-2.39,1.12,1.22],[8,-2.20,1.19,1.28],[10,-1.95,1.17,1.34],[12.7,-1.59,1.18,1.33],[13.4,-1.99,1.25,-0.64,0.14],[14.7,-1.85,1.20,0.1,0.03],[16.3,-1.34,1.17,1.31],[20.8,2.05,1.09,1.38],[22.4,3.63,0.93,1.45],[24.5,4.32,0.48,2.5],[25.6,4.0,-0.4,-1.45],[27.6,0.6,-0.69,-1.3],[28.2,0.52,-0.67,-1.2],[31.8,0.52,-0.67,-1.2],[33.4,-0.62,-0.65,0.38,0.15],[38.6,-0.62,-0.63,0.7,0.16],[40.5,-0.55,-0.56,0.8,0.17],[42.7,-0.49,-0.38,0.82,0.70],[45.6,-0.49,-0.38,0.82,0.68],[48.2,-0.78,-0.55,0.05,0.33],[54,-0.78,-0.55,0.05,0.32],[56.5,-0.89,-0.58,0.0,0.27],[57.9,-1.1,-0.64,-1.27],[60,-2.57,-0.64,-1.3]],
@@ -14,8 +14,33 @@ export const routes = {
   companion:[[0,0.41,-1.57,-0.18],[31,0.41,-1.57,-0.18],[43,0.49,-1.34,-0.25,0.52],[47,0.48,-1.19,-0.29,0.57],[56.4,0.48,-1.19,-0.29,0.55],[58,0.03,-1.31,-1.25],[60,-1.47,-1.31,-1.3]]
 } as const satisfies Record<string,Route>;
 
+/**
+ * Identify a performer with an authored route in this film.
+ * The route table defines the set and supplies the positions and film-clock marks separately.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation The alias identifies the actual performers that have authored blocking. The route table owns their marks and units.
+ * @evidence contracts/development/design.md#principled-representation The keys form a closed union of seven performer identifiers. The alias excludes an arbitrary string in typed callers. The route table owns coordinates, time in seconds, and ordering, and no runtime identifier validation runs here.
+ * @evidence contracts/development/design.md#minimal-and-owned-surface The blocking module owns the keys. Scene posing and the native performance adapter use the same identifiers to index their role-specific data.
+ * @evidence contracts/development/design.md#prohibited-design-shortcuts These role keys describe this screenplay's cast. Native performer strings and meshes have separate owners, and the route keys do not duplicate their representations.
+ */
 export type Role=keyof typeof routes;
 
+/**
+ * Sample one performer's route at a time in authored film seconds.
+ * Return a world position in metres, facing in radians, knee lowering in metres
+ * and a normalized stride intensity. Positions follow the sampled road height.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation The comment gives the film timebase, world position, facing, knee lowering, and stride units.
+ * @evidence contracts/development/implementation.md#principled-implementation Interpolate the surrounding authored marks with consistent easing, take the short angular turn, and sample the height field at the interpolated route coordinates. The director's timing windows preserve the separation of staged actors.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure Route data sets the underlying travel. Local offsets express the reach, retreat, slip, and final grouping, while frameCamera owns shot selection.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The route marks and role-specific offsets are theatrical staging fitted to the reviewed film. Stride intensity follows nominal route speed and does not model foot traction or momentum during those offsets.
+ * @evidence contracts/development/implementation.md#efficient-algorithms The scan is linear in the number of route marks for one role and uses constant auxiliary storage. Track sizes are fixed for the short, and the camera can query out of order.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work All calls share the authored route marks and ground rule. The returned vector is new, so callers can transform it without mutating subsequent samples.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The sampler retains only the module's authored marks. It opens no resources and each position belongs to its caller.
+ * @evidence contracts/development/composition.md#screenplay-realization Supplies the film's route and support marks for the lower approach, split-rock pause, ascent, rescue and departing quartets.
+ * @evidence contracts/development/composition.md#composition-only The authored role tracks and absolute windows live here as scene-local staging data. They are combined with the shared height field and handed to the scene pose evaluation.
+ * @evidence contracts/development/composition.md#living-scene Each cast member keeps a route and a facing through the handoffs, the hold at the stump, the pursuit and the last climb. Secondary motion adjusts their placements during the corresponding moves.
+ */
 export function blocking(role:Role,t:number) {
   const keys:Route=routes[role];
   const downhill=role==="caller" || role==="red" || role==="youngest";
@@ -67,8 +92,24 @@ export function blocking(role:Role,t:number) {
   return {position:new THREE.Vector3(x,ground(x,z),z),yaw,crouch:THREE.MathUtils.lerp(a[4]??0,b[4]??0,u),stride:Math.min(1,speed*1.5)};
 }
 
-/** Camera intervals follow the director's frame plan. Positions are relative to the target. */
+/** Shot start times in film seconds, in editorial order. */
 export const cuts = [0,10,21,22.6,24.5,28,31,32,34.2,37.8,38,44.5,48,50.5,52.5,56.5] as const;
+/**
+ * Set the supplied perspective camera for the shot at the given film second.
+ * Targets and relative offsets use metres in stage world coordinates. Field of view
+ * is in degrees. Projection and world matrices are updated for the next draw.
+ *
+ * @evidence contracts/development/common.md#meaningful-documentation The comment defines the caller-owned camera, film time, stage coordinates and projection updates.
+ * @evidence contracts/development/implementation.md#principled-implementation The first matching range selects one of the authored shots. Authored world targets follow performers only in the specified tracking shots, and camera orientation follows Three.js lookAt.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure Shot selection and matrix updates belong here. Blocking supplies performer positions instead of duplicating route interpolation.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The cut times, offsets and lens values come from the director's framing of this scene. They are artistic settings for the inspected geography, with no claim of physical camera calibration.
+ * @evidence contracts/development/implementation.md#efficient-algorithms There are three bounded route samples, a fixed number of time comparisons, and constant-size vectors per call. World and projection updates apply to one camera.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Actor paths share the blocking calculation with scene posing. Camera transforms are recomputed for the supplied time so direct seeks have no dependence on earlier frames.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources The caller retains the mutated camera. Temporary vectors and snapshots are local to the call and no new renderer resources are acquired.
+ * @evidence contracts/development/composition.md#screenplay-realization Frames both roads and their cap and stump, inserts the shoe and the reach, keeps the upper rescue together, then shows the lower lift, bread count and departing four.
+ * @evidence contracts/development/composition.md#composition-only The shot bands and lens settings are authored here. Three.js evaluates the camera transforms and the blocking sampler provides the few tracking targets.
+ * @evidence contracts/development/composition.md#living-scene The opening and cross-bank holds preserve two levels of action. The upper hold gives the slip and retreat one continuous view, and the final camera follows the uphill group.
+ */
 export function frameCamera(camera:THREE.PerspectiveCamera,t:number):void {
   const a=blocking("alix",t).position,p=blocking("perrin",t).position,y=blocking("youngest",t).position;
   const target=new THREE.Vector3(), offset=new THREE.Vector3();

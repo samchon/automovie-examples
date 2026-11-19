@@ -1,8 +1,9 @@
 import * as THREE from "three";
 
-import type { IFilmProduction } from "../../../IFilmProduction";
-import { castActor, type CastActor } from "../../shared/castActor";
-import { courtyard, oval, rod, saddle } from "./yard";
+import type { IFilmProduction } from "../../../../IFilmProduction";
+import { castActor, type CastActor } from "../../../shared/castActor";
+import { courtyard, saddle } from "./yard";
+import { oval, rod } from "./yardPrimitives";
 import { yardCamera } from "./yardCamera";
 import { yardCurve } from "./yardCurve";
 import { yardNative } from "./yardNative";
@@ -82,7 +83,27 @@ function armour(actor: CastActor, bright: boolean) {
     0.28,
   );
 }
-/** Realize the screenplay’s bench wager, boundary decision and saddle exchange. */
+/**
+ * Realize the household-yard screenplay with one scene group and a writable camera.
+ * Seek in film seconds to place the cast, seats, marks and camera in that instant.
+ * The film player provides the clock and takes ownership of the returned scene.
+ *
+ * @evidence contracts/development/implementation.md#principled-implementation Each seek derives stage placement from film time. SDK poses drive the admitted motion spans, stage anchors give visible contact targets and the camera follows the authored cut times.
+ * @evidence contracts/development/implementation.md#clear-and-simple-structure The scene owns the dramatic order and stage marks. Wardrobe, prop geometry, witness motion and camera interpolation use their own helpers.
+ * @evidence contracts/development/implementation.md#prohibited-implementation-shortcuts The foot print, saddle support and finger reveal are authored contact marks and overlays. They give a stylized effect and do not assert an installed multi-person contact solution.
+ * @evidence contracts/development/implementation.md#efficient-algorithms Setup constructs the courtyard and native tracks once. A seek touches three principal actors, the fixed witness cast, two saddles, two screen props and their transforms. Disposal visits the owned scene once.
+ * @evidence contracts/development/implementation.md#reuse-equivalent-work Each film instance keeps its geometry, pose samplers and contact marks. Intro and final gestures share the same torn seat. Each seek updates those instances from the current time.
+ * @evidence contracts/development/implementation.md#bound-retention-and-release-resources Dispose traverses the scene, disposes each distinct geometry and material and clears the scene. Canvas texture allocation is fixed per scene and the texture objects follow the scene references. This disposer has no explicit texture cleanup.
+ * @evidence contracts/development/common.md#meaningful-documentation The comment states the film time, mutable scene and camera, visible elements and caller ownership.
+ * @evidence contracts/development/composition.md#screenplay-realization The script's order is bench terms, two reports in the circle, visible outside boot and saddle exchange, then the door and seated reaction. The witness and boot inserts, delayed palm and return to the shared closing view are recorded in the acceptance.
+ * @evidence contracts/development/composition.md#composition-only The scene joins wardrobe, stock motion, stage geometry and authored prop pins on the four-beat clock. Locally authored contact coordinates and root curves supplement native action spans. Sound is assembled from the same cue times outside the scene.
+ * @evidence contracts/development/composition.md#living-scene The lad follows the terms and rises at the verdict. Both knights move from the bench to the circle and back. Carlo exits and Martin stays seated. The household ensemble aims toward the ring, score and bench.
+ * @evidence docs/body/screenplay/the-better-seat/010-household-yard.md#yard The cast, saddle bench, score and household stand in the morning courtyard.
+ * @evidence docs/body/screenplay/the-better-seat/010-household-yard.md#terms Both seats share the opening view and the lad's thumb shows the split.
+ * @evidence docs/body/screenplay/the-better-seat/010-household-yard.md#noise The pair crosses the ring, Martin kneels inside and the extra boot plants outside.
+ * @evidence docs/body/screenplay/the-better-seat/010-household-yard.md#word The lad, print and admission take the focus before the saddle handover.
+ * @evidence docs/body/screenplay/the-better-seat/010-household-yard.md#fits The doorway gesture recalls the split as Martin takes the bench.
+ */
 export function householdYard(): IFilmProduction {
   const scene = new THREE.Scene();
   scene.background = new THREE.Color(0xd1d8ca);
